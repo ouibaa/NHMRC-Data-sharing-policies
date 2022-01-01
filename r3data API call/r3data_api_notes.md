@@ -41,6 +41,23 @@ Link:
 2. XML handler
     - accesses XML files (either from API or directly from tree)
     - extracts relevant content
+        - repo name
+        - repo URL
+        - repo contact
+        - repo certificate/standards
+        - repo size
+        - repo language
+        - repo data/service provider status
+        - institution name
+        - country
+        - type of responsibility
+        - type of institution
+        - repo policIES
+        - database accessES
+        - database licenCES
+        - data licenCES
+        - data upLOADS
+        - metadata standARDS
     - Accepted arguments:
         1. onlineMode:bool
         2. idList:[string]

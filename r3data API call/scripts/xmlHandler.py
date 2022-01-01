@@ -36,6 +36,78 @@ def extractRepoListByTag(idlist, xmlLoc, saveLoc, tag):
         pickle.dump(idlistbytag, f)
     return idlistbytag
     
+def find(element, item):
+    try:
+        item = "re3:" + item
+        res = element.find(item, NS)
+        return res.text
+    except:
+        return(" ")
+
+
+def extractRepoData(repolist, xmlLoc, saveLoc):
+    for id in repolist:
+        idloc = xmlLoc + "/" + id + ".xml"
+        tree = ET.parse(idloc)
+        root = tree.getroot()
+        repo = tree.find('re3:repository', NS)
+        repositoryIdentifier = id
+        # Repo name
+        repositoryName = find(repo, "repositoryName")
+        # Repo URL
+        repositoryName = find(repo, "repositoryURL")
+        # Repo contact
+        repositoryContacts = ""
+        repositoryContact = repo.findall("re3:repositoryContact", NS)
+        for contact in repositoryContact:
+            repositoryContacts += contact.text + " "
+        # Repo size
+        repositorySize = find(repo, "size")
+        # Repo language
+        repositoryLanguage = find(repo, "repositoryLanguage")
+        # Repo data/service provider status
+        repositoryProviderType = find(repo, "providerType")
+
+        for institution in repo.findall('re3:institution', NS):
+            # Institution name
+            institutionName = find(institution, "institutionName")
+            # Country
+            institutionCountry = find(institution, "institutionCountry")
+            # Responsibility type
+            responsibilityType = find(institution, "responsibilityType")
+            # Institution type
+            institutionType = find(institution, "institutionType")
+            # Institution URL
+            institutionURL = find(institution, "institutionURL")
+        policies = ""
+        for policy in repo.findall("re3:policy", NS):
+            # Repo policy name
+            policyName = find(policy, "policyName")
+            # Repo policy URL
+            policyURL = find(policy, "policyURL")
+            # join and append to policies list
+            pol = policyName + "(" + policyURL + ")"
+            policies += pol + " "
+        for databaseAccess in repo.findall("re3:databaseAccess", NS):
+            # Database access type
+            dbAccess = find(databaseAccess, "databaseAccessType")
+        for databaseLicense in repo.findall("re3:databaseLicense", NS):
+            # Database license name
+            dbLicenseName = find(databaseLicense, "databaseLicenseName")
+            # Database license URL
+            dbLicenseURL = find(databaseLicense, "databaseLicenseURL")
+        for dataAccess in tree.findall("re3:dataAccess", NS):
+            # Data access type
+            # Data access retriction
+        # for dataLicense in tree.findall("re3:dataLicense", NS):
+        #     # Data license name
+        #     # data license url
+        # for dataUpload in tree.findall("re3:dataUpload", NS):
+        #     # data upload type
+        #     # data upload restriction
+        # for metadataStandard in tree.findall("re3:metadataStandard", NS):
+        #     # metadata Standard Name
+        #     # metadata Standard URL
 
 
 

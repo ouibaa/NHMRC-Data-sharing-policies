@@ -10,6 +10,5 @@ repolist = xmlHandler.extractRepoListByTag(idlist = idlist, xmlLoc = "./data/rep
 # with open("data/xmllistby205 Medicine.pkl", "rb") as f:
 #     repolist = pickle.load(f) 
 
- xmlHander.extractRepoData(repolist, xmlLoc = "./data/repos/xml", saveLoc="./data/extracted.csv")
+xmlHandler.extractRepoData(repolist, xmlLoc = "./data/repos/xml", saveLoc="./data/extracted.csv")
 
- 
