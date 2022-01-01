@@ -1,5 +1,5 @@
 import xmlschema
-import pandas
+import pandas as pd
 import requests
 from pprint import pprint
 from xml.etree import ElementTree as ET
@@ -46,6 +46,7 @@ def find(element, item):
 
 
 def extractRepoData(repolist, xmlLoc, saveLoc):
+    repos = pd.DataFrame()
     for id in repolist:
         idloc = xmlLoc + "/" + id + ".xml"
         tree = ET.parse(idloc)
@@ -55,11 +56,10 @@ def extractRepoData(repolist, xmlLoc, saveLoc):
         # Repo name
         repositoryName = find(repo, "repositoryName")
         # Repo URL
-        repositoryName = find(repo, "repositoryURL")
+        repositoryURL = find(repo, "repositoryURL")
         # Repo contact
         repositoryContacts = ""
-        repositoryContact = repo.findall("re3:repositoryContact", NS)
-        for contact in repositoryContact:
+        for contact in repo.findall("re3:repositoryContact", NS):
             repositoryContacts += contact.text + " "
         # Repo size
         repositorySize = find(repo, "size")
@@ -68,17 +68,32 @@ def extractRepoData(repolist, xmlLoc, saveLoc):
         # Repo data/service provider status
         repositoryProviderType = find(repo, "providerType")
 
+        repoDict = {
+            "ID": repositoryIdentifier,
+            "Repository_Name": repositoryName,
+            "Repository_URL": repositoryURL,
+            "Repository_Contacts": repositoryContacts,
+            "Repository_Size": repositorySize,
+            "Repository_Language": repositoryLanguage,
+            "Repository_Provider_Type": repositoryProviderType
+        }
+
         for institution in repo.findall('re3:institution', NS):
             # Institution name
             institutionName = find(institution, "institutionName")
+            repoDict["Institution_Name"] = institutionName
             # Country
             institutionCountry = find(institution, "institutionCountry")
+            repoDict["Institution_Country"] = institutionCountry
             # Responsibility type
             responsibilityType = find(institution, "responsibilityType")
+            repoDict["Institution_Responsibility_Type"] = responsibilityType
             # Institution type
             institutionType = find(institution, "institutionType")
+            repoDict["Institution_Type"] = institutionType
             # Institution URL
             institutionURL = find(institution, "institutionURL")
+            repoDict["Institution_URL"] = institutionURL
         policies = ""
         for policy in repo.findall("re3:policy", NS):
             # Repo policy name
@@ -88,56 +103,58 @@ def extractRepoData(repolist, xmlLoc, saveLoc):
             # join and append to policies list
             pol = policyName + "(" + policyURL + ")"
             policies += pol + " "
+        repoDict["Policies"] = policies
+        dbAccesses = ""
         for databaseAccess in repo.findall("re3:databaseAccess", NS):
             # Database access type
             dbAccess = find(databaseAccess, "databaseAccessType")
+            dbAccesses += dbAccess + " "
+        repoDict["Database_Accesses"] = dbAccesses
+        dbLicenses = ""
         for databaseLicense in repo.findall("re3:databaseLicense", NS):
             # Database license name
             dbLicenseName = find(databaseLicense, "databaseLicenseName")
             # Database license URL
             dbLicenseURL = find(databaseLicense, "databaseLicenseURL")
-        for dataAccess in tree.findall("re3:dataAccess", NS):
+            #join and append
+            dbLic = dbLicenseName + " (" + dbLicenseURL + ")"
+            dbLicenses += dbLic + " "
+        repoDict["Database_Licenses"] = dbLicenses
+        dataAccesses = ""
+        for dataAccess in repo.findall("re3:dataAccess", NS):
             # Data access type
+            dataAccessType = find(dataAccess, "dataAccessType")
             # Data access retriction
-        # for dataLicense in tree.findall("re3:dataLicense", NS):
-        #     # Data license name
-        #     # data license url
-        # for dataUpload in tree.findall("re3:dataUpload", NS):
+            restrictions = ""
+            for dataAccessRestriction in dataAccess.findall("dataAccessRestriction", NS):
+                text = ""
+                try:
+                    text = dataAccessRestriction.text
+                except:
+                    text = ""
+                restrictions += dataAccessRestriction.text + "/"
+            #Join
+            dataAccessInfo = dataAccessType + " " + restrictions
+            dataAccesses += dataAccessInfo + " "
+        repoDict["Data_Accesses"] = dataAccesses
+        dataLicenses = ""
+        for dataLicense in repo.findall("re3:dataLicense", NS):
+            # Data license name and URL
+            dLN = find(dataLicense, "dataLicenseName")
+            dLURL = find(dataLicense, "dataLicenseURL")
+            # join and concat
+            dL = dLN + " (" + dLURL + ")"
+            dataLicenses += dL + " "
+        repoDict["Data_Licenses"] = dataLicenses
+        # for dataUpload in repo.findall("re3:dataUpload", NS):
         #     # data upload type
         #     # data upload restriction
-        # for metadataStandard in tree.findall("re3:metadataStandard", NS):
+        # for metadataStandard in repo.findall("re3:metadataStandard", NS):
         #     # metadata Standard Name
         #     # metadata Standard URL
-
-
-
-
-# my_schema = xmlschema.XMLSchema('API Schema/re3dataV2-2.xsd')
-# url = "https://www.re3data.org/api/v1/repository/r3d100000004"
-# response = requests.get(url)
-# # print(response.text)
-
-# ns = {'re3': 'http://www.re3data.org/schema/2-2'}
-# tree = ET.fromstring(response.text)
-
-# with open("APICall.xml", "wb") as f:
-#     f.write(ET.tostring(tree))
-
-# for repo in tree.findall('re3:repository', ns):
-#     identifier = repo.find('re3:re3data.orgIdentifier', ns)
-#     print(identifier.text)
-
-# xs = xmlschema.XMLSchema('tests/test_cases/examples/vehicles/vehicles.xsd')
-# xt = ElementTree.parse('tests/test_cases/examples/vehicles/vehicles.xml')
-# root = xt.getroot()
-# pprint(xs.elements['cars'].decode(root[0]))
-# {'{http://example.com/vehicles}car': [{'@make': 'Porsche', '@model': '911'},
-#                                       {'@make': 'Porsche', '@model': '911'}]}
-# pprint(xs.elements['cars'].decode(xt.getroot()[1], validation='skip'))
-# None
-# pprint(xs.elements['bikes'].decode(root[1], namespaces={'vh': 'http://example.com/vehicles'}))
-# {'@xmlns:vh': 'http://example.com/vehicles',
-#  'vh:bike': [{'@make': 'Harley-Davidson', '@model': 'WL'},
-#              {'@make': 'Yamaha', '@model': 'XS650'}]}
-
+        ### ALL COMPONENTS
+        repos = repos.append(repoDict, ignore_index = True)
+    print(repos)
+    repos.to_csv(saveLoc, index=False)
+    return repos
 
