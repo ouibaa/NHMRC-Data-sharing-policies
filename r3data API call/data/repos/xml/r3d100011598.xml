@@ -1,0 +1,166 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011598</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Canadian Research Data Centre Network</ns0:repositoryName>
+                    <ns0:additionalName language="eng">CRDCN</ns0:additionalName>
+                    <ns0:additionalName language="fra">RCCDR</ns0:additionalName>
+                    <ns0:additionalName language="fra">R&#233;seau canadien des Centres de donn&#233;es de recherche</ns0:additionalName>
+                <ns0:repositoryURL>https://crdcn.ca/publications-data/data/</ns0:repositoryURL>
+                <ns0:description language="eng">Research Data Centres offer a secure access to detailed microdata from Statistics Canada's surveys, and to Canadian censuses' data, as well as to an increasing number of administrative data sets. The search engine was designed to help you find out more easily which dataset among all the surveys available in the RDCs best suits your research needs.</ns0:description>
+                    <ns0:repositoryContact>info@crdcn.ca</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                    <ns0:type>institutional</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2000</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>fra</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">106 Non-European Languages and Cultures, Social and Cultural Anthropology, Jewish Studies and Religious Studies</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">109 Education Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11 Humanities</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">113 Jurisprudence</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">12 Social and Behavioural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">205 Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20502 Public Health, Health Services Research, Social Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                <ns0:missionStatementURL>https://crdcn.ca/about/about-crdcn/</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>census data</ns0:keyword>
+                    <ns0:keyword>cross-sectional surveys</ns0:keyword>
+                    <ns0:keyword>longitudinal surveys</ns0:keyword>
+                    <ns0:keyword>pilot data</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Canada Foundation for Innovation</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">CFI</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="fra">Fondation Canadienne pur l'innovation</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="fra">Fondation Canadienne pur l'innovation</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.innovation.ca/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:000az4664</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.innovation.ca/contact</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Canadian Institutes of Health Research</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="fra">IRSC</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="fra">Instituts de recherche en sant&#233; du Canada</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://cihr-irsc.gc.ca/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:01gavpb45</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://cihr-irsc.gc.ca/e/9833.html</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Government of Canada, Statistics Canada, Research Data Centres Program</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="fra">CDR</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="fra">Gouvernement du Canada, Statistique Canada, Programme des Centres de donn&#233;es de recherche</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">RDC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.statcan.gc.ca/eng/microdata/data-centres</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>infostats@statcan.gc.ca</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">MCMaster University</ns0:institutionName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.mcmaster.ca/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:02fa3aq29</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Social Sciences and Humanities Research Council</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="fra">CRSH</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="fra">Conseil de recherches en sciences humaines du Canada</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">SSHRC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.sshrc-crsh.gc.ca/home-accueil-eng.aspx</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:04j5jqy92</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.sshrc-crsh.gc.ca/contact_us-contactez_nous/index-eng.aspx</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Accessing RDC Data</ns0:policyName>
+                <ns0:policyURL>https://crdcn.ca/publications-data/access-crdcn-data/</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Microdata Access Portal application process</ns0:policyName>
+                <ns0:policyURL>https://www.statcan.gc.ca/eng/microdata/data-centres/access</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Policy on Informing Users of Data Quality and Methodology</ns0:policyName>
+                <ns0:policyURL>https://www.statcan.gc.ca/eng/about/policy/info-user</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>closed</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>institutional membership</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>other</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://laws.justice.gc.ca/eng/acts/C-42/FullText.html</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>institutional membership</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                    <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                    <ns0:aidSystem>none</ns0:aidSystem>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">DDI - Data Documentation Initiative</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/ddi-data-documentation-initiative</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks>Fees can apply to certain research projects conducted in the RDCs. Consult the Access &amp; Fee-For-Service Policy to learn more.
+All partners: https://crdcn.ca/about/partners/</ns0:remarks>
+        <ns0:entryDate>2015-06-22</ns0:entryDate>
+        <ns0:lastUpdate>2021-10-13</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

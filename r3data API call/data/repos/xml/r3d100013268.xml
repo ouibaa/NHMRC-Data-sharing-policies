@@ -1,0 +1,82 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100013268</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">COVID-19 Interactive Map</ns0:repositoryName>
+                    <ns0:additionalName language="eng">Johns Hopkins Coronavirus Resource Center</ns0:additionalName>
+                <ns0:repositoryURL>https://coronavirus.jhu.edu/map.html</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>biodbcore-001426</ns0:repositoryIdentifier>
+                <ns0:description language="eng">Coronavirus COVID-19 Global Cases by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University (JHU). Johns Hopkins experts in global public health, infectious disease, and emergency preparedness have been at the forefront of the international response to COVID-19. This website is a resource to help advance the understanding of the virus, inform the public, and brief policymakers in order to guide a response, improve care, and save lives.  All data collected and displayed are made freely available through a GitHub repository https://github.com/CSSEGISandData/COVID-19, along with the feature layers of the dashboard, which are now included in the ESRI Living Atlas: https://livingatlas.arcgis.com/en/</ns0:description>
+                    <ns0:repositoryContact>COVID19map@jhu.edu</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2020-01-22</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">204 Microbiology, Virology and Immunology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20404 Virology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">205 Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20501 Epidemiology, Medical Biometry, Medical Informatics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                <ns0:missionStatementURL>https://coronavirus.jhu.edu/map-faq.html</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                            <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>COVID-19</ns0:keyword>
+                    <ns0:keyword>live map</ns0:keyword>
+                    <ns0:keyword>pandemic</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Johns Hopkins University</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">JHU</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.jhu.edu/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:00za53h95</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Johns Hopkins University, Center for Systems Science and Engineering</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">CSSE</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://systems.jhu.edu/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Map FAQ</ns0:policyName>
+                <ns0:policyURL>https://coronavirus.jhu.edu/map-faq</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://coronavirus.jhu.edu/map-faq.html</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>other</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                    <ns0:api apiType="REST">https://developer.github.com/v3/</ns0:api>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://coronavirus.jhu.edu/map-faq.html</ns0:citationGuidelineURL>
+                    <ns0:aidSystem>none</ns0:aidSystem>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks />
+        <ns0:entryDate>2020-03-12</ns0:entryDate>
+        <ns0:lastUpdate>2020-04-24</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

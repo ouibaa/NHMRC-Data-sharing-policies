@@ -1,0 +1,91 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012173</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">FlyCircuit</ns0:repositoryName>
+                    <ns0:additionalName language="eng">A Database of Drosophila Brain Neurons</ns0:additionalName>
+                <ns0:repositoryURL>http://www.flycircuit.tw/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>RRID:SCR_006375</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:nif-0000-07738</ns0:repositoryIdentifier>
+                <ns0:description language="eng">FlyCircuit is a public database for online archiving, cell type inventory, browsing, searching, analysis and 3D visualization of individual neurons in the Drosophila brain. The FlyCircuit Database currently contains about 30,000 high resolution 3D brain neural images of the drosophila fruit fly brain that are combined into a neural circuitry network that researchers can use as a blueprint to further explore how the brain of a fruit fly processes external sensory signals (i.e. how vision, hearing, and smell are transmitted to the central nerve system).</ns0:description>
+                    <ns0:repositoryContact>http://www.flycircuit.tw/modules.php?name=Feedback&amp;parent=help</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2016-09-28">about 30.000 images</ns0:size>
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">201 Basic Biological and Medical Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">206 Neurosciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20601 Molecular Neuroscience and Neurogenetics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                <ns0:missionStatementURL>http://www.nchc.org.tw/en/inner.php?CONTENT_ID=524</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Audiovisual data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>animal behavior</ns0:keyword>
+                    <ns0:keyword>circuits</ns0:keyword>
+                    <ns0:keyword>genes</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Brain Research Center</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">BRC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>TWN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://brc.life.nthu.edu.tw/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://brc.life.nthu.edu.tw/contactus.html</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Center for High-performance Computing</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NARLabs</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">NCHC</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">National Applied Research Laboratories</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>TWN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.nchc.org.tw/en/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.nchc.org.tw/en/inner.php?CONTENT_ID=576</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Big Data</ns0:policyName>
+                <ns0:policyURL>http://www.nchc.org.tw/en/inner.php?CONTENT_ID=704</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www.flycircuit.tw/modules.php?name=introduction&amp;parent=introduction&amp;op=introduction</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                    <ns0:aidSystem>none</ns0:aidSystem>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                <ns0:remarks>FlyCircuits is hosted on github, https://gist.github.com/jefferis/bbaf5d53353b3944c090</ns0:remarks>
+        <ns0:entryDate>2016-09-28</ns0:entryDate>
+        <ns0:lastUpdate>2017-04-20</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

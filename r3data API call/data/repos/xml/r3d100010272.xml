@@ -1,0 +1,187 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010272</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Environmental Data Initiative Repository</ns0:repositoryName>
+                    <ns0:additionalName language="eng">EDI Data Portal</ns0:additionalName>
+                    <ns0:additionalName language="eng">formerly: The Long Term Ecological Research Repository</ns0:additionalName>
+                <ns0:repositoryURL>https://portal.edirepository.org/nis/home.jsp</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.xd3wmy</ns0:repositoryIdentifier>
+                <ns0:description language="eng">The Environmental Data Initiative Repository  concentrates on studies of ecological processes that play out at time scales spanning decades to centuries including those of  the NSF Long Term Ecological Research (LTER) program, the NSF Macrosystems Biology Program, the NSF Long Term Research in Environmental Biology (LTREB) program, the Organization of Biological Field Stations, and others. The repository hosts data that provide a context to evaluate the nature and pace of ecological change, to interpret its effects, and to forecast the range of future biological responses to change.</ns0:description>
+                    <ns0:repositoryContact>https://portal.edirepository.org/nis/contact.jsp</ns0:repositoryContact>
+                    <ns0:repositoryContact>support@environmentaldatainitiative.org</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>1980</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">202 Plant Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20202 Plant Ecology and Ecosystem Analysis</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">203 Zoology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20303 Animal Ecology, Biodiversity and Ecosystem Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">204 Microbiology, Virology and Immunology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20402 Microbial Ecology and Applied Microbiology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">207 Agriculture, Forestry, Horticulture and Veterinary Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20701 Soil Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20704 Ecology of Agricultural Landscapes</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20710 Basic Forest Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">23 Agriculture, Forestry, Horticulture and Veterinary Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">302 Chemical Solid State and Surface Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">30203 Theory and Modelling</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31 Chemistry</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31301 Atmospheric Science</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">318 Water Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL>https://portal.edirepository.org/nis/about.jsp</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Archived data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Source code</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>FAIR</ns0:keyword>
+                    <ns0:keyword>arctic warming</ns0:keyword>
+                    <ns0:keyword>climatic change</ns0:keyword>
+                    <ns0:keyword>earth observation</ns0:keyword>
+                    <ns0:keyword>ecology</ns0:keyword>
+                    <ns0:keyword>ecosystem</ns0:keyword>
+                    <ns0:keyword>environment</ns0:keyword>
+                    <ns0:keyword>environmental change</ns0:keyword>
+                    <ns0:keyword>environmental monitoring</ns0:keyword>
+                    <ns0:keyword>environmental observation</ns0:keyword>
+                    <ns0:keyword>nature</ns0:keyword>
+                    <ns0:keyword>old-growth forests</ns0:keyword>
+                    <ns0:keyword>remote sensing</ns0:keyword>
+                    <ns0:keyword>satellite data</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">DataONE</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.dataone.org/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.dataone.org/contact</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Environmental Data Inititative</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">EDI</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://environmentaldatainitiative.org/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>info@environmentaldatainitiative.org</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Long Term Ecological Research Committees and Groups</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">LTER</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://lternet.edu/committees</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>1985</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://lternet.edu/contact-us/</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Science Foundation</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NSF</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.nsf.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of New Mexico at Albuquerque, Center for Research in Ecological Science and Technology</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">CREST</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">UNM</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.unm.edu/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>jbrunt@unm.edu</ns0:institutionContact>
+                                    <ns0:institutionContact>mark.servilla@gmail.com</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of Wisconsin - Madison</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.wisc.edu/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>cgries@wisc.edu.</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>EDI Data Policy</ns0:policyName>
+                <ns0:policyURL>https://environmentaldatainitiative.org/data/edi-data-policy/</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/licenses/by/4.0/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>CC0</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/publicdomain/zero/1.0/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>Public Domain Dedication (CC Zero)</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>https://creativecommons.org/publicdomain/zero/1.0/</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                            <ns0:software>
+                <ns0:softwareName>other</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                    <ns0:api apiType="REST">http://pastaplus-core.readthedocs.io/en/latest/doc_tree/pasta_api/data_package_manager_api.html</ns0:api>
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://environmentaldatainitiative.org/resources/how-to/how-to-cite-data/</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">Dublin Core</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                    <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">EML - Ecological Metadata Language</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/eml-ecological-metadata-language</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                    <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">OAI-ORE - Open Archives Initiative Object Reuse and Exchange</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/oai-ore-open-archives-initiative-object-reuse-and-exchange</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                            <ns0:syndication syndicationType="RSS">https://environmentaldatainitiative.org/feed/</ns0:syndication>
+                <ns0:remarks>Environmental Data Initiative Repository (formerly LTER repository) is covered by Clarivate Data Citation Index (formerly Thomson Reuters). Environmental Data Initiative is built on PASTA data repository software .</ns0:remarks>
+        <ns0:entryDate>2013-05-13</ns0:entryDate>
+        <ns0:lastUpdate>2019-07-31</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

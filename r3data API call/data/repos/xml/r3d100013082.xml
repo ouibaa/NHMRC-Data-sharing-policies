@@ -1,0 +1,112 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100013082</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Research Data On Gender Relations In Academia</ns0:repositoryName>
+                    <ns0:additionalName language="eng">CEWS Forschungsdaten</ns0:additionalName>
+                    <ns0:additionalName language="eng">CEWS Research Data</ns0:additionalName>
+                    <ns0:additionalName language="deu">Forschungsdaten Geschlecht und Wissenschaft</ns0:additionalName>
+                <ns0:repositoryURL>https://www.gesis.org/cews/unser-angebot/informationsangebote/forschungsdaten/</ns0:repositoryURL>
+                <ns0:description language="eng">Numerous studies on gender relations and gender equality policy in academia regularly produce research data that could be useful for a secondary analysis and for other research topics. At present, only a small amount of research data that was explicitly collected on gender relations in academia is archived. Long-term surveys such as graduate studies or social surveys on students are also available to be used in gender-specific studies.
+CEWS would like to support researchers in their search for research data and at the same time motivate them to archive data from their own projects and thus make them accessible to other researchers by providing search options at GESIS and other data-providing institutions as well as basic information on data archiving.</ns0:description>
+                    <ns0:repositoryContact>andrea.loether@gesis.org</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>deu</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">109 Education Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">10903 Research on Socialization and Educational Institutions and Professions</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">111 Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11102 Empirical Social Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">12 Social and Behavioural Sciences</ns0:subject>
+                <ns0:missionStatementURL>https://www.gesis.org/en/cews/portfolio/digital-services/research-data</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>discrimination</ns0:keyword>
+                    <ns0:keyword>equality policy in science</ns0:keyword>
+                    <ns0:keyword>gender relations in academia</ns0:keyword>
+                    <ns0:keyword>gender relations in science</ns0:keyword>
+                    <ns0:keyword>gender studies</ns0:keyword>
+                    <ns0:keyword>women in science</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Center of Excellence Women and Science</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">CEWS</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="deu">Kompetenzzentrum Frauen in Wissenschaft und Forschung</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.gesis.org/en/cews/cews-home</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>GND: 10034568-2</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">gesis Leibniz Institute for the Social Sciences</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="deu">GESIS</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="deu">gesis Leibniz-Institut f&#252;r Sozialwissenschaften</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.gesis.org/en/home</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR: 018afyw53</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Benutzungsordnung</ns0:policyName>
+                <ns0:policyURL>https://www.gesis.org/fileadmin/upload/dienstleistung/daten/umfragedaten/_bgordnung_bestellen/2018-05-25_Benutzungsordnung_GESIS_DAS.pdf</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>GESIS Archive Agreement</ns0:policyName>
+                <ns0:policyURL>https://www.gesis.org/fileadmin/upload/institut/wiss_arbeitsbereiche/datenarchiv_analyse/Archivierungsvertrag_GESIS_Datenarchiv_v9__englisch.pdf</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>feeRequired</ns0:dataAccessRestriction>
+                                    <ns0:dataAccessRestriction>other</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.gesis.org/fileadmin/upload/dienstleistung/daten/secure_data_center/GESIS_Datennutzungsvertrag_SDC_On-Site.pdf</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.gesis.org/fileadmin/user_upload/Usage_regulations.pdf</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>GESIS Archive agreement</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>https://www.gesis.org/fileadmin/upload/institut/wiss_arbeitsbereiche/datenarchiv_analyse/Archivierungsvertrag_GESIS_Datenarchiv_v9__englisch.pdf</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                            <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://www.gesis.org/en/services/finding-and-accessing-data/data-archive-service/citation-of-research-data</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">DDI - Data Documentation Initiative</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/ddi-data-documentation-initiative</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks>The Center of Excellence Women and Science (CEWS) is supporting researchers in their search for research data relevant for gender relations in academia. Therefore, CEWS has compiled relevant data sets within the database da|ra.</ns0:remarks>
+        <ns0:entryDate>2019-06-11</ns0:entryDate>
+        <ns0:lastUpdate>2021-11-10</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

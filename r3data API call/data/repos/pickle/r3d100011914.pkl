@@ -1,0 +1,98 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011914</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">IDEAS</ns0:repositoryName>
+                <ns0:repositoryURL>https://ideas.repec.org/</ns0:repositoryURL>
+                <ns0:description language="eng">Welcome to the largest bibliographic database dedicated to Economics and available freely on the Internet.  This site is part of a large volunteer effort to enhance the free dissemination of research in Economics, RePEc, which includes bibliographic metadata from over 1,800 participating archives, including all the major publishers and research outlets. IDEAS is just one of several services that use RePEc data. 
+Authors are invited to register with RePEc to create an online profile. Then, anyone finding some of your research here can find your latest contact details and a listing of your other research. You will also receive a monthly mailing about the popularity of your works, your ranking and newly found citations.
+Besides that IDEAS provides software and public accessible data from Federal Reserve Bank.</ns0:description>
+                    <ns0:repositoryContact>https://ideas.repec.org/email.html</ns0:repositoryContact>
+                    <ns0:repositoryContact>repec@repec.org</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                    <ns0:type>institutional</ns0:type>
+                    <ns0:type>other</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">112 Economics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">12 Social and Behavioural Sciences</ns0:subject>
+                <ns0:missionStatementURL>https://ideas.repec.org/</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Configuration data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Databases</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Software applications</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Source code</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>FRED data</ns0:keyword>
+                    <ns0:keyword>rankings</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Federal Reserve Bank of St. Louis, Economic Research</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">FRED</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://research.stlouisfed.org/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://research.stlouisfed.org/contactus/</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">RePEc</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Research Papers in Economics</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>AAA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://repec.org/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>repec@repec.org</ns0:institutionContact>
+                                    <ns0:institutionContact>zimmermann@stlouisfed.org</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Get RePEc data</ns0:policyName>
+                <ns0:policyURL>https://ideas.repec.org/getdata.html</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Use of RePEc data</ns0:policyName>
+                <ns0:policyURL>http://repec.org/docs/RePEcDataUse.html</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>ODC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://opendatacommons.org/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://research.stlouisfed.org/legal.html</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                <ns0:versioning>yes</ns0:versioning>
+                    <ns0:api apiType="FTP">ftp://ftp.repec.org/opt/amf/RePEc/</ns0:api>
+                    <ns0:api apiType="FTP">ftp://ftp.repec.org/opt/ReDIF/RePEc/</ns0:api>
+                    <ns0:api apiType="OAI-PMH">http://oai.repec.org/</ns0:api>
+                    <ns0:api apiType="other">https://ideas.repec.org/api.html</ns0:api>
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://ideas.repec.org/</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks />
+        <ns0:entryDate>2016-01-22</ns0:entryDate>
+        <ns0:lastUpdate>2019-01-10</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

@@ -1,0 +1,128 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010221</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">EMBL-EBI</ns0:repositoryName>
+                    <ns0:additionalName language="eng">EBI</ns0:additionalName>
+                    <ns0:additionalName language="eng">European Molecular Biology Laboratory - European Bioinformatics Institute</ns0:additionalName>
+                <ns0:repositoryURL>https://www.ebi.ac.uk/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>RRID:SCR_004727</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:nlx_72386</ns0:repositoryIdentifier>
+                <ns0:description language="eng">The European Bioinformatics Institute (EBI) has a long-standing mission to collect, organise and make available databases for biomolecular science. It makes available a collection of databases along with tools to search, download and analyse their content. These databases include DNA and protein sequences and structures, genome annotation, gene expression information, molecular interactions and pathways. Connected to these are linking and descriptive data resources such as protein motifs, ontologies and many others. In many of these efforts, the EBI is a European node in global data-sharing agreements involving, for example, the USA and Japan.</ns0:description>
+                    <ns0:repositoryContact>https://www.ebi.ac.uk/about/travel</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                    <ns0:type>institutional</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>1994</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">201 Basic Biological and Medical Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20107 Bioinformatics and Theoretical Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                <ns0:missionStatementURL>https://www.ebi.ac.uk/about</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Databases</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>DNA</ns0:keyword>
+                    <ns0:keyword>RNA</ns0:keyword>
+                    <ns0:keyword>bioinformatics</ns0:keyword>
+                    <ns0:keyword>chemical biology</ns0:keyword>
+                    <ns0:keyword>gene expression</ns0:keyword>
+                    <ns0:keyword>genome-sequencing</ns0:keyword>
+                    <ns0:keyword>genomics</ns0:keyword>
+                    <ns0:keyword>microarrays</ns0:keyword>
+                    <ns0:keyword>ontologies</ns0:keyword>
+                    <ns0:keyword>patents</ns0:keyword>
+                    <ns0:keyword>proteomics</ns0:keyword>
+                    <ns0:keyword>structural genomics</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">European Commission</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">EU</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>EEC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://ec.europa.eu/commission/index_en</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://ec.europa.eu/commission/index_en</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">European Molecular Biology Laboratory, European Bioinformatics Institute</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">EMBL-EBI</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>EEC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.ebi.ac.uk/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.ebi.ac.uk/about/contact</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">UK Research and Innovation</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">RCUK (formerly)</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">Research Councils UK (formerly)</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>GBR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.ukri.org/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Wellcome Trust Sanger Institute</ns0:institutionName>
+                                <ns0:institutionCountry>GBR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.sanger.ac.uk/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.sanger.ac.uk/about/who-we-are/sanger-institute/contact-us</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>EBI Terms of Use of the EBI Services</ns0:policyName>
+                <ns0:policyURL>https://www.ebi.ac.uk/about/terms-of-use</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                    <ns0:databaseLicense>
+                <ns0:databaseLicenseName>other</ns0:databaseLicenseName>
+                <ns0:databaseLicenseURL>https://www.ebi.ac.uk/about/terms-of-use</ns0:databaseLicenseURL>
+            </ns0:databaseLicense>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.ebi.ac.uk/about/terms-of-use</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>open</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                    <ns0:api apiType="FTP">ftp://ftp.ebi.ac.uk/</ns0:api>
+                    <ns0:api apiType="REST">https://www.ebi.ac.uk/ebisearch/overview.ebi/about</ns0:api>
+                    <ns0:api apiType="SOAP">https://www.ebi.ac.uk/seqdb/confluence/display/JDSAT/EMBL-EBI+Web+Services+APIs+-+Data+Retrieval</ns0:api>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                    <ns0:aidSystem>ORCID</ns0:aidSystem>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                    <ns0:syndication syndicationType="RSS">http://www.ebi.ac.uk/about/news/service-news.xml</ns0:syndication>
+                <ns0:remarks>As part of the European Molecular Biology Laboratory EMBL, the largest part of our funding comes from the governments of EMBL's 20 member states. Other major funders include the European Commission, Wellcome Trust, US National Institutes of Health, UK Research Councils, our industry partners. In addition, the Wellcome Trust generously provides the facilities for the EMBL-EBI on its Genome Campus at Hinxton, and the UK Research Councils have also provided funds for our facilities in Hinxton.</ns0:remarks>
+        <ns0:entryDate>2013-03-01</ns0:entryDate>
+        <ns0:lastUpdate>2019-02-01</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

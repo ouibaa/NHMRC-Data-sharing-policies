@@ -1,0 +1,127 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010956</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Open Government Data Platform India</ns0:repositoryName>
+                    <ns0:additionalName language="eng">OGD</ns0:additionalName>
+                    <ns0:additionalName language="eng">data.govin</ns0:additionalName>
+                <ns0:repositoryURL>https://data.gov.in/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>biodbcore-001601</ns0:repositoryIdentifier>
+                <ns0:description language="eng">The Portal is intended to be used as catalog of datasets published by ministries/ department/ organizations of Government of India for public use, in order to enhance transparency in the functioning of the Government as well as to make innovative visualization of dataset. This National Data Portal is being updated frequently to make it as accessible as possible and completely accessible to all irrespective of physical challenges or technology.</ns0:description>
+                    <ns0:repositoryContact>https://data.gov.in/connect-with-us</ns0:repositoryContact>
+                    <ns0:repositoryContact>ndsap@gov.in</ns0:repositoryContact>
+                            <ns0:type>institutional</ns0:type>
+                    <ns0:type>other</ns0:type>
+                <ns0:size updated="2021-05-06">497.055 resources; 10.322 catalogs</ns0:size>
+        <ns0:startDate>2012</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">112 Economics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">12 Social and Behavioural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">317 Geography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL>https://data.gov.in/about-us</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Databases</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>agriculture</ns0:keyword>
+                    <ns0:keyword>biotechnology</ns0:keyword>
+                    <ns0:keyword>commerce</ns0:keyword>
+                    <ns0:keyword>demography</ns0:keyword>
+                    <ns0:keyword>economics</ns0:keyword>
+                    <ns0:keyword>education</ns0:keyword>
+                    <ns0:keyword>energy conservation</ns0:keyword>
+                    <ns0:keyword>family</ns0:keyword>
+                    <ns0:keyword>government Web portals</ns0:keyword>
+                    <ns0:keyword>health</ns0:keyword>
+                    <ns0:keyword>india</ns0:keyword>
+                    <ns0:keyword>industry and education</ns0:keyword>
+                    <ns0:keyword>infrastructure (economics)</ns0:keyword>
+                    <ns0:keyword>public administration</ns0:keyword>
+                    <ns0:keyword>public investments</ns0:keyword>
+                    <ns0:keyword>science and industry</ns0:keyword>
+                    <ns0:keyword>security (law)</ns0:keyword>
+                    <ns0:keyword>social ecology</ns0:keyword>
+                    <ns0:keyword>technology</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Government of India, Ministry of Electronics &amp; Information Technology</ns0:institutionName>
+                                <ns0:institutionCountry>IND</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://meity.gov.in/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Government of India, National Informatics Centre</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NIC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>IND</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.nic.in/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:055nd7x53</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>wim@nic.in</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Open Data Implementation Guidelines</ns0:policyName>
+                <ns0:policyURL>https://data.gov.in/sites/default/files/NDSAP_Implementation_Guidelines_2.2.pdf</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Open Data Policy of India</ns0:policyName>
+                <ns0:policyURL>https://data.gov.in/sites/default/files/NDSAP.pdf</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Terms of Use</ns0:policyName>
+                <ns0:policyURL>https://data.gov.in/terms-of-use</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                    <ns0:databaseLicense>
+                <ns0:databaseLicenseName>other</ns0:databaseLicenseName>
+                <ns0:databaseLicenseURL>https://data.gov.in/government-open-data-license-india</ns0:databaseLicenseURL>
+            </ns0:databaseLicense>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>other</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://data.gov.in/policies</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://data.gov.in/government-open-data-license-india</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                    <ns0:api apiType="REST">http://vocab.nic.in/</ns0:api>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>no</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                    <ns0:syndication syndicationType="RSS">https://data.gov.in/rss.xml</ns0:syndication>
+                <ns0:remarks />
+        <ns0:entryDate>2014-09-16</ns0:entryDate>
+        <ns0:lastUpdate>2021-11-16</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

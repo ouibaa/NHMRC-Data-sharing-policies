@@ -1,0 +1,142 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010691</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Scholars Portal Dataverse</ns0:repositoryName>
+                    <ns0:additionalName language="eng">SP Dataverse Network</ns0:additionalName>
+                <ns0:repositoryURL>https://dataverse.scholarsportal.info/dataverse.xhtml</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.kwzydf</ns0:repositoryIdentifier>
+                <ns0:description language="eng">The Scholars Portal Dataverse network is a repository for research data collected by individuals and organizations associated with subscribing Canadian universities. The Dataverse platform makes it easy for researchers to deposit data, create appropriate metadata, and version documents as you work. Access to data and supporting documentation can be controlled down to the file level, and researchers can choose to make content available publicly, only to select individuals, or to keep it completely locked.</ns0:description>
+                    <ns0:repositoryContact>dataverse@scholarsportal.info</ns0:repositoryContact>
+                            <ns0:type>institutional</ns0:type>
+                <ns0:size updated="2020-02-18">482 Dataverses; 2,462 Datasets; 35,234 files</ns0:size>
+        <ns0:startDate>2011</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>fra</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">4 Engineering Sciences</ns0:subject>
+                <ns0:missionStatementURL>https://dataverse.scholarsportal.info/</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Databases</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>multidisciplinary</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Dataverse  Project</ns0:institutionName>
+                                <ns0:institutionCountry>AAA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://dataverse.org/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>RRID:SCR_001997</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nif-0000-00316</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>support@dataverse.org</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Ontario Council of University Libraries</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="fra">CBUO</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="fra">Conseil des biblioth&#232;ques universitaires de l'Ontario</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">OCUL</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://ocul.on.ca</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:028215596</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://ocul.on.ca/spstaff</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Help &amp; Support</ns0:policyName>
+                <ns0:policyURL>https://learn.scholarsportal.info/all-guides/dataverse/help/</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Scholars Portal Dataverse Guide</ns0:policyName>
+                <ns0:policyURL>https://learn.scholarsportal.info/all-guides/dataverse/</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Terms of use</ns0:policyName>
+                <ns0:policyURL>https://learn.scholarsportal.info/all-guides/dataverse/terms-of-use/</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>User Guide</ns0:policyName>
+                <ns0:policyURL>https://dataverse.scholarsportal.info/guides/en/4.5/user/index.html</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                    <ns0:databaseLicense>
+                <ns0:databaseLicenseName>Apache License 2.0</ns0:databaseLicenseName>
+                <ns0:databaseLicenseURL>http://www.apache.org/licenses/LICENSE-2.0</ns0:databaseLicenseURL>
+            </ns0:databaseLicense>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>closed</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>institutional membership</ns0:dataAccessRestriction>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC0</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/publicdomain/zero/1.0/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://learn.scholarsportal.info/all-guides/dataverse/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://dataverse.scholarsportal.info/guides/en/4.8.6/user/dataset-management.html#terms</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://learn.scholarsportal.info/all-guides/dataverse/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>Harvard Dataverse General Terms of Use, User uploads</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>https://dataverse.org/best-practices/harvard-dataverse-general-terms-use</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                            <ns0:software>
+                <ns0:softwareName>DataVerse</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                    <ns0:api apiType="SWORD">https://dataverse.scholarsportal.info/guides/en/4.5/api/sword.html</ns0:api>
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://dataverse.scholarsportal.info/guides/en/4.8.6/user/find-use-data.html#cite-data</ns0:citationGuidelineURL>
+                    <ns0:aidSystem>ORCID</ns0:aidSystem>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">DDI - Data Documentation Initiative</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/ddi-data-documentation-initiative</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                    <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">Dublin Core</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                    <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">FGDC/CSDGM - Federal Geographic Data Committee Content Standard for Digital Geospatial Metadata</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/fgdccsdgm-federal-geographic-data-committee-content-standard-digital-ge</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks>Terms of reference and format for citing the datasets in this repository have been given along with all the datasets archived. Scholars Portal Dataverse is part of the Dataverse Project.</ns0:remarks>
+        <ns0:entryDate>2012-07-23</ns0:entryDate>
+        <ns0:lastUpdate>2020-02-18</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

@@ -1,0 +1,145 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010627</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">World Glacier Monitoring Service</ns0:repositoryName>
+                    <ns0:additionalName language="eng">WGMS</ns0:additionalName>
+                <ns0:repositoryURL>https://wgms.ch/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>doi:10.5904/wgms-fog-2018-11</ns0:repositoryIdentifier>
+                <ns0:description language="eng">The World Glacier Monitoring Service (WGMS) collects standardized observations on changes in mass, volume, area and length of glaciers with time (glacier fluctuations), as well as statistical information on the distribution of perennial surface ice in space (glacier inventories). Such glacier fluctuation and inventory data are high priority key variables in climate system monitoring; they form a basis for hydrological modelling with respect to possible effects of atmospheric warming, and provide fundamental information in glaciology, glacial geomorphology and quaternary geology. The highest information density is found for the Alps and Scandinavia, where long and uninterrupted records are available. As a contribution to the Global Terrestrial/Climate Observing System (GTOS, GCOS), the Division of Early Warning and Assessment and the Global Environment Outlook of UNEP, and the International Hydrological Programme of UNESCO, the WGMS collects and publishes worldwide standardized glacier data.</ns0:description>
+                    <ns0:repositoryContact>https://wgms.ch/contact_wgms/</ns0:repositoryContact>
+                    <ns0:repositoryContact>wgms@geo.uzh.ch</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31301 Atmospheric Science</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">314 Geology and Palaeontology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">318 Water Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL>https://wgms.ch/about_wgms/</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Networkbased data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>atmospheric warming</ns0:keyword>
+                    <ns0:keyword>climate change</ns0:keyword>
+                    <ns0:keyword>geomorphology</ns0:keyword>
+                    <ns0:keyword>glacier fluctuation</ns0:keyword>
+                    <ns0:keyword>glaciology</ns0:keyword>
+                    <ns0:keyword>ice</ns0:keyword>
+                    <ns0:keyword>snow</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Global Terrestrial Network for Glaciers</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">GTN-G</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>AAA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>sponsoring</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.gtn-g.ch/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.gtn-g.org/contact/</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Swiss GCOS Office at the Federal Office of Meteorology and Climatology</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">GCOS at MeteoSwiss</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CHE</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.meteoschweiz.admin.ch/home/forschung-und-zusammenarbeit/internationale-zusammenarbeit/gcos.html</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of Zurich, Department of Geography, World Glacier Monitoring Service</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="deu">Universit&#228;t Z&#252;rich, Geographisches Institut, World Glacier Monitoring Service</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">WGMS</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CHE</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.geo.uzh.ch/en/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>admin@geo.uzh.ch</ns0:institutionContact>
+                                    <ns0:institutionContact>https://www.geo.uzh.ch/en/contact.html</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">WGMS National correspondents</ns0:institutionName>
+                                <ns0:institutionCountry>AAA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://wgms.ch/contact_wgms/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Certification of WDS Members</ns0:policyName>
+                <ns0:policyURL>https://www.worlddatasystem.org/services/certification</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>CoreTrustSeal Assessment</ns0:policyName>
+                <ns0:policyURL>https://www.coretrustseal.org/wp-content/uploads/2019/08/World-Glacier-Monitoring-Service-Zurich.pdf</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Global Terrestrial Network for Glaciers Data policy</ns0:policyName>
+                <ns0:policyURL>https://www.gtn-g.ch/data_policy/</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>ICSU World Data System Constitution</ns0:policyName>
+                <ns0:policyURL>https://www.worlddatasystem.org/organization/constitution_and_bylaws</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>embargoed</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/licenses/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.worlddatasystem.org/services/data-sharing-principles</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>General guidelines for Data Submission</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>https://wgms.ch/data_submission/</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                    <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>Guidelines</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>https://wgms.ch/data_guidelines/</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                            <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                    <ns0:api apiType="other">https://wgms.ch/data_exploration/</ns0:api>
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://wgms.ch/data_databaseversions/</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                    <ns0:certificate>other</ns0:certificate>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">Repository-Developed Metadata Schemas</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/repository-developed-metadata-schemas</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks>World Glacier Monitoring Service is covered by Thomson Reuters Data Citation Index. WGMS is part of the ICSU World Data System(WDS). WGMS is in charge of the Global Terrestrial Network for Glaciers (GTN-G) within GTOS/GCOS.
+World Glacier Monitoring Service  isunder the auspices of: ICSU (WDS), IUGG (IACS), UNEP, UNESCO, WMO</ns0:remarks>
+        <ns0:entryDate>2014-02-13</ns0:entryDate>
+        <ns0:lastUpdate>2021-12-16</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

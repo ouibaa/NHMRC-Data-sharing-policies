@@ -1,0 +1,123 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010693</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">NEPTUNE Canada</ns0:repositoryName>
+                    <ns0:additionalName language="eng">NEPTUNE Canada regional network</ns0:additionalName>
+                    <ns0:additionalName language="eng">Neptune in the NE Pacific</ns0:additionalName>
+                    <ns0:additionalName language="eng">North-East Pacific Time-series Undersea Networked Experiments</ns0:additionalName>
+                <ns0:repositoryURL>http://www.neptunecanada.ca/</ns0:repositoryURL>
+                <ns0:description language="eng">&gt;&gt;&gt;&gt;!!!&lt;&lt;&lt; NEPTUNE Canada is now part of Ocean Networks Canada and this website is being phased out. Please visit us on our new website at oceannetworks.ca &gt;&gt;&gt;!!!&lt;&lt;&lt; NEPTUNE Canada, the North-East Pacific Time-series Undersea Networked Experiments, is the world's first regional scale cabled deep ocean observing network.  It consists of an 800km network of electro&#8208;optic cable laid on the seabed over the northern Juan de Fuca tectonic plate, off the coast of British Columbia. This tectonic plate serves as an exceptional natural laboratory for ocean observation and experiments.
+NEPTUNE Canada instruments yield continuous real&#8208;time data and imagery from the ocean surface to beneath the seafloor, and from the coast to the deep sea. They respond to events such as earthquakes, tsunamis, fish migrations, plankton blooms, storms and volcanic eruptions. NEPTUNE Canada offers a unique and exciting approach to ocean science.</ns0:description>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2009</ns0:startDate>
+        <ns0:endDate>2015</ns0:endDate>
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31302 Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">317 Geography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">318 Water Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL />
+                    <ns0:contentType contentTypeScheme="parse">Audiovisual data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>Britisch Columbia</ns0:keyword>
+                    <ns0:keyword>North East Pacific</ns0:keyword>
+                    <ns0:keyword>analysis of chemical processes</ns0:keyword>
+                    <ns0:keyword>analysis of methane gas</ns0:keyword>
+                    <ns0:keyword>deep sea</ns0:keyword>
+                    <ns0:keyword>earthquakes and tsunamis</ns0:keyword>
+                    <ns0:keyword>marine ecosystems</ns0:keyword>
+                    <ns0:keyword>measurement of seismic acitvity</ns0:keyword>
+                    <ns0:keyword>ocean science</ns0:keyword>
+                    <ns0:keyword>ocean-atmosphere interactions</ns0:keyword>
+                    <ns0:keyword>plate tectonics</ns0:keyword>
+                    <ns0:keyword>real time data</ns0:keyword>
+                    <ns0:keyword>undersea network</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">British Columbia Knowledge Development Fund</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">BCKDF</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www2.gov.bc.ca/gov/content/governments/about-the-bc-government/technology-innovation/bckdf</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Innovation.ca</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Canada foundation for innovation</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.innovation.ca/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Ocean Networks Canada, Ocean Observatory</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">ONC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.oceannetworks.ca/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>2007</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.oceannetworks.ca/about-us/contact-us</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of Victoria</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">UVic</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.uvic.ca/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Data Policy</ns0:policyName>
+                <ns0:policyURL>http://www.oceannetworks.ca/data-tools/data-help/data-usage-policy</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Legal Notices</ns0:policyName>
+                <ns0:policyURL>http://www.oceannetworks.ca/legal-notices</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www.oceannetworks.ca/legal-notices</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks>Ocean Networks Canada (ONC) is a world-leading organization supporting ocean discovery and technological innovation. ONC is a not-for-profit society, established in 2007 by the University of Victoria under the BC Society Act. Under a Management Agreement with the University, the purpose of ONC is to govern, manage and develop: the Ocean Networks Canada Observatory (comprised of the VENUS and NEPTUNE Canada networks) as a national research platform; and the ONC Centre for Enterprise and Engagement as a federal centre of excellence for commercialization and research.
+Partners and Funders: https://www.oceannetworks.ca/innovation-centre/partners-networks/global-partnerships</ns0:remarks>
+        <ns0:entryDate>2013-07-29</ns0:entryDate>
+        <ns0:lastUpdate>2021-10-05</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

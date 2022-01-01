@@ -1,0 +1,115 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010163</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">SIMBAD Astronomical Database</ns0:repositoryName>
+                    <ns0:additionalName language="eng">Set of Identifications, Measurements, and Bibliography for Astronomical Data</ns0:additionalName>
+                <ns0:repositoryURL>http://simbad.u-strasbg.fr/simbad/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.rd6gxr</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>ISSN 2417-8667</ns0:repositoryIdentifier>
+                <ns0:description language="eng">SIMBAD astronomical database is the world reference database for the identification of astronomical objects and provides basic data, cross-identifications, bibliography and measurements for astronomical objects outside the solar system. Using VizieR, the catalogue service for the CDS reference collection of astronomical catalogues and tables published in academic journals and the Aladin interactive software sky atlas for access, visualization and analysis of astronomical images, surveys, catalogues, databases and related data. Simbad bibliographic survey began in 1950 for stars (at least bright stars) and in 1983 for all other objects (outside the solar system)</ns0:description>
+                    <ns0:repositoryContact>cds-question@astro.unistra.fr</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2019-05-15">10.348.979 objects;  34.944.838 identifiers; 357.827 bibliographic references; 19.195.623 citations of objects in papers</ns0:size>
+        <ns0:startDate>2001</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">311 Astrophysics and Astronomy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">32 Physics</ns0:subject>
+                <ns0:missionStatementURL>http://cdsweb.u-strasbg.fr/about</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>ICRS system</ns0:keyword>
+                    <ns0:keyword>cross identification</ns0:keyword>
+                    <ns0:keyword>galaxy</ns0:keyword>
+                    <ns0:keyword>magnitude</ns0:keyword>
+                    <ns0:keyword>oberservation</ns0:keyword>
+                    <ns0:keyword>radial velocities</ns0:keyword>
+                    <ns0:keyword>redshifts</ns0:keyword>
+                    <ns0:keyword>spectral type</ns0:keyword>
+                    <ns0:keyword>star</ns0:keyword>
+                    <ns0:keyword>wavelength</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="fra">Centre National de la recherche scientifique, Institut national des sciences de l'univers</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="fra">CNRS INSU</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>FRA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.insu.cnrs.fr/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>1972</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="fra">Centre de Donn&#233;es Astronomiques de Strasbourg, Observatoire astronomique de Strasbourg</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="fra">CDS</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">Strasbourg Astronomical Data Center, Strasbourg Astronomical Observatory</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>FRA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://cds.u-strasbg.fr/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>1972</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>cds-question@unistra.fr</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="fra">Universit&#233; de Strasbourg</ns0:institutionName>
+                                <ns0:institutionCountry>FRA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.unistra.fr/index.php?id=accueil</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>1972</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>AAS Ethics Statement</ns0:policyName>
+                <ns0:policyURL>http://aas.org/about/policies/aas-ethics-statement</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>mentions l&#233;gales</ns0:policyName>
+                <ns0:policyURL>http://astro.unistra.fr/index.php?page=mentions-legales</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000006069414&amp;dateTexte=20110915</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://cds.u-strasbg.fr/vizier-org/licences_vizier.html</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>Annotations</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>http://cdsannotations.u-strasbg.fr/annotations/doc/index.html</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                            <ns0:software>
+                <ns0:softwareName>other</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                    <ns0:api apiType="SOAP">http://cds.u-strasbg.fr/resources/doku.php?id=soap</ns0:api>
+                    <ns0:api apiType="other">http://simbad.u-strasbg.fr/guide/sim-url.htx</ns0:api>
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                <ns0:citationGuidelineURL>http://simbad.u-strasbg.fr/simbad/#acklab</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                    <ns0:syndication syndicationType="RSS">http://cdsweb.u-strasbg.fr/news/rss.php?fn_category=3</ns0:syndication>
+                <ns0:remarks>SIMBAD is part of Strasbourg Astronomical Data Center (CDS). CDS is a major actor in the VO with leading roles in European VO projects, the French Virtual Observatory and the International Virtual Observatory Alliance (IVOA). CDS is a member of the World Data System of the International Council for Science ICSU.</ns0:remarks>
+        <ns0:entryDate>2012-12-11</ns0:entryDate>
+        <ns0:lastUpdate>2021-09-03</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

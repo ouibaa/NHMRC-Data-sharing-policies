@@ -1,0 +1,136 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010803</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Integrated Relational Enzyme database</ns0:repositoryName>
+                    <ns0:additionalName language="eng">IntEnz</ns0:additionalName>
+                <ns0:repositoryURL>https://www.ebi.ac.uk/intenz/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.q1fdkc</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>OMICS_02684</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:SCR_002992</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:nif-0000-03028</ns0:repositoryIdentifier>
+                <ns0:description language="eng">IntEnz contains the recommendation of the Nomenclature Committee of the International Union of Biochemistry and Molecular Biology on the nomenclature and classification of enzyme-catalyzed reactions. Users can browse by enzyme classification or use advanced search options to search enzymes by class, subclass and sub-subclass information.</ns0:description>
+                            <ns0:type>disciplinary</ns0:type>
+                    <ns0:type>other</ns0:type>
+                <ns0:size updated="2017-08-23">7 classes; 76 subclasses; 7.350 approved EC; 55 preliminary EC; 6.261 active EC</ns0:size>
+        <ns0:startDate>1992</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">201 Basic Biological and Medical Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20101 Biochemistry</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20107 Bioinformatics and Theoretical Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">204 Microbiology, Virology and Immunology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20401 Metabolism, Biochemistry and Genetics of Microorganisms</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                <ns0:missionStatementURL>https://www.ebi.ac.uk/intenz/faq.jsp</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>Biochemistry</ns0:keyword>
+                    <ns0:keyword>Bioinformatics</ns0:keyword>
+                    <ns0:keyword>Enzymes</ns0:keyword>
+                    <ns0:keyword>Hydrolases</ns0:keyword>
+                    <ns0:keyword>Isomerases</ns0:keyword>
+                    <ns0:keyword>Ligases</ns0:keyword>
+                    <ns0:keyword>Lyases</ns0:keyword>
+                    <ns0:keyword>Molecular biology</ns0:keyword>
+                    <ns0:keyword>Oxidoreductases</ns0:keyword>
+                    <ns0:keyword>Test anxiety</ns0:keyword>
+                    <ns0:keyword>Transferases</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">European Molecular Biology Laboratory</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">EMBL</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>EEC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.embl.org/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">European Molecular Biology Laboratory, European Bioinformatics Institute</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">EMBL-EBI</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>EEC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.ebi.ac.uk/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.ebi.ac.uk/about/contact</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">International Union of Biochemistry and Molecular Biology</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NC-IUBMB</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>AAA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>sponsoring</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.iubmb.org/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">The Swiss Institute of Bioinformatics [Lausanne, Switzerland]</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">SIB</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CHE</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.isb-sib.ch/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">The University of Dublin, Trinity College Dublin</ns0:institutionName>
+                                <ns0:institutionCountry>IRL</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.tcd.ie/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.tcd.ie/contacts/</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Classification rules</ns0:policyName>
+                <ns0:policyURL>https://www.ebi.ac.uk/intenz/rules.jsp</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Principles of Service Provision</ns0:policyName>
+                <ns0:policyURL>https://www.ebi.ac.uk/services</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Public Domain</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.ebi.ac.uk/about/terms-of-use</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>EC guidelines</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>https://www.ebi.ac.uk/intenz/advice.jsp</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                            <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                    <ns0:api apiType="FTP">ftp://ftp.ebi.ac.uk/pub/databases/intenz/enzyme</ns0:api>
+                    <ns0:api apiType="FTP">ftp://ftp.ebi.ac.uk/pub/databases/intenz</ns0:api>
+                            <ns0:pidSystem>other</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                    <ns0:syndication syndicationType="RSS">https://sourceforge.net/p/intenz/news/feed</ns0:syndication>
+                <ns0:remarks />
+        <ns0:entryDate>2014-05-16</ns0:entryDate>
+        <ns0:lastUpdate>2019-02-12</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

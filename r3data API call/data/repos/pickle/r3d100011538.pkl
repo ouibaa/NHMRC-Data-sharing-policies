@@ -1,0 +1,117 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011538</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">EarthChem Library</ns0:repositoryName>
+                <ns0:repositoryURL>https://earthchem.org/ecl/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.ne5dn7</ns0:repositoryIdentifier>
+                <ns0:description language="eng">The EarthChem Library is a data repository that archives, publishes and makes accessible data and other digital content from geoscience research (analytical data, data syntheses, models, technical reports, etc.)</ns0:description>
+                    <ns0:repositoryContact>https://www.earthchem.org/about/contact/</ns0:repositoryContact>
+                    <ns0:repositoryContact>info@earthchem.org</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2021-06-18">890 records</ns0:size>
+        <ns0:startDate>2013</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">314 Geology and Palaeontology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">315 Geophysics and Geodesy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">316 Geochemistry, Mineralogy and Crystallography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL>https://www.earthchem.org/about/</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>climate</ns0:keyword>
+                    <ns0:keyword>diamonds</ns0:keyword>
+                    <ns0:keyword>earth sciences</ns0:keyword>
+                    <ns0:keyword>ecology</ns0:keyword>
+                    <ns0:keyword>environmental science</ns0:keyword>
+                    <ns0:keyword>minerals</ns0:keyword>
+                    <ns0:keyword>mines</ns0:keyword>
+                    <ns0:keyword>rocks</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Columbia University Libraries</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://library.columbia.edu/index.html</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Earthchem</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.earthchem.org/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>RRID:SCR_002207</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_154721</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.earthchem.org/about/contact/</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Interdisciplinary Earth Data Alliance</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">IEDA</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>AAA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.iedadata.org/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:02fjjnc15</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:SCR_006739</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_156096</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.iedadata.org/contact/</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Science Foundation</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NSF</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.nsf.gov/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:021nxhr62</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:SCR_012938</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_inv_1005118</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.nsf.gov/help/contact.jsp</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Access to Data</ns0:policyName>
+                <ns0:policyURL>https://www.earthchem.org/ecl/policies/#accesss</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Policies</ns0:policyName>
+                <ns0:policyURL>https://www.earthchem.org/ecl/policies/</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/licenses/by-nc-sa/3.0/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                <ns0:versioning>yes</ns0:versioning>
+                    <ns0:api apiType="REST">http://portal.earthchem.org/rest_search_documentation/</ns0:api>
+                    <ns0:api apiType="other">http://geopass.iedadata.org/josso/</ns0:api>
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://www.earthchem.org/ecl/policies/#citation</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks>is covered by Elsevier.
+EarthChem Portal is the one-stop-shop for geochemical data that gives users the ability to search federated databases including PetDB, SedDB, NAVDAT, MetPetDB, the USGS National Geochemical Database, GEOROC, and GANSEKI simultaneously.</ns0:remarks>
+        <ns0:entryDate>2015-03-24</ns0:entryDate>
+        <ns0:lastUpdate>2021-09-02</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

@@ -1,0 +1,140 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010730</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Canadensys repository</ns0:repositoryName>
+                    <ns0:additionalName language="eng">Database of Vascular Plants of Canada</ns0:additionalName>
+                    <ns0:additionalName language="eng">VASCAN</ns0:additionalName>
+                <ns0:repositoryURL>https://data.canadensys.net/ipt/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.v2sjcy</ns0:repositoryIdentifier>
+                <ns0:description language="eng">Biological collections are replete with taxonomic, geographic, temporal, numerical, and historical information. This information is crucial for understanding and properly managing biodiversity and ecosystems, but is often difficult to access. Canadensys, operated from the Universit&#233; de Montr&#233;al Biodiversity Centre, is a Canada-wide effort to unlock the biodiversity information held in biological collections.</ns0:description>
+                    <ns0:repositoryContact>https://community.canadensys.net/about/contact</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                    <ns0:type>institutional</ns0:type>
+                <ns0:size updated="2021-12-21">6.330.253 results for [all records];  84 collections; 192.597 images</ns0:size>
+        <ns0:startDate>2011</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>fra</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">202 Plant Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20202 Plant Ecology and Ecosystem Analysis</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                <ns0:missionStatementURL>https://community.canadensys.net/about</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Archived data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Audiovisual data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Databases</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Networkbased data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Software applications</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>biodiversity</ns0:keyword>
+                    <ns0:keyword>biological collections</ns0:keyword>
+                    <ns0:keyword>digitalization</ns0:keyword>
+                    <ns0:keyword>ecosystems</ns0:keyword>
+                    <ns0:keyword>hybrids</ns0:keyword>
+                    <ns0:keyword>insects</ns0:keyword>
+                    <ns0:keyword>plants</ns0:keyword>
+                    <ns0:keyword>synonymy</ns0:keyword>
+                    <ns0:keyword>taxonomy</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Canada Foundation for Innovation</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">CFI</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="fra">Fondation Canadienne pour L'Innovation</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.innovation.ca/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:000az4664</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:SCR_005054</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_144042</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Global Biodiversity Informaton Facility</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">GBIF</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="fra">Syst&#232;me mondial d'information sur la biodiversit&#233;</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>DNK</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.gbif.org/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:05fjyn938</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:SCR_005904</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_149475</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Universit&#233; de Montr&#233;al Biodiversity Centre</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="fra">Universit&#233; de Montr&#233;al, Centre sur la biodiversit&#233;</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.irbv.umontreal.ca/a-propos/centre-sur-la-biodiversite?lang=en</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>david.shorthouse@umontreal.ca</ns0:institutionContact>
+                                    <ns0:institutionContact>https://community.canadensys.net/about/contact</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Norms for data use and publication</ns0:policyName>
+                <ns0:policyURL>https://community.canadensys.net/about/norms</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                    <ns0:databaseLicense>
+                <ns0:databaseLicenseName>Apache License 2.0</ns0:databaseLicenseName>
+                <ns0:databaseLicenseURL>https://www.apache.org/licenses/LICENSE-2.0</ns0:databaseLicenseURL>
+            </ns0:databaseLicense>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/licenses/by/3.0/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>CC0</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/publicdomain/zero/1.0/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.gbif.org/terms/data-user</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>CC</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>https://community.canadensys.net/publication/data-publication-guide</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                            <ns0:software>
+                <ns0:softwareName>other</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                    <ns0:api apiType="REST">https://community.canadensys.net/2013/vascans-web-service-0-1</ns0:api>
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                    <ns0:pidSystem>PURL</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://community.canadensys.net/about/norms</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">Darwin Core</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/darwin-core</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                            <ns0:syndication syndicationType="RSS">https://data.canadensys.net/ipt/rss.do</ns0:syndication>
+                <ns0:remarks>Canadensys aims to digitize, publish and georeference 3 million specimens (20%) in our initial five years, via a network of distributed databases, compatible with the Canadian Biodiversity Information Facility (CBIF) and the Global Biodiversity Information Facility (GBIF). Collection managers will publish their data as Darwin Core, an internationally-accepted biodiversity information standard. A central web portal will allow access to the network&#8217;s specimen data (including images and geospatial information) in combination with other data such as names from the Database of Canadian Vascular Plants (VASCAN) and the Catalogue of Life.</ns0:remarks>
+        <ns0:entryDate>2013-10-18</ns0:entryDate>
+        <ns0:lastUpdate>2021-12-21</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

@@ -1,0 +1,126 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011732</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Galaxy Zoo</ns0:repositoryName>
+                <ns0:repositoryURL>https://www.zooniverse.org/projects/zookeeper/galaxy-zoo/</ns0:repositoryURL>
+                <ns0:description language="eng">Galaxies, made up of billions of stars like our Sun, are the beacons that light up the structure of even the most distant regions in space. Not all galaxies are alike, however. They come in very different shapes and have very different properties; they may be large or small, old or young, red or blue, regular or confused, luminous or faint, dusty or gas-poor, rotating or static, round or disky, and they live either in splendid isolation or in clusters. In other words, the universe contains a very colourful and diverse zoo of galaxies. For almost a century, astronomers have been discussing how galaxies should be classified and how they relate to each other in an attempt to attack the big question of how galaxies form. Galaxy Zoo (Lintott et al. 2008, 2011) pioneered a novel method for performing large-scale visual classifications of survey datasets. This webpage allows anyone to download the resulting GZ classifications of galaxies in the project.</ns0:description>
+                    <ns0:repositoryContact>contact@zooniverse.org</ns0:repositoryContact>
+                    <ns0:repositoryContact>https://www.zooniverse.org/about/contact</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2007</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>deu</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>fas</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>fra</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>heb</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>hun</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>ita</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>pol</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>por</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>rus</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>spa</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>ukr</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>zho</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">311 Astrophysics and Astronomy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">32 Physics</ns0:subject>
+                <ns0:missionStatementURL>https://blog.galaxyzoo.org/about-2/</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>DECaLS</ns0:keyword>
+                    <ns0:keyword>Dark Energy Camera Legacy Survey</ns0:keyword>
+                    <ns0:keyword>Illustris</ns0:keyword>
+                    <ns0:keyword>SDSS</ns0:keyword>
+                    <ns0:keyword>Sloan Digital Sky Survey</ns0:keyword>
+                    <ns0:keyword>UKIDSS</ns0:keyword>
+                    <ns0:keyword>UKIRT</ns0:keyword>
+                    <ns0:keyword>UKIRT Infrared Deep Sky Survey</ns0:keyword>
+                    <ns0:keyword>dark energy</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Galaxy Zoo Team</ns0:institutionName>
+                                <ns0:institutionCountry>AAA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.zooniverse.org/about/team</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of Oxford, Department of Physics</ns0:institutionName>
+                                <ns0:institutionCountry>GBR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www2.physics.ox.ac.uk/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www2.physics.ox.ac.uk/contacts</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Zooniverse</ns0:institutionName>
+                                <ns0:institutionCountry>AAA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.zooniverse.org/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>RRID:SCR_013969</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.zooniverse.org/about/contact</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Zooniverse Security</ns0:policyName>
+                <ns0:policyURL>https://www.zooniverse.org/security</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Zooniverse User Agreement and Privacy Policy</ns0:policyName>
+                <ns0:policyURL>https://www.zooniverse.org/privacy</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/licenses/by-nc-nd/2.0/uk/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://zoo1.galaxyzoo.org/Copyright.aspx</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.sdss.org/collaboration/#image-use</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>open</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>http://zoo1.galaxyzoo.org/Copyright.aspx</ns0:citationGuidelineURL>
+                    <ns0:aidSystem>none</ns0:aidSystem>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                    <ns0:syndication syndicationType="RSS">https://blog.galaxyzoo.org/comments/feed/</ns0:syndication>
+                    <ns0:syndication syndicationType="RSS">https://blog.galaxyzoo.org/feed/</ns0:syndication>
+                <ns0:remarks>Galaxy Zoo is now arguably the world&#8217;s best-known online citizen science project, and is certainly the one with the largest number of publications based on citizen scientists input. Our success inspired the creation of The Zooniverse, hosting project using the same technique across many research areas.</ns0:remarks>
+        <ns0:entryDate>2016-03-15</ns0:entryDate>
+        <ns0:lastUpdate>2021-07-02</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

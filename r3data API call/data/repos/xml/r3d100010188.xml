@@ -1,0 +1,146 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010188</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Beta Cell Biology Consortium Reagent and Data Resources</ns0:repositoryName>
+                    <ns0:additionalName language="eng">BCBC Reagent and Data Resources</ns0:additionalName>
+                <ns0:repositoryURL>http://www.betacell.org/resource/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>RRID:SCR_005136</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:nlx_144143</ns0:repositoryIdentifier>
+                <ns0:description language="eng">&gt;&gt;&gt;!!!&lt;&lt;&lt;   Sorry.we are no longer in operation   &gt;&gt;&gt;!!!&lt;&lt;&lt;     The Beta Cell Biology Consortium (BCBC) was a team science initiative that was established by the National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK). It was initially funded in 2001 (RFA DK-01-014), and competitively continued both in 2005 (RFAs DK-01-17, DK-01-18) and in 2009 (RFA DK-09-011). Funding for the BCBC came to an end on August 1, 2015, and with it so did our ability to maintain active websites.!!!
+One of the many goals of the BCBC was to develop and maintain databases of useful research resources. A total of 813 different scientific resources were generated and submitted by BCBC investigators over the 14 years it existed. Information pertaining to 495 selected resources, judged to be the most scientifically-useful, has been converted into a static catalog, as shown below. In addition, the metadata for these 495 resources have been transferred to dkNET in the form of RDF descriptors, and all genomics data have been deposited to either ArrayExpress or GEO.
+Please direct questions or comments to the NIDDK Division of Diabetes, Endocrinology &amp; Metabolic Diseases (DEM).</ns0:description>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2015-09-01">495 entries</ns0:size>
+        <ns0:startDate>2002</ns0:startDate>
+        <ns0:endDate>2015-08-01</ns0:endDate>
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">201 Basic Biological and Medical Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20103 Cell Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">203 Zoology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20306 Animal Genetics, Cell and Developmental Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">205 Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20517 Endocrinology, Diabetology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                <ns0:missionStatementURL>http://www.betacell.org/about/</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>adenoviruses</ns0:keyword>
+                    <ns0:keyword>antibodies</ns0:keyword>
+                    <ns0:keyword>bioimages</ns0:keyword>
+                    <ns0:keyword>diabetes</ns0:keyword>
+                    <ns0:keyword>genomics</ns0:keyword>
+                    <ns0:keyword>insulin</ns0:keyword>
+                    <ns0:keyword>mouse strains</ns0:keyword>
+                    <ns0:keyword>protocols</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Juvenile Diabetes Research Foundation International</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">JDRF</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://jdrf.org/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:00vqxjy61</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate>2001</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate>2015</ns0:responsibilityEndDate>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Institute of Diabetes and Digestive and Kidney Diseases</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NIDDK</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.niddk.nih.gov/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:00adh9b73</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate>2001</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate>2015</ns0:responsibilityEndDate>
+                                    <ns0:institutionContact>http://www.niddk.nih.gov/Pages/contact-us.aspx</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Institutes of Health</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NIH</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.nih.gov/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:01cwqze88</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate>2001</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate>2015</ns0:responsibilityEndDate>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">U.S.Department of Health &amp; Human Services</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">HHS</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.hhs.gov/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:033jnv181</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate>2001</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate>2015</ns0:responsibilityEndDate>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Vanderbilt University, Beta Cell Biology Consortium, Coordinating Center</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">BCBC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.betacell.org/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>2001</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>BCBC policies and guidelines</ns0:policyName>
+                <ns0:policyURL>http://www.betacell.org/about/policies/#pg</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                    <ns0:databaseLicense>
+                <ns0:databaseLicenseName>Copyrights</ns0:databaseLicenseName>
+                <ns0:databaseLicenseURL>http://www.mgtaylor.com/</ns0:databaseLicenseURL>
+            </ns0:databaseLicense>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>closed</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>other</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www.betacell.org/content/disclaimerterms/#terms</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>http://www.betacell.org/about/policies/#citation</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">RDF Data Cube Vocabulary</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/rdf-data-cube-vocabulary</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks>!!!"Sorry, we are no longer in operation. This information was last updated on July 31, 2015". !!! The Beta Cell Biology Consortium (BCBC) is a team science initiative that was established by the National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK). It was first funded in 2001 (RFA DK-01-014), and competitively continued in 2005 (RFAs DK-01-17, DK-01-18), and in 2009 (RFA DK-09-011).
+Currently, the BCBC consists of more than 50 research laboratories, which are funded by U-01 cooperative agreements.</ns0:remarks>
+        <ns0:entryDate>2013-01-30</ns0:entryDate>
+        <ns0:lastUpdate>2021-09-02</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

@@ -1,0 +1,142 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012732</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">iReceptor</ns0:repositoryName>
+                <ns0:repositoryURL>http://ireceptor.irmacs.sfu.ca/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.ekdqe5</ns0:repositoryIdentifier>
+                <ns0:description language="eng">A data repository for the storage and sharing of Adaptive Immune Receptor Repertoire data. Primary public repository for the iReceptor Platform and Scientific Gateway. Further URL for the repository: http://www.ireceptor.org</ns0:description>
+                    <ns0:repositoryContact>support@ireceptor.org</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2020-12-18">4 billion sequences; 6013 repertoires</ns0:size>
+        <ns0:startDate>2016</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">201 Basic Biological and Medical Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20103 Cell Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20105 General Genetics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">204 Microbiology, Virology and Immunology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20405 Immunology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                <ns0:missionStatementURL>http://ireceptor.irmacs.sfu.ca/about</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Databases</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>B cell receptor complex</ns0:keyword>
+                    <ns0:keyword>BCR</ns0:keyword>
+                    <ns0:keyword>COVID-19</ns0:keyword>
+                    <ns0:keyword>MIARR</ns0:keyword>
+                    <ns0:keyword>T cell receptor</ns0:keyword>
+                    <ns0:keyword>TCR</ns0:keyword>
+                    <ns0:keyword>adaptive immune receptor repertoire</ns0:keyword>
+                    <ns0:keyword>antibody</ns0:keyword>
+                    <ns0:keyword>cancer</ns0:keyword>
+                    <ns0:keyword>immunotherapy</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Adaptive Immune Receptor Repertoire  Comunity</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">AIRR Community</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.antibodysociety.org/the-airr-community/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">B.C. Knowledge Development Fund</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">BCKDF</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">British Columbia Knowledge Development Fund</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www2.gov.bc.ca/gov/content/governments/about-the-bc-government/technology-innovation/bckdf</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">CANARIE</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">CFI</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.canarie.ca/?referral=home</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:01nztpc84</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">INNOVATION.CA</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">CFI</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">Canada Foundation for Innovation</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="fra">Fondation Canadienne pour l'innovation</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.innovation.ca/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:000az4664</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:SCR_005054</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:SCR_011134</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_144042</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_144043</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Simon Fraser University</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">SFU</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.sfu.ca/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:0213rcc28</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:SCR_011529</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_81338</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Simon Fraser University, IRMACS Centre, iReceptor</ns0:institutionName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://ireceptor.irmacs.sfu.ca/node/28</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>iReceptor Documentation</ns0:policyName>
+                <ns0:policyURL>http://ireceptor.irmacs.sfu.ca/platform/doc</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                            <ns0:databaseAccessRestriction>registration</ns0:databaseAccessRestriction>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Public Domain</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://ireceptor.irmacs.sfu.ca/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                <ns0:versioning />
+                    <ns0:api apiType="REST">http://ipa5.ireceptor.org/v2/samples</ns0:api>
+                    <ns0:api apiType="REST">https://ipa4.ireceptor.org/v2/samples</ns0:api>
+                    <ns0:api apiType="REST">https://ipa2.ireceptor.org/v2/samples</ns0:api>
+                    <ns0:api apiType="REST">https://ipa3.ireceptor.org/v2/samples</ns0:api>
+                    <ns0:api apiType="REST">https://ipa1.ireceptor.org/v2/samples</ns0:api>
+                        <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks>Both the iReceptor Public Archive (IPA) (Simon Fraser University/Compute Canada) and VDJServer (University of Texas Southwestern Medical School) repositories are available.
+Researchers can use the iReceptor Scientific Gateway by applying for an account and logging in to the web interface at https://gateway.ireceptor.org/login.</ns0:remarks>
+        <ns0:entryDate>2018-07-04</ns0:entryDate>
+        <ns0:lastUpdate>2020-12-18</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

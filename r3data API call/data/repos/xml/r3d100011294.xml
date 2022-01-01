@@ -1,0 +1,110 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011294</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">MetaCyc</ns0:repositoryName>
+                    <ns0:additionalName language="eng">Metabolic Pathway Database</ns0:additionalName>
+                    <ns0:additionalName language="eng">a member of the BioCyc database collection</ns0:additionalName>
+                <ns0:repositoryURL>https://metacyc.org/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.yytevr</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>OMICS_02718</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:SCR_007778</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:nif-0000-03114</ns0:repositoryIdentifier>
+                <ns0:description language="eng">MetaCyc is a curated database of experimentally elucidated metabolic pathways from all domains of life. 
+MetaCyc contains pathways involved in both primary and secondary metabolism, as well as associated metabolites, reactions, enzymes, and genes. The goal of MetaCyc is to catalog the universe of metabolism by storing a representative sample of each experimentally elucidated pathway.
+MetaCyc applications include: Online encyclopedia of metabolism, Prediction of metabolic pathways in sequenced genomes, Support metabolic engineering via enzyme database, Metabolite database aids. metabolomics research.</ns0:description>
+                    <ns0:repositoryContact>biocyc-support@ai.sri.com</ns0:repositoryContact>
+                    <ns0:repositoryContact>https://metacyc.org/contact.shtml</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2019-12-04">2.722 pathways; 3009 different organisms</ns0:size>
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">201 Basic Biological and Medical Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20101 Biochemistry</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20105 General Genetics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20107 Bioinformatics and Theoretical Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">204 Microbiology, Virology and Immunology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20401 Metabolism, Biochemistry and Genetics of Microorganisms</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                <ns0:missionStatementURL />
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Software applications</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>genomics</ns0:keyword>
+                    <ns0:keyword>life sciences</ns0:keyword>
+                    <ns0:keyword>metabolic engineering</ns0:keyword>
+                    <ns0:keyword>molecular biology</ns0:keyword>
+                    <ns0:keyword>systems biology</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">National Institutes of Health, National Institute of General Medical Sciences</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NIH NIGMS</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.nigms.nih.gov/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:04q48ey07</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">SRI International</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.sri.com/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:05s570m15</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.sri.com/contact/</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>BioCycUserGuide</ns0:policyName>
+                <ns0:policyURL>https://biocyc.org/BioCycUserGuide.shtml</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Curator Guide for Pathway / Genome Databases</ns0:policyName>
+                <ns0:policyURL>https://bioinformatics.ai.sri.com/ptools/curatorsguide.pdf</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                    <ns0:databaseLicense>
+                <ns0:databaseLicenseName>other</ns0:databaseLicenseName>
+                <ns0:databaseLicenseURL>https://metacyc.org/download.shtml</ns0:databaseLicenseURL>
+            </ns0:databaseLicense>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://metacyc.org/all-reg.shtml</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>other</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                    <ns0:api apiType="REST">https://metacyc.org/web-services.shtml</ns0:api>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://metacyc.org/</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                    <ns0:syndication syndicationType="RSS">https://feeds.feedburner.com/BioCycUpdates?format=xml</ns0:syndication>
+                <ns0:remarks>MetaCyc is covered by Thomson Reuters Data Citation Index. MetaCyc contains links to many other bioinformatics DBs: 
+Pathways link to EcoCyc, the University of Minnesota Biocatalysis/Biodegradation Database, the KEGG Ligand database, and the Soybase database.
+Proteins contain unification links to UniProt/Swiss-Prot, FlyBase, DictyBase, DIP, DisProt, STRING, EuPathDB, PhosphoSite, PRIDE, PROSITE, SMR, and MINT.
+Proteins also contain relationship links to SMART, PANTHER, ProDom, PRINTS, CAZy, PDB, Pfam, and InterPro.
+Reactions link to ENZYME, KEGG, BRENDA, Rhea, and IUBMB.
+Chemical compounds link to PubChem, NCI Open Database, ChEBI, KEGG, Chemical Abstracts, Wikipedia ChemSpider, DrugBank, BiGG and KEGG Glycan.
+Genes link to NCBI Entrez nucleotide and gene databases, to TAIR (The Arabidopsis Information Resource) and to the Coli Genetic Stock Center.
+All types of objects may contain literature citations, which link to PubMed when available.</ns0:remarks>
+        <ns0:entryDate>2014-11-25</ns0:entryDate>
+        <ns0:lastUpdate>2021-10-11</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

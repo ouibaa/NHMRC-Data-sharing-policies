@@ -1,0 +1,127 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011602</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">EELS Data Base</ns0:repositoryName>
+                    <ns0:additionalName language="eng">Electron energy loss spectroscopy Data Base</ns0:additionalName>
+                    <ns0:additionalName language="eng">Inner &amp; Outer Shell Excitation Spectrum Repository</ns0:additionalName>
+                <ns0:repositoryURL>https://eelsdb.eu/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>ISSN 2430-3593</ns0:repositoryIdentifier>
+                <ns0:description language="eng">The EELS database is a public interactive consultable web repository of outer-shell and inner-shell excitation spectra from Electron Energy Loss Spectroscopy and X-Ray experiments, which forms a reference catalog of fine structures for materials. Each spectrum is available with a full set of recording parameters providing a complete overview of the working conditions. The database must also be seen as a research tool for EEL spectroscopists, theoreticians, students, or private firms and a central &#8220;location&#8221; for the growing EELS community.</ns0:description>
+                    <ns0:repositoryContact>sfmu@sfmu.fr</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2018-12-14">276 spectra</ns0:size>
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31 Chemistry</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">32 Physics</ns0:subject>
+                <ns0:missionStatementURL>https://eelsdb.eu/about/</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>XAS</ns0:keyword>
+                    <ns0:keyword>condensed matter</ns0:keyword>
+                    <ns0:keyword>material science</ns0:keyword>
+                    <ns0:keyword>periodic table</ns0:keyword>
+                    <ns0:keyword>spectroscopy</ns0:keyword>
+                    <ns0:keyword>x-ray</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="fra">CEMES - CNRS</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="fra">Centre d&#8217;&#201;laboration de Mat&#233;riaux et d&#8217;Etudes Structurales (UPR 8011) - Centre National de la Recherche Scientifique</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>FRA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.cemes.fr/?lang=en</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.cemes.fr/admin01?lang=en</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">French microscopy society SF(my)</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="fra">SF&#181;</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="fra">Societ&#233; Francaise des Microscopes</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>FRA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://90plan.ovh.net/~sfmuredh/thewebsite/?lang=fr</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>sfmu@sfmu.fr</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="fra">METSA</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Electron Microscopy and Atom Probe</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="fra">Microscopie Electronique et Sonde Atomique</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>FRA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://metsa.prod.lamp.cnrs.fr/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://metsa.prod.lamp.cnrs.fr/contact</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="fra">Universit&#233; de Nantes, Institut des Mat&#233;riaux Jean Rouxel</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="fra">IMN</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>FRA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.cnrs-imn.fr/index.php/en/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.cnrs-imn.fr/index.php/en/</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">esteem2</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">european network for electron microscopy</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>EEC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://cordis.europa.eu/project/rcn/104478_en.html</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>2012-10-01</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate>2016-09-30</ns0:responsibilityEndDate>
+                                    <ns0:institutionContact>https://cordis.europa.eu/project/rcn/104478_en.html</ns0:institutionContact>
+                            </ns0:institution>
+                        <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                    <ns0:databaseLicense>
+                <ns0:databaseLicenseName>ODC</ns0:databaseLicenseName>
+                <ns0:databaseLicenseURL>https://opendatacommons.org/licenses/odbl/1.0/</ns0:databaseLicenseURL>
+            </ns0:databaseLicense>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/licenses/by-sa/2.0/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>ODC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://opendatacommons.org/licenses/odbl/1.0/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>Open Data Commons Open Database License</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>http://opendatacommons.org/licenses/odbl/</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                            <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://eelsdb.eu/about/</ns0:citationGuidelineURL>
+                    <ns0:aidSystem>none</ns0:aidSystem>
+                <ns0:enhancedPublication>no</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                    <ns0:syndication syndicationType="RSS">https://eelsdb.eu/spectra/feed/</ns0:syndication>
+                <ns0:remarks />
+        <ns0:entryDate>2015-06-08</ns0:entryDate>
+        <ns0:lastUpdate>2021-08-24</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

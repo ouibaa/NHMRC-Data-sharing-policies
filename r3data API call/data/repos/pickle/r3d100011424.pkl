@@ -1,0 +1,105 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011424</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">The NIST Reference on Constants, Units, and Uncertainty</ns0:repositoryName>
+                    <ns0:additionalName language="eng">NIST Reference on Constants, Units, and Uncertainty</ns0:additionalName>
+                    <ns0:additionalName language="eng">Values of Fundamental Physical Constants</ns0:additionalName>
+                <ns0:repositoryURL>https://physics.nist.gov/cuu/Constants/index.html</ns0:repositoryURL>
+                <ns0:description language="eng">This database gives values of the basic constants and conversion factors of physics and chemistry resulting from the 2002 least-squares adjustment of the fundamental physical constants as published by the CODATA Task Group on Fundamental Constants and recommended for international use by CODATA.</ns0:description>
+                    <ns0:repositoryContact>pml-webmaster@nist.gov</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>1994</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">303 Physical and Theoretical Chemistry</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">307 Condensed Matter Physics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">308 Optics, Quantum Optics and Physics of Atoms, Molecules and Plasmas</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">309 Particles, Nuclei and Fields</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31 Chemistry</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">32 Physics</ns0:subject>
+                <ns0:missionStatementURL>https://physics.nist.gov/cuu/Reference/about.html</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Archived data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>Avogadro constant</ns0:keyword>
+                    <ns0:keyword>Faraday</ns0:keyword>
+                    <ns0:keyword>Newtonian gravitational constant</ns0:keyword>
+                    <ns0:keyword>Planck's constant</ns0:keyword>
+                    <ns0:keyword>QHE</ns0:keyword>
+                    <ns0:keyword>conversion factors</ns0:keyword>
+                    <ns0:keyword>elementary charge</ns0:keyword>
+                    <ns0:keyword>fine-structure constant</ns0:keyword>
+                    <ns0:keyword>free electron g factor</ns0:keyword>
+                    <ns0:keyword>measurement</ns0:keyword>
+                    <ns0:keyword>physical constants</ns0:keyword>
+                    <ns0:keyword>quantum Hall effect</ns0:keyword>
+                    <ns0:keyword>self-consistent values</ns0:keyword>
+                    <ns0:keyword>velocity of light in vacuum</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Committee on Data for Science and Technology, Task Group on Fundamental Constants</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">CODATA Task Group on Fundamental Constants</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>FRA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.codata.org/committees-and-groups/fundamental-physical-constants</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.codata.org/contact-us</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Institute of Standards and Technology, Physical Measurement Laboratory</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NIST, PML</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.nist.gov/pml</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.nist.gov/pml</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Disclaimer</ns0:policyName>
+                <ns0:policyURL>http://nlte.nist.gov/FLY/disclaimer.html</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>NIST quality standards</ns0:policyName>
+                <ns0:policyURL>https://www.nist.gov/nist-information-quality-standards</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>NIST scientific integrity Policy</ns0:policyName>
+                <ns0:policyURL>https://obamawhitehouse.archives.gov/sites/default/files/nist_scientific-integrity-policy.pdf</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.nist.gov/office-director/freedom-information-act</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://physics.nist.gov/cuu/Reference/versioncon.shtml</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                <ns0:remarks>CODATA Internationally recommended 2010 values of the Fundamental Physical Constants
+https://www.nist.gov/pml/data/physicalconst.cfm 
+This site addresses three topics: fundamental physical constants, the International System of Units (SI), which is the modern metric system, and expressing the uncertainty of measurement results. Both essential information and background information are given for each topic.</ns0:remarks>
+        <ns0:entryDate>2015-03-31</ns0:entryDate>
+        <ns0:lastUpdate>2018-12-12</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

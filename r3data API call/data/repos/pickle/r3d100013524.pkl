@@ -1,0 +1,129 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100013524</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">SMU Research Data Repository</ns0:repositoryName>
+                    <ns0:additionalName language="eng">SMU RDR</ns0:additionalName>
+                    <ns0:additionalName language="eng">Singapore Management University Research Data Repository</ns0:additionalName>
+                <ns0:repositoryURL>https://researchdata.smu.edu.sg/</ns0:repositoryURL>
+                <ns0:description language="eng">SMU Research Data Repository (SMU RDR) is a tool and service for researchers from Singapore Management University (SMU) to store, share and publish their research data. SMU RDR accepts a wide range of research data and outputs generated from research projects.</ns0:description>
+                    <ns0:repositoryContact>library@smu.edu.sg</ns0:repositoryContact>
+                            <ns0:type>institutional</ns0:type>
+                <ns0:size updated="2021-03-10">78 datasets</ns0:size>
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">110 Psychology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">111 Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">112 Economics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">113 Jurisprudence</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">12 Social and Behavioural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">4 Engineering Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">409 Computer Science</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">44 Computer Science, Electrical and System Engineering</ns0:subject>
+                <ns0:missionStatementURL>https://researchguides.smu.edu.sg/c.php?g=924720</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Archived data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Source code</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>accounting</ns0:keyword>
+                    <ns0:keyword>artificial intelligence</ns0:keyword>
+                    <ns0:keyword>business</ns0:keyword>
+                    <ns0:keyword>computer science</ns0:keyword>
+                    <ns0:keyword>data science</ns0:keyword>
+                    <ns0:keyword>econometrics</ns0:keyword>
+                    <ns0:keyword>economics</ns0:keyword>
+                    <ns0:keyword>finance</ns0:keyword>
+                    <ns0:keyword>information systems</ns0:keyword>
+                    <ns0:keyword>law</ns0:keyword>
+                    <ns0:keyword>political science</ns0:keyword>
+                    <ns0:keyword>psychology</ns0:keyword>
+                    <ns0:keyword>social science</ns0:keyword>
+                    <ns0:keyword>sociology</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Singapore Management University</ns0:institutionName>
+                                <ns0:institutionCountry>SGP</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.smu.edu.sg/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:050qmg959</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Terms of Use</ns0:policyName>
+                <ns0:policyURL>https://researchguides.smu.edu.sg/rdr/terms</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                    <ns0:databaseLicense>
+                <ns0:databaseLicenseName>other</ns0:databaseLicenseName>
+                <ns0:databaseLicenseURL>https://figshare.com/disclaimer</ns0:databaseLicenseURL>
+            </ns0:databaseLicense>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>embargoed</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>institutional membership</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Apache License 2.0</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.apache.org/licenses/LICENSE-2.0</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>CC0</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/share-your-work/public-domain/cc0/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>ODC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://opendatacommons.org/licenses/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://opensource.org/licenses/MIT</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.gnu.org/licenses/gpl-3.0.html</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>institutional membership</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>Deposit agreement</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>https://researchguides.smu.edu.sg/rdr/terms</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                            <ns0:software>
+                <ns0:softwareName>other</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                    <ns0:api apiType="FTP">https://knowledge.figshare.com/app-category/figshare-tools</ns0:api>
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                    <ns0:aidSystem>ORCID</ns0:aidSystem>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">DataCite Metadata Schema</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/datacite-metadata-schema</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                    <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">Dublin Core</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks />
+        <ns0:entryDate>2021-03-09</ns0:entryDate>
+        <ns0:lastUpdate>2021-03-13</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

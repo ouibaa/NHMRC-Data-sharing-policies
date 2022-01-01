@@ -1,0 +1,114 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012295</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Alaska Native Language Archive</ns0:repositoryName>
+                    <ns0:additionalName language="eng">ANLA</ns0:additionalName>
+                    <ns0:additionalName language="eng">Michael E. Krauss Alaska Native Language Archive</ns0:additionalName>
+                <ns0:repositoryURL>http://www.uaf.edu/anla/</ns0:repositoryURL>
+                <ns0:description language="eng">The Alaska Native Language Archive houses documentation of the various Native languages of Alaska and helps to preserve and cultivate this unique heritage for future generations. As the premier repository worldwide for information relating to the Native languages of Alaska, the Archive serves researchers, teachers and students, as well as members of the broader community. The collection includes both published and unpublished materials in or on all of the Alaska Native languages and related languages. The collection has enduring cultural, historic, and intellectual value, particularly for Alaska Native language speakers and their descendants</ns0:description>
+                    <ns0:repositoryContact>anla@alaska.edu</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2009</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">104 Linguistics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11 Humanities</ns0:subject>
+                <ns0:missionStatementURL>http://www.uaf.edu/anla/about/</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Audiovisual data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Databases</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>Alaska Native Languages</ns0:keyword>
+                    <ns0:keyword>Eyak Language Collection</ns0:keyword>
+                    <ns0:keyword>Haida language</ns0:keyword>
+                    <ns0:keyword>Indian Languages</ns0:keyword>
+                    <ns0:keyword>Inuit-Yupik-Unangan Languages</ns0:keyword>
+                    <ns0:keyword>Knut Bergsland Special Collection</ns0:keyword>
+                    <ns0:keyword>Tsimshian language</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">University of Alaska Fairbanks</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">UAF</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.uaf.edu</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of Alaska Fairbanks,  Alaska Native Language Center</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">ANLC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.uaf.edu/anlc/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of Alaska Fairbanks, College of Liberal Arts</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">CLA</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.uaf.edu/cla/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of Alaska Fairbanks, Elmer E. Rasmuson Library</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://library.uaf.edu/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Gift policy</ns0:policyName>
+                <ns0:policyURL>http://www.uaf.edu/anla/about/deposit/</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>embargoed</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>other</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://creativecommons.org/licenses/by-nc-nd/3.0/us/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>Deed of gift</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>http://www.uaf.edu/files/anla/deed_of_gift.pdf</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                        <ns0:versioning>no</ns0:versioning>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                    <ns0:syndication syndicationType="ATOM">http://anlarchive.blogspot.com/feeds/posts/default</ns0:syndication>
+                    <ns0:syndication syndicationType="RSS">http://anlarchive.blogspot.com/feeds/posts/default?alt=rss</ns0:syndication>
+                <ns0:remarks />
+        <ns0:entryDate>2017-01-07</ns0:entryDate>
+        <ns0:lastUpdate>2017-01-12</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

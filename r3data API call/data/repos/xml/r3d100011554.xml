@@ -1,0 +1,123 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011554</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Coherent X-ray Imaging Data Bank</ns0:repositoryName>
+                    <ns0:additionalName language="eng">CXIDB</ns0:additionalName>
+                <ns0:repositoryURL>https://cxidb.org/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.y6w78m</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:SCR_014722</ns0:repositoryIdentifier>
+                <ns0:description language="eng">Welcome to the Coherent X-ray Imaging Data Bank (CXIDB), a new database which offers scientists from all over the world a unique opportunity to access data from Coherent X-ray Imaging (CXI) experiments. CXIDB is dedicated to further the goal of making data from Coherent X-ray Imaging (CXI) experiments available to all, as well as archiving it.</ns0:description>
+                    <ns0:repositoryContact>cxidb@cxidb.org</ns0:repositoryContact>
+                    <ns0:repositoryContact>https://cxidb.org/contact.html</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">203 Zoology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20301 Systematics and Morphology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">308 Optics, Quantum Optics and Physics of Atoms, Molecules and Plasmas</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">30801 Optics, Quantum Optics, Atoms, Molecules, Plasmas</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">309 Particles, Nuclei and Fields</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">30901 Particles, Nuclei and Fields</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">316 Geochemistry, Mineralogy and Crystallography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31601 Geochemistry, Mineralogy and Crystallography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">32 Physics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL>http://cxidb.org/mission.html</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Archived data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Audiovisual data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Software applications</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>CXI file format</ns0:keyword>
+                    <ns0:keyword>x-ray imaging</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Lawrence Berkeley National Laboratory</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Berkeley Lab</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.lbl.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.lbl.gov/visit/</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Energy Research Scientific Computing Center</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NERSC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.nersc.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.nersc.gov/about/contact-us/</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">U.S. Department of Energy Office of Science</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">U.S. DOE Office of Science</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://science.energy.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://science.energy.gov/about/contact/</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">U.S. Department of Energy's Scientific Discovery through Advanced Computing program</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">SciDAC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.scidac.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.scidac.gov/contactSD.html</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>CXI File Format</ns0:policyName>
+                <ns0:policyURL>https://github.com/FilipeMaia/CXI/raw/master/cxi_file_format.pdf</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Copyrights</ns0:policyName>
+                <ns0:policyURL>http://cxidb.org/browse.html</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://cxidb.org/browse.html</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                <ns0:citationGuidelineURL>http://cxidb.org/index.html</ns0:citationGuidelineURL>
+                    <ns0:aidSystem>none</ns0:aidSystem>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                <ns0:remarks>CXIDB is covered by Thomson Reuters Data Citation Index.</ns0:remarks>
+        <ns0:entryDate>2015-02-18</ns0:entryDate>
+        <ns0:lastUpdate>2021-09-08</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

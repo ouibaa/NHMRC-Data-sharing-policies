@@ -1,0 +1,116 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011716</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">eartH2Observe</ns0:repositoryName>
+                    <ns0:additionalName language="eng">Global Earth Observation for Integrated Water Resource Assessment</ns0:additionalName>
+                <ns0:repositoryURL>http://www.earth2observe.eu/</ns0:repositoryURL>
+                <ns0:description language="eng">EartH2Observe brings together the findings from European FP projects DEWFORA, GLOWASIS, WATCH, GEOWOW and others. It will integrate available global earth observations (EO), in-situ datasets and models and will construct a global water resources re-analysis dataset of significant length (several decades). The resulting data will allow for improved insights on the full extent of available water and existing pressures on global water resources in all parts of the water cycle. The project will support efficient and globally consistent water management and decision making by providing comprehensive multi-scale (regional, continental and global) water resources observations. It will test new EO data sources, extend existing processing algorithms and combine data from multiple satellite missions in order to improve the overall resolution and reliability of EO data included in the re-analysis dataset. The resulting datasets will be made available through an open Water Cycle Integrator data portal https://wci.earth2observe.eu/ : the European contribution to the GEOSS/WCI approach. The datasets will be downscaled for application in case-studies at regional and local levels, and optimized based on identified European and local needs supporting water management and decision making . Actual data access: https://wci.earth2observe.eu/data/group/earth2observe</ns0:description>
+                    <ns0:repositoryContact>v.levizzani@isac.cnr.it</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2018-01-18">517 datasets</ns0:size>
+        <ns0:startDate>2014-01</ns0:startDate>
+        <ns0:endDate>2017</ns0:endDate>
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">315 Geophysics and Geodesy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31502 Geodesy, Photogrammetry, Remote Sensing, Geoinformatics, Cartogaphy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">318 Water Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31801 Hydrogeology, Hydrology, Limnology, Urban Water Management, Water Chemistry, Integrated Water Resources Management</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL>http://www.earth2observe.eu/?page_id=4120</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>atmosphere</ns0:keyword>
+                    <ns0:keyword>climatology</ns0:keyword>
+                    <ns0:keyword>earth science</ns0:keyword>
+                    <ns0:keyword>hydrology</ns0:keyword>
+                    <ns0:keyword>meteorology</ns0:keyword>
+                    <ns0:keyword>ocean</ns0:keyword>
+                    <ns0:keyword>water cycle</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">European Commission, Research &amp; Innovation, Seventh Framework Programm - FP7</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">EU</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>EEC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://ec.europa.eu/research/fp7/index_en.cfm</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://ec.europa.eu/info/departments/research-and-innovation_en</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Plymouth Marine Laboratory</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">PML</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>GBR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.pml.ac.uk/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>SBG@pml.ac.uk</ns0:institutionContact>
+                                    <ns0:institutionContact>https://www.pml.ac.uk/Contact-us</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Stichting Deltares</ns0:institutionName>
+                                <ns0:institutionCountry>NLD</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.deltares.nl/en</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>jaap.schellekens@deltares.nl</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">eartH2Observe Consortium</ns0:institutionName>
+                                <ns0:institutionCountry>AAA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.earth2observe.eu/?page_id=4298</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Open definition</ns0:policyName>
+                <ns0:policyURL>http://opendefinition.org/</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Policy Context</ns0:policyName>
+                <ns0:policyURL>http://www.earth2observe.eu/?page_id=4136</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/licenses/by-sa/4.0/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>CKAN</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                    <ns0:api apiType="FTP">https://wci.earth2observe.eu/</ns0:api>
+                    <ns0:api apiType="NetCDF">https://wci.earth2observe.eu/</ns0:api>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                    <ns0:aidSystem>none</ns0:aidSystem>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                    <ns0:syndication syndicationType="RSS">http://www.earth2observe.eu/?feed=rss2</ns0:syndication>
+                <ns0:remarks>This project has received funding from the European Union&#8217;s Seventh Programme for research, technological development and demonstration under grant agreement No 603608.</ns0:remarks>
+        <ns0:entryDate>2016-02-16</ns0:entryDate>
+        <ns0:lastUpdate>2021-08-25</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

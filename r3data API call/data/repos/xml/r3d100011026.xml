@@ -1,0 +1,116 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011026</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Global Pesticides Release Data</ns0:repositoryName>
+                    <ns0:additionalName language="fra">BDMoRP</ns0:additionalName>
+                    <ns0:additionalName language="eng">GloPeRD</ns0:additionalName>
+                    <ns0:additionalName language="fra">la Base de donn&#233;es mondiale sur les rejets de pesticides</ns0:additionalName>
+                <ns0:repositoryURL>https://dr-dn.cisti-icist.nrc-cnrc.gc.ca/eng/view/object/?id=ba38501b-15cd-4b94-acf7-a3dc0753a66b</ns0:repositoryURL>
+                <ns0:description language="eng">The repository is no longer available. &gt;&gt;&gt;!!!&lt;&lt;&lt; 2019-02-05: no more access to Global Pesticides Release Data &gt;&gt;&gt;!!!&lt;&lt;&lt;</ns0:description>
+                            <ns0:type>other</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2011</ns0:startDate>
+        <ns0:endDate>2019-02-05</ns0:endDate>
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>fra</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">201 Basic Biological and Medical Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20101 Biochemistry</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">203 Zoology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20303 Animal Ecology, Biodiversity and Ecosystem Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">301 Molecular Chemistry</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">305 Biological Chemistry and Food Chemistry</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31 Chemistry</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">317 Geography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31702 Human Geography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL />
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>Canadian Arctic</ns0:keyword>
+                    <ns0:keyword>emission spectroscopy</ns0:keyword>
+                    <ns0:keyword>heavy metals</ns0:keyword>
+                    <ns0:keyword>pesticides and wildlife</ns0:keyword>
+                    <ns0:keyword>pesticides industry</ns0:keyword>
+                    <ns0:keyword>pollutants</ns0:keyword>
+                    <ns0:keyword>pollutants - environmental aspects</ns0:keyword>
+                    <ns0:keyword>radionuclides</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Environment and Climate Change Canada</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">ECCC</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="fra">Environnement et Changement climatique Canada</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.canada.ca/en/environment-climate-change.html</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>ec.enviroinfo.ec@canada.ca</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Global Emissions InitiAtive</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">GEIA</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.geiacenter.org/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Northern Contaminants Program</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NCP</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="fra">PLCN</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="fra">Programme de lutte contre les contaminants dans le Nord</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.science.gc.ca/eic/site/063.nsf/eng/h_7A463DBA.html</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Archived Policy Statement of the Government of Canada</ns0:policyName>
+                <ns0:policyURL>http://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=12316</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Policy and Guidance of the Government of Canada</ns0:policyName>
+                <ns0:policyURL>https://www.canada.ca/en/environmental-assessment-agency/services/policy-guidance.html</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Terms and conditions of the Government of Canada</ns0:policyName>
+                <ns0:policyURL>http://www.ec.gc.ca/default.asp?lang=En&amp;xml=5830C36B-1773-4E3E-AF8C-B21F54633E0A</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>restricted</ns0:databaseAccessType>
+                            <ns0:databaseAccessRestriction>registration</ns0:databaseAccessRestriction>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www.ec.gc.ca/default.asp?lang=En&amp;xml=5830C36B-1773-4E3E-AF8C-B21F54633E0A</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www.ec.gc.ca/default.asp?lang=En&amp;xml=5830C36B-1773-4E3E-AF8C-B21F54633E0A</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                <ns0:versioning />
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                <ns0:remarks>description: GloPeRD is a database of emission and residue data primarily for pesticides. Entries include emission and surrogate data on pollutants in the Arctic ecosystem.</ns0:remarks>
+        <ns0:entryDate>2014-09-17</ns0:entryDate>
+        <ns0:lastUpdate>2019-02-05</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

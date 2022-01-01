@@ -1,0 +1,143 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011329</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="fra">Ortolang</ns0:repositoryName>
+                    <ns0:additionalName language="eng">Open Resources and TOols for LanGuage</ns0:additionalName>
+                    <ns0:additionalName language="fra">Outils et Ressources pour un Traitement Optimis&#233; de la LANGue</ns0:additionalName>
+                <ns0:repositoryURL>https://www.ortolang.fr/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>ISSN 2417-7482</ns0:repositoryIdentifier>
+                <ns0:description language="eng">ORTOLANG is an EQUIPEX project accepted in February 2012 in the framework of investissements d&#8217;avenir. Its aim is to construct a network infrastructure including a repository of language data (corpora, lexicons, dictionaries etc.) and readily available, well-documented tools for its processing. Expected outcomes comprize:
+promoting research on analysis, modelling and automatic processing of our language to their highest international levels thanks to effective resource pooling;
+facilitating the use and transfer of resources and tools set up within public laboratories to industrial partners, notably SMEs which often cannot develop such resources and tools for language processing given the cost of investment;
+promoting French language and the regional languages of France by sharing expertise acquired by public laboratories.
+ORTOLANG is a service for the language, which is complementary to the service offered by Huma-Num (tr&#232;s grande infrastructure de recherche). Ortolang gives access to SLDR for speech, and CNRTL for text resources.</ns0:description>
+                    <ns0:repositoryContact>contact@ortolang.fr</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2019-08-23">466.568 files; 420 resources; 7.4 TB of data</ns0:size>
+        <ns0:startDate>2012</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>fra</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">104 Linguistics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11 Humanities</ns0:subject>
+                <ns0:missionStatementURL />
+                    <ns0:contentType contentTypeScheme="parse">Audiovisual data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                            <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>corpora</ns0:keyword>
+                    <ns0:keyword>dictionary</ns0:keyword>
+                    <ns0:keyword>etymology</ns0:keyword>
+                    <ns0:keyword>lexicon</ns0:keyword>
+                    <ns0:keyword>morphology</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="fra">Analyse et Traitement Informatique de La Langue Francaise, Centre National de Ressources Textuelles et Lexicales</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="fra">CNRTL</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">Computer Processing and Analysis of the French Language</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="fra">atilf</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>FRA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.atilf.fr/spip.php?rubrique18</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">CLARIN-ERIC</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Common Language Resources and Technology Infrastructure</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>EEC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.clarin.eu/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="fra">Centre National de la Recherche Scientifique</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="fra">CNRS</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>FRA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.cnrs.fr/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="fra">Gouvernement de France, Commissariat g&#233;n&#233;ral &#224; l'Investissement d'avenir</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="fra">CGI</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>FRA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.gouvernement.fr/secretariat-general-pour-l-investissement-sgpi</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="fra">Huma-Num</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="fra">la TGIR des humanit&#233;s num&#233;riques</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>FRA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.huma-num.fr/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="fra">Universit&#233; de Lorraine</ns0:institutionName>
+                                <ns0:institutionCountry>FRA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.univ-lorraine.fr/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Mentions L&#233;gales</ns0:policyName>
+                <ns0:policyURL>https://www.ortolang.fr/legal-notices</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Open Access</ns0:policyName>
+                <ns0:policyURL>http://openaccess.inist.fr/</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/licenses/by-nc-sa/2.0/fr/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.ortolang.fr/legal-notices</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                <ns0:versioning>yes</ns0:versioning>
+                    <ns0:api apiType="OAI-PMH">http://sldr.org/oai-pmh.php?verb=ListIdentifiers&amp;metadataPrefix=oai_dc&amp;set=ortolang</ns0:api>
+                            <ns0:pidSystem>ARK</ns0:pidSystem>
+                    <ns0:pidSystem>hdl</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">Dublin Core</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                    <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">other</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/abcd-access-biological-collection-data</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks>Ortolang is part of the future French node of European CLARIN center network and participates with DARIAH Digital Research Infrastructure for the Arts and Humanities. SLDR for speech, and CNRTL for text, are the resources centres from which a French sub-network of CLARIN centres is being built: the ORTOLANG project (programme Investissements d'avenir, ANR-11-EQPX-0032).</ns0:remarks>
+        <ns0:entryDate>2014-09-30</ns0:entryDate>
+        <ns0:lastUpdate>2020-11-26</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

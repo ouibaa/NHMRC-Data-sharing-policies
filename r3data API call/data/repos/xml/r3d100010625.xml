@@ -1,0 +1,226 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010625</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">ECCAD - the GEIA database</ns0:repositoryName>
+                    <ns0:additionalName language="eng">Emissions of atmospheric Compounds &amp; Compilation of Ancillary Data</ns0:additionalName>
+                    <ns0:additionalName language="eng">Global Emission Inventories Activity</ns0:additionalName>
+                <ns0:repositoryURL>http://eccad.aeris-data.fr/</ns0:repositoryURL>
+                <ns0:description language="eng">The main goal of the ECCAD project is to provide scientific and policy users with datasets of surface emissions of atmospheric compounds, and ancillary data, i.e. data required to estimate or quantify surface emissions.
+The supply of ancillary data - such as maps of population density, maps of fires spots, burnt areas, land cover - could help improve and encourage the development of new emissions datasets.
+ECCAD offers:
+Access to global and regional emission inventories and ancillary data, in a standardized format
+Quick visualization of emission and ancillary data
+Rationalization of the use of input data in algorithms or emission models
+Analysis and comparison of emissions datasets and ancillary data
+Tools for the evaluation of emissions and ancillary data
+ECCAD is a dynamical and interactive database, providing the most up to date datasets including data used within ongoing projects. Users are welcome to add their own datasets, or have their regional masks included in order to use ECCAD tools.</ns0:description>
+                    <ns0:repositoryContact>https://eccad.aeris-data.fr/contact-us-ask-questions/</ns0:repositoryContact>
+                    <ns0:repositoryContact>laurence.fleury@obs-mip.fr</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2011</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>fra</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">304 Analytical Chemistry, Method Development (Chemistry)</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31 Chemistry</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31301 Atmospheric Science</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL>http://eccad.aeris-data.fr/#</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Software applications</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>CO map</ns0:keyword>
+                    <ns0:keyword>NOx</ns0:keyword>
+                    <ns0:keyword>ancillary data</ns0:keyword>
+                    <ns0:keyword>biofuel emissions</ns0:keyword>
+                    <ns0:keyword>biogenic emissions</ns0:keyword>
+                    <ns0:keyword>combustion rates</ns0:keyword>
+                    <ns0:keyword>global change</ns0:keyword>
+                    <ns0:keyword>greenhouse gases</ns0:keyword>
+                    <ns0:keyword>ozone</ns0:keyword>
+                    <ns0:keyword>pyrogenic emissions</ns0:keyword>
+                    <ns0:keyword>radiative emissions</ns0:keyword>
+                    <ns0:keyword>surface emissions</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="fra">Agence de l'Environnement et de la Ma&#238;trise de l'Energie</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="fra">ADEME</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">French Environment and Energy Management Agency</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>FRA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.ademe.fr/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="fra">Centre National d'&#201;tudes Spatiales</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="fra">CNES</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>FRA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://cnes.fr/en</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">ESPRI Data Centre</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="fra">Ensemble de Services Pour la Recherche &#224; l'IPSL data centre</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="fra">Ensemble de Services Pour la Recherche &#224; l'Institut Pierre Simon Laplace data centre</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="fra">Ether (formerly)</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>FRA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://cds-espri.ipsl.upmc.fr/etherTypo/index.php?id=1450&amp;L=1</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://cds-espri.ipsl.fr/etherTypo/index.php?id=1742&amp;L=1</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">European Commission, Research &amp; Innovation, Seventh Framework Programm - FP7</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">FP7</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>EEC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://ec.europa.eu/research/fp7/index_en.cfm</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://ec.europa.eu/research/index.cfm?pg=contacts&amp;origin=tools-contact</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Global Emissions InitiAtive</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">GEIA</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">Improving our understanding of air quality and climate</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>AAA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.geiacenter.org/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.geiacenter.org/contact</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="fra">Institut National des Sciences de l'Univers</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="fra">CNRS INSU</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>FRA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.insu.cnrs.fr/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Integrated Land Ecosystem - Atmosphere Processes Study</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">iLEAPS</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>FIN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.ileaps.org/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">International Geosphere-Biosphere Programme</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">IGBP</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>AAA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL />
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">International Global Atmospheric Chemistry Project</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">IGAC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>AAA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.igacproject.org/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Monitoring atmospheric composition &amp; climate</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">macc</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>EEC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.ecmwf.int/sites/default/files/Monitoring_Atmospheric_Composition_and_Climate_MACC-II.pdf</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Aeronautics and Space Administration</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NASA</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>sponsoring</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.nasa.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="fra">Observatoire Midi-Pyr&#233;n&#233;es - OMP, SErvice de DOnn&#233;es de L'OMP</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="fra">SEDOO</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>FRA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.obs-mip.fr/Services-communs-OMP/sedoo</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.obs-mip.fr/presentation/acces</ns0:institutionContact>
+                                    <ns0:institutionContact>laurence.fleury@obs-mip.fr</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>ECCAD users's manual</ns0:policyName>
+                <ns0:policyURL>http://eccad.aeris-data.fr/Doc/User-Manual.pdf</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>restricted</ns0:databaseAccessType>
+                            <ns0:databaseAccessRestriction>registration</ns0:databaseAccessRestriction>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://eccad.sedoo.fr/eccad_extract_interface/JSF/page_project3.jsf</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://eccad.sedoo.fr/eccad_extract_interface/doc/pdf/Eccad_users_manual.pdf</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                    <ns0:api apiType="NetCDF">http://eccad.aeris-data.fr/#</ns0:api>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>http://eccad.aeris-data.fr/Doc/User-Manual.pdf</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">CF (Climate and Forecast) Metadata Conventions</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/cf-climate-and-forecast-metadata-conventions</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks>ECCAD is part of the Ether Pole, the French Center of Atmospheric Products and Service, developed under a partnership between CNES (Centre National d&#8217;Etudes Spatiales)and (Institut National des Sciences de l&#8217;Univers) to facilitate access and encourage exploitation of all data and expert knowledge in this field.
+The ECCAD database and web application developments have been undertaken by CNRS/INSU and financed thanks to CNES efforts since the beginning of the
+project, and to ADEME on a three year basis. The ECCAD project contributes to French projects (CNRS, CNES and ADEME), projects funded by the European Commission within the 7th framework programs (MACC-II, ACCENT-Plus, CITYZEN, PEGASOS, ACCESS, etc.), and to International programs such as IGAC/IGBP and iLEAPS/IGBP. ECCAD is also the emissions database of the Global Emissions InitiAtive (GEIA)</ns0:remarks>
+        <ns0:entryDate>2014-02-25</ns0:entryDate>
+        <ns0:lastUpdate>2021-08-24</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

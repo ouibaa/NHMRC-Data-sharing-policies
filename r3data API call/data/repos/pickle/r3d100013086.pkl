@@ -1,0 +1,101 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100013086</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Survey Research Data Archive</ns0:repositoryName>
+                    <ns0:additionalName language="eng">SRDA</ns0:additionalName>
+                <ns0:repositoryURL>https://srda.sinica.edu.tw/index_en.php</ns0:repositoryURL>
+                <ns0:description language="eng">The sources of the data sets include data sets donated by researchers, surveys carried out by SRDA, as well as by government department and other academic organizations. Prior to the release of data sets, the confidentiality and sensitivity of every survey data set are evaluated. Standard data management and cleaning procedures are applied to ensure data accuracy and completeness. In addition, metadata and relevant supplement files are also edited and attached.</ns0:description>
+                    <ns0:repositoryContact>srda@gate.sinica.edu.tw</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2019-06-19">more than 2.200 datasets</ns0:size>
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>zho</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11 Humanities</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">111 Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">112 Economics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11204 Business Administration</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">12 Social and Behavioural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">4 Engineering Sciences</ns0:subject>
+                <ns0:missionStatementURL>https://srda.sinica.edu.tw/about.php?switchlang=en</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Databases</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>cross-sectional study</ns0:keyword>
+                    <ns0:keyword>government survey</ns0:keyword>
+                    <ns0:keyword>panel study</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Academia Sinica Taiwan, Research Center for Humanities and Social Sciences,  Center for Survey Research</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">CSR</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">RCHSS</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="zho">&#20013;&#22830;&#30740;&#31350;&#38498; &#20154;&#25991;&#31038;&#26371;&#31185;&#23416;&#30740;&#31350;&#20013;&#24515;  &#35519;&#26597;&#30740;&#31350;&#23560;&#38988;&#20013;&#24515;</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>TWN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://survey.sinica.edu.tw/Eweb/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Conditions for use</ns0:policyName>
+                <ns0:policyURL>https://srda.sinica.edu.tw/SRDA/userfiles/files/SRDA%20brief%20FIN(1).pdf</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>CoreTrustSeal Assessment</ns0:policyName>
+                <ns0:policyURL>https://www.coretrustseal.org/wp-content/uploads/2019/06/Survey-Research-Data-Archive.pdf</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Data Delivery instructions</ns0:policyName>
+                <ns0:policyURL>https://srda.sinica.edu.tw/portal_y3.php?button_num=y3</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Privacy and security policy</ns0:policyName>
+                <ns0:policyURL>https://srda.sinica.edu.tw/privacyandsecuritypolicy.php</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>institutional membership</ns0:dataAccessRestriction>
+                                    <ns0:dataAccessRestriction>other</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://srda.sinica.edu.tw/SRDA/userfiles/files/SRDA%20brief%20FIN(1).pdf</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>Data upload</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>https://srda.sinica.edu.tw/portal_y1-0.php?button_num=y1</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                            <ns0:software>
+                <ns0:softwareName>Nesstar</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                    <ns0:certificate>other</ns0:certificate>
+                    <ns0:certificate>other</ns0:certificate>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">DDI - Data Documentation Initiative</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/ddi-data-documentation-initiative</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks>Survey Research Data Archive is covered by Clarivate Data Citation Index . Networks of Asian Social Science Data  Archives NASSDA.
+SRDA is a regular member of ICSU World Data System - WDS</ns0:remarks>
+        <ns0:entryDate>2019-06-19</ns0:entryDate>
+        <ns0:lastUpdate>2021-08-11</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

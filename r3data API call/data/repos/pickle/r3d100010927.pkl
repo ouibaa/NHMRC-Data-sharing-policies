@@ -1,0 +1,173 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010927</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Barcode of Life Data Systems</ns0:repositoryName>
+                    <ns0:additionalName language="eng">BOLD Systems</ns0:additionalName>
+                    <ns0:additionalName language="eng">The Barcode Library</ns0:additionalName>
+                <ns0:repositoryURL>http://www.boldsystems.org/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.en9npn</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>OMICS_17578</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:SCR_004278</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:nlx_29236</ns0:repositoryIdentifier>
+                <ns0:description language="eng">The Barcode of Life Data Systems (BOLD) provides DNA barcode data. BOLD's online workbench supports data validation, annotation, and publication for specimen, distributional, and molecular data. The platform consists of four main modules: a data portal, a database of barcode clusters, an educational portal, and a data collection workbench.
+BOLD is the go-to site for DNA-based identification. As the central informatics platform for DNA barcoding, BOLD plays a crucial role in assimilating and organizing data gathered by the international barcode research community. Two iBOL (International Barcode of Life) Working Groups are supporting the ongoing development of BOLD.</ns0:description>
+                    <ns0:repositoryContact>http://www.boldsystems.org/index.php/Resources/ContactUs</ns0:repositoryContact>
+                    <ns0:repositoryContact>info@boldsystems.org</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                    <ns0:type>institutional</ns0:type>
+                <ns0:size updated="2019-01-08">6.666k Barcodes; 595k BINs; 195k Animal Species; 68k Plant Species;  22k Fungi and Other Species</ns0:size>
+        <ns0:startDate>2005</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">201 Basic Biological and Medical Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20105 General Genetics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20107 Bioinformatics and Theoretical Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">202 Plant Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20207 Plant Genetics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">203 Zoology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20306 Animal Genetics, Cell and Developmental Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                <ns0:missionStatementURL>http://www.boldsystems.org/index.php/Resources/whatIsBOLD</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Databases</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>BIN</ns0:keyword>
+                    <ns0:keyword>Barcode Index Number</ns0:keyword>
+                    <ns0:keyword>COI</ns0:keyword>
+                    <ns0:keyword>DNA</ns0:keyword>
+                    <ns0:keyword>bacteria</ns0:keyword>
+                    <ns0:keyword>barcoding</ns0:keyword>
+                    <ns0:keyword>bioinformatics</ns0:keyword>
+                    <ns0:keyword>biology</ns0:keyword>
+                    <ns0:keyword>fungi</ns0:keyword>
+                    <ns0:keyword>gene sequence</ns0:keyword>
+                    <ns0:keyword>microorganisms</ns0:keyword>
+                    <ns0:keyword>molecular biology</ns0:keyword>
+                    <ns0:keyword>plants</ns0:keyword>
+                    <ns0:keyword>species identification</ns0:keyword>
+                    <ns0:keyword>taxonomists</ns0:keyword>
+                    <ns0:keyword>taxonomy</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Canada Foundation for Innovation</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="fra">Fondation canadienne pour l'innovation</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">innovation.ca</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.innovation.ca/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>RRID:SCR_005054</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:SCR_011134</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_144042</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_144043</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.innovation.ca/propos/contacts/address-and-directory</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">International Barcode of Life</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">iBOL</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>AAA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.ibol.org/working-groups/barcode-library/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.ibol.org/contact/</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Natural Sciences and Engineering Research Council of Canada</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="fra">CRSNG</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="fra">Conseil de recherches en sciences naturelles et en g&#233;nie du Canada</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">NSERC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.nserc-crsng.gc.ca/index_eng.asp</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>RRID:SCR_013327</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_39429</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.nserc-crsng.gc.ca/ContactUs-ContactezNous/index_eng.asp</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Ontario Ministry of Economic Development, Job Creation and Trade</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="fra">Minist&#232;re du D&#233;veloppement &#233;conomique, de la Cr&#233;ation d&#8217;emplois et du Commerce</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">formerly: Ontario Ministry of Research and Innovation</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="fra">jadis: Ontario Minist&#232;re de la Recherche et de l'Innovation</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.ontario.ca/page/ministry-economic-development-job-creation-trade</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>RRID:SCR_011445</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>nlx_158221</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.ontario.ca/contact-us</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>data and resource sharing policy</ns0:policyName>
+                <ns0:policyURL>http://www.ibol.org/resources/data-release-policy/</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>iBOL data and resource sharling Policies</ns0:policyName>
+                <ns0:policyURL>http://ibol.org/about-us/how-ibol-works/</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://ibol.org/about-us/how-ibol-works/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://ibol.org/resources/data-release-policy/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>Submission guidelines, forms and agreements</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>http://ibol.org/get-involved/for-scientists/</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                    <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>submissions to BOLD</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>http://www.boldsystems.org/index.php/resources/handbook?chapter=3_submissions.html</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                            <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                    <ns0:api apiType="REST">http://www.boldsystems.org/index.php/resources/api?type=taxonomy</ns0:api>
+                    <ns0:api apiType="REST">http://www.boldsystems.org/index.php/resources/api?type=idengine</ns0:api>
+                    <ns0:api apiType="REST">http://www.boldsystems.org/index.php/resources/api?type=webservices</ns0:api>
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                <ns0:citationGuidelineURL>http://www.boldsystems.org/index.php/Resources</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks>Barcode of Life Data Systems is covered by Clarivate Data Citation Index.
+Partners: iBOL, CBOL, CCDB, GenBank, EOL, GBIF, CBG  
+Other link for this page: http://www.barcodinglife.org/
+BOLD is currently maintained and developed at a single location. Mirror sites will strengthen data security and ensure that system upgrades can be accomplished without transient disruption of services. iBOL is establishing two mirror sites, one in Asia (http://ibol.org/juncai-ma/ ) and the other in Europe (http://ibol.org/vincent-robert/ ), to provide essential security and functionality for BOLD as it supports the global biodiversity community.
+The Global Mirror System of DNA Barcode Data (GMS-DBD http://www.boldmirror.net/ ) is designed as a web-based system to distribute DNA barcode data generated by the International Barcode of Life (iBOL) project.</ns0:remarks>
+        <ns0:entryDate>2014-08-20</ns0:entryDate>
+        <ns0:lastUpdate>2021-08-10</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

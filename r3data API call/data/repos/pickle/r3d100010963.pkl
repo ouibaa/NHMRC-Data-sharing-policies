@@ -1,0 +1,111 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010963</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">National Science Foundation Polar Programs UV Monitoring Network</ns0:repositoryName>
+                    <ns0:additionalName language="eng">NSF UV Monitoring Network</ns0:additionalName>
+                    <ns0:additionalName language="eng">UVSIMN</ns0:additionalName>
+                <ns0:repositoryURL>http://uv.biospherical.com/</ns0:repositoryURL>
+                <ns0:description language="eng">The National Science Foundation (NSF) Ultraviolet (UV) Monitoring Network provides data on ozone depletion and the associated effects on terrestrial and marine systems.  Data are collected from 7 sites in Antarctica, Argentina, United States, and Greenland. The network is providing data to researchers studying the effects of ozone depletion on terrestrial and marine biological systems. Network data is also used for the validation of satellite observations and for the verification of models describing the transfer of radiation through the atmosphere.</ns0:description>
+                    <ns0:repositoryContact>bernhard@biospherical.com</ns0:repositoryContact>
+                    <ns0:repositoryContact>http://uv.biospherical.com/contact.asp</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                    <ns0:type>institutional</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>1989</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31301 Atmospheric Science</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">315 Geophysics and Geodesy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31501 Geophysics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31502 Geodesy, Photogrammetry, Remote Sensing, Geoinformatics, Cartogaphy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL>http://www.biospherical.com/index.php?option=com_content&amp;view=article&amp;id=105&amp;Itemid=119</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Archived data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>climate change mitigation</ns0:keyword>
+                    <ns0:keyword>environmental responsibility</ns0:keyword>
+                    <ns0:keyword>ozone</ns0:keyword>
+                    <ns0:keyword>ozone layer</ns0:keyword>
+                    <ns0:keyword>radiometers</ns0:keyword>
+                    <ns0:keyword>spectroradiometer</ns0:keyword>
+                    <ns0:keyword>ultraviolet radiation</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Biospherical Instruments Inc.</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">BSI</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>commercial</ns0:institutionType>
+                <ns0:institutionURL>http://www.biospherical.com/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:05mytgs27</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Science Foundation</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NSF</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.nsf.gov/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:021nxhr62</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:SCR_012938</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_inv_1005118</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Science Foundation, Office of Polar Programs</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">OPP</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.nsf.gov/div/index.jsp?div=OPP</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:05nwjp114</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>SEARCH data policy</ns0:policyName>
+                <ns0:policyURL>https://www.arcus.org/files/page/documents/19286/search_datapolicy_051207.pdf</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>restricted</ns0:databaseAccessType>
+                            <ns0:databaseAccessRestriction>registration</ns0:databaseAccessRestriction>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Public Domain</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.nsf.gov/policies/reuse.jsp</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.arcus.org/files/page/documents/19286/search_datapolicy_051207.pdf</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                    <ns0:api apiType="FTP">ftp://ftp.biospherical.com/NSF</ns0:api>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>http://uv.biospherical.com/login/Login.asp</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks>In 2009, the network was split into Northern and Southern hemisphere components. The network sites at Barrow and Summit became part of NSF's Arctic Observing Network (www.aoncadis.org). BSI continues to be responsible for the operation of these two sites. In 2010, NOAA's Global Monitoring Division took over the helm from the NSF to oversee operation of the instruments at the South Pole, McMurdo Station, and Palmer Station. BSI continues to prepare and quality-control the data of the three sites. Data of the network are now also available from the following repositories: World Ozone and UV Data Center (WOUDC); Advanced Cooperative Arctic Data and Information Service (ACADIS); NOAA Antarctic UV Monitoring Network; Data archive of the Network for the Detection of Atmospheric Composition Change (NDACC); SeaWiFS Bio-optical Archive and Storage System (SeaBASS)</ns0:remarks>
+        <ns0:entryDate>2014-08-29</ns0:entryDate>
+        <ns0:lastUpdate>2021-05-28</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

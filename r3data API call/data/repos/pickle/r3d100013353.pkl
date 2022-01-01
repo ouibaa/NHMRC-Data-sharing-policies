@@ -1,0 +1,107 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100013353</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">TIB Digital Long-Term Archive</ns0:repositoryName>
+                    <ns0:additionalName language="eng">Digital Preservation at TIB</ns0:additionalName>
+                <ns0:repositoryURL>https://www.tib.eu/en/publishing-archiving/digital-preservation</ns0:repositoryURL>
+                <ns0:description language="eng">TIB&#8217;s core task is to provide science and industry with both elementary and highly technical specialist and researchinformation. TIB has globally unique collections in the subject areas of science and technology, as well as architecture,chemistry, computer science, mathematics and physics. Besides textual materials, the library&#8217;s collections also includeknowledge objects such as research data, 3D models and audiovisual media.
+The TIB has assumed responsibility for the long-term preservation and availability of the digital materials it collects and documents, as well as their interpretability for use by different target groups. To this end, it has created the necessary infrastructure and guarantees the permanent provision of both material and human resources.
+Search for research data search at: https://www.tib.eu/en/search-discover/research-data</ns0:description>
+                    <ns0:repositoryContact>https://www.tib.eu/en/publishing-archiving/digital-preservation#c1751</ns0:repositoryContact>
+                    <ns0:repositoryContact>thomas.baehr@tib.eu</ns0:repositoryContact>
+                            <ns0:type>institutional</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>deu</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">4 Engineering Sciences</ns0:subject>
+                <ns0:missionStatementURL>https://www.tib.eu/en/tib/policies/preservation-policy?</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Audiovisual data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>multidisciplinary</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="deu">Technische Informationsbibliothek</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">German National Library of Science and Technology</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">Leibniz Information Centre for Science and Technology - University Library</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="deu">Leibniz-Informationszentrum Technik und Naturwissenschaften - Universit&#228;tsbibliothek</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="deu">TIB</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.tib.eu/en/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:04aj4c181</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>CoreTrustSeal assessment</ns0:policyName>
+                <ns0:policyURL>https://www.coretrustseal.org/wp-content/uploads/2020/06/TIB-Digital-Long-Term-Archive.pdf</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Preservation Policy of the three National German Libraries</ns0:policyName>
+                <ns0:policyURL>https://www.tib.eu/en/tib/policies/preservation-policy-of-the-three-german-national-subject-libraries</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>TIB Digital Preservation Policy</ns0:policyName>
+                <ns0:policyURL>https://www.tib.eu/en/service/tib-preservation-policy</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Terms of Use</ns0:policyName>
+                <ns0:policyURL>https://www.tib.eu/en/service/terms-of-use/</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>closed</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                    <ns0:databaseLicense>
+                <ns0:databaseLicenseName>Public Domain</ns0:databaseLicenseName>
+                <ns0:databaseLicenseURL>https://creativecommons.org/publicdomain/zero/1.0/deed.en</ns0:databaseLicenseURL>
+            </ns0:databaseLicense>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>closed</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>other</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/licenses/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.tib.eu/fileadmin/extern/knm/regular_agreement.pdf</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>institutional membership</ns0:dataUploadRestriction>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>Open Access License Agreement</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>https://www.tib.eu/fileadmin/extern/knm/OpenAccess-License-NTM.pdf</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                            <ns0:software>
+                <ns0:softwareName>other</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                    <ns0:api apiType="other">https://www.tib.eu/en/tib/open-data/</ns0:api>
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                    <ns0:certificate>other</ns0:certificate>
+                    <ns0:certificate>other</ns0:certificate>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">Dublin Core</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks />
+        <ns0:entryDate>2020-06-09</ns0:entryDate>
+        <ns0:lastUpdate>2021-02-24</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

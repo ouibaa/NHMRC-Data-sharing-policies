@@ -1,0 +1,26 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012053</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">UiT Open Research Data Dataverse</ns0:repositoryName>
+                <ns0:repositoryURL>http://opendata.uit.no/</ns0:repositoryURL>
+                <ns0:description language="eng">!!!   UiT Open Research Data is part of DataverseNO;  re3data:https://doi.org/10.17616/R3TV17</ns0:description>
+                        <ns0:size updated="" />
+        <ns0:startDate />
+        <ns0:endDate />
+                        <ns0:missionStatementURL />
+                                                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                                    <ns0:dataLicense>
+                <ns0:dataLicenseName>CC0</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/share-your-work/public-domain/cc0/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                                        <ns0:versioning>yes</ns0:versioning>
+                        <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                <ns0:remarks />
+        <ns0:entryDate>2016-06-24</ns0:entryDate>
+        <ns0:lastUpdate>2021-09-09</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

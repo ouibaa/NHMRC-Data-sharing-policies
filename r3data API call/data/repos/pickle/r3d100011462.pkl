@@ -1,0 +1,68 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011462</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Selected constants energy levels and atomic spectra of actinides</ns0:repositoryName>
+                    <ns0:additionalName language="fra">Constantes selectionnees niveaux d'energie et spectres atomiques des actinides</ns0:additionalName>
+                <ns0:repositoryURL>http://web2.lac.u-psud.fr/lac/Database/Contents.html</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>ISSN 2428-257X</ns0:repositoryIdentifier>
+                <ns0:description language="eng">&gt;&gt;&gt;!!!&lt;&lt;&lt; The repository is no longer available. &gt;&gt;&gt;!!!&lt;&lt;&lt;
+The aim of the present volume is the compilation of experimental data. The Tables of energy levels are presented in a way similar to the "Atomic Energy levels the Rare Earth Elements", and incorporate additionnal data: isotope shifts and hyperfine structures. For each spectrum, they are separated in two lists of odd and even levels, the parity of the ground level being given first.</ns0:description>
+                    <ns0:repositoryContact>http://web2.lac.u-psud.fr/spip.php?auteur1&amp;lang=fr</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate />
+        <ns0:endDate>2020</ns0:endDate>
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">308 Optics, Quantum Optics and Physics of Atoms, Molecules and Plasmas</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31 Chemistry</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">32 Physics</ns0:subject>
+                <ns0:missionStatementURL />
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>actinides</ns0:keyword>
+                    <ns0:keyword>atomic physics</ns0:keyword>
+                    <ns0:keyword>molecular physics</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="fra">Laboratoire Aim&#233; Cotton</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">LAC</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">UMR9188</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>FRA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.lac.u-psud.fr/?lang=en</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Disclaimer</ns0:policyName>
+                <ns0:policyURL>http://web2.lac.u-psud.fr/spip.php?page=credits</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://web2.lac.u-psud.fr/spip.php?page=credits</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                    <ns0:aidSystem>none</ns0:aidSystem>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                <ns0:remarks />
+        <ns0:entryDate>2015-05-18</ns0:entryDate>
+        <ns0:lastUpdate>2021-09-08</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

@@ -1,0 +1,85 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010818</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">ISPS Data Archive</ns0:repositoryName>
+                    <ns0:additionalName language="eng">Institution for Social and Policy Studies Data Archive</ns0:additionalName>
+                    <ns0:additionalName language="eng">Yale ISPS</ns0:additionalName>
+                <ns0:repositoryURL>https://isps.yale.edu/research/data/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>RRID:SCR_003127</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:nlx_156779</ns0:repositoryIdentifier>
+                <ns0:description language="eng">The majority of digital content in the ISPS Data Archive currently consists of social science research data from experiments, program files with the code for analyzing these data, requisite documentation to use and understand the data, and associated files. Access to the ISPS Data Archive is provided at no cost and is granted for scholarship and research purposes only.</ns0:description>
+                    <ns0:repositoryContact>https://isps.yale.edu/contact</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">111 Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11104 Political Science</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">112 Economics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">12 Social and Behavioural Sciences</ns0:subject>
+                <ns0:missionStatementURL>https://isps.yale.edu/research/data</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>bioethics</ns0:keyword>
+                    <ns0:keyword>economics</ns0:keyword>
+                    <ns0:keyword>interoperability</ns0:keyword>
+                    <ns0:keyword>life-cycle management</ns0:keyword>
+                    <ns0:keyword>political ethics</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Yale University</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.yale.edu/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.yale.edu/about/contact.html</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Terms of Use Agreement</ns0:policyName>
+                <ns0:policyURL>https://isps.yale.edu/research/data/terms-of-use</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                    <ns0:databaseLicense>
+                <ns0:databaseLicenseName>CC</ns0:databaseLicenseName>
+                <ns0:databaseLicenseURL>https://creativecommons.org/licenses/by-nc-nd/3.0/us/</ns0:databaseLicenseURL>
+            </ns0:databaseLicense>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>closed</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/licenses/by-nc-nd/3.0/us/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>ISPS Data Archive Deposit Agreement</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>http://isps.yale.edu/sites/default/files/files/ISPS%20Data%20Deposit%20Agreement%20Form%205_17_2011.pdf</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                            <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                            <ns0:pidSystem>hdl</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://isps.yale.edu/research/data/d061#.U95vlGM3-KIisps.yale.edu/sites/default/files/files/ISPS%20Data%20Deposit%20Agreement%20Form%205_17_2011.pdf</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks />
+        <ns0:entryDate>2014-07-23</ns0:entryDate>
+        <ns0:lastUpdate>2018-11-23</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

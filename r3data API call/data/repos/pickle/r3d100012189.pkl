@@ -1,0 +1,126 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012189</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">T3DB</ns0:repositoryName>
+                    <ns0:additionalName language="eng">Toxic Exposome Database</ns0:additionalName>
+                    <ns0:additionalName language="eng">Toxin and Toxin Target Database</ns0:additionalName>
+                <ns0:repositoryURL>http://www.t3db.ca/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>RRID:OMICS_01592</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:SCR_002672</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:nif-0000-22933</ns0:repositoryIdentifier>
+                <ns0:description language="eng">The Toxin and Toxin Target Database is a unique bioinformatics resource that combines detailed toxin data with comprehensive toxin target information. The focus of the T3DB is on providing mechanisms of toxicity and target proteins for each toxin. This dual nature of the T3DB, in which toxin and toxin target records are interactively linked in both directions, makes it unique from existing databases.</ns0:description>
+                    <ns0:repositoryContact>http://www.t3db.ca/w/contact</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2016-10-19">3,673 toxins described by 41,733 synonyms</ns0:size>
+        <ns0:startDate>2010</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">201 Basic Biological and Medical Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20101 Biochemistry</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20107 Bioinformatics and Theoretical Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">205 Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20510 Toxicology and Occupational Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                <ns0:missionStatementURL>http://www.t3db.ca/about</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>biochemistry</ns0:keyword>
+                    <ns0:keyword>bioinformatics</ns0:keyword>
+                    <ns0:keyword>cellular interactions</ns0:keyword>
+                    <ns0:keyword>chemical structure</ns0:keyword>
+                    <ns0:keyword>drugs</ns0:keyword>
+                    <ns0:keyword>food toxins</ns0:keyword>
+                    <ns0:keyword>medicine</ns0:keyword>
+                    <ns0:keyword>molecular  interactions</ns0:keyword>
+                    <ns0:keyword>pesticides</ns0:keyword>
+                    <ns0:keyword>pollutants</ns0:keyword>
+                    <ns0:keyword>toxic exposome</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Alberta Innovates Health Solutions</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">AIHS</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.aihealthsolutions.ca/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.aihealthsolutions.ca/contact/general-inquiries/</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Canadian Institutes of Health Research</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">CIHR</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="fra">IRSC</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="fra">Instituts de recherche en sant&#233; du Canada</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.cihr-irsc.gc.ca/e/193.html</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.cihr-irsc.gc.ca/e/9833.html</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Genome Alberta</ns0:institutionName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://genomealberta.ca/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://genomealberta.ca/contact-us/</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">The Metabolomics Innovation Centre</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">TMIC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.metabolomicscentre.ca/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.metabolomicscentre.ca/contact</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of Alberta, Faculty of Science, Departments of Biological Sciences and Computing Science, Wishart Research Group</ns0:institutionName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.wishartlab.com/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>Wishart Lab @WishartLab</ns0:institutionContact>
+                            </ns0:institution>
+                        <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www.t3db.ca/downloads</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>http://www.t3db.ca/</ns0:citationGuidelineURL>
+                    <ns0:aidSystem>none</ns0:aidSystem>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                <ns0:remarks>Each toxin record (ToxCard) contains over 90 data fields and holds information such as chemical properties and descriptors, toxicity values, molecular and cellular interactions, and medical information.</ns0:remarks>
+        <ns0:entryDate>2016-10-19</ns0:entryDate>
+        <ns0:lastUpdate>2021-09-22</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

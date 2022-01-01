@@ -1,0 +1,107 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010932</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Gene Expression Nervous System Atlas</ns0:repositoryName>
+                    <ns0:additionalName language="eng">GENSAT</ns0:additionalName>
+                <ns0:repositoryURL>http://www.gensat.org/index.html</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>OMICS_03318</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:SCR_002721</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:nif-0000-00130</ns0:repositoryIdentifier>
+                <ns0:description language="eng">The GENSAT project aims to map the expression of genes in the central nervous system of the mouse. It is a collection of pictorial gene expression maps of the brain and spinal cord of the mouse.</ns0:description>
+                    <ns0:repositoryContact>http://www.gensat.org/contact.jsp</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                    <ns0:type>institutional</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2001</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">201 Basic Biological and Medical Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">203 Zoology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20306 Animal Genetics, Cell and Developmental Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">206 Neurosciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20601 Molecular Neuroscience and Neurogenetics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                <ns0:missionStatementURL>http://www.gensat.org/about.jsp</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>gene expression</ns0:keyword>
+                    <ns0:keyword>mice - genetic aspects</ns0:keyword>
+                    <ns0:keyword>mice - genetics</ns0:keyword>
+                    <ns0:keyword>nervous system</ns0:keyword>
+                    <ns0:keyword>neurology</ns0:keyword>
+                    <ns0:keyword>neurology - data processing</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">National Institutes of Health Blueprint</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NIH Blueprint for Neuroscience Research</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://neuroscienceblueprint.nih.gov/resources-tools/gensat</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>RRID:SCR_003670</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nif-0000-00219</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>blueprint@mail.nih.gov</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Institutes of Health, National Institute of Neurological Disorders and Stroke</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NIH NINDS</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.ninds.nih.gov/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>RRID:SCR_013116</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_inv_1005110</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.ninds.nih.gov/Contact-Us</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Rockefeller University</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.rockefeller.edu/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>RRID:SCR_011501</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_83733</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>Nathaniel.Heintz@rockefeller.edu</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Contents</ns0:policyName>
+                <ns0:policyURL>http://www.gensat.org/about.jsp</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www.gensat.org/about.jsp</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>other</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>http://www.gensat.org/daily_showcase.jsp</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks>Distribution of  strains requires submission of the MMRRC Conditions of Use (COU). A link to the COU web form will be provided via email after an order has been placed; the form should be completed then or the email forwarded to your institutional official for completion.
+The donor or their institution limits the distribution to non-profit institutions only. Additional charges may apply for any special requests. Shipping costs are in addition to the basic distribution/resuscitation fees. Information on shipping costs and any additional charges will be provided by the supplying MMRRC facility.</ns0:remarks>
+        <ns0:entryDate>2014-08-22</ns0:entryDate>
+        <ns0:lastUpdate>2019-01-15</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

@@ -1,0 +1,78 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011431</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">NIST Energy Levels of Hydrogen and Deuterium</ns0:repositoryName>
+                    <ns0:additionalName language="eng">Energy Levels of Hydrogen and Deuterium</ns0:additionalName>
+                    <ns0:additionalName language="eng">NIST Standard Reference Database 142</ns0:additionalName>
+                <ns0:repositoryURL>https://www.nist.gov/pml/energy-levels-hydrogen-and-deuterium</ns0:repositoryURL>
+                <ns0:description language="eng">This database provides theoretical values of energy levels of hydrogen and deuterium for principle quantum numbers n = 1 to 200 and all allowed orbital angular momenta l and total angular momenta j. The values are based on current knowledge of the revelant theoretical contributions including relativistic, quantum electrodynamic, recoil, and nuclear size effects.</ns0:description>
+                    <ns0:repositoryContact>https://www.nist.gov/pml/energy-levels-hydrogen-and-deuterium</ns0:repositoryContact>
+                    <ns0:repositoryContact>mohr@nist.gov</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2004</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">308 Optics, Quantum Optics and Physics of Atoms, Molecules and Plasmas</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">309 Particles, Nuclei and Fields</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">32 Physics</ns0:subject>
+                <ns0:missionStatementURL />
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>Deuterium</ns0:keyword>
+                    <ns0:keyword>Hydrogen</ns0:keyword>
+                    <ns0:keyword>energy levels</ns0:keyword>
+                    <ns0:keyword>numerical calculation</ns0:keyword>
+                    <ns0:keyword>transition frequencies</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">U.S. Department of Commerce,  National Institute of Standards and Technology</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NIST</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.nist.gov/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>RRID:SCR_006440</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_144073</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.nist.gov/director/pao/media-contacts</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Environmental Policy Statement</ns0:policyName>
+                <ns0:policyURL>https://www.nist.gov/environmental-policy-statement</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>NIST Information Quality Standards</ns0:policyName>
+                <ns0:policyURL>https://www.nist.gov/nist-information-quality-standards</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.nist.gov/foia</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://physics.nist.gov/PhysRefData/HDEL/version.shtml</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks />
+        <ns0:entryDate>2015-04-07</ns0:entryDate>
+        <ns0:lastUpdate>2019-12-05</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

@@ -1,0 +1,90 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010985</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Human Proteinpedia</ns0:repositoryName>
+                <ns0:repositoryURL>http://www.humanproteinpedia.org</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>FAIRsharing_DOI:10.25504/FAIRsharing.xxdxtv</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:nif-0000-02999</ns0:repositoryIdentifier>
+                <ns0:description language="eng">Human Proteinpedia is a community portal for sharing and integration of human protein data. This is a joint project between Pandey at Johns Hopkins University, and Institute of Bioinformatics, Bangalore. This portal allows research laboratories around the world to contribute and maintain protein annotations. Human Protein Reference Database (HPRD) integrates data, that is deposited in Human Proteinpedia along with the existing literature curated information in the context of an individual protein. All the public data contributed to Human Proteinpedia can be queried, viewed and downloaded.
+Data pertaining to post-translational modifications, protein interactions, tissue expression, expression in cell lines, subcellular localization and enzyme substrate relationships may be deposited.</ns0:description>
+                    <ns0:repositoryContact>http://hprd.org/help</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2019-12-04">2.710 experiments; 15.231 protein entries; 1.960.352 peptide identifications; 4.855.122 MS/MS spectra; 150.368 protein expression, 17.410 post-translational modifications; 34.624 protein-protein ineractions; 2.906 subcellular localization</ns0:size>
+        <ns0:startDate>2006</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">201 Basic Biological and Medical Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20104 Structural Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20107 Bioinformatics and Theoretical Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">205 Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20503 Human Genetics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                <ns0:missionStatementURL />
+                    <ns0:contentType contentTypeScheme="parse">Archived data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>bioinformatics</ns0:keyword>
+                    <ns0:keyword>human proteins</ns0:keyword>
+                    <ns0:keyword>protein binding</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Institute of Bioinformatics</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">IOB</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>IND</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.ibioinformatics.org/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Johns Hopkins University, Pandey Lab</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.hopkinsmedicine.org/institute_basic_biomedical_sciences/research_centers/high_throughput_biology_hit/technology_center_networks_pathways/investigators/pandey.html</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Data Services</ns0:policyName>
+                <ns0:policyURL>https://dmp.data.jhu.edu/resources/jhu-policies/</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>closed</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>other</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://guides.library.jhu.edu/copyright</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                <ns0:versioning>yes</ns0:versioning>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>no</ns0:qualityManagement>
+                                <ns0:remarks>Human Proteinpedia supports HUPO Proteomics Standards Initiative mzTab Specification</ns0:remarks>
+        <ns0:entryDate>2014-09-09</ns0:entryDate>
+        <ns0:lastUpdate>2021-11-16</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

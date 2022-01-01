@@ -1,0 +1,109 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011844</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Pacific Islands Families Study</ns0:repositoryName>
+                    <ns0:additionalName language="eng">PIF Study</ns0:additionalName>
+                <ns0:repositoryURL>https://niphmhr.aut.ac.nz/research-centres/centre-for-pacific-health-and-development-research/pacific-islands-families-study</ns0:repositoryURL>
+                <ns0:description language="eng">The Pacific Islands Families (PIF) Study is an ongoing longitudinal birth cohort study that has been tracking the health and development of 1,398 Pacific children and their parents since the children were born at Middlemore Hospital in South Auckland in the year 2000. It is the only prospective study specifically of Pacific peoples in the world.</ns0:description>
+                    <ns0:repositoryContact>https://biodesign.aut.ac.nz/contact-us</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2000</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">106 Non-European Languages and Cultures, Social and Cultural Anthropology, Jewish Studies and Religious Studies</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">10601 Social and Cultural Anthropology and Ethnology/Folklore</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11 Humanities</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">111 Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11102 Empirical Social Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">12 Social and Behavioural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">205 Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20502 Public Health, Health Services Research, Social Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20520 Pediatric and Adolescent Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                <ns0:missionStatementURL>https://phrc.aut.ac.nz/our-research/pacific-islands-families-study#442922-collapse1</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>Cook Islands M&#257;ori</ns0:keyword>
+                    <ns0:keyword>Fijians</ns0:keyword>
+                    <ns0:keyword>Niueans</ns0:keyword>
+                    <ns0:keyword>Pacific ethnicity</ns0:keyword>
+                    <ns0:keyword>Pasifika</ns0:keyword>
+                    <ns0:keyword>S&#257;moans</ns0:keyword>
+                    <ns0:keyword>Tokelauans</ns0:keyword>
+                    <ns0:keyword>Tongans</ns0:keyword>
+                    <ns0:keyword>Tuvaluans</ns0:keyword>
+                    <ns0:keyword>air pollution</ns0:keyword>
+                    <ns0:keyword>biostatistics</ns0:keyword>
+                    <ns0:keyword>deafness</ns0:keyword>
+                    <ns0:keyword>hearing problems</ns0:keyword>
+                    <ns0:keyword>nutrition</ns0:keyword>
+                    <ns0:keyword>oral health</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Auckland University of Technology</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">AUT</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>NZL</ns0:institutionCountry>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.aut.ac.nz/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:01zvqw119</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Auckland University of Technology, National Institute for Public Health and Mental Health Research, Centre for Pacific Health and Development Research</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">AUT Pacific Health Research Centre</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">NIPHMHR</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>NZL</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://phrc.aut.ac.nz/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>dtautolo@aut.ac.nz</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Health Research Council of New Zealand</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">HRC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>NZL</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.hrc.govt.nz/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:00zbf3d93</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Terms of use</ns0:policyName>
+                <ns0:policyURL>https://www.aut.ac.nz/copyright</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>other</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.aut.ac.nz/copyright</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                <ns0:remarks>PIF Study is covered by Thomson Reuters Data Citation Index.
+The data from the study is coded and held anonymously in secure storage under the responsibility of the Co-Directors in accordance with the requirements of the New Zealand Privacy Act (1993) and the Health Information Privacy Code (1994).   All interviews are confidential and only PIF Study staff authorised by the Co-Directors have access to computerised data.</ns0:remarks>
+        <ns0:entryDate>2016-04-25</ns0:entryDate>
+        <ns0:lastUpdate>2020-12-09</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

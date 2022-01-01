@@ -1,0 +1,116 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012377</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">B2FIND</ns0:repositoryName>
+                <ns0:repositoryURL>http://b2find.eudat.eu</ns0:repositoryURL>
+                <ns0:description language="eng">B2FIND is a discovery service based on metadata steadily harvested from research data collections from EUDAT data centres and other repositories. The service offers faceted browsing and it allows in particular to discover data that is stored through the B2SAFE and B2SHARE services. The B2FIND service includes metadata that is harvested from many different community repositories.</ns0:description>
+                    <ns0:repositoryContact>https://www.eudat.eu/support-request</ns0:repositoryContact>
+                    <ns0:repositoryContact>info@eudat.eu</ns0:repositoryContact>
+                            <ns0:type>other</ns0:type>
+                <ns0:size updated="2017-06-06">484.805 datasets</ns0:size>
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">4 Engineering Sciences</ns0:subject>
+                <ns0:missionStatementURL>https://eudat.eu/services/b2find</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>FAIR</ns0:keyword>
+                    <ns0:keyword>multidisciplinary</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">B2FIND Communities</ns0:institutionName>
+                                <ns0:institutionCountry>EEC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://b2find.eudat.eu/group</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">EUDAT</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">European Data Infrastructure</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>EEC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.eudat.eu/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.eudat.eu/contact</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">European Union, Horizon 2020</ns0:institutionName>
+                                <ns0:institutionCountry>EEC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://ec.europa.eu/programmes/horizon2020</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://ec.europa.eu/research/participants/portal/desktop/en/support/research_enquiry_service.html</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>B2FIND Usage</ns0:policyName>
+                <ns0:policyURL>https://eudat.eu/services/userdoc/b2find-usage</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Legal notice</ns0:policyName>
+                <ns0:policyURL>https://eudat.eu/legal-notice</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Policy</ns0:policyName>
+                <ns0:policyURL>https://eudat.eu/policy</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>Public Domain</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.eudat.eu/services/userdoc/license-selector</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.eudat.eu/services/userdoc/license-selector</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>CKAN</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                    <ns0:api apiType="REST">https://eudat.eu/services/userdoc/b2find-usage#B2FIND_API</ns0:api>
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                    <ns0:pidSystem>hdl</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">DDI - Data Documentation Initiative</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/ddi-data-documentation-initiative</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                    <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">Dublin Core</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                    <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">ISO 19115</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/iso-19115</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks />
+        <ns0:entryDate>2017-06-01</ns0:entryDate>
+        <ns0:lastUpdate>2021-10-06</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

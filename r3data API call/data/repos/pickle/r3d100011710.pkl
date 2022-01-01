@@ -1,0 +1,171 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011710</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Coriolis</ns0:repositoryName>
+                    <ns0:additionalName language="eng">Operational Oceanography</ns0:additionalName>
+                <ns0:repositoryURL>http://www.coriolis.eu.org/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>ISSN 2495-8956</ns0:repositoryIdentifier>
+                <ns0:description language="eng">The Coriolis Data Centre handles operational oceanography measurements made in situ, complementing the measurement of the ocean surface made using instruments aboard satellites.
+This work is realised through the establishment of permanent networks with data collected by ships or autonomous systems that are either fixed or drifting.
+This data can be used to construct a snapshot of water mass structure and current intensity.</ns0:description>
+                    <ns0:repositoryContact>codac@ifremer.fr</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2001</ns0:startDate>
+        <ns0:endDate>2020</ns0:endDate>
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31302 Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL>http://www.coriolis.eu.org/About-Coriolis/Schedule</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>argo</ns0:keyword>
+                    <ns0:keyword>climate</ns0:keyword>
+                    <ns0:keyword>ecosystem</ns0:keyword>
+                    <ns0:keyword>in-situ</ns0:keyword>
+                    <ns0:keyword>mersea</ns0:keyword>
+                    <ns0:keyword>ocean circulation</ns0:keyword>
+                    <ns0:keyword>operational oceanography</ns0:keyword>
+                    <ns0:keyword>sea</ns0:keyword>
+                    <ns0:keyword>temperature</ns0:keyword>
+                    <ns0:keyword>weather</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="fra">CNES</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="fra">Centre National d'Etudes Spatiales</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>FRA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://cnes.fr/fr</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://cnes.fr/fr/contactez-nous</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="fra">CNRS</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Centre national de la recherche scientifique</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">National Center for Scientific Research</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>FRA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.cnrs.fr/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.cnrs.fr/en/home/contacts.htm</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="fra">IRD</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">L&#8217;Institut de recherche pour le d&#233;veloppement</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>FRA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.ird.fr/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.ird.fr/l-ird/nous-contacter/pour-nous-contacter</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="fra">Ifremer, Sismer</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Institut fran&#231;ais de recherche pour l'exploitation de la mer, Syst&#232;mes d&#8217;informations scientifiques de la Mer</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>FRA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://data.ifremer.fr/SISMER</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://data.ifremer.fr/SISMER/Contacts</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="fra">Institut Polaire Francais</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="fra">IPEV</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">Institut Paul Emile Victor</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>FRA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.institut-polaire.fr/language/fr/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.institut-polaire.fr/site-en/contact-en/</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="fra">M&#233;t&#233;o-France</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="fra">Organisme de M&#233;t&#233;orologie Fran&#231;aise</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>FRA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.meteofrance.fr/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="fra">SHOM</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Service Hydrographique &amp; Oc&#233;anographique de la Marine</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>FRA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.shom.fr/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.shom.fr/util/contact-shom/</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>CLIVAR Data Policy</ns0:policyName>
+                <ns0:policyURL>http://www.clivar.org/resources/data/data-policy</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Data &amp; Products</ns0:policyName>
+                <ns0:policyURL>http://www.coriolis.eu.org/Data-Products</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Overview</ns0:policyName>
+                <ns0:policyURL>http://www.coriolis.eu.org/About-Coriolis/Overview</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>embargoed</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www.coriolis.eu.org/Documentation/Technical-information-of-Coriolis-Web-Site</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>Public Domain</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www.coriolis.eu.org/Legal-notice-acknowledgements/Acknowledgements/Coriolis-data-acknowledgement</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>Submit data</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>http://www.coriolis.eu.org/Data-Products/Submit-data</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                            <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                    <ns0:api apiType="FTP">http://www.coriolis.eu.org/Data-Products/Data-Delivery</ns0:api>
+                    <ns0:api apiType="FTP">ftp://ftp.ifremer.fr/ifremer/argo/</ns0:api>
+                    <ns0:api apiType="NetCDF">http://www.coriolis.eu.org/Data-Products/Data-Delivery</ns0:api>
+                    <ns0:api apiType="OpenDAP">http://tds0.ifremer.fr/thredds/catalog/CORIOLIS-ARGO-GDAC-OBS/catalog.html</ns0:api>
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                <ns0:citationGuidelineURL>http://www.coriolis.eu.org/Legal-notice-acknowledgements/Acknowledgements/Coriolis-data-acknowledgement</ns0:citationGuidelineURL>
+                    <ns0:aidSystem>none</ns0:aidSystem>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks>The CORIOLIS Data Centre is the Global Data Assembly Center (GDAC) for ARGO, OceanSITES and GOSUD project networks.</ns0:remarks>
+        <ns0:entryDate>2016-01-26</ns0:entryDate>
+        <ns0:lastUpdate>2018-12-19</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

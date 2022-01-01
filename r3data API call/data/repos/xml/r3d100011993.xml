@@ -1,0 +1,132 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011993</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">CDC WONDER</ns0:repositoryName>
+                    <ns0:additionalName language="eng">Centers for Disease Control and Prevention, Wide-ranging OnLine Data for Epidemiologic Research</ns0:additionalName>
+                <ns0:repositoryURL>http://wonder.cdc.gov/</ns0:repositoryURL>
+                <ns0:description language="eng">CDC WONDER, developed by the Centers for Disease Control and Prevention (CDC), is an integrated information and communication system for public health. It allows you to access wide-ranging online data for epidemiologic research.</ns0:description>
+                    <ns0:repositoryContact>cwus@cdc.gov</ns0:repositoryContact>
+                    <ns0:repositoryContact>http://wonder.cdc.gov/contactUs.html</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">201 Basic Biological and Medical Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">205 Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20501 Epidemiology, Medical Biometry, Medical Informatics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20502 Public Health, Health Services Research, Social Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                <ns0:missionStatementURL>http://wonder.cdc.gov/wonder/help/faq.html#1</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Archived data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Databases</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>AIDS</ns0:keyword>
+                    <ns0:keyword>Tuberculosis</ns0:keyword>
+                    <ns0:keyword>births</ns0:keyword>
+                    <ns0:keyword>cancer</ns0:keyword>
+                    <ns0:keyword>environmental health</ns0:keyword>
+                    <ns0:keyword>health sciences</ns0:keyword>
+                    <ns0:keyword>hospital discharges</ns0:keyword>
+                    <ns0:keyword>morbidity</ns0:keyword>
+                    <ns0:keyword>mortality</ns0:keyword>
+                    <ns0:keyword>natality</ns0:keyword>
+                    <ns0:keyword>population census</ns0:keyword>
+                    <ns0:keyword>population survey</ns0:keyword>
+                    <ns0:keyword>vaccination</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Centers for Disease Control and Prevention</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">CDC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.cdc.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>cwus@cdc.gov</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Center for Health Statistics</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NCHS</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.cdc.gov/nchs/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://wonder.cdc.gov/ucd-icd10.html</ns0:institutionContact>
+                                    <ns0:institutionContact>nchsquery@cdc.gov</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">U.S. Department of Health and Human Services</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.hhs.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.usa.gov/email</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>CDC Policies and Regulations</ns0:policyName>
+                <ns0:policyURL>http://www.cdc.gov/Other/policies.html</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>NCHS Data Release Policy</ns0:policyName>
+                <ns0:policyURL>http://www.cdc.gov/nchs/about/policy/data_release.htm</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>WONDER Data Use Restrictions</ns0:policyName>
+                <ns0:policyURL>http://wonder.cdc.gov/datause.html</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>embargoed</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>other</ns0:dataAccessRestriction>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>OGL</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://wonder.cdc.gov/datause.html</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>Public Domain</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://wonder.cdc.gov/wonder/help/faq.html#9</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>institutional membership</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                    <ns0:api apiType="other">http://wonder.cdc.gov/wonder/help/WONDER-API.html</ns0:api>
+                        <ns0:citationGuidelineURL>http://wonder.cdc.gov/wonder/help/QuickStart.html#Citation</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                    <ns0:syndication syndicationType="RSS">http://www2c.cdc.gov/podcasts/rss.asp</ns0:syndication>
+                <ns0:remarks>Many of these data sets, and additional data that are not included here, are also directly available to the general public from the National Center for Health Statistics.</ns0:remarks>
+        <ns0:entryDate>2016-05-10</ns0:entryDate>
+        <ns0:lastUpdate>2019-08-06</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

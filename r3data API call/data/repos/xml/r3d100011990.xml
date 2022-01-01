@@ -1,0 +1,108 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011990</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Geoscience Data Repository for Geophysical Data</ns0:repositoryName>
+                    <ns0:additionalName language="fra">Entrep&#244;t de donn&#233;es g&#233;oscientifiques pour les donn&#233;es g&#233;ophysiques</ns0:additionalName>
+                    <ns0:additionalName language="eng">GDR</ns0:additionalName>
+                <ns0:repositoryURL>http://gdr.agg.nrcan.gc.ca/gdrdap/dap/search-eng.php</ns0:repositoryURL>
+                <ns0:description language="eng">The Geoscience Data Repository (GDR) is a collection of Earth Sciences Sector geoscience databases that is managed and accessed by a series of Information Services (GDRIS). This site allows you to discover, view and download information using these services. About 27 data resources are listed and many are also listed in the GeoConnections Discovery Portal.</ns0:description>
+                    <ns0:repositoryContact>canadagreenerhomesgrant-subventionmaisonsvertes@nrcan-rncan.gc.ca</ns0:repositoryContact>
+                    <ns0:repositoryContact>https://contact-contactez.nrcan-rncan.gc.ca/index.cfm?st=5&amp;cat=-1&amp;scat=-1&amp;lang=eng</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>fra</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31302 Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">315 Geophysics and Geodesy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31502 Geodesy, Photogrammetry, Remote Sensing, Geoinformatics, Cartogaphy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">317 Geography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31701 Physical Geography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL />
+                    <ns0:contentType contentTypeScheme="parse">Databases</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>aeromagnetic</ns0:keyword>
+                    <ns0:keyword>borehole</ns0:keyword>
+                    <ns0:keyword>geochemistry</ns0:keyword>
+                    <ns0:keyword>geosciences</ns0:keyword>
+                    <ns0:keyword>gravity</ns0:keyword>
+                    <ns0:keyword>marine geographics</ns0:keyword>
+                    <ns0:keyword>radioactivity</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Government of Canada</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="fra">Gouvernement du Canada</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.canada.ca/en/index.html</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Natural Resources Canada</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NRCan</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="fra">Ressources naturelles Canada</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.nrcan.gc.ca/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://contact-contactez.nrcan-rncan.gc.ca/index.cfm?lang=eng&amp;sid=7&amp;context=earth-sciences</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Disclaimer</ns0:policyName>
+                <ns0:policyURL>http://gdr.agg.nrcan.gc.ca/gdrdap/dap/disclaimer-eng.php</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Government of Canada, Terms and Conditions</ns0:policyName>
+                <ns0:policyURL>https://www.canada.ca/en/transparency/terms.html</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Natural Resources Canada, Terms and Conditions</ns0:policyName>
+                <ns0:policyURL>http://www.nrcan.gc.ca/terms-conditions/10847</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://gdr.agg.nrcan.gc.ca/gdrdap/dap/disclaimer-eng.php</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>http://gdr.agg.nrcan.gc.ca/gdrdap/dap/disclaimer-eng.php</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">FGDC/CSDGM - Federal Geographic Data Committee Content Standard for Digital Geospatial Metadata</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/fgdccsdgm-federal-geographic-data-committee-content-standard-digital-ge</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                    <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">ISO 19115</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/iso-19115</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks>In addition to this web browser application, the holdings of the Geoscience Data Repository for Geophysical Data (GDR) are available: http://gdr.agg.nrcan.gc.ca/gdrdap/dap/faq-eng.php#q11</ns0:remarks>
+        <ns0:entryDate>2016-05-10</ns0:entryDate>
+        <ns0:lastUpdate>2021-10-08</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

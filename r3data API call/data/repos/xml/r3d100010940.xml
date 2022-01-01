@@ -1,0 +1,109 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010940</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">GeoBase</ns0:repositoryName>
+                    <ns0:additionalName language="fra">G&#233;oBase</ns0:additionalName>
+                <ns0:repositoryURL>https://open.canada.ca/data/en/dataset?q=geobase&amp;organization=nrcan-rncan</ns0:repositoryURL>
+                <ns0:description language="eng">The website www.geobase.ca/ closed in January 2015. All GeoBase products are available on the Open Government of Canada portal: https://open.canada.ca/en
+GeoBase initiative provides geospatial data of the entire Canadian landmass for government, business, and/or personal assessments of sustainable resource development, public safety, sanitation, and environmental protection.  Data is available for download as ESRI Shapefile, FGDB, KML, and GML.</ns0:description>
+                    <ns0:repositoryContact>GeoInfo@canada.ca</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                    <ns0:type>institutional</ns0:type>
+                    <ns0:type>other</ns0:type>
+                <ns0:size updated="2018-03-20">11 records in Open Government Portal</ns0:size>
+        <ns0:startDate>2011</ns0:startDate>
+        <ns0:endDate>2015-01-31</ns0:endDate>
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>fra</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">314 Geology and Palaeontology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">315 Geophysics and Geodesy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31501 Geophysics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31502 Geodesy, Photogrammetry, Remote Sensing, Geoinformatics, Cartogaphy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL />
+                    <ns0:contentType contentTypeScheme="parse">Databases</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Networkbased data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>Canada</ns0:keyword>
+                    <ns0:keyword>boundaries</ns0:keyword>
+                    <ns0:keyword>electricity</ns0:keyword>
+                    <ns0:keyword>geospatial data</ns0:keyword>
+                    <ns0:keyword>land cover</ns0:keyword>
+                    <ns0:keyword>physical geography</ns0:keyword>
+                    <ns0:keyword>public safety</ns0:keyword>
+                    <ns0:keyword>railroads</ns0:keyword>
+                    <ns0:keyword>resource allocation</ns0:keyword>
+                    <ns0:keyword>roads</ns0:keyword>
+                    <ns0:keyword>sanitation</ns0:keyword>
+                    <ns0:keyword>satellite geodesy</ns0:keyword>
+                    <ns0:keyword>sustainability</ns0:keyword>
+                    <ns0:keyword>water</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Canadian Council on Geomatics</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">CCOG</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="fra">COCG</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="fra">Conseil canadien de g&#233;omatique</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.ccog-cocg.ca/index_e.html</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Government of Canada, Open Government</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="fra">Gouvernement du Canada, Gouvernement ouvert</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://open.canada.ca/en</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://open.canada.ca/en/forms/contact-us</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>CCOG Data Policies</ns0:policyName>
+                <ns0:policyURL>http://www.ccog-cocg.ca/en/topics</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Treaties, laws and regulations</ns0:policyName>
+                <ns0:policyURL>https://www.canada.ca/en/government/system/laws.html</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>OGLC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://open.canada.ca/en/open-government-licence-canada</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                <ns0:versioning>yes</ns0:versioning>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">FGDC/CSDGM - Federal Geographic Data Committee Content Standard for Digital Geospatial Metadata</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/fgdccsdgm-federal-geographic-data-committee-content-standard-digital-ge</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks>GeoBase is following Open GeoSpatial Consortium (OGC) standards. --- All GeoBase products are available on GeoGratis: http://geogratis.gc.ca/.</ns0:remarks>
+        <ns0:entryDate>2014-08-25</ns0:entryDate>
+        <ns0:lastUpdate>2019-01-15</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

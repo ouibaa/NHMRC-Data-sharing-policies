@@ -1,0 +1,186 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011327</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Berkeley Drosophila Genome Project insitu</ns0:repositoryName>
+                    <ns0:additionalName language="eng">BDGP insitu homepage</ns0:additionalName>
+                    <ns0:additionalName language="eng">Patterns of gene expression in Drosophila embryogenesis</ns0:additionalName>
+                <ns0:repositoryURL>https://insitu.fruitfly.org/cgi-bin/ex/insitu.pl</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>RRID:SCR_002868</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:nif-0000-25550</ns0:repositoryIdentifier>
+                <ns0:description language="eng">In early 2010 we updated the site to facilitate more rapid transfer of our data to the public database and focus our efforts on the core mission of providing expression pattern images to the research community. The original database http://www.fruitfly.org/index.html reproduced functions available on FlyBase, complicating our updates by the requirement to re-synchronize with FlyBase updates. Our expression reports on the new site still link to FlyBase gene reports, but we no longer reproduce FlyBase functions and therefore can update expression data on an ongoing basis instead of more infrequent major releases. All the functions relating to the expression patterns remain and we soon will add an option to search expression patterns by image similarity, in addition to annotation term searches. In a transitional phase we will leave both the old and the new sites up, but the newer data (post Release 2) will appear only on the new website. We welcome any feedback or requests for additional features. - The goals of the Drosophila Genome Center are to finish the sequence of the euchromatic genome of Drosophila melanogaster to high quality and to generate and maintain biological annotations of this sequence. In addition to genomic sequencing, the BDGP is 
+1) producing gene disruptions using P element-mediated mutagenesis on a scale unprecedented in metazoans; 
+2) characterizing the sequence and expression of cDNAs; and 
+3) developing informatics tools that support the experimental process, identify features of DNA sequence, and allow us to present up-to-date information about the annotated sequence to the research community.</ns0:description>
+                    <ns0:repositoryContact>https://insitu.fruitfly.org/cgi-bin/ex/insitu.pl?t=html&amp;p=contact_us</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2019-08-23">expression of 8.478 genes; 139.243 digital photographs</ns0:size>
+        <ns0:startDate>2010</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">203 Zoology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20306 Animal Genetics, Cell and Developmental Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                <ns0:missionStatementURL />
+                    <ns0:contentType contentTypeScheme="parse">Databases</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Software applications</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>D.Melanogaster Release 5 Genome</ns0:keyword>
+                    <ns0:keyword>Drosophila Gene Collection</ns0:keyword>
+                    <ns0:keyword>EST Sequencing</ns0:keyword>
+                    <ns0:keyword>Expression Pattern</ns0:keyword>
+                    <ns0:keyword>Gene Disruption Project</ns0:keyword>
+                    <ns0:keyword>SNP map</ns0:keyword>
+                    <ns0:keyword>Universal Proteomics Resource</ns0:keyword>
+                    <ns0:keyword>modENCODE</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Baylor College of Medicine</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.bcm.edu/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ISNI:0000 0001 2160 926X</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:SCR_015037</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.bcm.edu/contact-us</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Carnegie Institution of Washington</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://carnegiescience.edu/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ISNI:0000 0004 0373 5870</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Drosophila Genome Center</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.fruitfly.org/index.html</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>bdgp at fruitfly dot org</ns0:institutionContact>
+                                    <ns0:institutionContact>http://www.fruitfly.org/about/contacts.html</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Howard Hughes Medical Institute</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">HHMI</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.hhmi.org/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ISNI:0000 0004 0619 9647</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:SCR_011281</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_98347</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Lawrence Berkeley National Laboratory</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Berkeley Lab</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.lbl.gov/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ISNI:0000 0001 2231 4551</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:SCR_011336</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_37075</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Cancer Institute</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NCI</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.cancer.gov/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>RRID:SCR_011403</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_inv_1005082</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Human Genome Research Institute</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NHGRI</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.genome.gov/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ISNI:0000 0001 2233 9230</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>OMICS_01554</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:SCR_003205</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:SCR_006475</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:SCR_011416</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_143900</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_inv_1005098</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">United States Department of Energy</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Energy.gov</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.energy.gov/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ISNI:0000 0004 1261 5133</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:SCR_012841</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_86742</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of California, Berkeley, Department of Molecular and Cell Biology</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://mcb.berkeley.edu/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ISNI:0000 0004 0457 4474</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://mcb.berkeley.edu/about-the-department/contact</ns0:institutionContact>
+                            </ns0:institution>
+                        <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                    <ns0:databaseLicense>
+                <ns0:databaseLicenseName>other</ns0:databaseLicenseName>
+                <ns0:databaseLicenseURL>http://www.gnu.org/copyleft/fdl.html</ns0:databaseLicenseURL>
+            </ns0:databaseLicense>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://insitu.fruitfly.org/cgi-bin/ex/insitu.pl</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                <ns0:versioning>yes</ns0:versioning>
+                    <ns0:api apiType="other">https://insitu.fruitfly.org/cgi-bin/ex/insitu.pl?t=html&amp;p=downloads</ns0:api>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://insitu.fruitfly.org/cgi-bin/ex/insitu.pl?t=html&amp;p=faq</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                <ns0:remarks>The Berkeley Drosophila Genome Project (BDGP) is a consortium of the Drosophila Genome Center; Part of the BDGP Informatics Group is a member of the FlyBase consortium.</ns0:remarks>
+        <ns0:entryDate>2014-09-30</ns0:entryDate>
+        <ns0:lastUpdate>2021-07-02</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

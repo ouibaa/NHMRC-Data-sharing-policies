@@ -1,0 +1,113 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012236</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Agricultural and Environmental Data Archive</ns0:repositoryName>
+                    <ns0:additionalName language="eng">AEDA</ns0:additionalName>
+                <ns0:repositoryURL>http://www.environmentdata.org/</ns0:repositoryURL>
+                <ns0:description language="eng">The Agricultural and Environmental Data Archive (AEDA) is the direct result of a project managed by the Freshwater Biological Association in partnership with the Centre for e-Research at King's College London, and funded by the Department for the Environment, Food &amp; Rural Affairs (Defra). This project ran from January 2011 until December 2014 and was called the DTC Archive Project, because it was initially related to the Demonstration Test Catchments Platform developed by Defra. The archive was also designed to hold data from the GHG R&amp;D Platform (www.ghgplatform.org.uk). After the DTC Archive Project was completed the finished archive was renamed as AEDA to reflect it's broader remit to archive data from any and all agricultural and environmental research activities.</ns0:description>
+                    <ns0:repositoryContact>dis@fba.org.uk</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2011-01</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">23 Agriculture, Forestry, Horticulture and Veterinary Medicine</ns0:subject>
+                <ns0:missionStatementURL>http://www.environmentdata.org/about</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Audiovisual data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>agriculture</ns0:keyword>
+                    <ns0:keyword>emission</ns0:keyword>
+                    <ns0:keyword>greenhouse</ns0:keyword>
+                    <ns0:keyword>hydrology</ns0:keyword>
+                    <ns0:keyword>pollution</ns0:keyword>
+                    <ns0:keyword>sediments</ns0:keyword>
+                    <ns0:keyword>seismic</ns0:keyword>
+                    <ns0:keyword>water quality</ns0:keyword>
+                    <ns0:keyword>weather</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Department for Environment Food &amp; Rural Affairs</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Defra</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>GBR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:00tnppw48</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.gov.uk/contact</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Freshwater Biological Association</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">FBA</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>GBR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.fba.org.uk/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:02j85cg51</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.fba.org.uk/contact-us</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">King's College London</ns0:institutionName>
+                                <ns0:institutionCountry>GBR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.kcl.ac.uk/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:0220mzb33</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">King's College London, Research Portal</ns0:institutionName>
+                                <ns0:institutionCountry>GBR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://kclpure.kcl.ac.uk/portal/en/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>The Data Publication Process</ns0:policyName>
+                <ns0:policyURL>http://mydata.environmentdata.org/data-publication-process</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/licenses/by-nc/3.0/de/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www.environmentdata.org/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                <ns0:versioning>yes</ns0:versioning>
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                <ns0:citationGuidelineURL>http://www.environmentdata.org/archive/fbaia:2654</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">ISO 19115</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/iso-19115</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                    <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">Repository-Developed Metadata Schemas</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/repository-developed-metadata-schemas</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks>AEDA is covered by Thomson Reuters Data Citation Index. The Archive contains many different types of information ranging from, scientific datasets, grey literature, images, video, library catalogue records and a variety of other information. All of this information is stored in an appropriate format for long-term digital curation purposes and adheres to various data standards such as those of the ISO 19100 series and EU Inspire Directive.</ns0:remarks>
+        <ns0:entryDate>2016-11-23</ns0:entryDate>
+        <ns0:lastUpdate>2021-02-10</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

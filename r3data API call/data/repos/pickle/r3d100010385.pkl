@@ -1,0 +1,120 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010385</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="deu">Deutsches Textarchiv</ns0:repositoryName>
+                    <ns0:additionalName language="deu">DTA</ns0:additionalName>
+                <ns0:repositoryURL>http://www.deutschestextarchiv.de/</ns0:repositoryURL>
+                <ns0:description language="eng">The German Text Archive (Deutsches Textarchiv, DTA) presents online a selection of key German-language works in various disciplines from the 17th to 19th centuries. The electronic full-texts are indexed linguistically and the search facilities tolerate a range of spelling variants. The DTA presents German-language printed works from around 1650 to 1900 as full text and as digital facsimile. The selection of texts was made on the basis of lexicographical criteria and includes scientific or scholarly texts, texts from everyday life, and literary works. The digitalisation was made from the first edition of each work. Using the digital images of these editions, the text was first typed up manually twice (&#8216;double keying&#8217;). To represent the structure of the text, the electronic full-text was encoded in conformity with the XML standard TEI P5. The next stages complete the linguistic analysis, i.e. the text is tokenised, lemmatised, and the parts of speech are annotated. The DTA thus presents a linguistically analysed, historical full-text corpus, available for a range of questions in corpus linguistics. Thanks to the interdisciplinary nature of the DTA Corpus, it also offers valuable source-texts for neighbouring disciplines in the humanities, and for scientists, legal scholars and economists.</ns0:description>
+                    <ns0:repositoryContact>redaktion@deutschestextarchiv.de</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2017-06-20">2.642 transcribed texts; 613.312 digitized pages; 1.026.741.165 characters; 146.891.529 tokens</ns0:size>
+        <ns0:startDate>2007</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>deu</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">104 Linguistics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">105 Literary Studies</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11 Humanities</ns0:subject>
+                <ns0:missionStatementURL>http://www.deutschestextarchiv.de/doku/leitlinien</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Networkbased data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Software applications</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>development of the german language</ns0:keyword>
+                    <ns0:keyword>digital facsimile</ns0:keyword>
+                    <ns0:keyword>history</ns0:keyword>
+                    <ns0:keyword>interdisciplinary</ns0:keyword>
+                    <ns0:keyword>linguistics</ns0:keyword>
+                    <ns0:keyword>scholarly texts</ns0:keyword>
+                    <ns0:keyword>scientific texts</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="deu">Berlin-Brandenburgische Akademie der Wissenschaften</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="deu">BBAW</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.bbaw.de/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.deutschestextarchiv.de/doku/impressum#kontakt</ns0:institutionContact>
+                                    <ns0:institutionContact>redaktion@deutschestextarchiv.de</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="deu">CLARIN-D</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="deu">Common Language Resources and Technology Infrastructure - D</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.clarin-d.de/en/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">CLARIN-ERIC</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="deu">Common Language Resources and Technology Infrastructure</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>EEC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.clarin.eu/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="deu">Deutsche Forschungsgemeinschaft</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="deu">DFG</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.dfg.de/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>RRID:SCR_012420</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_144062</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Nutzungsbedingungen</ns0:policyName>
+                <ns0:policyURL>http://www.deutschestextarchiv.de/doku/nutzungsbedingungen</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                    <ns0:databaseLicense>
+                <ns0:databaseLicenseName>CC</ns0:databaseLicenseName>
+                <ns0:databaseLicenseURL>https://creativecommons.org/licenses/by-nc/3.0/de/</ns0:databaseLicenseURL>
+            </ns0:databaseLicense>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/licenses/by-nc/3.0/de/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>Fedora</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                    <ns0:api apiType="OAI-PMH">https://clarin.bbaw.de/oai-dta/</ns0:api>
+                    <ns0:api apiType="OAI-PMH">https://clarin.bbaw.de:8088/oaiprovider</ns0:api>
+                    <ns0:api apiType="other">http://dspin.dwds.de:8088/ddc-sru/dta/</ns0:api>
+                            <ns0:pidSystem>hdl</ns0:pidSystem>
+                <ns0:citationGuidelineURL>http://www.deutschestextarchiv.de/doku/leitlinien</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                    <ns0:syndication syndicationType="ATOM">http://www.deutschestextarchiv.de/dtaq/api/recent</ns0:syndication>
+                    <ns0:syndication syndicationType="ATOM">http://www.deutschestextarchiv.de/api/news</ns0:syndication>
+                    <ns0:syndication syndicationType="ATOM">http://www.deutschestextarchiv.de/api/recent</ns0:syndication>
+                <ns0:remarks>BBAW is one of the CLARIN-D service centres. It's a part of the backbone of the German section of the CLARIN European research infrastructure. federation.</ns0:remarks>
+        <ns0:entryDate>2013-04-03</ns0:entryDate>
+        <ns0:lastUpdate>2020-02-14</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

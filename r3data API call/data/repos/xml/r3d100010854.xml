@@ -1,0 +1,104 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010854</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">The International Research Institute for Climate and Society</ns0:repositoryName>
+                    <ns0:additionalName language="eng">IRI Data Library</ns0:additionalName>
+                    <ns0:additionalName language="eng">IRI/LDEO Climate Data Library</ns0:additionalName>
+                <ns0:repositoryURL>https://iri.columbia.edu/resources/data-library/</ns0:repositoryURL>
+                <ns0:description language="eng">International Research Institute for Climate and Society (IRI) research focuses on climate, environmental monitoring, agriculture, health, water, and economic sectors in Africa, Asia and Pacific, and Latin America and Caribbean.  The IRI data library is a freely accessible data repository and analysis tool.  IRI allows users to view, manipulate, and download climate-related data sets through a standard web browser.</ns0:description>
+                    <ns0:repositoryContact>info@iri.columbia.edu</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                    <ns0:type>institutional</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2014</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>fra</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>ind</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>spa</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">205 Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20502 Public Health, Health Services Research, Social Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">207 Agriculture, Forestry, Horticulture and Veterinary Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20704 Ecology of Agricultural Landscapes</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20708 Agricultural Economics and Sociology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">23 Agriculture, Forestry, Horticulture and Veterinary Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31301 Atmospheric Science</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">317 Geography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31701 Physical Geography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">318 Water Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL>https://iri.columbia.edu/about-us/what-is-iri/</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>Africa</ns0:keyword>
+                    <ns0:keyword>Asia</ns0:keyword>
+                    <ns0:keyword>Caribbean</ns0:keyword>
+                    <ns0:keyword>Latin America</ns0:keyword>
+                    <ns0:keyword>Pacific</ns0:keyword>
+                    <ns0:keyword>agriculture</ns0:keyword>
+                    <ns0:keyword>biology</ns0:keyword>
+                    <ns0:keyword>civilization</ns0:keyword>
+                    <ns0:keyword>climatology</ns0:keyword>
+                    <ns0:keyword>economics</ns0:keyword>
+                    <ns0:keyword>environmental monitoring</ns0:keyword>
+                    <ns0:keyword>health</ns0:keyword>
+                    <ns0:keyword>water</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Columbia University, Earth Institute, International Research Institute for Climate and Society</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">IRI</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://iri.columbia.edu/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">NOAA Climate Program Office</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://cpo.noaa.gov/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:00mmmy130</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                        <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://iri.columbia.edu/resources/data-library/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                <ns0:versioning />
+                    <ns0:api apiType="NetCDF">http://iridl.ldeo.columbia.edu/dochelp/Tutorial/MVD/Download/index.html#Formats</ns0:api>
+                    <ns0:api apiType="OpenDAP">http://iridl.ldeo.columbia.edu/dochelp/Tutorial/MVD/Download/index.html#Formats</ns0:api>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">CF (Climate and Forecast) Metadata Conventions</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/cf-climate-and-forecast-metadata-conventions</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                            <ns0:syndication syndicationType="RSS">https://iridl.tumblr.com/rss</ns0:syndication>
+                <ns0:remarks>data can be accessed by OPenDAP</ns0:remarks>
+        <ns0:entryDate>2014-07-16</ns0:entryDate>
+        <ns0:lastUpdate>2021-05-28</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

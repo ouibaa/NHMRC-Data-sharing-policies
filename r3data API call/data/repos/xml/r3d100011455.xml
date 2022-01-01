@@ -1,0 +1,81 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011455</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Interface to Los Alamos Atomic Physics Codes</ns0:repositoryName>
+                <ns0:repositoryURL>http://aphysics2.lanl.gov/tempweb/lanl/</ns0:repositoryURL>
+                <ns0:description language="eng">Interface to Los Alamos Atomic Physics Codes is your gateway to the set of atomic physics codes developed at the Los Alamos National Laboratory.
+ The well known Hartree-Fock method of R.D. Cowan, developed at Group home page of the Los Alamos National Laboratory, is used for the atomic structure calculations. Electron impact excitation cross sections are calculated using either the distorted wave approximation (DWA) or the first order many body theory (FOMBT). Electron impact ionization cross sections can be calculated using the scaled hydrogenic method developed by Sampson and co-workers, the binary encounter method or the distorted wave method. Photoionization cross sections and, where appropriate, autoionizations are also calculated.</ns0:description>
+                    <ns0:repositoryContact>abd@lanl.gov</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                    <ns0:type>institutional</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">307 Condensed Matter Physics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">308 Optics, Quantum Optics and Physics of Atoms, Molecules and Plasmas</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">309 Particles, Nuclei and Fields</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">32 Physics</ns0:subject>
+                <ns0:missionStatementURL />
+                    <ns0:contentType contentTypeScheme="parse">Configuration data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>atomic physics</ns0:keyword>
+                    <ns0:keyword>atomic structure</ns0:keyword>
+                    <ns0:keyword>collision strengths</ns0:keyword>
+                    <ns0:keyword>cross sections</ns0:keyword>
+                    <ns0:keyword>ionization stage</ns0:keyword>
+                    <ns0:keyword>rates coefficients</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Los Alamos National Laboratory, Theoretical Division, T-1, Physics and Chemistry of Materials</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">LANL T-1</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.lanl.gov/index.php</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.lanl.gov/resources/contacts.php</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>ACE -Another Coollisional excitation Code</ns0:policyName>
+                <ns0:policyURL>http://aphysics2.lanl.gov/tempweb/lanldocs/ace.pdf</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>CATS - Cowan Atomic Structure Code</ns0:policyName>
+                <ns0:policyURL>http://aphysics2.lanl.gov/tempweb/lanldocs/cats.pdf</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Terms of Use</ns0:policyName>
+                <ns0:policyURL>http://www.lanl.gov/resources/web-policies/copyright-legal.php</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>ionization code - GIPPER User manual</ns0:policyName>
+                <ns0:policyURL>http://aphysics2.lanl.gov/tempweb/lanldocs/gipper.pdf</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www.lanl.gov/resources/web-policies/copyright-legal.php</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                <ns0:versioning>no</ns0:versioning>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>http://www.lanl.gov/resources/web-policies/copyright-legal.php</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                <ns0:remarks />
+        <ns0:entryDate>2015-07-17</ns0:entryDate>
+        <ns0:lastUpdate>2018-01-18</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

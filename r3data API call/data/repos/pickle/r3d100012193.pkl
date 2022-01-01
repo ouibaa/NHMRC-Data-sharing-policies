@@ -1,0 +1,116 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012193</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">GUDMAP</ns0:repositoryName>
+                    <ns0:additionalName language="eng">GenitoUrinary Development Molecular Anatomy Project</ns0:additionalName>
+                <ns0:repositoryURL>https://www.gudmap.org/index.html</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>RRID:SCR_001554</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:nif-0000-33426</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:nlx_152871</ns0:repositoryIdentifier>
+                <ns0:description language="eng">The GenitoUrinary Development Molecular Anatomy Project (GUDMAP) is a consortium of laboratories working to provide the scientific and medical community with tools to facilitate research. The key components are: (1) a molecular atlas of gene expression for the developing organs of the GenitoUrinary (GU) tract; (2) a high resolution molecular anatomy that highlights development of the GU system; (3) mouse strains to facilitate developmental and functional studies within the GU system; (4) tutorials describing GU organogenesis; and (5) rapid access to primary data via the GUDMAP database.</ns0:description>
+                    <ns0:repositoryContact>https://www.gudmap.org/contact/</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2008</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">201 Basic Biological and Medical Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">203 Zoology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20306 Animal Genetics, Cell and Developmental Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">204 Microbiology, Virology and Immunology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                <ns0:missionStatementURL>http://www.gudmap.org/About/Goal.html</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>bioinformatics</ns0:keyword>
+                    <ns0:keyword>biology</ns0:keyword>
+                    <ns0:keyword>gene expression</ns0:keyword>
+                    <ns0:keyword>microarray gene expression</ns0:keyword>
+                    <ns0:keyword>mouse</ns0:keyword>
+                    <ns0:keyword>nus muculus</ns0:keyword>
+                    <ns0:keyword>ontology</ns0:keyword>
+                    <ns0:keyword>stem cells</ns0:keyword>
+                    <ns0:keyword>transgenic mouse</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Eunice Kennedy Shriver National Institute of Child Health and Human Development</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NICHD</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">National Institute of Child Health and Human Development</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.nichd.nih.gov/Pages/index.aspx</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.nichd.nih.gov/Pages/Contact.aspx</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">HHS.gov</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">HHS.gov U.S. Department of Health &amp; Human Services</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.hhs.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.hhs.gov/about/contact-us/index.html</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">NIH  National Institute of Diabetes and Digestive and Kidney Diseases</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NIDDK</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.niddk.nih.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.niddk.nih.gov/Pages/contact-us.aspx</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Insitutes of Health</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NIH</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.nih.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.nih.gov/about-nih/contact-us</ns0:institutionContact>
+                            </ns0:institution>
+                        <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www.gudmap.org/About/Usage.html</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>Public Domain</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www.gudmap.org/index.html</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>http://www.gudmap.org/About/Usage.html</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                <ns0:remarks />
+        <ns0:entryDate>2016-10-21</ns0:entryDate>
+        <ns0:lastUpdate>2021-10-07</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

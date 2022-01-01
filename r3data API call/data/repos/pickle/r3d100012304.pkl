@@ -1,0 +1,97 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012304</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="cat">Dip&#242;sit Digital de la Universitat de Barcelona Dades</ns0:repositoryName>
+                    <ns0:additionalName language="eng">DD Dip&#242;sit Digital</ns0:additionalName>
+                <ns0:repositoryURL>http://diposit.ub.edu/dspace/handle/2445/56364</ns0:repositoryURL>
+                <ns0:description language="eng">The Universitat de Barcelona Digital Repository is an institutional resource containing open-access digital versions of publications related to the teaching, research and institutional activities of the UB's teaching staff and other members of the university community, including research data.</ns0:description>
+                    <ns0:repositoryContact>dipositdigital@ub.edu</ns0:repositoryContact>
+                    <ns0:repositoryContact>http://diposit.ub.edu/dspace/feedback</ns0:repositoryContact>
+                            <ns0:type>institutional</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>cat</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>spa</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">104 Linguistics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11 Humanities</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">201 Basic Biological and Medical Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20101 Biochemistry</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">204 Microbiology, Virology and Immunology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20403 Medical Microbiology, Molecular Infection Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                <ns0:missionStatementURL>http://diposit.ub.edu/dspace/</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Audiovisual data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>Dialectologia</ns0:keyword>
+                    <ns0:keyword>Mallorqui language</ns0:keyword>
+                    <ns0:keyword>Spoken Catalan</ns0:keyword>
+                    <ns0:keyword>corpora</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="spa">Universitat de Barcelona</ns0:institutionName>
+                                <ns0:institutionCountry>ESP</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.ub.edu/web/ub/en/index.html?</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.ub.edu/web/ub/en/menu_peu/contacte/contacte.html</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Instruccions per publicar</ns0:policyName>
+                <ns0:policyURL>http://crai.ub.edu/ca/que-ofereix-el-crai/publicar-repositoris-ub/instruccions</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Pol&#237;tica d'acc&#233;s obert a la Universitat de Barcelona</ns0:policyName>
+                <ns0:policyURL>http://diposit.ub.edu/dspace/handle/2445/27709</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>embargoed</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/licenses/by-nc-nd/3.0/es/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://diposit.ub.edu/dspace/handle/2445/102243</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>CC0</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://diposit.ub.edu/dspace/handle/2445/97521</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>institutional membership</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>DSpace</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                            <ns0:pidSystem>hdl</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">Dublin Core</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                            <ns0:syndication syndicationType="RSS">http://diposit.ub.edu/dspace/feed/rss_2.0/site</ns0:syndication>
+                <ns0:remarks />
+        <ns0:entryDate>2017-01-27</ns0:entryDate>
+        <ns0:lastUpdate>2019-01-23</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

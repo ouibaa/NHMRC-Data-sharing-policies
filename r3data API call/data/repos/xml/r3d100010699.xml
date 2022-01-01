@@ -1,0 +1,143 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010699</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">ICRISAT Dataverse</ns0:repositoryName>
+                    <ns0:additionalName language="eng">ICRISAT Research Data</ns0:additionalName>
+                    <ns0:additionalName language="eng">International Crops Research Institute for the Semi-Arid Tropics Dataverse Network</ns0:additionalName>
+                <ns0:repositoryURL>http://dataverse.icrisat.org/</ns0:repositoryURL>
+                <ns0:description language="eng">ICRISAT performs crop improvement research, using conventional as well as methods derived from biotechnology, on the following crops: Chickpea, Pigeonpea, Groundnut, Pearl millet,Sorghum and Small millets. ICRISAT's data repository collects, preserves and facilitates access to the datasets produced by ICRISAT researchers to all users who are interested in. Data includes Phenotypic, Genotypic, Social Science, and Spatial data, Soil and Weather.</ns0:description>
+                    <ns0:repositoryContact>a.rathore@cgiar.org</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                    <ns0:type>institutional</ns0:type>
+                <ns0:size updated="2020-02-18">5 Dataverses; 415 Studies; 3.081 Files</ns0:size>
+        <ns0:startDate>2012</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">111 Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">12 Social and Behavioural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">202 Plant Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20202 Plant Ecology and Ecosystem Analysis</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20207 Plant Genetics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">207 Agriculture, Forestry, Horticulture and Veterinary Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">23 Agriculture, Forestry, Horticulture and Veterinary Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">317 Geography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL>https://www.cgiar.org/research/center/icrisat/</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Archived data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Databases</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>Asia</ns0:keyword>
+                    <ns0:keyword>agricultural research</ns0:keyword>
+                    <ns0:keyword>crop science</ns0:keyword>
+                    <ns0:keyword>economic growth</ns0:keyword>
+                    <ns0:keyword>food sufficiency</ns0:keyword>
+                    <ns0:keyword>genotypes</ns0:keyword>
+                    <ns0:keyword>health and nutrition</ns0:keyword>
+                    <ns0:keyword>phenotypes</ns0:keyword>
+                    <ns0:keyword>poverty</ns0:keyword>
+                    <ns0:keyword>sub-Saharan Africa</ns0:keyword>
+                    <ns0:keyword>women empowerment</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">CGIAR System Organization</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">CGIAR</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">Consultative Group on International Agricultural Research</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>AAA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.cgiar.org/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:04c4bm785</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Dataverse Network Project</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">DVN</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>AAA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://dataverse.org/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>support@dataverse.org</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">International Crops Research Institute for the Semi-Arid Tropics</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">ICRISAT</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>MWI</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.icrisat.org/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:02g43d244</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.icrisat.org/contacts/</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>CGIAR Data Management and Open Access Policy</ns0:policyName>
+                <ns0:policyURL>http://www.icrisat.org/policy-on-data-management/</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Dataverse Network Guides</ns0:policyName>
+                <ns0:policyURL>http://guides.dataverse.org/en/4.4/user/</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                    <ns0:databaseLicense>
+                <ns0:databaseLicenseName>Apache License 2.0</ns0:databaseLicenseName>
+                <ns0:databaseLicenseURL>http://www.apache.org/licenses/LICENSE-2.0</ns0:databaseLicenseURL>
+            </ns0:databaseLicense>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>closed</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/licenses/by-nc/4.0/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>institutional membership</ns0:dataUploadRestriction>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>Dataset + File Management</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>http://guides.dataverse.org/en/4.4/user/dataset-management.html?highlight=license</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                            <ns0:software>
+                <ns0:softwareName>DataVerse</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                    <ns0:api apiType="SWORD">http://guides.dataverse.org/en/latest/api/sword.html</ns0:api>
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                    <ns0:pidSystem>hdl</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://dataverse.org/best-practices/data-citation</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">DDI - Data Documentation Initiative</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/ddi-data-documentation-initiative</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks>ICRISAT Dataverse is covered by Clarivate Data Citation Index.
+ICRISAT Dataverse Network is part of the IQSS Dataverse Network.</ns0:remarks>
+        <ns0:entryDate>2013-07-09</ns0:entryDate>
+        <ns0:lastUpdate>2021-09-03</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

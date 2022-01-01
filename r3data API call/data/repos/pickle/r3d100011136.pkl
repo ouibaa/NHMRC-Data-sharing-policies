@@ -1,0 +1,170 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011136</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">VecNet</ns0:repositoryName>
+                    <ns0:additionalName language="eng">Vector-Borne Disease Network</ns0:additionalName>
+                <ns0:repositoryURL>https://www.vecnet.org/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>OMICS_22585</ns0:repositoryIdentifier>
+                <ns0:description language="eng">The repository is no longer available. &gt;&gt;&gt;!!!&lt;&lt;&lt; 2019-09-06: no more access to VecNet &gt;&gt;&gt;!!!&lt;&lt;&lt;</ns0:description>
+                    <ns0:repositoryContact>VecNet@jcu.edu.au</ns0:repositoryContact>
+                    <ns0:repositoryContact>https://www.vecnet.org/index.php/contact-us</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2013</ns0:startDate>
+        <ns0:endDate>2019</ns0:endDate>
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">204 Microbiology, Virology and Immunology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">205 Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                <ns0:missionStatementURL>https://www.vecnet.org/index.php/about-vecnet</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Archived data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Software applications</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>EMOD</ns0:keyword>
+                    <ns0:keyword>Malaria</ns0:keyword>
+                    <ns0:keyword>Malaria Eradication Research Agenda</ns0:keyword>
+                    <ns0:keyword>OpenMalaria</ns0:keyword>
+                    <ns0:keyword>malERA</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Bill &amp; Melinda Gates Foundation</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.gatesfoundation.org/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.gatesfoundation.org/Who-We-Are/General-Information/Contact-Us</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Institute for Disease Modeling</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">IDM</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://idmod.org/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://idmod.org/contact</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">James Cook University</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">JCU</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>AUS</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.jcu.edu.au/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.jcu.edu.au/jcu-contact-information</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Pittsburgh Supercomputing Center, Public Health Applications Group, R. Farlow Consulting LLC</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.psc.edu/research/public-health-applications</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Swiss TPH</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="fra">Institut Tropical et de Sant&#233; Publique Suisse</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="deu">Schweizerisches Tropen- und Public Health-Institut</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">Swiss Tropical and Public Health Institute</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CHE</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.swisstph.ch/de/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.swisstph.ch/de/kontakt/</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of Notre Dame</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">ND</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.nd.edu/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.nd.edu/about/contact/</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of Oxford</ns0:institutionName>
+                                <ns0:institutionCountry>GBR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.ox.ac.uk/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.ox.ac.uk/contact-us</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">VecNet</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Vector-Borne Disease Network</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>AUS</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.vecnet.org/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>VecNet@jcu.edu.au</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Information Sharing</ns0:policyName>
+                <ns0:policyURL>https://www.vecnet.org/index.php/about-vecnet/information-sharing</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Terms of Use</ns0:policyName>
+                <ns0:policyURL>https://www.vecnet.org/index.php/terms-of-use</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/licenses/by/3.0/us/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>CC0</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/publicdomain/zero/1.0/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.vecnet.org/index.php/terms-of-use</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>other</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                    <ns0:syndication syndicationType="RSS">https://www.vecnet.org/index.php?format=feed&amp;type=rss</ns0:syndication>
+                <ns0:remarks>description: VecNet Vector-Borne Disease Network platform contains curated data, tagged citations, articles and reports on entomology, epidemiology, demography, climatology, and interventions to support the analysis of malaria eradication. In addition, location specific datasets containing weather, vector and population information and a transmission simulator for Models changes in malaria transmission due to interventions or environmental changes.</ns0:remarks>
+        <ns0:entryDate>2014-09-30</ns0:entryDate>
+        <ns0:lastUpdate>2019-09-06</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

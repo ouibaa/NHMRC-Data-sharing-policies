@@ -1,0 +1,162 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011805</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Digital Repository of Ireland</ns0:repositoryName>
+                    <ns0:additionalName language="eng">DRI</ns0:additionalName>
+                    <ns0:additionalName language="gla">Taisclann Dhigiteach na h&#201;ireann</ns0:additionalName>
+                <ns0:repositoryURL>https://repository.dri.ie/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>FAIRsharing_DOI:10.25504/FAIRsharing.wL29nJ</ns0:repositoryIdentifier>
+                <ns0:description language="eng">The Digital Repository of Ireland (DRI) is a national trusted digital repository (TDR) for Ireland&#8217;s social and cultural data. We preserve, curate, and provide sustained access to a wealth of Ireland&#8217;s humanities and social sciences data through a single online portal. The repository houses unique and important collections from a variety of organisations including higher education institutions, cultural institutions, government agencies, and specialist archives. DRI has staff members from a wide variety of backgrounds, including software engineers, designers, digital archivists and librarians, data curators, policy and requirements specialists, educators, project managers, social scientists and humanities scholars. DRI is certified by the CoreTrustSeal, the current TDR standard widely recommended for best practice in Open Science. In addition to providing trusted digital repository services, the DRI is also Ireland&#8217;s research centre for best practices in digital archiving, repository infrastructures, preservation policy, research data management and advocacy at the national and European levels. DRI contributes to policy making nationally (e.g. via the National Open Research Forum and the IRC), and internationally, including European Commission expert groups, the DPC, RDA and the OECD.</ns0:description>
+                    <ns0:repositoryContact>https://www.dri.ie/contact</ns0:repositoryContact>
+                    <ns0:repositoryContact>t.biro@ria.ie</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                    <ns0:type>other</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2011</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">101 Ancient Cultures</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">102 History</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">103 Fine Arts, Music, Theatre and Media Studies</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">10301 Art History</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">105 Literary Studies</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">107 Theology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">109 Education Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11 Humanities</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">111 Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">12 Social and Behavioural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">317 Geography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31702 Human Geography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31702 Human Geography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL>https://dri.ie/about</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Archived data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Audiovisual data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Databases</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Software applications</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>Irish cultural heritage</ns0:keyword>
+                    <ns0:keyword>Irish history</ns0:keyword>
+                    <ns0:keyword>archaeology</ns0:keyword>
+                    <ns0:keyword>art</ns0:keyword>
+                    <ns0:keyword>arts in education</ns0:keyword>
+                    <ns0:keyword>church history</ns0:keyword>
+                    <ns0:keyword>community archives</ns0:keyword>
+                    <ns0:keyword>contemporary social movements</ns0:keyword>
+                    <ns0:keyword>ethnic groups</ns0:keyword>
+                    <ns0:keyword>government</ns0:keyword>
+                    <ns0:keyword>identity</ns0:keyword>
+                    <ns0:keyword>local archives</ns0:keyword>
+                    <ns0:keyword>oral histories</ns0:keyword>
+                    <ns0:keyword>politics</ns0:keyword>
+                    <ns0:keyword>qualitative data</ns0:keyword>
+                    <ns0:keyword>religious segregation</ns0:keyword>
+                    <ns0:keyword>social justice</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Maynooth University</ns0:institutionName>
+                                <ns0:institutionCountry>IRL</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.maynoothuniversity.ie/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:048nfjm95</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.maynoothuniversity.ie/contact</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Royal Irish Academy</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">RIA</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>IRL</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.ria.ie/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:019tbdj08</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Trinity College Dublin</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="gla">Col&#225;iste na Tr&#237;n&#243;ide, Baile &#193;tha Cliath</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>IRL</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.tcd.ie/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:02tyrky19</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>DRI Collection Policy (Amended - 2020)</ns0:policyName>
+                <ns0:policyURL>https://doi.org/10.7486/DRI.kk91v774c</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>DRI Deposit Terms and Conditions (2018)</ns0:policyName>
+                <ns0:policyURL>https://doi.org/10.7486/DRI.1544r4085</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>DRI End User Terms and Conditions (Amended - 2020)</ns0:policyName>
+                <ns0:policyURL>https://doi.org/10.7486/DRI.4b29qt95d</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>DRI Membership Policy (2018)</ns0:policyName>
+                <ns0:policyURL>https://doi.org/10.7486/DRI.0574f668r</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>DRI Organisational Manager Agreement (2018)</ns0:policyName>
+                <ns0:policyURL>https://doi.org/10.7486/DRI.zk527x75s</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>DRI Restricted Data Policy (Amended - 2019)</ns0:policyName>
+                <ns0:policyURL>https://doi.org/10.7486/DRI.8623xk58w</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>embargoed</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/licenses/by/4.0/deed.en_US</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>institutional membership</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>Fedora</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://doi.org/10.7486/DRI.rx91h486p</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                    <ns0:certificate>other</ns0:certificate>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">Dublin Core</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                    <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">MIDAS-Heritage</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/midas-heritage</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks>Digital Repository of Ireland is a regular member of ICSU World Data System - WDS.</ns0:remarks>
+        <ns0:entryDate>2016-01-21</ns0:entryDate>
+        <ns0:lastUpdate>2021-11-16</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

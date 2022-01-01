@@ -1,0 +1,92 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012938</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Nova Scotia Government's Open Data Portal</ns0:repositoryName>
+                <ns0:repositoryURL>https://data.novascotia.ca/</ns0:repositoryURL>
+                <ns0:description language="eng">Making government data easier to access for individuals, businesses, and researchers.</ns0:description>
+                    <ns0:repositoryContact>https://novascotia.ca/opendata/contact-us/</ns0:repositoryContact>
+                            <ns0:type>other</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2016-02</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">4 Engineering Sciences</ns0:subject>
+                <ns0:missionStatementURL />
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>business</ns0:keyword>
+                    <ns0:keyword>community</ns0:keyword>
+                    <ns0:keyword>economy</ns0:keyword>
+                    <ns0:keyword>environment</ns0:keyword>
+                    <ns0:keyword>government administration</ns0:keyword>
+                    <ns0:keyword>nature</ns0:keyword>
+                    <ns0:keyword>social services</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Government of Nova Scotia</ns0:institutionName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://beta.novascotia.ca/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:03zx5da06</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://beta.novascotia.ca/contact-us</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Socrata</ns0:institutionName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>commercial</ns0:institutionType>
+                <ns0:institutionURL>https://socrata.com/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://socrata.com/contact-us/</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Nova Scotia Government Terms of Use</ns0:policyName>
+                <ns0:policyURL>https://novascotia.ca/terms/</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Socrata Platform Terms of Service</ns0:policyName>
+                <ns0:policyURL>https://socrata.com/terms-of-service/</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>The Government of Nova Scotia Open Data Portal Terms of Use</ns0:policyName>
+                <ns0:policyURL>https://novascotia.ca/opendata/terms.asp</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>OGL</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://novascotia.ca/opendata/licence.asp</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>institutional membership</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                    <ns0:api apiType="REST">https://dev.socrata.com/publishers/</ns0:api>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                <ns0:remarks />
+        <ns0:entryDate>2019-02-07</ns0:entryDate>
+        <ns0:lastUpdate>2021-06-16</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

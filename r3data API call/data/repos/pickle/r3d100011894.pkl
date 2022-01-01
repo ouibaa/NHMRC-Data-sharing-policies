@@ -1,0 +1,174 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011894</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Synapse</ns0:repositoryName>
+                <ns0:repositoryURL>https://www.synapse.org</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>FAIRsharing_DOI:10.25504/FAIRsharing.dnxzmk</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:SCR_006307</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:nlx_151983</ns0:repositoryIdentifier>
+                <ns0:description language="eng">Synapse is an open source software platform that clinical and biological  data scientists can use to carry out, track, and communicate their research in real time. Synapse enables co-location of scientific content (data, code, results) and narrative descriptions of that work.</ns0:description>
+                    <ns0:repositoryContact>synapseinfo@sagebase.org</ns0:repositoryContact>
+                            <ns0:type>other</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2012-05-22</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">201 Basic Biological and Medical Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20101 Biochemistry</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20106 Developmental Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20107 Bioinformatics and Theoretical Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">204 Microbiology, Virology and Immunology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">206 Neurosciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                <ns0:missionStatementURL>https://sagebionetworks.org/tools_resources/synapse-platform/</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Software applications</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Source code</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>AMP-AD Knowledge Portal</ns0:keyword>
+                    <ns0:keyword>DREAM Challenges</ns0:keyword>
+                    <ns0:keyword>GitHub</ns0:keyword>
+                    <ns0:keyword>NF Data Portal</ns0:keyword>
+                    <ns0:keyword>TCGA Pan-Cancer Working Group</ns0:keyword>
+                    <ns0:keyword>biomedicine</ns0:keyword>
+                    <ns0:keyword>query structured data</ns0:keyword>
+                    <ns0:keyword>record provenance</ns0:keyword>
+                    <ns0:keyword>research communities</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Alfred P. Sloan Foundation</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://sloan.org/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:052csg198</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://sloan.org/about/contact/</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Children's Tumor Foundation</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">CTF</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.ctf.org/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:01hx92781</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>info@ctf.org</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Life Sciences Discovery Fund</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">LSDF</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.lsdfa.org/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:05tzak412</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.lsdfa.org/lsdf/staff_and_office</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Sage Bionetworks</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Sage</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://sagebionetworks.org/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:049ncjx51</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://sagebase.org/contact/</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">U.S. Department of Health &amp; Human Services, National Institutes of Health, National Heart, Lung and Blood Institute</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NIH, NHLBI</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.nhlbi.nih.gov/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:012pb6c26</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.nhlbi.nih.gov/about/contact</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">U.S. Department of Health &amp; Human Services, National Institutes of Health, National Institute of Aging</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NIH, NIA</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.nia.nih.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.nia.nih.gov/contact</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">U.S. Department of Health &amp; Human Services, National Institutes of Health, National Institute of Mental Health</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NIH, NIMH</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.nimh.nih.gov/index.shtml</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:04xeg9z08</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>info@ctf.org</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Synapse Commons Governance Overview</ns0:policyName>
+                <ns0:policyURL>https://docs.synapse.org/articles/governance.html</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Synapse Terms and Conditions of Use</ns0:policyName>
+                <ns0:policyURL>https://s3.amazonaws.com/static.synapse.org/governance/SageBionetworksSynapseTermsandConditionsofUse.pdf?v=4</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>closed</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>embargoed</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>other</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://docs.synapse.org/articles/governance.html</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                    <ns0:api apiType="REST">https://docs.synapse.org/rest/</ns0:api>
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks />
+        <ns0:entryDate>2015-12-03</ns0:entryDate>
+        <ns0:lastUpdate>2021-11-16</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

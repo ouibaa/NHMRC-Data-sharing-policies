@@ -1,0 +1,78 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010318</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Nuclear Data Portal</ns0:repositoryName>
+                <ns0:repositoryURL>https://www.nndc.bnl.gov/content/NuclearPortal.html</ns0:repositoryURL>
+                <ns0:description language="eng">The Nuclear Data Portal is a new generation of nuclear data services using modern and powerful DELL servers, Sybase relational database software, the Linux operating system with programming in Java. The Portal includes nuclear structure, decay and reaction data, as well as literature information. Data can be searched for using optimized query forms; results are presented in tables and interactive plots. Additionally, a number of nuclear science tools, codes, applications, and links are provided.
+The databases includes are: CINDA - Computer Index of Nuclear Reaction Data, CSISRS alias EXFOR - Experimental nuclear reaction data, ENDF - Evaluated Nuclear Data File , ENSDF - Evaluated Nuclear Structure Data File, MIRD - Medical Internal Radiation Dose, NSR - Nuclear Science References, NuDat - Nuclear Structure &amp; Decay Data, XUNDL - Experimental Unevaluated Nuclear Data List, Chart of Nuclides.
+Nuclear Data Portal is  a web service of National Nuclear Data Center.</ns0:description>
+                    <ns0:repositoryContact>https://www.nndc.bnl.gov/about/nndc.html</ns0:repositoryContact>
+                    <ns0:repositoryContact>nds.contact-point@iaea.org</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2004</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">308 Optics, Quantum Optics and Physics of Atoms, Molecules and Plasmas</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">311 Astrophysics and Astronomy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">32 Physics</ns0:subject>
+                <ns0:missionStatementURL>https://www.nndc.bnl.gov/about/nndc.html#mission</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Configuration data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Databases</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Networkbased data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Software applications</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>decay information</ns0:keyword>
+                    <ns0:keyword>nuclear research</ns0:keyword>
+                    <ns0:keyword>nuclear technologies</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Nuclear Science and Technology Department, Brookhaben Nation Laboratory, National Nuclear Data Center</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NNDC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.nndc.bnl.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>1977</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.nndc.bnl.gov/about/nndc.html#contacts</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">U.S. Department of Energy, Office of Science, Office of Nuclear Physics</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://science.energy.gov/np/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://science.energy.gov/about/contact/</ns0:institutionContact>
+                            </ns0:institution>
+                        <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www.nndc.bnl.gov/about/nndc.html</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>other</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://www.nndc.bnl.gov/nndcscr/documents/online/</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                <ns0:remarks />
+        <ns0:entryDate>2013-07-17</ns0:entryDate>
+        <ns0:lastUpdate>2018-12-13</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

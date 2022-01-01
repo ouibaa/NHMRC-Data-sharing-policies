@@ -1,0 +1,91 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100013550</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Riga Stradins University  dataverse</ns0:repositoryName>
+                <ns0:repositoryURL>https://dataverse.rsu.lv/dataverse/rsu</ns0:repositoryURL>
+                <ns0:description language="eng">RSU data repository</ns0:description>
+                    <ns0:repositoryContact>https://dataverse.rsu.lv/dataverse/rsu#</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2021-11-22">3 dataverses; 12 datasets</ns0:size>
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>lav</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">111 Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">12 Social and Behavioural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">205 Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20502 Public Health, Health Services Research, Social Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                <ns0:missionStatementURL>https://www.rsu.lv/en/research-department</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>immunology</ns0:keyword>
+                    <ns0:keyword>infectious diseases</ns0:keyword>
+                    <ns0:keyword>oncology</ns0:keyword>
+                    <ns0:keyword>public health</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">R&#299;ga Stradi&#326;&#353; University</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">RSU</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>LVA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.rsu.lv/en</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:03nadks56</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Datu mekl&#275;&#353;ana</ns0:policyName>
+                <ns0:policyURL>https://www.rsu.lv/biblioteka/atbalsts-petniecibai</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                    <ns0:databaseLicense>
+                <ns0:databaseLicenseName>CC0</ns0:databaseLicenseName>
+                <ns0:databaseLicenseURL>https://creativecommons.org/publicdomain/zero/1.0/</ns0:databaseLicenseURL>
+            </ns0:databaseLicense>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>other</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC0</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/publicdomain/zero/1.0/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>institutional membership</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                <ns0:versioning>yes</ns0:versioning>
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://guides.dataverse.org/en/4.18.1/user/find-use-data.html#cite-data</ns0:citationGuidelineURL>
+                    <ns0:aidSystem>ORCID</ns0:aidSystem>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">DDI - Data Documentation Initiative</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/ddi-data-documentation-initiative</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                    <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">DataCite Metadata Schema</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/datacite-metadata-schema</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                    <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">Dublin Core</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                    <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">OAI-ORE - Open Archives Initiative Object Reuse and Exchange</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/oai-ore-open-archives-initiative-object-reuse-and-exchange</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks />
+        <ns0:entryDate>2021-04-16</ns0:entryDate>
+        <ns0:lastUpdate>2021-11-22</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

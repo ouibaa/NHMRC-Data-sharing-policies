@@ -1,0 +1,126 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011749</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Integrated Marine Observing System Ocean Data Portal</ns0:repositoryName>
+                    <ns0:additionalName language="eng">Australian Ocean Data Network Portal</ns0:additionalName>
+                    <ns0:additionalName language="eng">IMOS Ocean Portal</ns0:additionalName>
+                    <ns0:additionalName language="eng">IMOS data Portal</ns0:additionalName>
+                <ns0:repositoryURL>https://portal.aodn.org.au/</ns0:repositoryURL>
+                <ns0:description language="eng">&gt;&gt;&gt;!!!&lt;&lt;&lt; duplicate &gt;&gt;&gt;!!!&lt;&lt;&lt; see https://www.re3data.org/repository/r3d100010914
+At 2016-05-29 sees the official merger of the IMOS eMarine Information Infrastructure (eMII) Facility and the Australian Ocean Data Network (AODN) into a single entity.  The marine information Facility of IMOS is now the AODN. Enabling open access to marine data is core business for IMOS. The IMOS data will continue to be discoverable alongside a wider collection of Australian marine and climate data via the new-look AODN Portal. Visit the AODN Portal at https://portal.aodn.org.au/. - 
+All IMOS data is open access and can be discovered, accessed and downloaded via the Australian Ocean Data Network (AODN) Portal.</ns0:description>
+                    <ns0:repositoryContact>info@emii.org.au</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31302 Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">317 Geography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL>http://imos.org.au/about.html</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>AATAMS</ns0:keyword>
+                    <ns0:keyword>climate</ns0:keyword>
+                    <ns0:keyword>climatology</ns0:keyword>
+                    <ns0:keyword>marine</ns0:keyword>
+                    <ns0:keyword>marine sciences</ns0:keyword>
+                    <ns0:keyword>ocean maps</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Integrated Marine Observing System</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">IMOS</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>AUS</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://imos.org.au/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:010x3gp67</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://imos.org.au/contact-us</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Collaborative Research Infrastructure Strategy</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NCRIS</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>AUS</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.dese.gov.au/ncris</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>ncris@education.gov.au</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of Tasmania</ns0:institutionName>
+                                <ns0:institutionCountry>AUS</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.utas.edu.au/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:01nfmeh72</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.utas.edu.au/about/contact</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>AODN Public Documents</ns0:policyName>
+                <ns0:policyURL>https://help.aodn.org.au/public-documents/</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Data Use Acknowledgement</ns0:policyName>
+                <ns0:policyURL>https://help.aodn.org.au/user-guide-introduction/aodn-portal/data-use-acknowledgement/</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>IMOS Data Licensing</ns0:policyName>
+                <ns0:policyURL>https://help.aodn.org.au/user-guide-introduction/imos/imos-data-licencing/</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://creativecommons.org.au/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://wiki.creativecommons.org/wiki/CC_Affiliate_Network</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                <ns0:versioning>yes</ns0:versioning>
+                    <ns0:api apiType="FTP">https://help.aodn.org.au/downloading-data-from-servers/</ns0:api>
+                    <ns0:api apiType="OpenDAP">http://thredds.aodn.org.au/thredds/catalog.html</ns0:api>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://help.aodn.org.au/user-guide-introduction/aodn-portal/data-use-acknowledgement/</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">ISO 19115</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/iso-19115</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks>All IMOS data can be discovered, accessed and downloaded via the IMOS Ocean Portal. There is a wide range of marine data types available in a variety of formats. In order to make specialised data more usable to a wider audience, the IMOS data team and Facilities have developed a number of data tools: http://imos.org.au/imosdatatools/
+IMOS operates as a multi-institutional collaboration.  IMOS is led by the University of Tasmania in partnership with the CSIRO, Australian Institute of Marine Science, Bureau of Meteorology, Sydney Institute of Marine Science (encompassing the University of New South Wales, The University of Sydney, Macquarie University and University of Technology Sydney), University of Western Australia, Curtin University and the South Australian Research and Development Institute.  
+The AODN Ocean Data Portal (https://portal.aodn.org.au/aodn/) has access to the complete IMOS metadata catalog and all available ocean data.
+The IMOS Ocean Portal is an opensource project and is available on GitHib https://github.com/aodn/aodn-portal.</ns0:remarks>
+        <ns0:entryDate>2016-04-22</ns0:entryDate>
+        <ns0:lastUpdate>2021-11-10</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

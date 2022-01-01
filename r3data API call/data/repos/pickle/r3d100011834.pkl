@@ -1,0 +1,123 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011834</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">InCHIANTI</ns0:repositoryName>
+                    <ns0:additionalName language="ita">Invecchiare nel Chianti</ns0:additionalName>
+                    <ns0:additionalName language="eng">The InCHIANTI Study</ns0:additionalName>
+                <ns0:repositoryURL>http://inchiantistudy.net/wp/</ns0:repositoryURL>
+                <ns0:description language="eng">Older persons are often referred to physicians because of complaints of progressive difficulties in walking. The diagnostic and therapeutic approach to these patients is complex. Multiple physiologic subsystems may influence the ability to walk and no standard criteria are currently available to establish whether these subsystems are functioning within the &#8220;normal&#8221; range.
+To address lack of knowledge Dr. Luigi Ferrucci and Dr. Stefania Bandinelli conducted InCHIANTI, a representative population-based study of older persons living in the Chianti geographic area (Tuscany, Italy).
+The data collection started in September 1998 and was completed in March 2000. 3 and 6-year follow-up assessment of the InCHIANTI study population were performed in the years 2001-2003 and 2004-2006. A nine-year follow-up is already planned and funded through an NIA grant.
+The InCHIANTI Biobank is a collection of biological samples of the study population.</ns0:description>
+                    <ns0:repositoryContact>http://inchiantistudy.net/wp/contatti/</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>1998</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">205 Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20501 Epidemiology, Medical Biometry, Medical Informatics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">206 Neurosciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                <ns0:missionStatementURL>http://inchiantistudy.net/wp/lo-studio/</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>central nervous system</ns0:keyword>
+                    <ns0:keyword>cognitive impairment</ns0:keyword>
+                    <ns0:keyword>epidemiology</ns0:keyword>
+                    <ns0:keyword>geriatrics</ns0:keyword>
+                    <ns0:keyword>insulin resistance</ns0:keyword>
+                    <ns0:keyword>physiology</ns0:keyword>
+                    <ns0:keyword>subcortical features</ns0:keyword>
+                    <ns0:keyword>walk</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Italian Health Ministry</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="ita">Ministero della Salute</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>ITA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.salute.gov.it/portale/home.html</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:00789fa95</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.salute.gov.it/portale/p5_0.jsp?lingua=italiano&amp;id=58</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Institute on Research and Care of the Elderly</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">INRCA</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="ita">Istituto Nazionale di Riposo e Cura per Anziani</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>ITA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.inrca.it/inrca/home.asp?ling=en</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:057aq1y25</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.inrca.it/inrca/home.asp?ling=en</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Institutes of Health, National Institute on Aging</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NIA</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">NIH</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.nia.nih.gov/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:049v75w11</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.nia.nih.gov/about/stay-connected</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Tuscany Regional Health Agency</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="ita">ARS</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="ita">L'Agenzia regionale di sanit&#224; della Toscana</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>ITA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.ars.toscana.it/it/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:059vkfm47</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>info@ars.toscana.it</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>InCHIANTI dataset</ns0:policyName>
+                <ns0:policyURL>http://inchiantistudy.net/wp/inchianti-dataset/</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>restricted</ns0:databaseAccessType>
+                            <ns0:databaseAccessRestriction>other</ns0:databaseAccessRestriction>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>other</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://inchiantistudy.net/wp/wp-content/uploads/2014/02/modulo_richiesta_dati.pdf</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>http://inchiantistudy.net/wp/inchianti-dataset/</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                    <ns0:syndication syndicationType="RSS">http://inchiantistudy.net/wp/feed/</ns0:syndication>
+                <ns0:remarks>InChianti is covered by Thomson Reuters Data Citation Index.
+InChanti includes 3 projects: Farseeing, FRAILOMIC, MooDFOOD
+Partnerships:  http://inchiantistudy.net/wp/chi-siamo/</ns0:remarks>
+        <ns0:entryDate>2016-01-29</ns0:entryDate>
+        <ns0:lastUpdate>2020-11-16</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

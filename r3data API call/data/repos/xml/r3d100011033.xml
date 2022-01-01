@@ -1,0 +1,113 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011033</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">NCBI BioSystems Database</ns0:repositoryName>
+                    <ns0:additionalName language="eng">NCBI BioSystems</ns0:additionalName>
+                <ns0:repositoryURL>https://www.ncbi.nlm.nih.gov/biosystems/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.w2eeqr</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>MIR:00000097</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:SCR_004690</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:nlx_69646</ns0:repositoryIdentifier>
+                <ns0:description language="eng">The repository facilitates computation of  a wide range of biosystem data. It also connects biosystem data with associated literature throughout the Entrez system.</ns0:description>
+                    <ns0:repositoryContact>biosystems.help@ncbi.nlm.nih.gov</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                    <ns0:type>institutional</ns0:type>
+                <ns0:size updated="2019-03-11">983.968 records</ns0:size>
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">201 Basic Biological and Medical Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20105 General Genetics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                <ns0:missionStatementURL>https://www.ncbi.nlm.nih.gov/Structure/biosystems/docs/biosystems_about.html</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Networkbased data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>Genes</ns0:keyword>
+                    <ns0:keyword>Molecules</ns0:keyword>
+                    <ns0:keyword>Proteins</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">National Center for Biotechnology Information</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NCBI</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.ncbi.nlm.nih.gov/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>RRID:SCR_006472</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nif-0000-00139</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Institutes of Health</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NIH</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.nih.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">U.S. Department of Health &amp; Human Services</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">HHS</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.hhs.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">United States National Library of Medicine</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NLM</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.nlm.nih.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>NCBI Website and Data Usage Policies and Disclaimers</ns0:policyName>
+                <ns0:policyURL>https://www.ncbi.nlm.nih.gov/home/about/policies/</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>NIH Public Access Policy</ns0:policyName>
+                <ns0:policyURL>https://publicaccess.nih.gov/policy.htm</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>embargoed</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Public Domain</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.ncbi.nlm.nih.gov/home/about/policies/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.ncbi.nlm.nih.gov/home/about/policies/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                <ns0:versioning>yes</ns0:versioning>
+                    <ns0:api apiType="FTP">ftp://ftp.ncbi.nih.gov/pub/biosystems/</ns0:api>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://www.ncbi.nlm.nih.gov/Structure/biosystems/docs/biosystems_publications.html</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks>The NCBI BioSystems Database currently contains records from several source databases: KEGG, BioCyc (including its Tier 1 EcoCyc and MetaCyc databases, and its Tier 2 databases), Reactome, the National Cancer Institute's Pathway Interaction Database, WikiPathways, and Gene Ontology (GO).</ns0:remarks>
+        <ns0:entryDate>2014-05-14</ns0:entryDate>
+        <ns0:lastUpdate>2019-03-11</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

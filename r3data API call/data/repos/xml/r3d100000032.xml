@@ -1,0 +1,105 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100000032</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Communication Portal for Accessing Social Statistics</ns0:repositoryName>
+                    <ns0:additionalName language="eng">COMPASS</ns0:additionalName>
+                <ns0:repositoryURL>http://forscenter.ch/en/data-and-research-information-services/2221-2/public-statistics/</ns0:repositoryURL>
+                <ns0:description language="eng">The repository is no longer available. &gt;&gt;&gt;!!!&lt;&lt;&lt; 2018-11-20; COMPASS used to be provided and available at FORS but is no longer supported. &gt;&gt;&gt;!!!&lt;&lt;&lt;</ns0:description>
+                    <ns0:repositoryContact>compass@fors.unil.ch</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                    <ns0:type>institutional</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2010</ns0:startDate>
+        <ns0:endDate>2018-11-20</ns0:endDate>
+                    <ns0:repositoryLanguage>deu</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>fra</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">111 Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">112 Economics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">12 Social and Behavioural Sciences</ns0:subject>
+                <ns0:missionStatementURL />
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>public statistics</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Consortium of European Social Science Data Archives</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">cessda</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>EEC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.cessda.eu/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">FORS</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Swiss Foundation for Research in Social Sciences</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CHE</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://forscenter.ch/en/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://forscenter.ch/en/contact/</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Swiss Academy of Humanities and Social Sciences</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="fra">Acad&#233;mie suisse des sciences humaines et sociales</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="ita">Accademia svizzera di scienze umane e sociali</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="deu">SAGW</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="deu">Schweizerische Akademie der Geistes- und Sozialwissenschaften</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CHE</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.sagw.ch/sagw.html</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="fra">Universit&#233; de Lausanne</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="fra">UNIL</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="deu">Universit&#228;t Lausanne</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CHE</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.unil.ch/central/en/home.html</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>CESSDA Data Access Policy</ns0:policyName>
+                <ns0:policyURL>https://www.cessda.eu/eng/Projects/All-projects/CESSDA-SaW/WP3/CESSDA-CDM/Part-2-CRA2-Digital-Object-Management/CPA2.3-Access</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>feeRequired</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://forscenter.ch/en/data-and-research-information-services/2221-2/obtain-data/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>other</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>no</ns0:versioning>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                <ns0:remarks>COMPASS serves the scientific community with the intention of promoting data from public statistics, by: facilitating access to micro-data, which covers themes such as economics, education, mobility, and health; offering support in terms of choice and use of the data sets; generating public use samples, which are accessible without contract; preparing and disseminating data documentation following an international standard.
+see also: http://fors-getdata.unil.ch/webview/</ns0:remarks>
+        <ns0:entryDate>2012-10-20</ns0:entryDate>
+        <ns0:lastUpdate>2019-01-17</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

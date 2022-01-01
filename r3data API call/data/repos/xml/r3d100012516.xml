@@ -1,0 +1,115 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012516</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">PlasmID</ns0:repositoryName>
+                    <ns0:additionalName language="eng">Plasmid Information Database</ns0:additionalName>
+                <ns0:repositoryURL>https://plasmid.med.harvard.edu/PLASMID/Home.xhtml</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.k9ptv7</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>OMICS_08730</ns0:repositoryIdentifier>
+                <ns0:description language="eng">The Plasmid Information Database (PlasmID) was established in 2004 to curate, maintain, and distribute cDNA and ORF constructs for use in basic molecular biological research. The materials deposited at our facility represent the culmination of several international collaborative efforts from 2004 to present:  Beth Israel Deaconess Medical Center, Boston Children's Hospital, Brigham and Women's Hospital, Dana-Farber Cancer Institute, Harvard Medical School, Harvard School of Public Health, and Massachusetts General Hospital.</ns0:description>
+                    <ns0:repositoryContact>https://plasmid.med.harvard.edu/PLASMID/Contactus.jsp</ns0:repositoryContact>
+                    <ns0:repositoryContact>plasmidhelp@hms.harvard.edu</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2019-02-01">about 350.000 plasmids</ns0:size>
+        <ns0:startDate>2004</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">201 Basic Biological and Medical Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20103 Cell Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20105 General Genetics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">203 Zoology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20306 Animal Genetics, Cell and Developmental Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">205 Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20503 Human Genetics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                <ns0:missionStatementURL>https://plasmid.med.harvard.edu/PLASMID/AboutUs.jsp</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>DNA sequencing</ns0:keyword>
+                    <ns0:keyword>cDNA</ns0:keyword>
+                    <ns0:keyword>cancer</ns0:keyword>
+                    <ns0:keyword>human</ns0:keyword>
+                    <ns0:keyword>molecule</ns0:keyword>
+                    <ns0:keyword>mouse</ns0:keyword>
+                    <ns0:keyword>plasmid clones</ns0:keyword>
+                    <ns0:keyword>shRNA</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Harvard Medical School</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://hms.harvard.edu/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Harvard Medical School, Dana-Faber/Harvard Cancer Center</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">DF/HCC</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">High-Throughput DNA Sequencing Core (Formerly)</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://dnaseq.med.harvard.edu/index.html</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://dnaseq.med.harvard.edu/contactus.html</ns0:institutionContact>
+                                    <ns0:institutionContact>stephanie_mohr@hms.harvard.edu</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Institutes of Health</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NIH</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.nih.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.nih.gov/about-nih/contact-us</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Terms and Conditons</ns0:policyName>
+                <ns0:policyURL>https://plasmid.med.harvard.edu/PLASMID/TermAndCondition.jsp</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>feeRequired</ns0:dataAccessRestriction>
+                                    <ns0:dataAccessRestriction>other</ns0:dataAccessRestriction>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://plasmid.med.harvard.edu/PLASMID/TermAndCondition.jsp</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>Depositor Agreement</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>https://plasmid.med.harvard.edu/PLASMID/PSI_Depositor_Agreement_OCT2007_final_generic.pdf</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                            <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                    <ns0:aidSystem>none</ns0:aidSystem>
+                <ns0:enhancedPublication>no</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                <ns0:remarks />
+        <ns0:entryDate>2017-10-27</ns0:entryDate>
+        <ns0:lastUpdate>2019-02-01</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

@@ -1,0 +1,99 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011611</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Stanford Network Analysis Project</ns0:repositoryName>
+                    <ns0:additionalName language="eng">SNAP</ns0:additionalName>
+                    <ns0:additionalName language="eng">Stanford Large Network Dataset Collection</ns0:additionalName>
+                <ns0:repositoryURL>http://snap.stanford.edu/index.html</ns0:repositoryURL>
+                <ns0:description language="eng">Stanford Network Analysis Platform (SNAP) is a general purpose network analysis and graph mining library. It is written in C++ and easily scales to massive networks with hundreds of millions of nodes, and billions of edges. It efficiently manipulates large graphs, calculates structural properties, generates regular and random graphs, and supports attributes on nodes and edges. SNAP is also available through the NodeXL which is a graphical front-end that integrates network analysis into Microsoft Office and Excel. The SNAP library is being actively developed since 2004 and is organically growing as a result of our research pursuits in analysis of large social and information networks. Largest network we analyzed so far using the library was the Microsoft Instant Messenger network from 2006 with 240 million nodes and 1.3 billion edges.
+The datasets available on the website were mostly collected (scraped) for the purposes of our research.
+The website was launched in July 2009.</ns0:description>
+                    <ns0:repositoryContact>http://snap.stanford.edu/contact.html</ns0:repositoryContact>
+                    <ns0:repositoryContact>snap-webmaster@cs.stanford.edu</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2018-12-14">50 large network datasets</ns0:size>
+        <ns0:startDate>2009</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">4 Engineering Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">409 Computer Science</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">40902 Software Technology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">44 Computer Science, Electrical and System Engineering</ns0:subject>
+                <ns0:missionStatementURL>http://snap.stanford.edu/about.html</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Networkbased data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Software applications</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>citation networks</ns0:keyword>
+                    <ns0:keyword>collaboration networks</ns0:keyword>
+                    <ns0:keyword>communication networks</ns0:keyword>
+                    <ns0:keyword>emails</ns0:keyword>
+                    <ns0:keyword>information networks</ns0:keyword>
+                    <ns0:keyword>internet networks</ns0:keyword>
+                    <ns0:keyword>road networks</ns0:keyword>
+                    <ns0:keyword>social networks</ns0:keyword>
+                    <ns0:keyword>web graphs</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">National Science Foundation</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NSF</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.nsf.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.nsf.gov/help/contact.jsp</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Stanford University</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.stanford.edu/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.stanford.edu/contact/</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>SNAP user documentation</ns0:policyName>
+                <ns0:policyURL>http://snap.stanford.edu/snap/doc.html</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Tutorials</ns0:policyName>
+                <ns0:policyURL>http://cs.stanford.edu/people/jure/teaching.html</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                    <ns0:databaseLicense>
+                <ns0:databaseLicenseName>BSD</ns0:databaseLicenseName>
+                <ns0:databaseLicenseURL>http://snap.stanford.edu/snap/doc/snapuser-ref/</ns0:databaseLicenseURL>
+            </ns0:databaseLicense>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>BSD</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://snap.stanford.edu/snap/license.html</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                <ns0:versioning>yes</ns0:versioning>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>http://snap.stanford.edu/citing.html</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">RDF Data Cube Vocabulary</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/rdf-data-cube-vocabulary</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks />
+        <ns0:entryDate>2015-08-03</ns0:entryDate>
+        <ns0:lastUpdate>2021-07-20</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

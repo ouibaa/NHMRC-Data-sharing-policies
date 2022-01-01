@@ -1,0 +1,86 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012344</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">BioPortal</ns0:repositoryName>
+                    <ns0:additionalName language="eng">the world&#8217;s most comprehensive repository of biomedical ontologies</ns0:additionalName>
+                <ns0:repositoryURL>http://bioportal.bioontology.org/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.4m97ah</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>MIR:00000187</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>OMICS_09873</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:SCR_002713</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:nif-0000-23346</ns0:repositoryIdentifier>
+                <ns0:description language="eng">BioPortal is an open repository of biomedical ontologies, a service that provides access to those ontologies, and a set of tools for working with them. BioPortal provides a wide range of such tools, either directly via the BioPortal web site, or using the BioPortal web service REST API. BioPortal also includes community features for adding notes, reviews, and even mappings to specific ontologies.
+BioPortal has four major product components: the web application; the API services; widgets, or applets, that can be installed on your own site; and a Virtual Appliance version that is available for download or through Amazon Web Services machine instance (AMI). There is also a beta release SPARQL endpoint.</ns0:description>
+                    <ns0:repositoryContact>http://bioportal.bioontology.org/feedback</ns0:repositoryContact>
+                    <ns0:repositoryContact>https://www.bioontology.org/project-team</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">201 Basic Biological and Medical Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20107 Bioinformatics and Theoretical Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                <ns0:missionStatementURL>https://www.bioontology.org/mission</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>bioinformatics</ns0:keyword>
+                    <ns0:keyword>biomedicine</ns0:keyword>
+                    <ns0:keyword>ontology mapping</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">National Institutes of Health</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NIH</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.nih.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.nih.gov/about-nih/contact-us</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Stanford Biomedical Informatics Research, National Center for Biomedical Ontology</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.bioontology.org/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.bioontology.org/contact</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Terms of Use</ns0:policyName>
+                <ns0:policyURL>https://www.bioontology.org/terms</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.bioontology.org/terms</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                    <ns0:api apiType="REST">http://data.bioontology.org/documentation</ns0:api>
+                    <ns0:api apiType="SPARQL">https://www.bioontology.org/wiki/index.php/SPARQL_BioPortal</ns0:api>
+                        <ns0:citationGuidelineURL>https://www.bioontology.org/wiki/index.php/NCBO_FAQ#How_do_I_cite_BioPortal.3F</ns0:citationGuidelineURL>
+                    <ns0:aidSystem>none</ns0:aidSystem>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks />
+        <ns0:entryDate>2017-04-06</ns0:entryDate>
+        <ns0:lastUpdate>2018-09-13</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

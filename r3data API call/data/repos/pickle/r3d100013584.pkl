@@ -1,0 +1,131 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100013584</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="deu">Forschungsdatenzentrum f&#252;r audio-visuelle Daten der qualitativen Sozialforschung</ns0:repositoryName>
+                    <ns0:additionalName language="deu">FDZ-aviDa</ns0:additionalName>
+                    <ns0:additionalName language="eng">RDC-aviDa</ns0:additionalName>
+                    <ns0:additionalName language="eng">Research Data Centre for audio-visual data of qualitative social research</ns0:additionalName>
+                <ns0:repositoryURL>https://depositonce.tu-berlin.de/handle/11303/9910</ns0:repositoryURL>
+                <ns0:description language="eng">aviDa is the RDC for audio-visual data of empirical qualitative social research at the Department of General Sociology at the Technische Universit&#228;t Berlin, developed in cooperation between the Technische Universit&#228;t Berlin and the University of Bayreuth. aviDa aims at opening and sharing videographic research data since 2018.</ns0:description>
+                    <ns0:repositoryContact>avida@as.tu-berlin.de</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2021-06-23">9 items</ns0:size>
+        <ns0:startDate>2018</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>deu</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">12 Social and Behavioural Sciences</ns0:subject>
+                <ns0:missionStatementURL>https://www.as.tu-berlin.de/v_menue/forschung/laufende_forschungsprojekte/avida/</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Audiovisual data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>emotions</ns0:keyword>
+                    <ns0:keyword>large religious events</ns0:keyword>
+                    <ns0:keyword>large sporting events</ns0:keyword>
+                    <ns0:keyword>social distancing</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="deu">Deutsche Forschungsgemeinschaft</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="deu">DFG</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">German Research Foundation</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.dfg.de/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:018mejw64</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.dfg.de/en/service/contact/index.html</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="deu">TU Berlin, Universit&#228;tsbibliothek</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">TU Berlin, University Library</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.tu.berlin/ub/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>odej.kao@tu-berlin.de</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">TU Berlin, ZE Campusmanagement</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">tubIT</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.campusmanagement.tu-berlin.de/zecm/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="deu">Technische Universit&#228;t Berlin, Fachgebiet Allgemeine Soziologie</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">TU Berlin, Chair of General Sociology</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.as.tu-berlin.de/v_menue/fg_allgemeine_soziologie/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>2018</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>rene.wilke@tu-berlin.de</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="deu">Universit&#228;t Bayreuth, Lehrstuhl f&#252;r Kultur- und Religionssoziologie</ns0:institutionName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.soziologie.uni-bayreuth.de/de/bereiche/kultur-und-religionssoziologie/index.html</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>2018</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>helen.pach@uni-bayreuth.de</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Berlin Declaration on Open Access to Knowledge in the Sciences and Humanities</ns0:policyName>
+                <ns0:policyURL>https://openaccess.mpg.de/Berliner-Erklaerung</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Handlungsempfehlungen zur Umsetzung der Forschungsdaten-Policy der Technischen Universit&#228;t Berlin</ns0:policyName>
+                <ns0:policyURL>https://www.szf.tu-berlin.de/fileadmin/f33_szf/FD-Policy_TUBerlin_Handlungsempfehlungen_end_de.pdf</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>institutional membership</ns0:dataAccessRestriction>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://rightsstatements.org/page/InC/1.0/?language=de</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>institutional membership</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>DSpace</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                    <ns0:pidSystem>hdl</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                    <ns0:certificate>RatSWD</ns0:certificate>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">Dublin Core</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                            <ns0:syndication syndicationType="RSS">https://depositonce.tu-berlin.de/feed/rss_2.0/11303/9911</ns0:syndication>
+                <ns0:remarks />
+        <ns0:entryDate>2021-06-07</ns0:entryDate>
+        <ns0:lastUpdate>2021-06-27</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

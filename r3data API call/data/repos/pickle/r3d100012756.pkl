@@ -1,0 +1,123 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012756</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">The Chemical Probes Portal</ns0:repositoryName>
+                <ns0:repositoryURL>https://new.chemicalprobes.org/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.yrkkbt</ns0:repositoryIdentifier>
+                <ns0:description language="eng">The Chemical Probes Portal is an online open access catalog of annotated small molecule inhibitors, agonists and other chemical tools for biological research and preclinical drug discovery. Annotations for are extensive and distinguish between activity in cells and model organisms.</ns0:description>
+                    <ns0:repositoryContact>amy.donner@chemprobes.org</ns0:repositoryContact>
+                    <ns0:repositoryContact>contact@chemprobes.org</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2018-06-25</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">201 Basic Biological and Medical Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20101 Biochemistry</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31 Chemistry</ns0:subject>
+                <ns0:missionStatementURL>https://new.chemicalprobes.org/about</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>biochemical studies</ns0:keyword>
+                    <ns0:keyword>biomedical research</ns0:keyword>
+                    <ns0:keyword>chemical biology</ns0:keyword>
+                    <ns0:keyword>drug discovery</ns0:keyword>
+                    <ns0:keyword>medicinal chemistry</ns0:keyword>
+                    <ns0:keyword>pharmacology</ns0:keyword>
+                    <ns0:keyword>protein interactions</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Institute of Cancer Research</ns0:institutionName>
+                                <ns0:institutionCountry>GBR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.icr.ac.uk/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:043jzw605</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Structural Genomics Consortium</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">SGC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>GBR</ns0:institutionCountry>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL />
+                                    <ns0:institutionIdentifier>ROR:04jzps455</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of North Carolina, Eshelman School of Pharmacy</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">UNC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://pharmacy.unc.edu/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>VIAF:125901203</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>Wikidata:Q7865226</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Wellcome Trust</ns0:institutionName>
+                                <ns0:institutionCountry>GBR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://wellcome.org/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:029chgv08</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Disclaimer</ns0:policyName>
+                <ns0:policyURL>https://new.chemicalprobes.org/disclaimer</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Submit probes</ns0:policyName>
+                <ns0:policyURL>https://www.chemicalprobes.org/submit-probes</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>The Chemical Probes Portal SAB Conflict of Interest Policy</ns0:policyName>
+                <ns0:policyURL>https://www.chemicalprobes.org/chemical-probes-portal-sab-conflict-interest-policy</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                    <ns0:databaseLicense>
+                <ns0:databaseLicenseName>CC</ns0:databaseLicenseName>
+                <ns0:databaseLicenseURL>https://creativecommons.org/licenses/by-sa/3.0/</ns0:databaseLicenseURL>
+            </ns0:databaseLicense>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>embargoed</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>other</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/licenses/by-sa/3.0/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>CC</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>https://creativecommons.org/licenses/by-sa/3.0/</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                        <ns0:versioning />
+                            <ns0:pidSystem>other</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks>SAB rating: Drawing from their experience and expertise, SAB members review the data in a probe's submission form as well as the publication reporting the probe and rate the probe for its use in cellular and/or in vivo model systems (e.g., mice).</ns0:remarks>
+        <ns0:entryDate>2018-07-05</ns0:entryDate>
+        <ns0:lastUpdate>2021-09-29</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

@@ -1,0 +1,186 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010610</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">ALEXA</ns0:repositoryName>
+                    <ns0:additionalName language="eng">ALEXA-A</ns0:additionalName>
+                    <ns0:additionalName language="eng">ALEXA-Seq</ns0:additionalName>
+                    <ns0:additionalName language="eng">Alternative expression analysis</ns0:additionalName>
+                <ns0:repositoryURL>http://www.alexaplatform.org/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>OMICS_01328</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:SCR_006700</ns0:repositoryIdentifier>
+                <ns0:description language="eng">ALEXA is a microarray design platform for 'alternative expression analysis'. This platform facilitates the design of expression arrays for analysis of mRNA isoforms generated from a single locus by the use of alternative transcription initiation, splicing and polyadenylation sites. We use the term 'ALEXA' to describe a collection of novel genomic methods for 'alternative expression' analysis. 'Alternative expression' refers to the identification and quantification of alternative mRNA transcripts produced by alternative transcript initiation, alternative splicing and alternative polyadenylation. This website provides supplementary materials, source code and other downloads for recent publications describing our studies of alternative expression (AE). Most recently we have developed a method, 'ALEXA-Seq' and associated resources for alternative expression analysis by massively parallel RNA sequencing.</ns0:description>
+                    <ns0:repositoryContact>http://www.alexaplatform.org/contact.htm</ns0:repositoryContact>
+                    <ns0:repositoryContact>malachig@bcgsc.ca</ns0:repositoryContact>
+                    <ns0:repositoryContact>mgriffit@genome.wustl.edu</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2009</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">201 Basic Biological and Medical Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20105 General Genetics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">204 Microbiology, Virology and Immunology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">205 Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20501 Epidemiology, Medical Biometry, Medical Informatics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                <ns0:missionStatementURL>http://www.alexaplatform.org/index.htm</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Software applications</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Source code</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>RNA sequencing</ns0:keyword>
+                    <ns0:keyword>ape</ns0:keyword>
+                    <ns0:keyword>array design</ns0:keyword>
+                    <ns0:keyword>cancer</ns0:keyword>
+                    <ns0:keyword>dog</ns0:keyword>
+                    <ns0:keyword>fruit fly</ns0:keyword>
+                    <ns0:keyword>gallus gallus</ns0:keyword>
+                    <ns0:keyword>human</ns0:keyword>
+                    <ns0:keyword>mRNA</ns0:keyword>
+                    <ns0:keyword>mouse</ns0:keyword>
+                    <ns0:keyword>transcript</ns0:keyword>
+                    <ns0:keyword>worm</ns0:keyword>
+                    <ns0:keyword>yeast</ns0:keyword>
+                    <ns0:keyword>zebrafish</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">BC Cancer Foundation</ns0:institutionName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://bccancerfoundation.com/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://bccancerfoundation.com/contact-us</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">BC Cancer Research Centre, Canada's Michael Smith Genome Sciences Centre</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">GSC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.bcgsc.ca/data/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.alexaplatform.org/contact.htm</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Canadian Cancer Society, Research Institute</ns0:institutionName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.cancer.ca/research</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.cancer.ca/en/research/about-us/contact-us/?region=on</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Genome British Columbia</ns0:institutionName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.genomebc.ca/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.genomebc.ca/connect/</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Michael Smith Foundation for Health Research</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">MSFHR</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.msfhr.org/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.msfhr.org/contact</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Natural Sciences and Engineering Research Council</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="fra">CRSNG</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="fra">Conseil de recherches en sciences natruelles et en g&#233;nie du Canada</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">NSERC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.nserc-crsng.gc.ca/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.nserc-crsng.gc.ca/ContactUs-ContactezNous/ContactDirectory-RepertoiredeContact_eng.asp</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">The Terry Fox Foundation</ns0:institutionName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.terryfox.org/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.terryfox.org/contact-us/</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of British Columbia, Faculty of Graduate Studies</ns0:institutionName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.grad.ubc.ca/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.ubc.ca/about/contact.html?utm_campaign=UBC+CLF&amp;utm_medium=CLF+Global+Footer&amp;utm_source=https%3A%2F%2Fwww.grad.ubc.ca%2F</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of British Columbia, Faculty of Medicine</ns0:institutionName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.med.ubc.ca/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.med.ubc.ca/about/contact/</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Data Release Policy: Open Access</ns0:policyName>
+                <ns0:policyURL>http://www.bcgsc.ca/data/data-release-open-access</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/licenses/by/2.5/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www.gnu.org/licenses/gpl.txt</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>ALEXA User Manual</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>http://www.alexaplatform.org/alexa_arrays/data/ALEXA_User_Manual.pdf</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                            <ns0:software>
+                <ns0:softwareName>MySQL</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                    <ns0:api apiType="FTP">ftp://ftp03.bcgsc.ca/public/ALEXA/</ns0:api>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>http://www.alexaplatform.org/acknowledge.htm</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks>ALEXA platform includes two parts: ALEXA-Arrays (ALEXA-A) and ALEXA-Sequences (ALEXA-Seq)</ns0:remarks>
+        <ns0:entryDate>2014-02-18</ns0:entryDate>
+        <ns0:lastUpdate>2021-07-12</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

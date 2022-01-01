@@ -1,0 +1,150 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011045</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Index to Marine &amp; Lacustrine Geological Samples</ns0:repositoryName>
+                    <ns0:additionalName language="eng">Access to rock and sediment cores, dredges, and grabs
+from the ocean floor and lakebeds</ns0:additionalName>
+                    <ns0:additionalName language="eng">IMLGS</ns0:additionalName>
+                <ns0:repositoryURL>https://www.ngdc.noaa.gov/mgg/curator/curator.html</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>RRID:SCR_009430</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:nlx_154736</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>doi:10.7289/V5H41PB8</ns0:repositoryIdentifier>
+                <ns0:description language="eng">The Index to Marine and Lacustrine Geological Samples is a tool to help scientists locate and obtain geologic material from sea floor and lakebed cores, grabs, and dredges archived by participating institutions around the world. Data and images related to the samples are prepared and contributed by the institutions for access via the IMLGS and long-term archive at NGDC. Before proposing research on any sample, please contact the curator for sample condition and availability.  A consortium of Curators guides the IMLGS, maintained on behalf of the group by NGDC, since 1977.</ns0:description>
+                    <ns0:repositoryContact>geology.info@noaa.gov</ns0:repositoryContact>
+                    <ns0:repositoryContact>ncei.info@noaa.gov</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                    <ns0:type>institutional</ns0:type>
+                <ns0:size updated="2019-05-27">32.673 core photos; 9.177 core x-rays; 34.614 seabed photos; 34.388 pages of descriptive reports and logs</ns0:size>
+        <ns0:startDate>1977</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31302 Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">314 Geology and Palaeontology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31401 Geology and Palaeontology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">315 Geophysics and Geodesy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">317 Geography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL>https://www.ngdc.noaa.gov/mgg/curator/curator.html</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Archived data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Databases</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>Geology</ns0:keyword>
+                    <ns0:keyword>dredges</ns0:keyword>
+                    <ns0:keyword>drill samples</ns0:keyword>
+                    <ns0:keyword>grabs</ns0:keyword>
+                    <ns0:keyword>lakebed cores</ns0:keyword>
+                    <ns0:keyword>samples</ns0:keyword>
+                    <ns0:keyword>sea floor</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">IMLGS Participants</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.ngdc.noaa.gov/mgg/curator/participants.HTML</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Marine Geology &amp; Geophysics</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">World Data Service for Geophysics</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.ngdc.noaa.gov/mgg/mggd.html</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Science Foundation</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NSF</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.nsf.gov/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>RRID:SCR_012938</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_inv_1005118</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">US Department of Commerce, National Oceanic &amp; Atmospheric Administration, National Centers for Environmental Information</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">DOC, NOAA, NESDIS, NGDC</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">NCEI</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">National Centers for Environmental Information</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">formerly: NGDC</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">formerly: National Geophysical Data Center</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">formerly: US Department of Commerce, National Oceanic &amp; Atmospheric Administration, National Environmental Satellite, Data and Information Service,  National Geophysical Data Center</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.ngdc.noaa.gov/ngdc.html</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>carla.j.moore@noaa.gov</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Division of Ocean Sciences Sample and Data Policy</ns0:policyName>
+                <ns0:policyURL>https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf17037&amp;org=NSF</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Privacy Policy, Disclaimer, Copyright</ns0:policyName>
+                <ns0:policyURL>https://www.ngdc.noaa.gov/ngdcinfo/privacy.html</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                    <ns0:databaseLicense>
+                <ns0:databaseLicenseName>Copyrights</ns0:databaseLicenseName>
+                <ns0:databaseLicenseURL>https://www.ngdc.noaa.gov/ngdcinfo/privacy.html</ns0:databaseLicenseURL>
+            </ns0:databaseLicense>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>other</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Public Domain</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.ngdc.noaa.gov/ngdcinfo/privacy.html#copyright</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.nsf.gov/publications/pub_summ.jsp?ods_key=nsf17037&amp;org=NSF</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                    <ns0:api apiType="SOAP">https://maps.ngdc.noaa.gov/arcgis/services/web_mercator/sample_index/MapServer?wsdl</ns0:api>
+                    <ns0:api apiType="other">https://maps.ngdc.noaa.gov/arcgis/services/Sample_Index/MapServer/WMSServer?request=getcapabilities&amp;service=WMS&amp;version=1.3.0</ns0:api>
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://data.noaa.gov//docucomp/page?xml=NOAA/NESDIS/NGDC/MGG/Geology/iso/xml/G00028.xml&amp;view=getDataView&amp;header=none#</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">ISO 19115</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/iso-19115</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks>Participating institutions: https://www.ngdc.noaa.gov/mgg/curator/participants.HTML
+Access to rock and sediment cores, dredges, and grabs from the sea floor and lakebeds.
+IMLGS Uses International GeoSample Identifiers (IGSN) . ---  Index to Marine &amp; Lacustrine Geological Samples is part of "NSF Facilities for Continental Scientific &amp; Drilling &amp; Coring" : https://www.re3data.org/repository/r3d100012874</ns0:remarks>
+        <ns0:entryDate>2014-03-28</ns0:entryDate>
+        <ns0:lastUpdate>2021-08-24</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

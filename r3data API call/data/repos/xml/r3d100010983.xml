@@ -1,0 +1,103 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010983</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Export Import Data Bank</ns0:repositoryName>
+                    <ns0:additionalName language="eng">Tradestat</ns0:additionalName>
+                <ns0:repositoryURL>https://commerce-app.gov.in/eidb/default.asp</ns0:repositoryURL>
+                <ns0:description language="eng">Export Import Data Bank - Tradestat is an initiative of Department of Commerce, Ministry of Commerce &amp; Industry, Government of India. This databank provides international trade figures for imports, exports and total trade, based on data published by the Directorate General of Commercial Intelligence and Statistics (DGCI&amp;S), Kolkata. It also provides commodity-wise, country-wise, and region-wise trade figures for exports and imports.</ns0:description>
+                    <ns0:repositoryContact>saleem@nic.in</ns0:repositoryContact>
+                            <ns0:type>other</ns0:type>
+                <ns0:size updated="2019-11-06" />
+        <ns0:startDate>2006</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">112 Economics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11205 Statistics and Econometrics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">12 Social and Behavioural Sciences</ns0:subject>
+                <ns0:missionStatementURL>http://www.dgciskol.gov.in/Writereaddata/Downloads/QP-vision-mission-3-4-5.pdf</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>GeoNames.org</ns0:keyword>
+                    <ns0:keyword>India</ns0:keyword>
+                    <ns0:keyword>business</ns0:keyword>
+                    <ns0:keyword>commerce</ns0:keyword>
+                    <ns0:keyword>commodity control</ns0:keyword>
+                    <ns0:keyword>commodity exchanges</ns0:keyword>
+                    <ns0:keyword>economics</ns0:keyword>
+                    <ns0:keyword>exports</ns0:keyword>
+                    <ns0:keyword>finance</ns0:keyword>
+                    <ns0:keyword>imports</ns0:keyword>
+                    <ns0:keyword>industries</ns0:keyword>
+                    <ns0:keyword>statistics</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Government of India, Ministry of Commerce and Industry, Department of Commerce</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">DOC-NIC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>IND</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://commerce.gov.in/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://commerce.gov.in/OfficerContact.aspx</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Government of India, Ministry of Commerce and Industry, Directorate General of Commerical Intelligence and Statistics</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">DGCI&amp;S</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>IND</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.dgciskol.nic.in/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.dgciskol.gov.in/Contact_Us.aspx</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Data Dissemination Policy</ns0:policyName>
+                <ns0:policyURL>http://www.dgciskol.gov.in/Writereaddata/Downloads/Data_dissemination_policy1.pdf</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Data Privacy Policy</ns0:policyName>
+                <ns0:policyURL>http://www.dgciskol.gov.in/Writereaddata/Downloads/Data_Privacy.pdf</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Quality Policy</ns0:policyName>
+                <ns0:policyURL>http://www.dgciskol.gov.in/Writereaddata/Downloads/QPolicy.pdf</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Terms &amp; Conditions</ns0:policyName>
+                <ns0:policyURL>https://commerce.gov.in/InnerContent.aspx?Id=55</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www.dgciskol.gov.in/Writereaddata/Downloads/Data_dissemination_policy1.pdf</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://commerce.gov.in/InnerContent.aspx?Id=56</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                <ns0:versioning>yes</ns0:versioning>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">Repository-Developed Metadata Schemas</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/repository-developed-metadata-schemas</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks />
+        <ns0:entryDate>2014-09-03</ns0:entryDate>
+        <ns0:lastUpdate>2019-11-25</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

@@ -1,0 +1,84 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012717</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="spa">Portal de Datos del Mar - SNDM</ns0:repositoryName>
+                    <ns0:additionalName language="eng">Ocean Data Portal</ns0:additionalName>
+                    <ns0:additionalName language="spa">Portal Argentino de Datos del Mar</ns0:additionalName>
+                <ns0:repositoryURL>http://portal.mincyt.gob.ar/portal/</ns0:repositoryURL>
+                <ns0:description language="spa">The portal is an initiative of the National Data System of the Sea (SNDM) of the Ministry of Science, Technology and Productive Innovation of Argentina. It allows easy discovery and Open Access to marine and coastal data generated as a result of research funded by the National State, in addition to favoring the standardization of data produced by the different institutions related to the SNDM.</ns0:description>
+                    <ns0:repositoryContact>sndm@mincyt.gob.ar</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2020-06-02">98 entries</ns0:size>
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>spa</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31302 Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL />
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>biogeochemistry</ns0:keyword>
+                    <ns0:keyword>hydrography</ns0:keyword>
+                    <ns0:keyword>marine science</ns0:keyword>
+                    <ns0:keyword>meteorology</ns0:keyword>
+                    <ns0:keyword>zooplankton</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Argentina, Ministerio de Ciencia, Tecnolog&#237;a e Innovaci&#243;n Productiva</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">MINCYT</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">Ministry of Science, Technology and Productive Innovation</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>ARG</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.argentina.gob.ar/ciencia?p=</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:02h503d38</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="spa">Sistema Nacional de Datos del Mar</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">National Data System of the Sea</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="spa">SNDM</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>ARG</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.argentina.gob.ar/ciencia/sistemasnacionales/datos-del-mar</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                        <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>other</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://portal.mincyt.gob.ar/odp2/resource?id=AR_INIDEP_09</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>institutional membership</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                <ns0:versioning />
+                        <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">ISO 19115</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/iso-19115</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks>Available for general disclosure; Exclusive right to the publication, production, or sale of the rights to a literary, dramatic, musical, or artistic work, or to the use of a commercial print or label, granted by law for a specified period of time to an author, composer, artist, distributor.</ns0:remarks>
+        <ns0:entryDate>2018-06-28</ns0:entryDate>
+        <ns0:lastUpdate>2020-06-02</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

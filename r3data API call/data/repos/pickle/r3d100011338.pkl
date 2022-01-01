@@ -1,0 +1,200 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011338</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">TRAILS</ns0:repositoryName>
+                    <ns0:additionalName language="eng">Tracking Adolescents' Individual Lives Survey</ns0:additionalName>
+                <ns0:repositoryURL>https://www.trails.nl/</ns0:repositoryURL>
+                <ns0:description language="eng">TRAILS is a prospective cohort study, which started in 2001 with population cohort and 2004 with a clinical cohort (CC). Since then, a group of 2500 young people from the Northern part of the Netherlands has been closely monitored in order to chart and explain their mental, physical, and social development. These TRAILS participants have been measured every two to three years, by means of questionnaires, interviews, and all kinds of tests. By now, we have collected information that spans the total period from preadolescence up until young adulthood. One of the main goals of TRAILS is to contribute to the knowledge of the development of emotional and behavioral problems and the (social) functioning of preadolescents into adulthood, their determinants, and underlying mechanisms.</ns0:description>
+                    <ns0:repositoryContact>http://www.trails.nl/en/topmenu/contact</ns0:repositoryContact>
+                    <ns0:repositoryContact>trails-cc@umcg.nl</ns0:repositoryContact>
+                    <ns0:repositoryContact>trails@umcg.nl</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2001</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>nld</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">111 Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11102 Empirical Social Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">12 Social and Behavioural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">205 Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20502 Public Health, Health Services Research, Social Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20520 Pediatric and Adolescent Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">206 Neurosciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                <ns0:missionStatementURL>https://www.trails.nl/en/hoofdmenu/over-trails</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>Dutch study</ns0:keyword>
+                    <ns0:keyword>adolescence</ns0:keyword>
+                    <ns0:keyword>bullying</ns0:keyword>
+                    <ns0:keyword>genetic factors</ns0:keyword>
+                    <ns0:keyword>mental health</ns0:keyword>
+                    <ns0:keyword>microdata</ns0:keyword>
+                    <ns0:keyword>social development</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Erasmus Medical Center Rotterdam</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Erasmus MC Rotterdam</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>NLD</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.erasmusmc.nl/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.erasmusmc.nl/en/contact-us</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">European Science Foundation</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">ESF</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">Eurostress project FP-006</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>EEC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.esf.org/esf/european-science-foundation/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate>2009</ns0:responsibilityEndDate>
+                                    <ns0:institutionContact>http://www.esf.org/contact/</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Government of the Netherlands , Ministry of Justice and Security</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="nld">Rijskoverheid, Ministerie van Veiligheid en Justitie</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="nld">VENJ</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="nld">WODC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>NLD</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.government.nl/ministries/ministry-of-justice-and-security</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.government.nl/ministries/ministry-of-justice-and-security/contact</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="nld">Gratama-Stichting</ns0:institutionName>
+                                <ns0:institutionCountry>NLD</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.gratama.net/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>contact@gratama.net</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Netherlands Organization for Scientific Research</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="nld">NWO</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="nld">Nederlandse Organisatie voor Wetenschappelijk Onderzoek</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>NLD</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.nwo.nl/en</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>RRID:SCR_000988</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_151487</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.nwo.nl/en/contact</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="nld">Universiteit Medisch centrum St. Radboud Jijmegen</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Radboud University Nijmegen Medical Centre</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">Radboudumc</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>NLD</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.radboudumc.nl/patientenzorg</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>info@radboudumc.nl</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="nld">Universiteit Utrecht</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Utrecht University</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>NLD</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.uu.nl/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>RRID:SCR_011753</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_67641</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.uu.nl/en/organisation/contact</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of Groningen</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="nld">Rijksuniversiteit Groningen</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>NLD</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.rug.nl/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>RRID:SCR_011650</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_149167</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.rug.nl/about-us/how-to-find-us/contact</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>DANS depositing instructions</ns0:policyName>
+                <ns0:policyURL>https://dans.knaw.nl/en/about/services/easy/information-about-depositing-data</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>DANS license agreement</ns0:policyName>
+                <ns0:policyURL>https://dans.knaw.nl/en/content/dans-licence-agreement-deposited-data</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>DSA Assessment TRAILS</ns0:policyName>
+                <ns0:policyURL>https://www.coretrustseal.org/about/history/data-seal-of-approval/</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>TRAILS Data-Use</ns0:policyName>
+                <ns0:policyURL>https://www.trails.nl/en/hoofdmenu/data/data-use</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>closed</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>embargoed</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>other</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.trails.nl/en/hoofdmenu/data/data-use</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                    <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                    <ns0:certificate>DSA</ns0:certificate>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">Dublin Core</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks>TRAILS data available to external data consumers are archived in DANS (Data Archiving and Networked Services) EASY (Electronic Archiving System). TRAILS uses Dublin Core metadata.</ns0:remarks>
+        <ns0:entryDate>2015-01-12</ns0:entryDate>
+        <ns0:lastUpdate>2019-08-27</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

@@ -1,0 +1,75 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100013541</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="fra">Harmonia Universalis</ns0:repositoryName>
+                <ns0:repositoryURL>https://harmoniauniversalis.univ-paris1.fr/</ns0:repositoryURL>
+                <ns0:description language="eng">Harmonia universalis is a prosopographical database gathering data on the actors of the mesmerist movement at the end of the 18th century.
+The Harmonia Universalis database is designed as a space for exchange and sharing between researchers and enthusiasts. Any interested person can participate in its realization by contacting the administrators of the database. They will then be able to enter directly on line the information they wish to introduce. These will be integrated into the database after confirmation by the administrators.</ns0:description>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2014</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>fra</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">110 Psychology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11001 General, Biological and Mathematical Psychology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">12 Social and Behavioural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">203 Zoology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20305 Biochemistry and Animal Physiology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">207 Agriculture, Forestry, Horticulture and Veterinary Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20714 Basic Research on Pathogenesis, Diagnostics and Therapy and Clinical Veterinary Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">23 Agriculture, Forestry, Horticulture and Veterinary Medicine</ns0:subject>
+                <ns0:missionStatementURL>https://www.ephe.psl.eu/actualites/harmonia-universalis</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>Mesmer</ns0:keyword>
+                    <ns0:keyword>illness</ns0:keyword>
+                    <ns0:keyword>magnetism</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="fra">Universit&#233; de Recherche Paris Sciences et Lettres, &#201;cole Pratique des Hautes &#201;tudes, Laboratoire d&#8217;Excellence Hastec</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="fra">PSL, EPHE, Labex Hastec</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>FRA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://labexhastec-psl.ephe.fr/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Mentions l&#233;gales</ns0:policyName>
+                <ns0:policyURL>https://www.ephe.psl.eu/mentions-legales</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Politique de confidentialit&#233;</ns0:policyName>
+                <ns0:policyURL>https://www.ephe.psl.eu/politique-de-confidentialite</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.ephe.psl.eu/mentions-legales</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                <ns0:versioning>no</ns0:versioning>
+                    <ns0:api apiType="REST">https://harmoniauniversalis.univ-paris1.fr/api/info</ns0:api>
+                        <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                <ns0:remarks />
+        <ns0:entryDate>2021-03-23</ns0:entryDate>
+        <ns0:lastUpdate>2021-03-25</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

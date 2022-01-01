@@ -1,0 +1,104 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012351</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Hardwood Genomics Project</ns0:repositoryName>
+                    <ns0:additionalName language="eng">Genomic resources for hardwood trees</ns0:additionalName>
+                    <ns0:additionalName language="eng">HWG</ns0:additionalName>
+                <ns0:repositoryURL>https://www.hardwoodgenomics.org/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.srgkaf</ns0:repositoryIdentifier>
+                <ns0:description language="eng">This database serves forest tree scientists by providing online access to hardwood tree genomic and genetic data, including assembled reference genomes, transcriptomes, and genetic mapping information. The web site also provides access to tools for mining and visualization of these data sets, including BLAST for comparing sequences, Jbrowse for browsing genomes, Apollo for community annotation and Expression Analysis to build gene expression heatmaps.</ns0:description>
+                    <ns0:repositoryContact>https://www.hardwoodgenomics.org/contact</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2016</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">201 Basic Biological and Medical Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20107 Bioinformatics and Theoretical Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">202 Plant Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20207 Plant Genetics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                <ns0:missionStatementURL>http://www.hardwoodgenomics.org/content/about</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>genome</ns0:keyword>
+                    <ns0:keyword>sequence</ns0:keyword>
+                    <ns0:keyword>transcriptome</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">National Science Foundation</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NSF</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.nsf.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://nsf.gov/awardsearch/showAward?AWD_ID=1443040</ns0:institutionContact>
+                                    <ns0:institutionContact>https://www.nsf.gov/awardsearch/showAward?AWD_ID=1444573&amp;HistoricalAwards</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of Tennessee, Institute of Agriculture, Department of Entomology and Plant Pathology</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">EPP</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">UTIA</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://ag.tennessee.edu/EPP/Pages/default.aspx</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>NSF BIODMP Guidance</ns0:policyName>
+                <ns0:policyURL>https://www.nsf.gov/bio/pubs/BIODMP_Guidance.pdf</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>NSF Data Sharing Policy</ns0:policyName>
+                <ns0:policyURL>https://www.nsf.gov/bfa/dias/policy/dmp.jsp</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                    <ns0:databaseLicense>
+                <ns0:databaseLicenseName>other</ns0:databaseLicenseName>
+                <ns0:databaseLicenseURL>https://github.com/tripal/tripal/blob/7.x-2.x/LICENSE.txt</ns0:databaseLicenseURL>
+            </ns0:databaseLicense>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.nsf.gov/pubs/policydocs/pappguide/nsf15001/aag_6.jsp</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www.hardwoodgenomics.org/chinese-chestnut-genome</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.nsf.gov/bfa/dias/policy/dmp.jsp</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>open</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>other</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                <ns0:remarks>All original sequence data is being deposited in NCBI's Sequence Read Archive and the genetic linkage maps and associated marker data will be available at the Dendrome database: http://dendrome.ucdavis.edu/    ---    This website was originally developed to house data from the Comparative Genomics of Environmental Stress Responses in North American Hardwoods.</ns0:remarks>
+        <ns0:entryDate>2017-04-18</ns0:entryDate>
+        <ns0:lastUpdate>2021-09-09</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

@@ -1,0 +1,83 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011153</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">National Data</ns0:repositoryName>
+                    <ns0:additionalName language="eng">China Statistical Database</ns0:additionalName>
+                    <ns0:additionalName language="zho">&#22269;&#23478;&#25968;&#25454;</ns0:additionalName>
+                <ns0:repositoryURL>https://data.stats.gov.cn/english/</ns0:repositoryURL>
+                <ns0:description language="eng">The national data provide the monthly, quarterly and annual, census regions, departments and international social and economic statistic data. It Offers a variety of file output, watchmaking, drawing, Indicators, visualization charts and geographic information data.
+To speed up the construction of modern service-oriented statistics, and to better serve the community, on the basis of "China Statistical Database" created in 2008, the National Bureau of Statistics(NBS) established a new statistical database in 2013.</ns0:description>
+                    <ns0:repositoryContact>info@stats.gov.cn</ns0:repositoryContact>
+                            <ns0:type>other</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2013</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>zho</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                <ns0:missionStatementURL>http://data.stats.gov.cn/english/staticreq.htm?m=aboutctryinfo</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>PMU</ns0:keyword>
+                    <ns0:keyword>banking</ns0:keyword>
+                    <ns0:keyword>census data</ns0:keyword>
+                    <ns0:keyword>consumer price index</ns0:keyword>
+                    <ns0:keyword>foreign trade</ns0:keyword>
+                    <ns0:keyword>gross domestic product</ns0:keyword>
+                    <ns0:keyword>producer price index</ns0:keyword>
+                    <ns0:keyword>purchasing managers index</ns0:keyword>
+                    <ns0:keyword>social sciences</ns0:keyword>
+                    <ns0:keyword>statistics</ns0:keyword>
+                    <ns0:keyword>telecommunication</ns0:keyword>
+                    <ns0:keyword>transportation</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">National Bureau of Statistics of China</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NBS</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="zho">&#20013;&#22269;&#32479;&#35745;&#22269;&#23478;&#32479;&#35745;&#23616;</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CHN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.stats.gov.cn/english/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://data.stats.gov.cn/english/</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Statistics Law of the People's Republic of China (Chapter III)</ns0:policyName>
+                <ns0:policyURL>http://www.stats.gov.cn/english/LF/SL/201209/t20120921_27177.html</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www.stats.gov.cn/english/nbs/200701/t20070104_59236.html</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                    <ns0:syndication syndicationType="RSS">http://www.stats.gov.cn/english/PressRelease/rss.xml</ns0:syndication>
+                <ns0:remarks />
+        <ns0:entryDate>2014-10-10</ns0:entryDate>
+        <ns0:lastUpdate>2021-09-08</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

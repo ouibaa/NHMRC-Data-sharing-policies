@@ -1,0 +1,118 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012682</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Open Government Data Portal of Tamil Nadu</ns0:repositoryName>
+                <ns0:repositoryURL>https://tn.data.gov.in/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>biodbcore-001589</ns0:repositoryIdentifier>
+                <ns0:description language="eng">Open Government Data Portal of Tamil Nadu is a platform (designed by the National Informatics Centre), for Open Data initiative of the Government of Tamil Nadu. The portal is intended to publish datasets collected by the Tamil Nadu Government for public uses in different perspective. It has been created under Software as A Service (SaaS) model of Open Government Data (OGD) and publishes dataset in open formats like CSV, XLS, ODS/OTS, XML, RDF, KML, GML, etc. 
+This data portal has following modules, namely (a) Data Management System (DMS) for contributing data catalogs by various state government agencies for making those available on the front end website after a due approval process through a defined workflow; (b) Content Management System (CMS) for managing and updating various functionalities and content types; (c) Visitor Relationship Management (VRM) for collating and disseminating viewer feedback on various data catalogs; and (d) Communities module for community users to interact and share their views and common interests with others.
+It includes different types of datasets generated both in geospatial and non-spatial data classified as shareable data and non-shareable data. Geospatial data consists primarily of satellite data, maps, etc.; and non-spatial data derived from national accounts statistics, price index, census and surveys produced by a statistical mechanism. It follows the principle of data sharing and accessibility via Openness, Flexibility, Transparency, Quality, Security and Machine-readable.</ns0:description>
+                    <ns0:repositoryContact>tnogd@elcot.in</ns0:repositoryContact>
+                            <ns0:type>other</ns0:type>
+                <ns0:size updated="2018 (28/05/2018)">530 resources in 92 catalogs</ns0:size>
+        <ns0:startDate>2017</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">109 Education Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">111 Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11104 Political Science</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">112 Economics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11202 Economic and Social Policy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11205 Statistics and Econometrics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">12 Social and Behavioural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">205 Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20502 Public Health, Health Services Research, Social Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">207 Agriculture, Forestry, Horticulture and Veterinary Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">23 Agriculture, Forestry, Horticulture and Veterinary Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL>https://tn.data.gov.in/about-portal</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Archived data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>Agriculture</ns0:keyword>
+                    <ns0:keyword>Economics and statistcs</ns0:keyword>
+                    <ns0:keyword>Energy</ns0:keyword>
+                    <ns0:keyword>Family welfare</ns0:keyword>
+                    <ns0:keyword>Geosciences</ns0:keyword>
+                    <ns0:keyword>Industrial development</ns0:keyword>
+                    <ns0:keyword>Medical education</ns0:keyword>
+                    <ns0:keyword>Municipal data</ns0:keyword>
+                    <ns0:keyword>Public Health</ns0:keyword>
+                    <ns0:keyword>Rural development</ns0:keyword>
+                    <ns0:keyword>Social welfare</ns0:keyword>
+                    <ns0:keyword>Socio-economic data</ns0:keyword>
+                    <ns0:keyword>Tamil Nadu</ns0:keyword>
+                    <ns0:keyword>Technical education</ns0:keyword>
+                    <ns0:keyword>Tourism</ns0:keyword>
+                    <ns0:keyword>Transport</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Government of Tamil Nadu</ns0:institutionName>
+                                <ns0:institutionCountry>IND</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.tn.gov.in/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Content Moderation &amp; Approval Policy(CMAP)</ns0:policyName>
+                <ns0:policyURL>https://tn.data.gov.in/content-moderation-approval-policy</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Content Review Policy(CRP)</ns0:policyName>
+                <ns0:policyURL>https://tn.data.gov.in/content-review-policy</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Open Data Policy of India (NDSAP)</ns0:policyName>
+                <ns0:policyURL>https://data.gov.in/sites/default/files/NDSAP.pdf</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Open Government Data Portal of Tamil Nadu Policy</ns0:policyName>
+                <ns0:policyURL>https://tn.data.gov.in/policies</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Tamil Nadu Open Data Policy (TNODAP)</ns0:policyName>
+                <ns0:policyURL>https://tn.data.gov.in/sites/default/files/NDSAP.pdf</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Terms of Use</ns0:policyName>
+                <ns0:policyURL>https://tn.data.gov.in/terms-use</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                    <ns0:databaseLicense>
+                <ns0:databaseLicenseName>other</ns0:databaseLicenseName>
+                <ns0:databaseLicenseURL>https://data.gov.in/sites/default/files/Gazette_Notification_OGDL.pdf</ns0:databaseLicenseURL>
+            </ns0:databaseLicense>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>OGL</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://data.gov.in/sites/default/files/NDSAP_Implementation_Guidelines_2.2.pdf</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>other</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>no</ns0:versioning>
+                    <ns0:api apiType="REST">http://vocab.nic.in/</ns0:api>
+                        <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>no</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                    <ns0:syndication syndicationType="ATOM">https://tn.data.gov.in/faqs</ns0:syndication>
+                <ns0:remarks />
+        <ns0:entryDate>2018-05-20</ns0:entryDate>
+        <ns0:lastUpdate>2021-11-17</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

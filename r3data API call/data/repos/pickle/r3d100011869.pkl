@@ -1,0 +1,130 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011869</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Permanent Service for Mean Sea Level</ns0:repositoryName>
+                    <ns0:additionalName language="eng">PSMSL</ns0:additionalName>
+                <ns0:repositoryURL>http://www.psmsl.org/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>biodbcore-001683</ns0:repositoryIdentifier>
+                <ns0:description language="eng">PSMSL is the global data bank for long term sea level change information from tide gauges and bottom pressure recorders.</ns0:description>
+                    <ns0:repositoryContact>psmsl@noc.ac.uk</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31302 Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL>http://www.psmsl.org/about_us/</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>ODINAfrica</ns0:keyword>
+                    <ns0:keyword>RLR</ns0:keyword>
+                    <ns0:keyword>high frequency data</ns0:keyword>
+                    <ns0:keyword>sea level change</ns0:keyword>
+                    <ns0:keyword>stations</ns0:keyword>
+                    <ns0:keyword>tide gauges</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">British Oceanographic Data Centre</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">BODC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>GBR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.bodc.ac.uk/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.bodc.ac.uk/about/contact_us/</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">ICSU World Data System</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">ICSU WDS</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>AAA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.icsu-wds.org/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.icsu-wds.org/contact-info</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">International Association of Geodesy, Global Geodetic Observing System</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">GGOS</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">IAG</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>AAA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.ggos.org/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>ggos_co@asi.it</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Oceanography Centre</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NOC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>GBR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://noc.ac.uk/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://noc.ac.uk/contact</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Natural Environment Research Council</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NERC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>GBR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://nerc.ukri.org/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://nerc.ukri.org/about/enquiries/</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">United Nations Educational, Scientific and Cultural Organization, Intergovernmental Oceanographic Commission</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">UNESCO IOC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>AAA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://ioc-unesco.org/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>t.gross@unesco.org</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Academic licence for the use of data supplied by BODC</ns0:policyName>
+                <ns0:policyURL>http://www.psmsl.org/misc/eoss/wp5/license.html</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>IOC Manuals and Guides</ns0:policyName>
+                <ns0:policyURL>http://www.psmsl.org/train_and_info/training/manuals/</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www.psmsl.org/misc/eoss/wp5/license.html</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                <ns0:versioning>no</ns0:versioning>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>http://www.psmsl.org/data/obtaining/reference.php</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>no</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                    <ns0:certificate>WDS</ns0:certificate>
+                                <ns0:remarks>PSMSL is a regular member of  World Data System - WDX  .</ns0:remarks>
+        <ns0:entryDate>2015-10-23</ns0:entryDate>
+        <ns0:lastUpdate>2021-11-16</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

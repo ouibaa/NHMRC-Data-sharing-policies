@@ -1,0 +1,139 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012440</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">DR-NTU (Data)</ns0:repositoryName>
+                    <ns0:additionalName language="eng">Data repository - Nanyang Technological University</ns0:additionalName>
+                <ns0:repositoryURL>https://researchdata.ntu.edu.sg/</ns0:repositoryURL>
+                <ns0:description language="eng">DR-NTU (Data) is the institutional open access research data repository for Nanyang Technological University (NTU), Singapore. NTU researchers are encouraged to use DR-NTU (Data) to deposit, publish and archive their final research data in order to make their research data discoverable, accessible and reusable.</ns0:description>
+                    <ns0:repositoryContact>library@ntu.edu.sg</ns0:repositoryContact>
+                            <ns0:type>institutional</ns0:type>
+                <ns0:size updated="2021-03-04">423 Dataverses; 654 Datasets; 19,211 Files</ns0:size>
+        <ns0:startDate>2017-08-14</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">111 Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">112 Economics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">12 Social and Behavioural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31 Chemistry</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31 Chemistry</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">32 Physics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">4 Engineering Sciences</ns0:subject>
+                <ns0:missionStatementURL>https://libguides.ntu.edu.sg/drntudataguidespolicies</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Archived data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Audiovisual data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Configuration data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Databases</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Networkbased data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Software applications</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Source code</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>multidisciplinary</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Nanyang Technological University</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NTU</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>SGP</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.ntu.edu.sg/Pages/home.aspx</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:02e7b5302</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:SCR_011376</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_149224</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate>2017-04-014</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Nanyang Technological University Centre for IT Services</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">CITS</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>SGP</ns0:institutionCountry>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.ntu.edu.sg/cits/pages/index.aspx</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Nanyang Technological University Library</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NTU Library</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>SGP</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.ntu.edu.sg/library/Pages/default.aspx</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>library@ntu.edu.sg</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>DR-NTU (Data) Policies</ns0:policyName>
+                <ns0:policyURL>https://libguides.ntu.edu.sg/drntudataguidespolicies/policies</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>DR-NTU (Data) User Guides</ns0:policyName>
+                <ns0:policyURL>https://libguides.ntu.edu.sg/drntudataguidespolicies/userguides</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>NTU Research Data Policy</ns0:policyName>
+                <ns0:policyURL>http://research.ntu.edu.sg/rieo/RI/Pages/Research-Data-Policies.aspx</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>institutional membership</ns0:dataAccessRestriction>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/licenses/by-nc/4.0/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>institutional membership</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>DataVerse</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://dataverse.org/best-practices/data-citation</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">DDI - Data Documentation Initiative</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/ddi-data-documentation-initiative</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                    <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">Dublin Core</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/abcd-access-biological-collection-data</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                    <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">ISA-Tab</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/isa-tab</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                    <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">International Virtual Observatory Alliance Technical Specifications</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/international-virtual-observatory-alliance-technical-specifications</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks>DR-NTU (Data) is covered by Clarivate Data Citation Index.
+Metadata references: https://blogs.ntu.edu.sg/lib-datamanagement/files/2017/03/DRNTUData_SupportedMetadataReferences-2e09yn2.pdf</ns0:remarks>
+        <ns0:entryDate>2017-08-18</ns0:entryDate>
+        <ns0:lastUpdate>2021-03-04</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

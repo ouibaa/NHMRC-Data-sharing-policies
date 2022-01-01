@@ -1,0 +1,175 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011058</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">VertNet</ns0:repositoryName>
+                <ns0:repositoryURL>http://vertnet.org/</ns0:repositoryURL>
+                <ns0:description language="eng">VertNet is a NSF-funded collaborative project that makes biodiversity data free and available on the web. VertNet is a tool designed to help people discover, capture, and publish biodiversity data. It is also the core of a collaboration between hundreds of biocollections that contribute biodiversity data and work together to improve it. VertNet is an engine for training current and future professionals to use and build upon best practices in data quality, curation, research, and data publishing. Yet, VertNet is still the aggregate of all of the information that it mobilizes. To us, VertNet is all of these things and more.</ns0:description>
+                    <ns0:repositoryContact>http://vertnet.org/feedback/contact.html</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                    <ns0:type>institutional</ns0:type>
+                <ns0:size updated="2017-11-27">over 20,546,275 records from 282 data resources, containing 370 collections, shared by 112 publishers globally</ns0:size>
+        <ns0:startDate>2011</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">203 Zoology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20303 Animal Ecology, Biodiversity and Ecosystem Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                <ns0:missionStatementURL>http://vertnet.org/about/about.html</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Databases</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>biodiversity</ns0:keyword>
+                    <ns0:keyword>biology</ns0:keyword>
+                    <ns0:keyword>fungi</ns0:keyword>
+                    <ns0:keyword>invertebrates</ns0:keyword>
+                    <ns0:keyword>natural history</ns0:keyword>
+                    <ns0:keyword>paleo</ns0:keyword>
+                    <ns0:keyword>plants</ns0:keyword>
+                    <ns0:keyword>vertebrates</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Global Biodiversity Information Facility</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">GBIF</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>sponsoring</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.gbif.org/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.gbif.org/contact-us</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Science Foundation</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NSF</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.nsf.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.nsf.gov/help/contact.jsp</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Tulane University, Museum of Natural History</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Museum of Natural History</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.tubri.org/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.tubri.org/contacts/</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of California at Berkeley, Museum of Vertebrate Zoology</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">MVZ</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://mvz.berkeley.edu/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>dbloom@vertnet.org</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of Colorado Boulder, Museum of Natural History</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.colorado.edu/cumuseum/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>cumuseum@colorado.edu</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of Kansas, Biodiversity Institute</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Biodiversity Institute</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://biodiversity.ku.edu/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>larussell@vertnet.org</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Vertnet Norms</ns0:policyName>
+                <ns0:policyURL>http://vertnet.org/resources/norms.html</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                    <ns0:databaseLicense>
+                <ns0:databaseLicenseName>CC</ns0:databaseLicenseName>
+                <ns0:databaseLicenseURL>https://creativecommons.org/licenses/by/4.0/</ns0:databaseLicenseURL>
+            </ns0:databaseLicense>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>other</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/licenses/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>CC0</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/publicdomain/zero/1.0/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>ODC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://opendatacommons.org/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>Public Domain</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www.vertnet.org/resources/datalicensingguide.html#protected</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www.vertnet.org/resources/datalicensingguide.html</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>Quick Guide to Copyright and Licenses for Dataset</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>http://www.vertnet.org/resources/datalicensingguide.html</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                            <ns0:software>
+                <ns0:softwareName>other</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                    <ns0:api apiType="other">https://github.com/VertNet/webapp/wiki/Introduction-to-the-VertNet-API</ns0:api>
+                            <ns0:pidSystem>URN</ns0:pidSystem>
+                <ns0:citationGuidelineURL>http://www.vertnet.org/resources/norms.html</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">Darwin Core</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/darwin-core</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                            <ns0:syndication syndicationType="RSS">http://blog.vertnet.org/</ns0:syndication>
+                <ns0:remarks>VertNet will use a cloud-based computing strategy to create a fast, cost-effective, and scalable data platform. This new platform will have capabilities and applications for data discovery, data quality improvement, and visualization that go beyond those of the current networks.
+VertNet uses GitHub to collaboratively submit, track, and resolve data quality issues.
+The classic vertebrate networks are the backbone of the VertNet project. Since 1999 these four networks (FishNet, MaNIS, HerpNET, ORNIS) have provided the biodiversity community with access to vertebrate data sets.
+The MaNIS/HerpNET/ORNIS portals will continue to serve your data until May 2014, at which time they will no longer be maintained. FishNet will continue to provide service to the community into the foreseable future. The project pages for each taxon-based community will also continue to be maintained.
+VertNet uses the Integrated Publishing Toolkit (IPT) to host published biodiversity data on the VertNet IPT for its participating institutions.
+The IPT is a free open source web application designed to publish primary occurrence data, species checklists and taxonomies, and associated datasets metadata available for use on the Internet. Data are published as web-based Darwin Core Archives using Darwin Core Standards.</ns0:remarks>
+        <ns0:entryDate>2014-04-28</ns0:entryDate>
+        <ns0:lastUpdate>2019-08-07</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

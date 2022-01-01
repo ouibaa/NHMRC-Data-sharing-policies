@@ -1,0 +1,151 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010630</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="deu">GOVDATA</ns0:repositoryName>
+                    <ns0:additionalName language="deu">Das Datenportal f&#252;r Deutschland</ns0:additionalName>
+                <ns0:repositoryURL>https://www.govdata.de/</ns0:repositoryURL>
+                <ns0:description language="eng">GovData the data portal for Germany offers consistent and central access to administrative data at the federal, state, and local level. Objective is to make data more available and easier to use at a single location. As set out in the concept of "open data", we attempt to facilitate the use of open licenses and to increase the supply of machine-readable raw data.</ns0:description>
+                    <ns0:repositoryContact>https://www.govdata.de/web/guest/kontakt</ns0:repositoryContact>
+                    <ns0:repositoryContact>info@govdata.de</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                    <ns0:type>institutional</ns0:type>
+                <ns0:size updated="2021-12-16">56.082 hits; 55.931 data;</ns0:size>
+        <ns0:startDate>2013-02-18</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>deu</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">109 Education Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">111 Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">112 Economics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">12 Social and Behavioural Sciences</ns0:subject>
+                <ns0:missionStatementURL>https://www.govdata.de/web/guest/hilfe</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>age structure</ns0:keyword>
+                    <ns0:keyword>culture</ns0:keyword>
+                    <ns0:keyword>customer protection</ns0:keyword>
+                    <ns0:keyword>economy</ns0:keyword>
+                    <ns0:keyword>education</ns0:keyword>
+                    <ns0:keyword>environment</ns0:keyword>
+                    <ns0:keyword>geography</ns0:keyword>
+                    <ns0:keyword>health</ns0:keyword>
+                    <ns0:keyword>infrastructure</ns0:keyword>
+                    <ns0:keyword>law</ns0:keyword>
+                    <ns0:keyword>organisation</ns0:keyword>
+                    <ns0:keyword>politics</ns0:keyword>
+                    <ns0:keyword>population</ns0:keyword>
+                    <ns0:keyword>sport</ns0:keyword>
+                    <ns0:keyword>survey</ns0:keyword>
+                    <ns0:keyword>taxes</ns0:keyword>
+                    <ns0:keyword>tourism</ns0:keyword>
+                    <ns0:keyword>transport</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="deu">Bundesministerium des Innern, f&#252;r Bau und Heimat</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="deu">BMI</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">Federal Ministry of the Interior, Building and Community</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.bmi.bund.de/DE/startseite/startseite-node.html</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:00fpwd955</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.bmi.bund.de/DE/service/kontakt/kontakt_node.html</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="deu">Fraunhofer FOKUS</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Fraunhofer Institute for Open Communication Systems FOKUS</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="deu">Fraunhofer-Institut f&#252;r Offene Kommunikationssysteme</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.fokus.fraunhofer.de/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:00px80p03</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="deu">IT-Planungsrat</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="deu">IT Planning Council</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.it-planungsrat.de/der-it-planungsrat</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.it-planungsrat.de/kontakt</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Nutzungshinweise</ns0:policyName>
+                <ns0:policyURL>https://www.govdata.de/Nutzungsbestimmungen</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Apache License 2.0</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.apache.org/licenses/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>BSD</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://opensource.org/licenses/BSD-3-Clause</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>ODC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://opendatacommons.org/licenses/odbl/summary/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://opensource.org/licenses/gpl-3.0.html</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.gnu.org/licenses/fdl-1.3.html</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.govdata.de/lizenzen</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>CKAN</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                    <ns0:api apiType="SPARQL">https://www.govdata.de/web/guest/sparql-assistent</ns0:api>
+                    <ns0:api apiType="other">https://www.govdata.de/daten/-/details/govdata-metadatenkatalog</ns0:api>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">DCAT - Data Catalog Vocabulary</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dcat-data-catalog-vocabulary</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                            <ns0:syndication syndicationType="RSS">https://www.govdata.de/web/guest/home/-/journal/rss/102287?doAsGroupId=19&amp;refererPlid=10169&amp;controlPanelCategory=current_site.content&amp;_15_groupId=19</ns0:syndication>
+                <ns0:remarks />
+        <ns0:entryDate>2014-03-05</ns0:entryDate>
+        <ns0:lastUpdate>2021-12-16</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

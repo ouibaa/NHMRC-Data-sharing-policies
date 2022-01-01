@@ -1,0 +1,174 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011372</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">PhytoPath</ns0:repositoryName>
+                <ns0:repositoryURL>http://www.phytopathdb.org/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>OMICS_10268</ns0:repositoryIdentifier>
+                <ns0:description language="eng">&gt;&gt;&gt;!!!&lt;&lt;&lt; This site is no longer maintained and is provided for reference only. Some functionality or links may not work. For all enquiries please contact the Ensembl Helpdesk http://www.ensembl.org/Help/Contact &gt;&gt;&gt;!!!&lt;&lt;&lt;
+PhytoPath is a new bioinformatics resource that integrates genome-scale data from important plant pathogen species with literature-curated information about the phenotypes of host infection. Using the Ensembl Genomes browser, it provides access to complete genome assembly and gene models of priority crop and model-fungal, oomycete and bacterial phytopathogens. PhytoPath also links genes to disease progression using data from the curated PHI-base resource. PhytoPath portal is a joint project bringing together Ensembl Genomes with PHI-base, a community-curated resource describing the role of genes in pathogenic infection. PhytoPath provides access to genomic and phentoypic data from fungal and oomycete plant pathogens, and has enabled a considerable increase in the coverage of phytopathogen genomes in Ensembl Fungi and Ensembl Protists.
+PhytoPath also provides enhanced searching of the PHI-base resource as well as the fungi and protists in Ensembl Genomes.</ns0:description>
+                    <ns0:repositoryContact>http://www.phytopathdb.org/content/contact-us</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2012-01</ns0:startDate>
+        <ns0:endDate>2017-05-30</ns0:endDate>
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">201 Basic Biological and Medical Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20107 Bioinformatics and Theoretical Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">202 Plant Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20205 Plant Biochemistry and Biophysics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20207 Plant Genetics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">204 Microbiology, Virology and Immunology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                <ns0:missionStatementURL>http://www.phytopathdb.org/</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Archived data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>DNA</ns0:keyword>
+                    <ns0:keyword>RNA</ns0:keyword>
+                    <ns0:keyword>bioinformatics</ns0:keyword>
+                    <ns0:keyword>disease</ns0:keyword>
+                    <ns0:keyword>fungal pathogens</ns0:keyword>
+                    <ns0:keyword>fungi</ns0:keyword>
+                    <ns0:keyword>genes</ns0:keyword>
+                    <ns0:keyword>host infection</ns0:keyword>
+                    <ns0:keyword>oomycete pathogens</ns0:keyword>
+                    <ns0:keyword>pathogenicity</ns0:keyword>
+                    <ns0:keyword>protists</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Bill &amp; Melinda Gates Foundation</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.gatesfoundation.org/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>2012</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.gatesfoundation.org/Who-We-Are/General-Information/Contact-Us</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Biotechnology and Biological Sciences Research Council</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">BBSRC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>GBR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://bbsrc.ukri.org/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>2012</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://bbsrc.ukri.org/about/contact/</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Broad Institute of Harvard and MIT</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Broad Institute</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.broadinstitute.org/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>2012</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.broadinstitute.org/contact</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">EnsemblGenomes</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">e!EnsemblGenomes</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>GBR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.ensemblgenomes.org/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">European Molecular Biology Laboratory, European Bioinformatics Institute</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">EMBL-EBI</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>EEC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.ebi.ac.uk/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>2012</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.ebi.ac.uk/about/contact</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">PHI-base</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Pathogen host interactions</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>GBR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.phi-base.org/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Rothamsted Research</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Rothamsted Experimental Station</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>GBR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.rothamsted.ac.uk/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>2012</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.rothamsted.ac.uk/about</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">U.S.Department of Agriculture, Agricultural Research Service</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">USDA ARS</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.ars.usda.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>2012</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.ars.usda.gov/contact-us/?modeCode=00-00-00-00</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Legal Notices</ns0:policyName>
+                <ns0:policyURL>http://ensemblgenomes.org/info/about/legal</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                    <ns0:databaseLicense>
+                <ns0:databaseLicenseName>other</ns0:databaseLicenseName>
+                <ns0:databaseLicenseURL>https://www.ebi.ac.uk/about/terms-of-use</ns0:databaseLicenseURL>
+            </ns0:databaseLicense>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.ebi.ac.uk/about/terms-of-use</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>Data Upload Disclaimer</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>http://fungi.ensembl.org/info/website/upload/index.html#access</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                            <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>http://ensemblgenomes.org/info/publications</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks>PhythoPath includes data from e!EnsemblGenomes and PHI-base</ns0:remarks>
+        <ns0:entryDate>2010-10-23</ns0:entryDate>
+        <ns0:lastUpdate>2021-09-08</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

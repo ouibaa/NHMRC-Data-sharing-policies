@@ -1,0 +1,89 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010293</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">World Data Center for Cosmic Rays</ns0:repositoryName>
+                    <ns0:additionalName language="eng">WDCCR</ns0:additionalName>
+                <ns0:repositoryURL>http://cidas.isee.nagoya-u.ac.jp/WDCCR/</ns0:repositoryURL>
+                <ns0:description language="eng">The database includes world-wide cosmic-ray neutron observations (pressure-corrected 1 hour counts) since 1953. The date are opened in two formats; one is 4096-byte "longformat" data and the other one is 80-byte "cardformat" data. Since the "cardformat" data are prepared only for quick check of data, the "longformat" data, which include information for data usage (constant, factors, etc), should be used for research works. PS files (compressed) of yearly plots are also available.</ns0:description>
+                    <ns0:repositoryContact>wdccr21@yahoo.co.jp</ns0:repositoryContact>
+                    <ns0:repositoryContact>wdccr@stelab.nagoya-u.ac.jp</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2012</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">309 Particles, Nuclei and Fields</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">311 Astrophysics and Astronomy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">32 Physics</ns0:subject>
+                <ns0:missionStatementURL>http://cidas.isee.nagoya-u.ac.jp/WDCCR/readme.html</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>X-rays</ns0:keyword>
+                    <ns0:keyword>atomic nuclei</ns0:keyword>
+                    <ns0:keyword>cosmic ray neutrons</ns0:keyword>
+                    <ns0:keyword>electromagnetic radiation</ns0:keyword>
+                    <ns0:keyword>gamma rays</ns0:keyword>
+                    <ns0:keyword>high-energy particles</ns0:keyword>
+                    <ns0:keyword>high-energy protons</ns0:keyword>
+                    <ns0:keyword>photons</ns0:keyword>
+                    <ns0:keyword>solar activity</ns0:keyword>
+                    <ns0:keyword>supernovae</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Nagoya University, Institute for Space-Earth Environmental Research</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">ISEE</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>JPN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.isee.nagoya-u.ac.jp/en/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>2015</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Nagoya University, Solar-Terrestrial Environment Laboratory</ns0:institutionName>
+                                <ns0:institutionCountry>JPN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.stelab.nagoya-u.ac.jp/index.php.en</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>wdccr21@yahoo.co.jp</ns0:institutionContact>
+                                    <ns0:institutionContact>wdccr@stelab.nagoya-u.ac.jp</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Readme</ns0:policyName>
+                <ns0:policyURL>http://cidas.isee.nagoya-u.ac.jp/WDCCR/readme.html</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://cidas.isee.nagoya-u.ac.jp/WDCCR/readme.html</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                    <ns0:api apiType="FTP">ftp://ftp.stelab.nagoya-u.ac.jp/pub/WDCCR/</ns0:api>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks />
+        <ns0:entryDate>2013-05-27</ns0:entryDate>
+        <ns0:lastUpdate>2019-01-22</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

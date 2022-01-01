@@ -1,0 +1,91 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100013497</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">eSango</ns0:repositoryName>
+                    <ns0:additionalName language="eng">CPUT Data Repository</ns0:additionalName>
+                    <ns0:additionalName language="eng">Cape Peninsula University of Technology Figshare</ns0:additionalName>
+                <ns0:repositoryURL>https://cput.figshare.com/</ns0:repositoryURL>
+                <ns0:description language="eng">The Cape Peninsula University of Technology uses Figshare for institutions for their data repository and it is called eSango. The repository's Designated community are academics at the university who produce outputs for funded research. It fits with the University's ambition to increase the visibility, reach, and impact of its research. The Designated Community consists of researchers from all the discipline areas researched at CPUT Figshare (as evidenced by https://cput.figshare.com)</ns0:description>
+                    <ns0:repositoryContact>xesix@cput.ac.za</ns0:repositoryContact>
+                            <ns0:type>institutional</ns0:type>
+                <ns0:size updated="2021-02-10">100 Terabytes</ns0:size>
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">109 Education Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11 Humanities</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">112 Economics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">12 Social and Behavioural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">201 Basic Biological and Medical Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20101 Biochemistry</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">4 Engineering Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">410 Construction Engineering and Architecture</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">41001 Architecture, Building and Construction History, Sustainable Building Technology, Building Design</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">45 Construction Engineering and Architecture</ns0:subject>
+                <ns0:missionStatementURL>https://help.figshare.com/article/mission-statement-and-core-beliefs</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>multidisciplinary</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Cape Peninsula University of Technology</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">CPUT</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="afr">Kaapse Skiereiland Universiteit van Tegnologie</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>ZAF</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.cput.ac.za/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:056e9h402</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>CPUT Open Access Policy</ns0:policyName>
+                <ns0:policyURL>https://libguides.library.cput.ac.za/ld.php?content_id=22739055</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>CPUT Research Data Management (RDM) Policy</ns0:policyName>
+                <ns0:policyURL>https://libguides.library.cput.ac.za/ld.php?content_id=22739056</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>eSango (Research Data repositories)</ns0:policyName>
+                <ns0:policyURL>https://libguides.library.cput.ac.za/c.php?g=628041&amp;p=4382007</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>other</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://help.figshare.com/article/copyright-and-license-policy</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>institutional membership</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                <ns0:versioning />
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                    <ns0:aidSystem>ORCID</ns0:aidSystem>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                    <ns0:syndication syndicationType="RSS">https://cput.figshare.com/rss/portal/cput</ns0:syndication>
+                <ns0:remarks>CPUT figshare uses altmetric.com to track the impact of the publications and research data.
+CPUT Libraries support researchers with secured spaces for research data where authors can store, share and discover research data using  eSango (CPUT Data Repositories) Figshare (https://cput.figshare.com/) and MediaTum (http://rdm.cput.ac.za/) This makes it easy for research data  to be viewed, accessible and cited.  Share, save and publish research output in these open access data repositories. The Institutional Repository (http://digitalknowledge.cput.ac.za/) allow researchers to share their research output in the University's open access institutional repository.</ns0:remarks>
+        <ns0:entryDate>2021-02-10</ns0:entryDate>
+        <ns0:lastUpdate>2021-04-21</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

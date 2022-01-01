@@ -1,0 +1,50 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010065</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">JEDI</ns0:repositoryName>
+                    <ns0:additionalName language="jpn">JEDI&#12408;&#12424;&#12358;&#12371;&#12381;</ns0:additionalName>
+                <ns0:repositoryURL>https://www.hyogo-u.ac.jp/english/facilities/museum.html</ns0:repositoryURL>
+                <ns0:description language="eng">&gt;&gt;&gt;!!!&lt;&lt;&lt;   Jedi is no longer online 2019-05-14   &gt;&gt;&gt;!!!&lt;&lt;&lt;JEDI is an educational data archive service that collects, preserves, and distributes empirical data for academic, educational and governmental administrative purposes.</ns0:description>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2007</ns0:startDate>
+        <ns0:endDate>2019-05-04</ns0:endDate>
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>jpn</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">109 Education Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">12 Social and Behavioural Sciences</ns0:subject>
+                <ns0:missionStatementURL />
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>administration</ns0:keyword>
+                    <ns0:keyword>education</ns0:keyword>
+                    <ns0:keyword>government</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Hyogo University of Teacher Education, Teaching Materials and Culture Museum</ns0:institutionName>
+                                <ns0:institutionCountry>JPN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.hyogo-u.ac.jp/english/facilities/museum.html</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>2007</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                        <ns0:databaseAccess>
+            <ns0:databaseAccessType>closed</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>closed</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                                    <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                <ns0:versioning />
+                        <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>no</ns0:qualityManagement>
+                                <ns0:remarks />
+        <ns0:entryDate>2012-08-21</ns0:entryDate>
+        <ns0:lastUpdate>2019-05-14</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

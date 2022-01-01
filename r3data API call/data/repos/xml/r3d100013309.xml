@@ -1,0 +1,134 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100013309</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">The Lens</ns0:repositoryName>
+                    <ns0:additionalName language="eng">Lens COVID-19 Datasets</ns0:additionalName>
+                <ns0:repositoryURL>https://www.lens.org/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>biodbcore-001466</ns0:repositoryIdentifier>
+                <ns0:description language="eng">The Lens is building an open platform for Innovation Cartography. Specifically, the Lens serves nearly all of the patent documents in the world as open, annotatable digital public goods that are integrated with scholarly and technical literature along with regulatory and business data.</ns0:description>
+                    <ns0:repositoryContact>https://about.lens.org/contact-us/</ns0:repositoryContact>
+                    <ns0:repositoryContact>support@lens.org</ns0:repositoryContact>
+                            <ns0:type>other</ns0:type>
+                <ns0:size updated="2021-01-12">127.471.322 patent records; 225.109.652 scholarly works; 369.131.518 biological sequences</ns0:size>
+        <ns0:startDate>2013-01-13</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>ara</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>fra</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>rus</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>spa</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>zho</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">4 Engineering Sciences</ns0:subject>
+                <ns0:missionStatementURL>https://about.lens.org/</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Archived data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                            <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>COVID-19</ns0:keyword>
+                    <ns0:keyword>patents</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Australia's Information and Communications Technology</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NICTA</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">National ICT Australia</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>AUS</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.nicta.com.au</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:03q397159</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Bill &amp; Melinda Gates Foundation</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.gatesfoundation.org/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:0456r8d26</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Cambia</ns0:institutionName>
+                                <ns0:institutionCountry>AUS</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://cambia.org/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:0307tfa50</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Gordon and Betty Moore Foundation</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.moore.org/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:006wxqw41</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Lemelson Foundation</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.lemelson.org/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>VIAF:305448487</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">United States Patent and Trademark Office</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">USPTO</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.uspto.gov/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:0114yjq47</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of Queensland</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">UQ</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>AUS</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.uq.edu.au/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:00rqy9422</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Policies</ns0:policyName>
+                <ns0:policyURL>https://about.lens.org/policies/</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                <ns0:versioning />
+                    <ns0:api apiType="other">https://about.lens.org/lens-scholarly-api-terms-of-use/</ns0:api>
+                        <ns0:citationGuidelineURL>https://about.lens.org/policies/#termsuse</ns0:citationGuidelineURL>
+                    <ns0:aidSystem>ORCID</ns0:aidSystem>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                <ns0:remarks />
+        <ns0:entryDate>2020-04-24</ns0:entryDate>
+        <ns0:lastUpdate>2021-02-02</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

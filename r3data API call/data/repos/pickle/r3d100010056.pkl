@@ -1,0 +1,113 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010056</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">CoRIS</ns0:repositoryName>
+                    <ns0:additionalName language="eng">Coral Reef Information System</ns0:additionalName>
+                <ns0:repositoryURL>https://www.coris.noaa.gov/</ns0:repositoryURL>
+                <ns0:description language="eng">NOAA's Coral Reef Information System (CoRIS) is a web-based information portal that provides access to NOAA coral reef information and data products with emphasis on the U.S. states, territories and remote island areas. NOAA Coral Reef activities include coral reef mapping, monitoring and assessment; natural and socioeconomic research and modeling; outreach and education; and management and stewardship.</ns0:description>
+                    <ns0:repositoryContact>coris@noaa.gov</ns0:repositoryContact>
+                    <ns0:repositoryContact>http://www.coris.noaa.gov/backmatter/contactus.html</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2002</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31302 Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL />
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>animalia</ns0:keyword>
+                    <ns0:keyword>artificial intelligence</ns0:keyword>
+                    <ns0:keyword>atmosphere</ns0:keyword>
+                    <ns0:keyword>biological survey</ns0:keyword>
+                    <ns0:keyword>climatology</ns0:keyword>
+                    <ns0:keyword>coastal change</ns0:keyword>
+                    <ns0:keyword>coral reef mapping; natural research</ns0:keyword>
+                    <ns0:keyword>coral reefs</ns0:keyword>
+                    <ns0:keyword>ecology</ns0:keyword>
+                    <ns0:keyword>ecosystem</ns0:keyword>
+                    <ns0:keyword>fungi</ns0:keyword>
+                    <ns0:keyword>geographic information systems</ns0:keyword>
+                    <ns0:keyword>glacier</ns0:keyword>
+                    <ns0:keyword>marine systems</ns0:keyword>
+                    <ns0:keyword>monera</ns0:keyword>
+                    <ns0:keyword>natural research</ns0:keyword>
+                    <ns0:keyword>ocean</ns0:keyword>
+                    <ns0:keyword>oceanographic equipment</ns0:keyword>
+                    <ns0:keyword>oceanography</ns0:keyword>
+                    <ns0:keyword>plankton</ns0:keyword>
+                    <ns0:keyword>plantae</ns0:keyword>
+                    <ns0:keyword>protista</ns0:keyword>
+                    <ns0:keyword>sensor arrays</ns0:keyword>
+                    <ns0:keyword>socioeconomic research</ns0:keyword>
+                    <ns0:keyword>water quality monitoring</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">National Oceanic and Atmospheric Administration, Coral Reef Conservation Program</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">CRCP</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">NOAA</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://coralreef.noaa.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>1961</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.coris.noaa.gov/backmatter/contactus.html</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>disclaimer</ns0:policyName>
+                <ns0:policyURL>https://www.coris.noaa.gov/backmatter/disclaimer.html</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>privacy policy</ns0:policyName>
+                <ns0:policyURL>https://www.coris.noaa.gov/backmatter/privacy.html</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                    <ns0:databaseLicense>
+                <ns0:databaseLicenseName>Copyrights</ns0:databaseLicenseName>
+                <ns0:databaseLicenseURL>https://coralreef.noaa.gov/disclaimer.html</ns0:databaseLicenseURL>
+            </ns0:databaseLicense>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.coris.noaa.gov/backmatter/siteinfo.html</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">FGDC/CSDGM - Federal Geographic Data Committee Content Standard for Digital Geospatial Metadata</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/fgdccsdgm-federal-geographic-data-committee-content-standard-digital-ge</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                            <ns0:syndication syndicationType="RSS">https://www.coris.noaa.gov/rss/latest_pubs.xml</ns0:syndication>
+                <ns0:remarks />
+        <ns0:entryDate>2012-11-19</ns0:entryDate>
+        <ns0:lastUpdate>2021-06-25</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

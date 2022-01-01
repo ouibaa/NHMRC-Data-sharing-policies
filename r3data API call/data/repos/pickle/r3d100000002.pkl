@@ -1,0 +1,90 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100000002</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Access to Archival Databases</ns0:repositoryName>
+                    <ns0:additionalName language="eng">AAD</ns0:additionalName>
+                <ns0:repositoryURL>https://aad.archives.gov/aad/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>RRID:SCR_010479</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:nlx_157752</ns0:repositoryIdentifier>
+                <ns0:description language="eng">You will find in the Access to Archival Databases (AAD) resource online access to records in a small selection of historic databases preserved permanently in NARA. Out of the nearly 200,000 data files in its holdings, NARA has selected approximately 475 of them for public searching through AAD. We selected these data because the records identify specific persons, geographic areas, organizations, and dates. The records cover a wide variety of civilian and military functions and have many genealogical, social, political, and economic research uses. AAD provides: Access to over 85 million historic electronic records created by more than 30 agencies of the U.S. federal government and from collections of donated historical materials.
+Both free-text and fielded searching options. The ability to retrieve, print, and download records with the specific information that you seek. Information to help you find and understand the records.</ns0:description>
+                    <ns0:repositoryContact>https://www.archives.gov/contact</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>1985</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>spa</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">102 History</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11 Humanities</ns0:subject>
+                <ns0:missionStatementURL>https://www.archives.gov/publications/general-info-leaflets/1-about-archives.html</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>US History</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">The U.S. National Archives and Records Administration</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NARA</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">National Archives</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.archives.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.archives.gov/contact/</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">The USA.gov</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.usa.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.usa.gov/Contact.shtml</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Contribution Policy</ns0:policyName>
+                <ns0:policyURL>https://www.archives.gov/developer#toc-contribution-policy</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Freedom of Information Act - FOAI</ns0:policyName>
+                <ns0:policyURL>https://www.archives.gov/foia</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Privacy and Use</ns0:policyName>
+                <ns0:policyURL>https://www.archives.gov/global-pages/privacy.html</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.archives.gov/global-pages/privacy.html#copyright</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>no</ns0:versioning>
+                    <ns0:api apiType="other">https://www.archives.gov/developer#toc-application-programming-interfaces-apis-</ns0:api>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://aad.archives.gov/aad/help/getting-started-guide.html#cite</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                    <ns0:syndication syndicationType="RSS">http://www.archives.gov/social-media/rss-feeds.html</ns0:syndication>
+                <ns0:remarks />
+        <ns0:entryDate>2012-07-04</ns0:entryDate>
+        <ns0:lastUpdate>2021-05-25</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

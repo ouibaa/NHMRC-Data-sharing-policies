@@ -1,0 +1,146 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011734</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">GEOSS Portal</ns0:repositoryName>
+                    <ns0:additionalName language="eng">The Global Earth Observation System of Systems Portal</ns0:additionalName>
+                <ns0:repositoryURL>https://www.geoportal.org/?f:dataSource=dab</ns0:repositoryURL>
+                <ns0:description language="eng">The GEOSS Portal provides an entry point to access Earth Observation information and services. It will connect to a system of existing portals, addressing the GEO Societal Benefit Areas globally and provide national to regional perspective to achieve synergy and leverage.</ns0:description>
+                    <ns0:repositoryContact>secretariat@geosec.org</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>pol</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>rus</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>srd</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>zho</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">314 Geology and Palaeontology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">315 Geophysics and Geodesy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">316 Geochemistry, Mineralogy and Crystallography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">317 Geography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">318 Water Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL>https://www.earthobservations.org/geoss.php</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Databases</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>agriculture</ns0:keyword>
+                    <ns0:keyword>biodiversity</ns0:keyword>
+                    <ns0:keyword>climate</ns0:keyword>
+                    <ns0:keyword>disaster</ns0:keyword>
+                    <ns0:keyword>ecosystem</ns0:keyword>
+                    <ns0:keyword>energy</ns0:keyword>
+                    <ns0:keyword>health</ns0:keyword>
+                    <ns0:keyword>water</ns0:keyword>
+                    <ns0:keyword>weather</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">European Space Agency</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">ESA</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>EEC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.esa.int/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:03wd9za21</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.esa.int/Services/Contacts</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">GEOSS Portal Data Providers</ns0:institutionName>
+                                <ns0:institutionCountry>AAA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.geoportal.org/data-providers</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Group on Earth Observations</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">GEO</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>AAA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.earthobservations.org/index.php</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.earthobservations.org/documents.php?smid=2500</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Institute of Atmospheric Pollution Research</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="ita">CNR-IIA</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="ita">Consiglio Nazionale delle Ricerche Istituto sull'Inquinamento Atmosferico</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>ITA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.iia.cnr.it/en/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:05hky6p02</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.iia.cnr.it/en/926-2/</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Terms and Conditions</ns0:policyName>
+                <ns0:policyURL>https://www.geoportal.org/terms-conditions</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.earthobservations.org/g_copyright.html</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>institutional membership</ns0:dataUploadRestriction>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>How to get involved</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>https://www.earthobservations.org/members.php</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                            <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                    <ns0:api apiType="REST">http://gs-service-production.geodab.eu/gs-service/api/demo/</ns0:api>
+                    <ns0:api apiType="other">http://api.eurogeoss-broker.eu/docs/index.html</ns0:api>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">CF (Climate and Forecast) Metadata Conventions</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/cf-climate-and-forecast-metadata-conventions</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                    <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">DIF - Directory Interchange Format</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dif-directory-interchange-format</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                    <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">Dublin Core</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks>Participating Organizations: https://www.earthobservations.org/pos.php
+The ICSU World Data System (ICSU-WDS) is now officially recognized as a 'Participating Organization' in the intergovernmental Group on Earth Observations (GEO). WDS will contribute its Members&#8217; key multidisciplinary quality-assessed scientific datasets to the GEO System of Systems (GEOSS) Data Collection of Open Resources for Everyone (https://www.icsu-wds.org/news/news-archive/wds-recognized-as-participating-organization-in-geo).</ns0:remarks>
+        <ns0:entryDate>2016-03-16</ns0:entryDate>
+        <ns0:lastUpdate>2020-05-18</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

@@ -1,0 +1,108 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011898</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">UWA Profiles and Research Repository</ns0:repositoryName>
+                    <ns0:additionalName language="eng">UWA Research Repository</ns0:additionalName>
+                    <ns0:additionalName language="eng">formerly: RDO</ns0:additionalName>
+                    <ns0:additionalName language="eng">formerly: Research Data Online</ns0:additionalName>
+                <ns0:repositoryURL>https://research-repository.uwa.edu.au/</ns0:repositoryURL>
+                <ns0:description language="eng">The UWA Profiles and Research Repository contains research publications, research datasets, theses, equipment, grants and activities created by researchers and postgraduates affiliated with the University of Western Australia (UWA). It is managed by the University Library and provides access to research datasets held at UWA. The information about each dataset has been provided by UWA research groups. Dataset metadata is harvested into Research Data Australia (RDA) https://researchdata.edu.au/.</ns0:description>
+                    <ns0:repositoryContact>help-repository@uwa.edu.au</ns0:repositoryContact>
+                    <ns0:repositoryContact>kate.croker@uwa.edu.au</ns0:repositoryContact>
+                    <ns0:repositoryContact>katina.toufexis@uwa.edu.au</ns0:repositoryContact>
+                            <ns0:type>institutional</ns0:type>
+                <ns0:size updated="2021-01-05">807 datasets</ns0:size>
+        <ns0:startDate>2017</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">105 Literary Studies</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11 Humanities</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">112 Economics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">113 Jurisprudence</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">12 Social and Behavioural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">204 Microbiology, Virology and Immunology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">23 Agriculture, Forestry, Horticulture and Veterinary Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31 Chemistry</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">32 Physics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">4 Engineering Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">44 Computer Science, Electrical and System Engineering</ns0:subject>
+                <ns0:missionStatementURL>https://www.library.uwa.edu.au/__data/assets/pdf_file/0003/2778114/University-Library-Strategic-Directions-2015-2020.pdf</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>multidisciplinary</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">University of Western Australia, University Library</ns0:institutionName>
+                                <ns0:institutionCountry>AUS</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.uwa.edu.au/library/home</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.uwa.edu.au/library/help-and-support/contact</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>University Policy on: Code of Conduct</ns0:policyName>
+                <ns0:policyURL>https://www.uwa.edu.au/policy/home#Code</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>University Policy on: Sustainability</ns0:policyName>
+                <ns0:policyURL>https://www.uwa.edu.au/policy/home#Sustainability</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>University policies</ns0:policyName>
+                <ns0:policyURL>https://www.uwa.edu.au/policy/home</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/licenses/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.uwa.edu.au/library/help-and-support/support-for-uwa-researchers/uwa-profiles-and-research-repository-support-and-faqs#8_0</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>institutional membership</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>UWA Research Repository Guidelines for Submitters</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>https://www.uwa.edu.au/library/-/media/UWA-Library/Documents/Support-and-FAQs-for-UWA-Profiles-and-Repository/Research-Datasets/Guidelines-For-Use-2018-03-22.pdf</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                            <ns0:software>
+                <ns0:softwareName>other</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>no</ns0:versioning>
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://www.uwa.edu.au/library/help-and-support/copyright-at-uwa</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">Dublin Core</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks>The University Library has migrated all research datasets which were held in Research Data Online (RDO) to the UWA Research Repository.</ns0:remarks>
+        <ns0:entryDate>2015-12-11</ns0:entryDate>
+        <ns0:lastUpdate>2021-01-05</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

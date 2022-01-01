@@ -1,0 +1,92 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010035</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">The Chandra Data Archive</ns0:repositoryName>
+                    <ns0:additionalName language="eng">CDA</ns0:additionalName>
+                <ns0:repositoryURL>https://cxc.cfa.harvard.edu/cda/</ns0:repositoryURL>
+                <ns0:description language="eng">The Chandra Data Archive (CDA) plays a central role in the operation of the Chandra X-ray Center (CXC) by providing support to the astronomical community in accessing Chandra data. Its primary role is one of storage and distribution of all data products including those that users of the observatory need to perform their scientific studies using Chandra data.
+The CDA offers access to digital archives through powerful query engines, including VO-compliant interfaces. The CDA also serves as a permanent storage repository of contributed data products by authors who have processed images or other pertinent and valuable datasets that are essential to their publications.</ns0:description>
+                    <ns0:repositoryContact>arcops@head.cfa.harvard.edu</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>1998</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">311 Astrophysics and Astronomy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">32 Physics</ns0:subject>
+                <ns0:missionStatementURL />
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Software applications</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>x-ray</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Chandra X-ray Observatory</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">CXC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://cxc.harvard.edu/index.html</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>cxchelp@head.cfa.harvard.edu</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Aeronautics and Space Administration, Marshall Space Flight Center</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NASA-MSFC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.nasa.gov/centers/marshall/home/index.html</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:02epydz83</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Smithsonian  Astrophysical Observatory</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">SAO</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://pweb.cfa.harvard.edu/about/about-smithsonian-astrophysical-observatory</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:04mh52z70</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Terms of Use</ns0:policyName>
+                <ns0:policyURL>https://www.si.edu/Termsofuse</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://chandra.harvard.edu/photo/image_use.html</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.copyright.gov/fls/fl102.html</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>no</ns0:versioning>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://cxc.cfa.harvard.edu/cdo/scipubs.html</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks />
+        <ns0:entryDate>2012-11-15</ns0:entryDate>
+        <ns0:lastUpdate>2021-04-13</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

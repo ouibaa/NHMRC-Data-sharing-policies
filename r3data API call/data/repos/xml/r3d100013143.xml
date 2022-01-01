@@ -1,0 +1,103 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100013143</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Portable X-Ray fluorescence analysis of Late Bronze Age glass from Amarna</ns0:repositoryName>
+                    <ns0:additionalName language="eng">KBLT</ns0:additionalName>
+                <ns0:repositoryURL>http://repository.edition-topoi.org/collection/KBLT</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>doi: 10.17171/2-15</ns0:repositoryIdentifier>
+                <ns0:description language="eng">Cobalt was commonly used as a colourant in the Egyptian glass industries of the 18th dynasty, dark blue glass being a regular find at palatial and settlement sites, including Amarna and Malqata. The main source of cobalt ore used during this period has been identified in the Egyptian Western Desert, around the oases of Kharga and Dakhla. The data presented here was obtained in order to better understand the cha&#238;ne op&#233;ratoire of Late Bronze Age glass production and -working, in particular with regard to cobalt ore. For this purpose, chemical analysis by portable X-Ray fluorescence (pXRF) was carried out in the field on contextualised archaeological material excavated at the site of Amarna, which cannot be exported from Egypt for analysis. In addition, glass and other vitreous materials from the same site, but without a more precise archaeological context, were analysed in the Egyptian Museum and Papyrus Collection, Berlin. The results of this study demonstrate how cobalt ore from various sub-sources was used in the known workshop sites at Amarna, resulting in a deeper understanding of raw materials use and exchange across this settlemen</ns0:description>
+                    <ns0:repositoryContact>edition@topoi.org</ns0:repositoryContact>
+                    <ns0:repositoryContact>https://www.edition-topoi.org/contact/</ns0:repositoryContact>
+                        <ns0:size updated="">2 research objects</ns0:size>
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">101 Ancient Cultures</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">10105 Egyptology and Ancient Near Eastern Studies</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11 Humanities</ns0:subject>
+                <ns0:missionStatementURL>http://repository.edition-topoi.org/collection/KBLT</ns0:missionStatementURL>
+                                    <ns0:keyword>Amarna</ns0:keyword>
+                    <ns0:keyword>Egypt</ns0:keyword>
+                    <ns0:keyword>Late Bronze Age</ns0:keyword>
+                    <ns0:keyword>cobalt</ns0:keyword>
+                    <ns0:keyword>glass</ns0:keyword>
+                    <ns0:keyword>portable XRF</ns0:keyword>
+                    <ns0:keyword>workshops</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Excellence Cluster TOPOI, A-6 Economic Space</ns0:institutionName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.topoi.org/group/a-6/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="deu">Freie Universit&#228;t Berlin</ns0:institutionName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.fu-berlin.de/en/index.html</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:046ak2485</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_40982</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>SCR_011246</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="deu">Rathgen-Forschungslabor</ns0:institutionName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.smb.museum/en/museums-institutions/rathgen-forschungslabor/home.html</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.smb.museum/en/museums-institutions/rathgen-forschungslabor/about-us/contact.html</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="deu">Staatliche Museen zu Berlin</ns0:institutionName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.smb.museum/en/home.html</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:02ysgg478;</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.smb.museum/en/contact-feedback.html</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Conditions for Use</ns0:policyName>
+                <ns0:policyURL>http://repository.edition-topoi.org/collection/KBLT/overview</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Envisioning the Berlin Declaration on Open Access to Knowledge in the Sciences and Humanities</ns0:policyName>
+                <ns0:policyURL>https://www.topoi.org/wp-content/uploads/2016/04/20160428_Edition-Topoi_-Mission-Statement.pdf</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                    <ns0:databaseLicense>
+                <ns0:databaseLicenseName>CC</ns0:databaseLicenseName>
+                <ns0:databaseLicenseURL>https://creativecommons.org/licenses/by-nc-sa/3.0/de/</ns0:databaseLicenseURL>
+            </ns0:databaseLicense>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/licenses/by-nc-sa/3.0/de/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                <ns0:versioning />
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                <ns0:citationGuidelineURL>http://www.edition-topoi.org/pdf/_EdT_Leitfaden_DOI_dt_Februar_2016.pdf</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                <ns0:remarks />
+        <ns0:entryDate>2019-09-20</ns0:entryDate>
+        <ns0:lastUpdate>2021-06-15</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

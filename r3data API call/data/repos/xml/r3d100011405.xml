@@ -1,0 +1,103 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011405</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">modENCODE</ns0:repositoryName>
+                    <ns0:additionalName language="eng">Model Organism ENCyclopedia of DNA Elements</ns0:additionalName>
+                <ns0:repositoryURL>http://www.modencode.org/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>OMICS_03816</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:SCR_006206</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:nlx_151752</ns0:repositoryIdentifier>
+                <ns0:description language="eng">The modENCODE Project, Model Organism ENCyclopedia Of DNA Elements, was initiated by the funding of applications received in response to Requests for Applications (RFAs) HG-06-006, entitled Identification of All Functional Elements in Selected Model Organism Genomes and HG-06-007, entitled A Data Coordination Center for the Model Organism ENCODE Project (modENCODE). The modENCODE Project is being run as an open consortium and welcomes any investigator willing to abide by the criteria for participation that have been established for the project.
+Both computational and experimental approaches are being applied by modENCODE investigators to study the genomes of D. melanogaster and C. elegans. An added benefit of studying functional elements in model organisms is the ability to biologically validate the elements discovered using methods that cannot be applied in humans. The comprehensive dataset that is expected to result from the modENCODE Project will provide important insights into the biology of D. melanogaster and C. elegans as well as other organisms, including humans.</ns0:description>
+                    <ns0:repositoryContact>help@modencode.org</ns0:repositoryContact>
+                    <ns0:repositoryContact>http://www.modencode.org/contact-us/</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2018-12-11">2212 datasets</ns0:size>
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">201 Basic Biological and Medical Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                <ns0:missionStatementURL>http://www.modencode.org/publications/about/index.shtml</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>DNA</ns0:keyword>
+                    <ns0:keyword>gene structure</ns0:keyword>
+                    <ns0:keyword>genomic</ns0:keyword>
+                    <ns0:keyword>organisms</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">InterMine</ns0:institutionName>
+                                <ns0:institutionCountry>GBR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://intermine.readthedocs.org/en/latest/about/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://intermine.readthedocs.io/en/latest/about/contact-us/</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Institutes of Health</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NIH</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.nih.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.nih.gov/about/contact.htm</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of Cambridge, Department of Genetics</ns0:institutionName>
+                                <ns0:institutionCountry>GBR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.gen.cam.ac.uk/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.gen.cam.ac.uk/department/contacts</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>ENCODE Consortia Data Release, Data Use, and Publication Policies</ns0:policyName>
+                <ns0:policyURL>https://www.genome.gov/pages/research/encode/encodedatareleasepolicyfinal2008.pdf</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Welcome to modMine</ns0:policyName>
+                <ns0:policyURL>http://intermine.modencode.org/release-33/begin.do</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>embargoed</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www.modencode.org/publications/about/index.shtml</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                    <ns0:api apiType="FTP">ftp://data.modencode.org/</ns0:api>
+                    <ns0:api apiType="REST">http://intermine.readthedocs.org/en/latest/web-services/</ns0:api>
+                    <ns0:api apiType="other">http://intermine.modencode.org/release-33/api.do</ns0:api>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>http://www.modencode.org/publications/faq/#How_do_I_cite_modMine.3F</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks />
+        <ns0:entryDate>2015-02-09</ns0:entryDate>
+        <ns0:lastUpdate>2018-12-11</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

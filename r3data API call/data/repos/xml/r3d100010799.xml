@@ -1,0 +1,84 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010799</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">International Classification of Diseases</ns0:repositoryName>
+                    <ns0:additionalName language="eng">ICD</ns0:additionalName>
+                <ns0:repositoryURL>http://www.who.int/classifications/icd/en/</ns0:repositoryURL>
+                <ns0:description language="eng">ICD serves as the international standard for diagnostic classification for all general epidemiological, many health management purposes and clinical use. The ICD's resources include the analysis of different population groups' general health situations, monitoring of the incidence and prevalence of diseases in relation to the characteristics of the individuals affected, reimbursement, resource allocation, quality, and guidelines. The records provide the basis for the compilation of national mortality and morbidity statistics, and enable the storage and retrieval of diagnostic information for clinical epidemiological and quality purposes.</ns0:description>
+                    <ns0:repositoryContact>http://www.who.int/about/contacthq/en/</ns0:repositoryContact>
+                    <ns0:repositoryContact>http://www.who.int/classifications/icd/ICD-10%20languages.pdf?ua=1</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2019-07-23">11th revision</ns0:size>
+        <ns0:startDate>1992</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>ara</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>fra</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>jpn</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>rus</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>spa</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                <ns0:missionStatementURL />
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>classification system</ns0:keyword>
+                    <ns0:keyword>clinical purposes</ns0:keyword>
+                    <ns0:keyword>diagnostics</ns0:keyword>
+                    <ns0:keyword>epidemiology</ns0:keyword>
+                    <ns0:keyword>health management</ns0:keyword>
+                    <ns0:keyword>health standards</ns0:keyword>
+                    <ns0:keyword>medicine</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">World Health Organization</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">WHO</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CHE</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.who.int/en/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.who.int/about/contacthq/en/</ns0:institutionContact>
+                                    <ns0:institutionContact>whofic@who.int</ns0:institutionContact>
+                            </ns0:institution>
+                        <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                    <ns0:databaseLicense>
+                <ns0:databaseLicenseName>Copyrights</ns0:databaseLicenseName>
+                <ns0:databaseLicenseURL>http://www.who.int/about/copyright/en/</ns0:databaseLicenseURL>
+            </ns0:databaseLicense>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www.who.int/about/copyright/en/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://apps.who.int/classifications/apps/icd/ClassificationDownloadNR/license.htm</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                    <ns0:syndication syndicationType="RSS">http://www.who.int/about/licensing/rss/en/</ns0:syndication>
+                <ns0:remarks>#isDatabib; Ich w&#252;rde den Service ICD nicht als FDR aufnehmen, da es sich um einen Standard handelt und Klassifikationen keine FD darstellen. Das Datenrepositorium kann stattdessen aufgenommen werden, das Global Health Observatory, hier zu finden: http://apps.who.int/gho/data/?theme=main</ns0:remarks>
+        <ns0:entryDate>2014-06-16</ns0:entryDate>
+        <ns0:lastUpdate>2019-07-23</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

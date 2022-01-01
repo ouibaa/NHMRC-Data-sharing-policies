@@ -1,0 +1,185 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011057</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Copernicus</ns0:repositoryName>
+                    <ns0:additionalName language="eng">GMES</ns0:additionalName>
+                    <ns0:additionalName language="eng">Global Monitoring for Environment and Security</ns0:additionalName>
+                    <ns0:additionalName language="eng">The European Earth Observation Pogramme</ns0:additionalName>
+                <ns0:repositoryURL>https://www.copernicus.eu/en</ns0:repositoryURL>
+                <ns0:description language="eng">Copernicus is a European system for monitoring the Earth.
+Copernicus consists of a complex set of systems which collect data from multiple sources: earth observation satellites and in situ sensors such as ground stations, airborne and sea-borne sensors. It processes these data and provides users with reliable and up-to-date information through a set of services related to environmental and security issues. The services address six thematic areas: land monitoring, marine monitoring, atmosphere monitoring, climate change, emergency management and security.
+The main users of Copernicus services are policymakers and public authorities who need the information to develop environmental legislation and policies or to take critical decisions in the event of an emergency, such as a natural disaster or a humanitarian crisis.
+Based on the Copernicus services and on the data collected through the Sentinels and the contributing missions , many value-added services can be tailored to specific public or commercial needs, resulting in new business opportunities. In fact, several economic studies have already demonstrated a huge potential for job creation, innovation and growth.</ns0:description>
+                    <ns0:repositoryContact>https://www.copernicus.eu/en/network/get-touch</ns0:repositoryContact>
+                    <ns0:repositoryContact>support@copernicus.eu</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                    <ns0:type>institutional</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2011</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">207 Agriculture, Forestry, Horticulture and Veterinary Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20704 Ecology of Agricultural Landscapes</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">23 Agriculture, Forestry, Horticulture and Veterinary Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31301 Atmospheric Science</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31302 Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">315 Geophysics and Geodesy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31502 Geodesy, Photogrammetry, Remote Sensing, Geoinformatics, Cartogaphy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL>https://www.copernicus.eu/en/about-copernicus</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Databases</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>EMSA</ns0:keyword>
+                    <ns0:keyword>EUROSUR</ns0:keyword>
+                    <ns0:keyword>FRONTEX</ns0:keyword>
+                    <ns0:keyword>G-MOSAIC</ns0:keyword>
+                    <ns0:keyword>SEA</ns0:keyword>
+                    <ns0:keyword>Sentinels</ns0:keyword>
+                    <ns0:keyword>agriculture</ns0:keyword>
+                    <ns0:keyword>border surveillance</ns0:keyword>
+                    <ns0:keyword>civil protection</ns0:keyword>
+                    <ns0:keyword>climate change</ns0:keyword>
+                    <ns0:keyword>earth observation</ns0:keyword>
+                    <ns0:keyword>environment protection</ns0:keyword>
+                    <ns0:keyword>environmental hazards</ns0:keyword>
+                    <ns0:keyword>fisheries</ns0:keyword>
+                    <ns0:keyword>forestry</ns0:keyword>
+                    <ns0:keyword>health</ns0:keyword>
+                    <ns0:keyword>management of urban areas</ns0:keyword>
+                    <ns0:keyword>regional and local planning</ns0:keyword>
+                    <ns0:keyword>satellite missions</ns0:keyword>
+                    <ns0:keyword>sustainable development</ns0:keyword>
+                    <ns0:keyword>tourism</ns0:keyword>
+                    <ns0:keyword>transport</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">European Commission</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">EC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>EEC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://ec.europa.eu/commission/index_en</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">European Commission, Community Research and Development Information Service, Seventh Framework Programme</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">FP7</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>EEC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://ec.europa.eu/research/fp7/index_en.cfm</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">European Environment Agency</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">EEA</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>EEC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.eea.europa.eu/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>Alan.Steel@eea.europa.eu</ns0:institutionContact>
+                                    <ns0:institutionContact>Ana.Sousa@eea.europa.eu</ns0:institutionContact>
+                                    <ns0:institutionContact>Eugenija.Schuren@eea.europa.eu</ns0:institutionContact>
+                                    <ns0:institutionContact>Gunter.Zeug@eea.europa.eu</ns0:institutionContact>
+                                    <ns0:institutionContact>Gyorgy.Buttner@eea.europa.eu</ns0:institutionContact>
+                                    <ns0:institutionContact>Hans.Dufourmont@eea.europa.eu</ns0:institutionContact>
+                                    <ns0:institutionContact>Ilona.Schioler@eea.europa.eu</ns0:institutionContact>
+                                    <ns0:institutionContact>Silvo.Zlebir@eea.europa.eu</ns0:institutionContact>
+                                    <ns0:institutionContact>Tobias.Langanke@eea.europa.eu</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">European Space Agency</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">ESA</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>EEC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.esa.int/ESA</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>copernicus.space.office@esa.int</ns0:institutionContact>
+                                    <ns0:institutionContact>http://www.esa.int/Our_Activities/Observing_the_Earth/Copernicus/Overview3</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Copernicus policy</ns0:policyName>
+                <ns0:policyURL>https://www.copernicus.eu/en/documentation/copernicus-policy</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>How to access data</ns0:policyName>
+                <ns0:policyURL>https://www.copernicus.eu/en/how/how-access-data</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Scihub Terms and conditions</ns0:policyName>
+                <ns0:policyURL>https://scihub.copernicus.eu/twiki/do/view/SciHubWebPortal/TermsConditions</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>feeRequired</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>other</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.copernicus.eu/en/how/copyright-and-licenses</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>Public Domain</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.copernicus.eu/en/how/how-access-data</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://sentinels.copernicus.eu/documents/247904/690755/Sentinel_Data_Legal_Notice</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.copernicus.eu/en/how/how-access-data</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                    <ns0:api apiType="REST">https://scihub.copernicus.eu/userguide/APIsOverview</ns0:api>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>no</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">ISO 19115</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/iso-19115</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                            <ns0:syndication syndicationType="RSS">https://www.copernicus.eu/en/news/rss</ns0:syndication>
+                <ns0:remarks>Copernicus uses INSPIRE metadata standard.</ns0:remarks>
+        <ns0:entryDate>2014-04-25</ns0:entryDate>
+        <ns0:lastUpdate>2021-08-25</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

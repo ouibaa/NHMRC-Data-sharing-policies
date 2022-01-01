@@ -1,0 +1,143 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010947</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Partnership for Interdisciplinary Studies of Coastal Oceans</ns0:repositoryName>
+                    <ns0:additionalName language="eng">PISCO</ns0:additionalName>
+                <ns0:repositoryURL>http://www.piscoweb.org/data</ns0:repositoryURL>
+                <ns0:description language="eng">PISCO researchers collect biological, chemical, and physical data about ocean ecosystems in the nearshore portions of the California Current Large Marine Ecosystem. Data are archived and used to create summaries and graphics, in order to ensure that the data can be used and understood by a diverse audience of managers, policy makers, scientists and the general public.</ns0:description>
+                    <ns0:repositoryContact>http://www.piscoweb.org/contact</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2019-01-16">20.878 datasets (DataONE)</ns0:size>
+        <ns0:startDate>1999</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31302 Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">317 Geography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL>http://www.piscoweb.org/data</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Archived data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Audiovisual data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>ecosystem</ns0:keyword>
+                    <ns0:keyword>environmental sciences</ns0:keyword>
+                    <ns0:keyword>marine ecology</ns0:keyword>
+                    <ns0:keyword>ocean ecosystems</ns0:keyword>
+                    <ns0:keyword>oceanography</ns0:keyword>
+                    <ns0:keyword>tides</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">DataONE</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Data Observation Network for Earth</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.dataone.org/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>RRID:SCR_003999</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_158410</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate>2012</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>support@dataone.org</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Oregon State University</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">OSU</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://oregonstate.edu/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>RRID:SCR_009731</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_87751</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://communications.oregonstate.edu/webform/contact-osu</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Stanford University</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.stanford.edu/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>RRID:SCR_011538</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_44253</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.stanford.edu/contact/</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of California Santa Barbara</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">UCSB</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.ucsb.edu/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>RRID:SCR_011623</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_56111</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.ucsb.edu/contact</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of California Santa Cruz</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">UCSC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.ucsc.edu/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>RRID:SCR_011624</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_63906</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://admissions.sa.ucsc.edu/inquiry/</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Data Sharing Policy</ns0:policyName>
+                <ns0:policyURL>http://www.piscoweb.org/data-sharing-policy</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>embargoed</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www.piscoweb.org/data-sharing-policy</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>institutional membership</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">EML - Ecological Metadata Language</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/eml-ecological-metadata-language</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks>PISCO is covered by Thomson Reuters Data Citation Index. Partnership for Interdisciplinary Studies of Coastal Oceans (PISCO) activities are funded through a diversity of collaborative grants from public and private sources. PISCO is a DataOne member node: https://search.dataone.org/profile/PISCO</ns0:remarks>
+        <ns0:entryDate>2014-08-26</ns0:entryDate>
+        <ns0:lastUpdate>2019-01-16</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

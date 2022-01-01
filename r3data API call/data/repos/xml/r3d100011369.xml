@@ -1,0 +1,82 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011369</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">South Australian Resources Information Geoserver</ns0:repositoryName>
+                    <ns0:additionalName language="eng">SARIG</ns0:additionalName>
+                <ns0:repositoryURL>https://map.sarig.sa.gov.au/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>biodbcore-001510</ns0:repositoryIdentifier>
+                <ns0:description language="eng">An online web application developed by DMITRE Resources and Energy Group enabling users to search, view and download information relating to minerals, petroleum and geothermal exploration in South Australia.</ns0:description>
+                    <ns0:repositoryContact>resources.customerservices@sa.gov.au</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2018-01-18">over 600 datasets</ns0:size>
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>zho</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">314 Geology and Palaeontology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31401 Geology and Palaeontology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">316 Geochemistry, Mineralogy and Crystallography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31601 Geochemistry, Mineralogy and Crystallography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL>http://minerals.statedevelopment.sa.gov.au/knowledge_centre/mesa_journal/sarig</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Audiovisual data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Databases</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>South Australia</ns0:keyword>
+                    <ns0:keyword>drillhole</ns0:keyword>
+                    <ns0:keyword>lithology</ns0:keyword>
+                    <ns0:keyword>mineral and petroleum industry</ns0:keyword>
+                    <ns0:keyword>mineral deposits</ns0:keyword>
+                    <ns0:keyword>minerals exploration</ns0:keyword>
+                    <ns0:keyword>petrology</ns0:keyword>
+                    <ns0:keyword>stratigraphy</ns0:keyword>
+                    <ns0:keyword>topography</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Government of South Australia, Department of State Development</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">DSD</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>AUS</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://statedevelopment.sa.gov.au/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>dsdreception@sa.gov.au</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Explore and discover the new SARIG platform</ns0:policyName>
+                <ns0:policyURL>http://minerals.statedevelopment.sa.gov.au/knowledge_centre/mesa_journal/sarig#about</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/licenses/by/3.0/au/deed.en</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>OGL</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www.ausgoal.gov.au/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                    <ns0:api apiType="other">http://minerals.statedevelopment.sa.gov.au/online_tools/free_data_delivery_and_publication_downloads/web_services</ns0:api>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>no</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                <ns0:remarks />
+        <ns0:entryDate>2014-09-11</ns0:entryDate>
+        <ns0:lastUpdate>2021-11-16</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

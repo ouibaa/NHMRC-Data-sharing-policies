@@ -1,0 +1,185 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011872</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">LIAS</ns0:repositoryName>
+                    <ns0:additionalName language="eng">A Global Information System for Lichenized and Non-Lichenized Ascomycetes</ns0:additionalName>
+                <ns0:repositoryURL>http://www.lias.net/</ns0:repositoryURL>
+                <ns0:description language="eng">LIAS is a global information system for Lichenized and Non-Lichenized Ascomycetes. It includes several interoperable data repositories.
+In recent years, the two core components &#8216;LIAS names&#8217; and &#8216;LIAS light&#8217; have been much enlarged.
+LIAS light is storing phenotypic trait data. They includes &gt; 10,700 descriptions (about 2/3 of all known lichen species), each with up to 75 descriptors comprising 2,000 traits (descriptor states and values), including 800 secondary metabolites. 500 traits may have biological functions and more than 1,000 may have phylogenetic relevance. LIAS is thus one of the most comprehensive trait databases in organismal biology. The online interactive identification key for more than 10,700 lichens is powered by the Java applet NaviKey and has been translated into 19 languages (besides English) in cooperation with lichenologists worldwide.
+The component &#8216;LIAS names&#8217; is a platform for managing taxonomic names and classifications with currently &gt;50,000 names, including the c. 12,000 accepted species and recognized synonyms.
+The LIAS portal contents, interfaces, and databases run on servers of the IT Center of the Bavarian Natural History Collections and are maintained there. 'LIAS names' and &#8216;LIAS light&#8217; also deliver content data to the Catalogue of Life, acting as the Global Species Database (GSD) for lichens. LIAS gtm is a database for visualising the geographic distribution of lichen traits.  LIAS is powered by the Diversity Workbench database framework with several interfaces for data management and publication. The LIAS long-term project was initiated in the early 1990s and has since been continued with funding from the DFG, the BMBF, and the EU.</ns0:description>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2019-01-21">nearly 11.000 species descriptions, more than 50.000 taxon names, more than 800 lichen metabolites, 20 languages, glossary with more than 2.600 terms</ns0:size>
+        <ns0:startDate>1996-01-01</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">23 Agriculture, Forestry, Horticulture and Veterinary Medicine</ns0:subject>
+                <ns0:missionStatementURL>http://www.lias.net/About/Objectives.cfm</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Databases</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>Diversity Workbench</ns0:keyword>
+                    <ns0:keyword>biodiversity</ns0:keyword>
+                    <ns0:keyword>fungi</ns0:keyword>
+                    <ns0:keyword>identification keys</ns0:keyword>
+                    <ns0:keyword>lichen traits</ns0:keyword>
+                    <ns0:keyword>lichenology</ns0:keyword>
+                    <ns0:keyword>mycology</ns0:keyword>
+                    <ns0:keyword>phylogeny</ns0:keyword>
+                    <ns0:keyword>taxonomy</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Arizona State University, Biodiversity Knowledge Integration Center,  Lichen Herbarium</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Arizona State University Lichen Herbarium</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://biokic.asu.edu/lichen-herbarium</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>2002</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="deu">Bayerisches Staatsministerium f&#252;r Wissenschaft und Kunst</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Bavarian State Ministry of Science and the Arts</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="deu">Wissenschaftsministerium Bayern</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.stmwk.bayern.de/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:01a44gd51</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="deu">Botanische Staatssammlung M&#252;nchen</ns0:institutionName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.botanischestaatssammlung.de/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>Wikidata:Q875673</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate>1996</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>office.bsm@snsb.de</ns0:institutionContact>
+                                    <ns0:institutionContact>triebel@snsb.de</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="deu">Bundesministerium f&#252;r Bildung und Forschung</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="deu">BMBF</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.bmbf.de/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:04pz7b180</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="deu">Deutsche Forschungsgemeinschaft</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="deu">DFG</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">German Research Foundation</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.dfg.de/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:018mejw64</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:SCR_012420</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_144062</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="deu">SNSB IT-Zentrum</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">SNSB IT Center</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.snsb.info/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>2006</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>triebel@snsb.de</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="deu">Staatliche Naturwissenschaftliche Sammlungen Bayerns</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Bavarian Natural History Collections</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="deu">SNSB</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.snsb.de/index.php/de/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:05th1v540</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate>1996</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.snsb.de/index.php/de/kontakt-snsb</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of Bayreuth, Department of Mycology</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="deu">Universit&#228;t Bayreuth, Abteilung Mykologie</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.mycology.uni-bayreuth.de/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>1996</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>Gerhard.Rambold@uni-bayreuth.de</ns0:institutionContact>
+                                    <ns0:institutionContact>http://www.mycology.uni-bayreuth.de/mycology/de/mitarbeiter/mit/mitarbeiter_detail.php?id_obj=14072</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of Hamburg, Herbarium Hamburgense</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="deu">HBG</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="deu">Herbarium Hamburgense</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.herbariumhamburgense.de/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>Wikidata:Q55829126</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate>2001</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate>2004</ns0:responsibilityEndDate>
+                                    <ns0:institutionContact>http://www.herbariumhamburgense.de/contact_hbg.php</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of Oslo, Natural History Museum</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Natural History Museum</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="nor">Naturhistorisk museum</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>NOR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.nhm.uio.no/english/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>Wikidata:Q1840963</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Objectives</ns0:policyName>
+                <ns0:policyURL>http://www.lias.net/</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>other</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://creativecommons.org/licenses/by-nc-nd/3.0/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>other</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                            <ns0:pidSystem>URN</ns0:pidSystem>
+                <ns0:citationGuidelineURL>http://www.lias.net/About/Impressum.cfm</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>no</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                    <ns0:syndication syndicationType="ATOM">https://glossary.lias.net/w/api.php?hidebots=1&amp;days=7&amp;limit=50&amp;action=feedrecentchanges&amp;feedformat=atom</ns0:syndication>
+                <ns0:remarks>TDWG 2005 standards  "DELTA" and "SDD" used for LIAS light; see https://www.tdwg.org/standards/</ns0:remarks>
+        <ns0:entryDate>2015-10-27</ns0:entryDate>
+        <ns0:lastUpdate>2021-09-06</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

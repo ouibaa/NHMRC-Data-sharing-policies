@@ -1,0 +1,146 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010276</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Melanoma Molecular Map Project</ns0:repositoryName>
+                    <ns0:additionalName language="eng">MMMP</ns0:additionalName>
+                <ns0:repositoryURL>http://www.mmmp.org/MMMP/import.mmmp?page=aims_org.mmmp</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.xxtmjs</ns0:repositoryIdentifier>
+                <ns0:description language="eng">The Melanoma Molecular Map Project (MMMP) is an open access, interactive web-based multidatabase dedicated to the research on melanoma biology and therapy. The aim of this non-profit project is to create an organized and continuously updated databank collecting the huge and ever growing amount of scientific knowledge on melanoma currently scattered in thousands of articles published in hundreds of Journals.</ns0:description>
+                    <ns0:repositoryContact>ipd@mmmp.org</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2007</ns0:startDate>
+        <ns0:endDate>2011</ns0:endDate>
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">201 Basic Biological and Medical Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">204 Microbiology, Virology and Immunology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">205 Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20503 Human Genetics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20519 Dermatology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20530 Radiology and Nuclear Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20532 Biomedical Technology and Medical Physics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                <ns0:missionStatementURL>http://www.mmmp.org/MMMP/import.mmmp?page=aims_org.mmmp</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Databases</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>cancer therapy</ns0:keyword>
+                    <ns0:keyword>clinical therapy</ns0:keyword>
+                    <ns0:keyword>clinical trials</ns0:keyword>
+                    <ns0:keyword>drugs</ns0:keyword>
+                    <ns0:keyword>epidemiology of melanoma</ns0:keyword>
+                    <ns0:keyword>family predisposition</ns0:keyword>
+                    <ns0:keyword>molecular biology</ns0:keyword>
+                    <ns0:keyword>molecular pathways</ns0:keyword>
+                    <ns0:keyword>risk factors</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Biology online</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">answers to all your biology questions</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>sponsoring</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.biology-online.org/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Journal of Cancer Molecules</ns0:institutionName>
+                                <ns0:institutionCountry>TWN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>sponsoring</ns0:responsibilityType>
+                                <ns0:institutionType>commercial</ns0:institutionType>
+                <ns0:institutionURL>http://www.mupnet.com/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Melanoma New Zealand</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">MelNet</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">Melanoma Foundation of New Zealand</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>NZL</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.melanoma.org.nz/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Piccoli Punti</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">ricerca scientifica sul melanoma</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>ITA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>sponsoring</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.piccolipunti.it/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of Otago, Centre of translational Cancer Research, Pathology Department, Dunedin School of Medicine</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Dunedin School of Medicine</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>NZL</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.otago.ac.nz/dsm/index.html</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>2007</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate>2011</ns0:responsibilityEndDate>
+                                    <ns0:institutionContact>http://www.otago.ac.nz/ctcr/contacts/index.html</ns0:institutionContact>
+                                    <ns0:institutionContact>http://www.otago.ac.nz/dsm/people/expertise/profile/index.html?id=728</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">intergruppo melanomia italiano</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">imi</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>ITA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>sponsoring</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.melanomaimi.it/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>TTD User Guide</ns0:policyName>
+                <ns0:policyURL>http://www.mmmp.org/mmmpFile/TTDguide_1.pdf</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                    <ns0:databaseLicense>
+                <ns0:databaseLicenseName>other</ns0:databaseLicenseName>
+                <ns0:databaseLicenseURL>http://www.mmmp.org/MMMP/import.mmmp?page=aims_org.mmmp</ns0:databaseLicenseURL>
+            </ns0:databaseLicense>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>closed</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www.mmmp.org/MMMP/import.mmmp?page=au_guide.mmmp</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>Authors' Guide</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>http://www.mmmp.org/MMMP/import.mmmp?page=au_guide.mmmp</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                            <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks>The MMMP website includes one discoursive overview on melanoma, one section dedicated to the news and 6 interconnected databases: Targeted therapy analyzer (tool); targeted therapy database; biomaps; biocards; Melanoma molecular profile; drug development database; clinical trial database.</ns0:remarks>
+        <ns0:entryDate>2013-05-29</ns0:entryDate>
+        <ns0:lastUpdate>2021-11-09</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

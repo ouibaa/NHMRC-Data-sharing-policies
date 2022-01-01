@@ -1,0 +1,253 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011648</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">AHEAD</ns0:repositoryName>
+                    <ns0:additionalName language="eng">European Archive of Historical EArthquake Data</ns0:additionalName>
+                <ns0:repositoryURL>https://www.emidius.eu/AHEAD/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>doi:10.6092/INGV.IT-AHEAD</ns0:repositoryIdentifier>
+                <ns0:description language="eng">AHEAD, the European Archive of Historical Earthquake Data 1000-1899, is a distributed archive aiming at preserving, inventorying and making available, to investigators and other users, data sources on the earthquake history of Europe, such as papers, reports, Macroseismic Data Points (MDPs), parametric catalogues, and so on.</ns0:description>
+                    <ns0:repositoryContact>andrea.rovida@ingv.it</ns0:repositoryContact>
+                    <ns0:repositoryContact>mario.locati@ingv.it</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2021-12-10">About 6.000 earthquakes, about 350 data sources</ns0:size>
+        <ns0:startDate>2006</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">314 Geology and Palaeontology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31401 Geology and Palaeontology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">315 Geophysics and Geodesy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL>https://www.emidius.eu/AHEAD/description.php</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Archived data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>earthquakes</ns0:keyword>
+                    <ns0:keyword>epicentre</ns0:keyword>
+                    <ns0:keyword>geology</ns0:keyword>
+                    <ns0:keyword>historical</ns0:keyword>
+                    <ns0:keyword>macroseismic</ns0:keyword>
+                    <ns0:keyword>seismic</ns0:keyword>
+                    <ns0:keyword>seismology</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="fra">Bureau de Recherches G&#233;ologiques et Mini&#232;res</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="fra">BRGM</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>FRA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.brgm.eu/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:05hnb7x64</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.brgm.fr/content/contact</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">EPOS</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">European Plate Observing System</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>EEC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.epos-ip.org/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>2015-10-01</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate>2019-09-30</ns0:responsibilityEndDate>
+                                    <ns0:institutionContact>epos.secretariat@ingv.it</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="cat">Institut Cartogr&#224;fic i Geol&#242;gic de Catalunya</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="cat">ICC</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="cat">IGC</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="cat">Institut Cartogr&#224;fic de Catalunya</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>ESP</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.icgc.cat/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:03d2ezn18</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.icgc.cat/en/The-ICGC/Contact</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="fra">Institut de radioprotection et de s&#251;ret&#233; nucl&#233;aire</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="fra">IRSN</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>FRA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.irsn.fr/FR/Pages/Home.aspx</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:01ha22c77</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.irsn.fr/FR/Contact/Pages/Question.aspx</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Institute of Engineering Seismology and Earthquake Engineering</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">ITSAK</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>GRC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.itsak.gr/en</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.itsak.gr/en/contact/contact_form</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="por">Instituto Portugu&#234;s do Mar e da Atmosfera</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="por">IPMA</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">Portuguese Institute for Sea and Atmosphere</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>PRT</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.ipma.pt/pt/index.html</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:01sp7nd78</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.ipma.pt/en/siteinfo/contacto.jsp</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="ita">Istituto Nazionale di Geofisica e Vulcanologia</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="ita">INGV</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">National Institute of Geophysics and Volcanology</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>ITA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.ingv.it/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:00qps9a02</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate>2010</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National and Kapodistrian University of Athens, School of Sciences, Department of Geology and Geoenvironment</ns0:institutionName>
+                                <ns0:institutionCountry>GRC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.geol.uoa.gr/index.php/en</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>2019</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Royal Observatory of Belgium, Seismology-Gravimetry</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="nld">Koninklijke Sterrenwacht van Belgi&#235; , Seismologie-Gravimetrie</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="deu">K&#246;nigliche Sternwarte Belgiens, Seismologie-Gravimetrie</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="fra">Observatoire royal de Belgique, S&#233;ismologie-Gravim&#233;trie</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">ROB</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>BEL</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://seismologie.be/en</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://seismologie.be/en/the-service/contact-us</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">SERA</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Seismology and Earthquake Engineering Research Infrastructure Alliance for Europe</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>EEC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.sera-eu.org/en/home/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>2017-05-01</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate>2020-04-30</ns0:responsibilityEndDate>
+                                    <ns0:institutionContact>http://www.sera-eu.org/en/about/contact/</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="deu">Schweizerischer Erdbebendienst, ETH Z&#252;rich</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="deu">SED</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="fra">Service Sismologique Suisse</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="ita">Servizio Sismico Svizzero</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">Swiss Seismological Service</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CHE</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.seismo.ethz.ch/de/home/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.seismo.ethz.ch/en/about-us/contact/</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of Bergen, Department of Earth Sciences</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="nno">Universitetet i Bergen, Institutt for geovitenskap</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>NOR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.uib.no/en/geo</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>2019</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.uib.no/en/about/74388/contact-information</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of Helsinki, Institute of Seismology</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="fin">Helsingin yliopisto, Seismologian instituutti</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>FIN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.helsinki.fi/en/institute-of-seismology</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>2019</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.helsinki.fi/en/institute-of-seismology/contact</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="fra">&#201;lectricit&#233; de France SA</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="fra">EDF</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>FRA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>commercial</ns0:institutionType>
+                <ns0:institutionURL>https://www.edf.fr/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:03wb8xz10</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.edf.fr/contacts/institutionnels</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Disclaimer</ns0:policyName>
+                <ns0:policyURL>https://www.emidius.eu/AHEAD/description.php#disclaimer</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.emidius.eu/AHEAD/description.php#copyright</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>MySQL</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                    <ns0:api apiType="REST">https://www.emidius.eu/services/europe/wfs/?service=WFS&amp;request=getCapabilities</ns0:api>
+                    <ns0:api apiType="REST">https://www.emidius.eu/services/</ns0:api>
+                    <ns0:api apiType="other">https://www.emidius.eu/services/europe/wms/?service=WMS&amp;request=getCapabilities</ns0:api>
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://www.emidius.eu/AHEAD/description.php#data_citation</ns0:citationGuidelineURL>
+                    <ns0:aidSystem>ORCID</ns0:aidSystem>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">DataCite Metadata Schema</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/datacite-metadata-schema</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                    <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">Dublin Core</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                    <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">ISO 19115</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/iso-19115</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks>AHEAD has supplied the earthquake list, and macroseismic intensity data points (MDPs) that have been processed with updated, repeatable procedures, regionally calibrated against a set of recent, instrumental earthquakes, to obtain earthquake parameters of the European PreInstrumental Earthquake CAtalogue (EPICA). EPICA aims at providing the seismological and engineering community a homogeneous, European parametric earthquake covering the time-window 1000-1899 with homogeneous moment magnitude (Mw) estimates. https://doi.org/10.13127/epica.1.1</ns0:remarks>
+        <ns0:entryDate>2015-07-20</ns0:entryDate>
+        <ns0:lastUpdate>2021-12-10</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

@@ -1,0 +1,132 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010905</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">NCBI Trace Archive</ns0:repositoryName>
+                <ns0:repositoryURL>https://www.ncbi.nlm.nih.gov/Traces/trace.cgi</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.abwvhp</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>OMICS_05337</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:SCR_013788</ns0:repositoryIdentifier>
+                <ns0:description language="eng">The NCBI Trace Archive is a permanent repository of DNA sequence chromatograms (traces), base calls, and quality estimates for single-pass reads from various large-scale sequencing projects. The Trace Archive serves as the repository of sequencing data from gel/capillary platforms such as Applied Biosystems ABI 3730&#174;.
+The Sequence Read Archive (SRA) stores sequencing data from the next generation of sequencing platforms including Roche 454 GS System&#174;, Illumina Genome Analyzer&#174;, Applied Biosystems SOLiD&#174; System, Helicos Heliscope&#174;, and others. The Trace Assembly Archive stores pairwise alignment and multiple alignment of sequencing reads, linking basic trace data with finished genomic sequence.</ns0:description>
+                    <ns0:repositoryContact>https://www.ncbi.nlm.nih.gov/Traces/trace.cgi</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                    <ns0:type>institutional</ns0:type>
+                <ns0:size updated="2018-11-27">2.184.850.4367 traces</ns0:size>
+        <ns0:startDate>2002</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">201 Basic Biological and Medical Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20101 Biochemistry</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20105 General Genetics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">204 Microbiology, Virology and Immunology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20401 Metabolism, Biochemistry and Genetics of Microorganisms</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">304 Analytical Chemistry, Method Development (Chemistry)</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31 Chemistry</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">4 Engineering Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">403 Process Engineering, Technical Chemistry</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">42 Thermal Engineering/Process Engineering</ns0:subject>
+                <ns0:missionStatementURL>https://www.ncbi.nlm.nih.gov/Traces/trace.cgi?view=doc_goals</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>DNA</ns0:keyword>
+                    <ns0:keyword>bacteria</ns0:keyword>
+                    <ns0:keyword>biological systems</ns0:keyword>
+                    <ns0:keyword>biology</ns0:keyword>
+                    <ns0:keyword>eukaryota</ns0:keyword>
+                    <ns0:keyword>genomes</ns0:keyword>
+                    <ns0:keyword>genomics</ns0:keyword>
+                    <ns0:keyword>nucleotide sequence</ns0:keyword>
+                    <ns0:keyword>viruses</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">National Center for Biotechnology Information</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NCBI</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.ncbi.nlm.nih.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Institutes of Health</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NIH</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.nih.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">U.S. Department of Health &amp; Human Services</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">HHS</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.hhs.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">United States National Library of Medicine</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NLM</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.nlm.nih.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>NIH Public Access Policy</ns0:policyName>
+                <ns0:policyURL>https://publicaccess.nih.gov/policy.htm</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Trace Archive RFC</ns0:policyName>
+                <ns0:policyURL>https://www.ncbi.nlm.nih.gov/Traces/trace.cgi?view=doc_rfc</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>embargoed</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.nii.ac.jp/dsc/idr/en/index.html</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>Public Domain</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.nih.gov/web-policies-notices</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>open</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>submission information</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>https://www.ncbi.nlm.nih.gov/Traces/trace.cgi?view=doc_submitting_tips</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                            <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                    <ns0:api apiType="FTP">ftp://ftp.ncbi.nih.gov/pub/TraceDB/</ns0:api>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks />
+        <ns0:entryDate>2014-05-12</ns0:entryDate>
+        <ns0:lastUpdate>2019-01-17</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

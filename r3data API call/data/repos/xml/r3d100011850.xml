@@ -1,0 +1,143 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011850</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Swiss HIV Cohort Study &amp; Swiss Mother and Child HIV Cohort Study</ns0:repositoryName>
+                    <ns0:additionalName language="eng">SHCS &amp; MoCHIV</ns0:additionalName>
+                <ns0:repositoryURL>http://www.shcs.ch/</ns0:repositoryURL>
+                <ns0:description language="eng">The Swiss HIV Cohort Study (SHCS), established in 1988, is a systematic longitudinal study enrolling HIV-infected individuals in Switzerland. It is a collaboration of all Swiss University Hospital infectious disease outpatient clinics, two large cantonal hospitals, all with affiliated laboratories, and with affiliated smaller hospitals and private physicians carrying for HIV patients. 
+The Swiss Mother and Child HIV Cohort Study (MoCHiV) is integrated into the SHCS. It aims at preventing mother to child transmission and enrolls HIV-infected pregnant women and their children.
+The SHCS involves practically all researchers being active in patient-oriented HIV research in Switzerland.
+The clinics can delegate recruitment of participants and follow-up visits to other outpatient clinics or to specialized private physicians, provided that the requirements of the protocol can be entirely fulfilled and controlled. The laboratories can contract other laboratories for some of the analyses.</ns0:description>
+                    <ns0:repositoryContact>christoph.rudin@unibas.ch</ns0:repositoryContact>
+                    <ns0:repositoryContact>http://www.shcs.ch/contact</ns0:repositoryContact>
+                    <ns0:repositoryContact>submission@shcsmail.ch</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>1988</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">204 Microbiology, Virology and Immunology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20404 Virology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20405 Immunology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">205 Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20502 Public Health, Health Services Research, Social Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20521 Gynaecology and Obstetrics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                <ns0:missionStatementURL>http://www.shcs.ch/157-about-shcs</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>HIV research</ns0:keyword>
+                    <ns0:keyword>Switzerland</ns0:keyword>
+                    <ns0:keyword>biosamples</ns0:keyword>
+                    <ns0:keyword>child</ns0:keyword>
+                    <ns0:keyword>cohort study</ns0:keyword>
+                    <ns0:keyword>diagnostics</ns0:keyword>
+                    <ns0:keyword>epidemiology</ns0:keyword>
+                    <ns0:keyword>genetics</ns0:keyword>
+                    <ns0:keyword>mother</ns0:keyword>
+                    <ns0:keyword>prevention</ns0:keyword>
+                    <ns0:keyword>public health aspects</ns0:keyword>
+                    <ns0:keyword>public health surveillance</ns0:keyword>
+                    <ns0:keyword>social sciences</ns0:keyword>
+                    <ns0:keyword>treatment</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="fra">Centre hospitalier universitaire vaudois</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="fra">CHUV</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">University Hospital of Lausanne</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CHE</ns0:institutionCountry>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.chuv.ch/fr/chuv-home</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:05a353079</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.chuv.ch/fr/chuv-home/formulaire-de-contact</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Federal Office of Public Health</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="deu">Bundesamt f&#252;r Gesundheit</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">FOPH</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CHE</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.bag.admin.ch/bag/en/home.html</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:01qtc5416</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate>1988</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate>2000</ns0:responsibilityEndDate>
+                                    <ns0:institutionContact>https://www.bag.admin.ch/bag/en/home/das-bag/kontakt-standort.html</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Swiss National Science Foundation</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="fra">FNS</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="fra">Fonds National Suisse de la Recherche Scientifique</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="deu">SNF</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="deu">Schweizerischer Nationalfonds zur F&#246;rderung der wissenschaftlichen Forschung</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CHE</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.snf.ch/de/Seiten/default.aspx</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:00yjd3n13</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate>2000</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.snf.ch/en/theSNSF/contact/Pages/default.aspx</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University Hospital Zurich</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="deu">USZ</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="deu">Universit&#228;tsSpital Z&#252;rich</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CHE</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.en.usz.ch/Pages/default.aspx</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:01462r250</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.infektiologie.usz.ch/ueber-die-klinik/seiten/kontakt.aspx</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Authorship in the SHCS and in multi-cohort collaborations</ns0:policyName>
+                <ns0:policyURL>http://www.shcs.ch/userfiles/file/Authorship_SHCS_RW_May2008.pdf</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Guidelines and operational rules for nested research projects</ns0:policyName>
+                <ns0:policyURL>http://www.shcs.ch/130-guidelines-and-operational-rules-for-nested-research-projects</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Handbuch</ns0:policyName>
+                <ns0:policyURL>http://www.shcs.ch/userfiles/file/Handbuch_Januar2015.pdf</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>restricted</ns0:databaseAccessType>
+                            <ns0:databaseAccessRestriction>other</ns0:databaseAccessRestriction>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>other</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www.shcs.ch/161-use-of-the-data</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>no</ns0:versioning>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>http://www.shcs.ch/138-publications</ns0:citationGuidelineURL>
+                    <ns0:aidSystem>none</ns0:aidSystem>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks>SHCS Is covered by Thomson Reuters Data Citation Index. SHCS uses web of science metrics. --  Health care providers: http://www.shcs.ch/180-health-care-providers .</ns0:remarks>
+        <ns0:entryDate>2016-04-12</ns0:entryDate>
+        <ns0:lastUpdate>2020-12-10</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

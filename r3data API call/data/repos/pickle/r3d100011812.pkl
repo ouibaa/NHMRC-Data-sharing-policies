@@ -1,0 +1,215 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011812</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">45 and Up Study</ns0:repositoryName>
+                <ns0:repositoryURL>https://www.saxinstitute.org.au/our-work/45-up-study/</ns0:repositoryURL>
+                <ns0:description language="eng">More than a quarter of a million people &#8212; one in 10 NSW men and women aged over 45 &#8212; have been recruited to our 45 and Up Study, the largest ongoing study of healthy ageing in the Southern Hemisphere. The baseline information collected from all of our participants is available in the Study&#8217;s Data Book. This information, which researchers use as the basis for their analyses, contains information on key variables such as height, weight, smoking status, family history of disease and levels of physical activity.
+
+By following such a large group of people over the long term, we are developing a world-class research resource that can be used to boost our understanding of how Australians are ageing.
+
+This will answer important health and quality-of-life questions and help manage and prevent illness through improved knowledge of conditions such as cancer, heart disease, depression, obesity and diabetes.</ns0:description>
+                    <ns0:repositoryContact>https://www.saxinstitute.org.au/contact-us/</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2019-01-09">more than 250.000 NSW men and women aged 45 and over</ns0:size>
+        <ns0:startDate>2004</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">111 Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">12 Social and Behavioural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">205 Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20502 Public Health, Health Services Research, Social Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                <ns0:missionStatementURL>https://www.saxinstitute.org.au/about-us/</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>cancer</ns0:keyword>
+                    <ns0:keyword>cardiovascular health</ns0:keyword>
+                    <ns0:keyword>diabetes</ns0:keyword>
+                    <ns0:keyword>health</ns0:keyword>
+                    <ns0:keyword>health policy</ns0:keyword>
+                    <ns0:keyword>healthcare</ns0:keyword>
+                    <ns0:keyword>healthy ageing</ns0:keyword>
+                    <ns0:keyword>lifestyle factors</ns0:keyword>
+                    <ns0:keyword>mental health</ns0:keyword>
+                    <ns0:keyword>wellbeing</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Australian Commission on Safety and Quality in Health Care</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Safety and Quality in Health Care</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>AUS</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.safetyandquality.gov.au/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:00bm0qt52</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.safetyandquality.gov.au/about-us/contact-us/</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Australian Red Cross Blood Service</ns0:institutionName>
+                                <ns0:institutionCountry>AUS</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.donateblood.com.au/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:00evjd729</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.donateblood.com.au/contact-us</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Bureau of Health Information</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">BHI</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>AUS</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.bhi.nsw.gov.au/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.bhi.nsw.gov.au/About_us/contact_us</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Cancer Council NSW</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Cancer Council New South Wales</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>AUS</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.cancercouncil.com.au/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:05gsbkp40</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.cancercouncil.com.au/contact-us/</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">NSW  Agency for Clinical Innovation</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">ACI</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>AUS</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.aci.health.nsw.gov.au/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.aci.health.nsw.gov.au/about-aci</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">NSW Government Family &amp; Community Services &#8211; Carers, Ageing and Disability Inclusion</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">FACS, ADHC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>AUS</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.facs.nsw.gov.au/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:01yshzf86</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.facs.nsw.gov.au/about_us/contact_us</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">NSW Ministry of Health</ns0:institutionName>
+                                <ns0:institutionCountry>AUS</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.health.nsw.gov.au/Pages/default.aspx</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.health.nsw.gov.au/pages/contact.aspx</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Health and Medical Research Council</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NHMRC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>AUS</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.nhmrc.gov.au/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:011kf5r70</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.nhmrc.gov.au/about/contact-us</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Heart Foundation of Australia,  NSW Division</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Heart Foundation</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>AUS</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.heartfoundation.org.au</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:039d9wr27</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.heartfoundation.org.au/about-us/contact-us</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">saxinstitute</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Institute for Health Research</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>AUS</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.saxinstitute.org.au/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:008cfxd05</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.saxinstitute.org.au/contact-us/</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Governance and ethics</ns0:policyName>
+                <ns0:policyURL>https://www.saxinstitute.org.au/our-work/45-up-study/governance/</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Terms and conditions</ns0:policyName>
+                <ns0:policyURL>https://www.saxinstitute.org.au/terms/</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                    <ns0:databaseLicense>
+                <ns0:databaseLicenseName>Copyrights</ns0:databaseLicenseName>
+                <ns0:databaseLicenseURL>https://www.saxinstitute.org.au/terms/</ns0:databaseLicenseURL>
+            </ns0:databaseLicense>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>feeRequired</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>other</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.saxinstitute.org.au/terms/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.saxinstitute.org.au/our-work/45-up-study/governance/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                    <ns0:aidSystem>none</ns0:aidSystem>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">Repository-Developed Metadata Schemas</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/repository-developed-metadata-schemas</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks>45 and Up Study is covered by Clarivate Data Citation Index.</ns0:remarks>
+        <ns0:entryDate>2015-10-30</ns0:entryDate>
+        <ns0:lastUpdate>2021-09-06</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

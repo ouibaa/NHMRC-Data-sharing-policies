@@ -1,0 +1,98 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010666</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">ASAP</ns0:repositoryName>
+                    <ns0:additionalName language="eng">A systematic annotation package for community analysis of genomes</ns0:additionalName>
+                <ns0:repositoryURL>https://asap.ahabs.wisc.edu/asap/home.php</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>RRID:SCR_001849</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:nif-0000-02571</ns0:repositoryIdentifier>
+                <ns0:description language="eng">ASAP (a systematic annotation package for community analysis of genomes) is a relational database and web interface developed to store, update and distribute genome sequence data and gene expression data collected by or in collaboration with researchers at the University of Wisconsin - Madison.
+ASAP was designed to facilitate ongoing community annotation of genomes and to grow with genome projects as they move from the preliminary data stage through post-sequencing functional analysis. The ASAP database includes multiple genome sequences at various stages of analysis, and gene expression data from preliminary experiments.</ns0:description>
+                    <ns0:repositoryContact>ecneenoeckwa@wisc.edu</ns0:repositoryContact>
+                            <ns0:type>institutional</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2003</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">201 Basic Biological and Medical Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20105 General Genetics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">204 Microbiology, Virology and Immunology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                <ns0:missionStatementURL>https://asap.ahabs.wisc.edu/asap/ASAP1.htm</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Networkbased data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>DNA</ns0:keyword>
+                    <ns0:keyword>chromosome</ns0:keyword>
+                    <ns0:keyword>genetic mapping</ns0:keyword>
+                    <ns0:keyword>genomics</ns0:keyword>
+                    <ns0:keyword>nucleotides</ns0:keyword>
+                    <ns0:keyword>protein</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">University of Wisconsin-Madison</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Wisconsin</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.wisc.edu/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.wisc.edu/contact-us/</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of Wisconsin-Madison, Genome Evolution Laboratory</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Genome Center of Wisconsin</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://asap.ahabs.wisc.edu/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://asap.ahabs.wisc.edu/contact/</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Data Release Policy</ns0:policyName>
+                <ns0:policyURL>https://asap.ahabs.wisc.edu/asap/ASAP-DataReleasePolicy.htm</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.wisconsin.edu/general-counsel/legal-topics/copyright/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>Adding experimental data</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>https://asap.ahabs.wisc.edu/asap/show_help.php?LocationID=&amp;SequenceVersionID=&amp;GenomeID=&amp;ExpSetID=#_ContributingExperimentalData</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                            <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>http://www.genome.wisc.edu/tools/asap.htm</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                <ns0:remarks />
+        <ns0:entryDate>2014-03-18</ns0:entryDate>
+        <ns0:lastUpdate>2017-06-08</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

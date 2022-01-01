@@ -1,0 +1,148 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012429</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Birdbase</ns0:repositoryName>
+                    <ns0:additionalName language="eng">A database of avian genes &amp; genomes</ns0:additionalName>
+                <ns0:repositoryURL>http://birdbase.arizona.edu/birdbase/</ns0:repositoryURL>
+                <ns0:description language="eng">The sequencing of several bird genomes and the anticipated sequencing of many more provided the impetus to develop a model organism database devoted to the taxonomic class: Aves. Birds provide model organisms important to the study of neurobiology, immunology, genetics, development, oncology, virology, cardiovascular biology, evolution and a variety of other life sciences. Many bird species are also important to agriculture, providing an enormous worldwide food source worldwide. Genomic approaches are proving invaluable to studying traits that affect meat yield, disease resistance, behavior, and bone development along with many other factors affecting productivity. In this context, BirdBase will serve both biomedical and agricultural researchers.</ns0:description>
+                    <ns0:repositoryContact>webmaster@igbb.msstate.edu</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">201 Basic Biological and Medical Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20105 General Genetics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">203 Zoology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20303 Animal Ecology, Biodiversity and Ecosystem Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20306 Animal Genetics, Cell and Developmental Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                <ns0:missionStatementURL>http://birdbase.arizona.edu/birdbase/</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Databases</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Software applications</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>Model Organism Database</ns0:keyword>
+                    <ns0:keyword>agricultural research</ns0:keyword>
+                    <ns0:keyword>biomedical research</ns0:keyword>
+                    <ns0:keyword>bird species</ns0:keyword>
+                    <ns0:keyword>birds</ns0:keyword>
+                    <ns0:keyword>chicken</ns0:keyword>
+                    <ns0:keyword>gene expression</ns0:keyword>
+                    <ns0:keyword>gene nomenclature</ns0:keyword>
+                    <ns0:keyword>genetics</ns0:keyword>
+                    <ns0:keyword>genomics</ns0:keyword>
+                    <ns0:keyword>model organisms</ns0:keyword>
+                    <ns0:keyword>ontology development</ns0:keyword>
+                    <ns0:keyword>pathways</ns0:keyword>
+                    <ns0:keyword>turkey</ns0:keyword>
+                    <ns0:keyword>zebrafinch</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Mississippi State University</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.msstate.edu/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:0432jq872</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:SCR_000361</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_23152</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>burgess@igbb.msstate.edu</ns0:institutionContact>
+                                    <ns0:institutionContact>fionamcc@igbb.msstate.edu</ns0:institutionContact>
+                                    <ns0:institutionContact>pc79@igbb.msstate.edu</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Institutes of Health</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NIH</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.nih.gov/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:01cwqze88</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:SCR_011417</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_inv_1005116</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">U.S. Department of Agriculture</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">USDA</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.usda.gov/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:01na82s61</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:SCR_011486</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of Arizona,  College of Medicine Tucson, Cellular &amp; molecular medizine</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://cmm.arizona.edu/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>pba@email.arizona.edu</ns0:institutionContact>
+                                    <ns0:institutionContact>sdavey@email.arizona.edu</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of Delaware</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.udel.edu/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:01sbq1a82</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:SCR_011629</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_75835</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>decker@cis.udel.edu</ns0:institutionContact>
+                                    <ns0:institutionContact>schmidtc@udel.edu</ns0:institutionContact>
+                                    <ns0:institutionContact>vijay@cis.udel.edu</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>NIH Genomic Data Sharing</ns0:policyName>
+                <ns0:policyURL>https://osp.od.nih.gov/scientific-sharing/genomic-data-sharing/</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://birdbase.arizona.edu/birdbase/abstract.jsp</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://grants.nih.gov/grants/policy/data_sharing/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>institutional membership</ns0:dataUploadRestriction>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>other</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                    <ns0:aidSystem>none</ns0:aidSystem>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                <ns0:remarks />
+        <ns0:entryDate>2017-08-03</ns0:entryDate>
+        <ns0:lastUpdate>2021-08-25</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

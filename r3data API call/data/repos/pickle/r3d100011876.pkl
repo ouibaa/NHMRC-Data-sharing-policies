@@ -1,0 +1,121 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011876</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Plant Genomics and Phenomics Research Data Repository</ns0:repositoryName>
+                    <ns0:additionalName language="eng">PGP Repository</ns0:additionalName>
+                <ns0:repositoryURL>http://edal-pgp.ipk-gatersleben.de/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.rf3m4g</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>OMICS_13414</ns0:repositoryIdentifier>
+                <ns0:description language="eng">The Leibniz Institute of Plant Genetics and Crop Plant Research (IPK) and the German Plant Phenotyping Network (DPPN) has jointly initiated the Plant Genomics and Phenomics Research Data Repository (PGP) as infrastructure to comprehensively publish plant research data [https://dx.doi.org/10.1093/database/baw033]. This covers in particular these cross-domain data sets that are not being published in central repositories because of its huge volume, unsupported data domain or scope, like image collections from plant phenotyping and microscopy, unassembled sequences, genotyping data, visualizations of complex morphological plant models, movies plant 3-D models, raw data from mass spectrometry, software, and documents. Accepted data is published as citable DOIs and core set of technical metadata is registered at DataCite. The used e!DAL-embedded Web frontend generates for each data set a landing page and supports an interactive exploration of available datasets. This long-term stable access to plant genomic and phenomic primary data records across domains and laboratories  in one repository can empower researchers to reproduce already published analysis results as well as performing subsequent, advanced studies.</ns0:description>
+                    <ns0:repositoryContact>a.kesseler@fz-juelich.de</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                    <ns0:type>institutional</ns0:type>
+                <ns0:size updated="2018-04-17">147 datasets</ns0:size>
+        <ns0:startDate>2014-07-25</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">202 Plant Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20207 Plant Genetics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">207 Agriculture, Forestry, Horticulture and Veterinary Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20705 Plant Breeding</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">23 Agriculture, Forestry, Horticulture and Veterinary Medicine</ns0:subject>
+                <ns0:missionStatementURL>http://edal-pgp.ipk-gatersleben.de/whatis.html</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>DNA</ns0:keyword>
+                    <ns0:keyword>biodiversity</ns0:keyword>
+                    <ns0:keyword>bioinformatics</ns0:keyword>
+                    <ns0:keyword>genetic diversity</ns0:keyword>
+                    <ns0:keyword>phenotypic diversity</ns0:keyword>
+                    <ns0:keyword>plant genomics</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">German Network for Bioinformatics Infrastructure</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">de.NBI</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.denbi.de/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">German Plant Phenotyping Network</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="deu">DPPN</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="deu">Deutsches Pflanzen Ph&#228;notypisierungsnetzwerk</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.dppn.de/dppn/DE/Home/home_node.html</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>a.kesseler@fz-juelich.de</ns0:institutionContact>
+                                    <ns0:institutionContact>http://www.dppn.de/dppn/EN/Service/Impressum/impressum_node.html</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Leibniz Institute of Plant Genetics and Crop Plant Research</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="deu">IPK</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="deu">Leibniz-Institut f&#252;r Pflanzengenetik und Kulturpflanzenforschung</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.ipk-gatersleben.de/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.ipk-gatersleben.de/kontakt/adresse/</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>License and Disclaimer</ns0:policyName>
+                <ns0:policyURL>http://edal-pgp.ipk-gatersleben.de/whatis.html</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/licenses/by-nd/4.0/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://edal-pgp.ipk-gatersleben.de/whatis.html</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>Creative Commons Licenses</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>https://creativecommons.org/licenses/</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                            <ns0:software>
+                <ns0:softwareName>other</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                    <ns0:api apiType="other">http://edal.ipk-gatersleben.de/download.html</ns0:api>
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                <ns0:citationGuidelineURL>http://www.datacite.org.s3-website-eu-west-1.amazonaws.com/cite-your-data.html</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">DataCite Metadata Schema</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/datacite-metadata-schema</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                    <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">Dublin Core</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks>This archive aims to provide data from the &#698;system plant&#698; - from the root to bloom and seed, as well from sequence analysis to systems biology.
+Plant Genomics and Phenomics Research Data Repository is part of  e!DAL driven repositories https://edal.ipk-gatersleben.de/</ns0:remarks>
+        <ns0:entryDate>2015-11-04</ns0:entryDate>
+        <ns0:lastUpdate>2021-09-08</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

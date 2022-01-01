@@ -1,0 +1,83 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100013301</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">DisGeNET</ns0:repositoryName>
+                    <ns0:additionalName language="eng">A knowledge base for disease genomics</ns0:additionalName>
+                <ns0:repositoryURL>http://www.disgenet.org</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.fssydn</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:SCR_006178</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:nlx_151710</ns0:repositoryIdentifier>
+                <ns0:description language="eng">DisGeNET is a discovery platform containing one of the largest publicly available collections of genes and variants associated to human diseases.  DisGeNET integrates data from expert curated repositories, GWAS catalogues, animal models and the scientific literature. DisGeNET data are homogeneously annotated with controlled vocabularies and community-driven ontologies. Additionally, several original metrics are provided to assist the prioritization of genotype&#8211;phenotype relationships.</ns0:description>
+                    <ns0:repositoryContact>info@disgenetplus.com</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">201 Basic Biological and Medical Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20105 General Genetics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">205 Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20503 Human Genetics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                <ns0:missionStatementURL>http://grib.imim.es/research/integrative-biomedical-informatics/</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Databases</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Source code</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>COVID-19</ns0:keyword>
+                    <ns0:keyword>FAIR</ns0:keyword>
+                    <ns0:keyword>disease</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Research Programme on Biomedical Informatics, Integrative Biomedical Informatics</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">GRIB</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>ESP</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://grib.imim.es/research/integrative-biomedical-informatics/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>DisGeNET web interface user guide</ns0:policyName>
+                <ns0:policyURL>https://www.disgenet.org/static/disgenet_ap1/files/current/DisGeNET_Web_v7.pdf</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Legal Notices</ns0:policyName>
+                <ns0:policyURL>https://www.disgenet.org/legal</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                    <ns0:databaseLicense>
+                <ns0:databaseLicenseName>ODC</ns0:databaseLicenseName>
+                <ns0:databaseLicenseURL>http://opendatacommons.org/licenses/odbl/1.0/</ns0:databaseLicenseURL>
+            </ns0:databaseLicense>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/licenses/by-nc-sa/4.0/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>ODC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://opendatacommons.org/licenses/odbl/1.0/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                                            <ns0:software>
+                <ns0:softwareName>other</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                    <ns0:api apiType="REST">https://www.disgenet.org/api/</ns0:api>
+                    <ns0:api apiType="SPARQL">https://www.disgenet.org/api/</ns0:api>
+                        <ns0:citationGuidelineURL>https://www.disgenet.org/citation</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                <ns0:remarks />
+        <ns0:entryDate>2020-04-24</ns0:entryDate>
+        <ns0:lastUpdate>2021-09-09</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

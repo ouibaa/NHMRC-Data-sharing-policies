@@ -1,0 +1,114 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011638</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">University of Southern Queensland research data collection</ns0:repositoryName>
+                <ns0:repositoryURL>https://researchdata.edu.au/contributors/university-of-southern-queensland</ns0:repositoryURL>
+                <ns0:description language="eng">University of Southern Queensland Research Data Collection in Research Data Australia cover 123 subjects areas including  Agricultural and Veterinary Sciences, Environmental Sciences and Engineering.</ns0:description>
+                    <ns0:repositoryContact>gacenga@usq.edu.au</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2020-04-02">29 data records;</ns0:size>
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">23 Agriculture, Forestry, Horticulture and Veterinary Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31301 Atmospheric Science</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">4 Engineering Sciences</ns0:subject>
+                <ns0:missionStatementURL>https://researchdata.edu.au/page/about</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>UV ratings</ns0:keyword>
+                    <ns0:keyword>UVA wavelenghts</ns0:keyword>
+                    <ns0:keyword>UVB wavelenghts</ns0:keyword>
+                    <ns0:keyword>solar radiation science</ns0:keyword>
+                    <ns0:keyword>solice data</ns0:keyword>
+                    <ns0:keyword>weather</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Australian National Data Service</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">ANDS</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>AUS</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.ands.org.au/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.ands.org.au/contact-us</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Collaborative Research Infrastructure Strategy</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NCRIS</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>AUS</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.education.gov.au/national-collaborative-research-infrastructure-strategy-ncris</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.education.gov.au/contact-department</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of Southern Queensland</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">USQ</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>AUS</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.usq.edu.au/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:04sjbnx57</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:SCR_000374</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_46605</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>Nathan.Downs@usq.edu.au</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>ANDS Research Data Australia policies</ns0:policyName>
+                <ns0:policyURL>https://www.ands.org.au/online-services/research-data-australia/research-data-australia-policies</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>All Policy and Procedure A-Z</ns0:policyName>
+                <ns0:policyURL>https://policy.usq.edu.au/lists</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Research Data and Primary Materials Management Procedure</ns0:policyName>
+                <ns0:policyURL>https://policy.usq.edu.au/documents/151985PL#4.3_Store</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>embargoed</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>other</ns0:dataAccessRestriction>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/licenses/by-nc/4.0/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>institutional membership</ns0:dataUploadRestriction>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://ardc.edu.au/resources/working-with-data/citation-identifiers/</ns0:citationGuidelineURL>
+                    <ns0:aidSystem>none</ns0:aidSystem>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks />
+        <ns0:entryDate>2015-08-19</ns0:entryDate>
+        <ns0:lastUpdate>2021-02-18</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

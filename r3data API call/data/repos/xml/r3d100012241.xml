@@ -1,0 +1,92 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012241</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">World Religion Database</ns0:repositoryName>
+                    <ns0:additionalName language="eng">WRD</ns0:additionalName>
+                <ns0:repositoryURL>https://worldreligiondatabase.org/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>ISSN 1876-1410</ns0:repositoryIdentifier>
+                <ns0:description language="eng">The World Religion Database (WRD) contains detailed statistics on religious affiliation for every country of the world. It provides source material, including censuses and surveys, as well as best estimates for every religion to offer a definitive picture of international religious demography. It offers best estimates at multiple dates for each of the world&#8217;s religions for the period 1900 to 2050.</ns0:description>
+                    <ns0:repositoryContact>https://referenceworks.brillonline.com/pages/contact-us</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2010-01-05</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">106 Non-European Languages and Cultures, Social and Cultural Anthropology, Jewish Studies and Religious Studies</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">10605 Religious Studies and Jewish Studies</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">107 Theology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11 Humanities</ns0:subject>
+                <ns0:missionStatementURL>https://brill.com/view/db/wrdo</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>census</ns0:keyword>
+                    <ns0:keyword>christianity</ns0:keyword>
+                    <ns0:keyword>ethnicity</ns0:keyword>
+                    <ns0:keyword>evangelization</ns0:keyword>
+                    <ns0:keyword>hinduism</ns0:keyword>
+                    <ns0:keyword>muslim</ns0:keyword>
+                    <ns0:keyword>religion</ns0:keyword>
+                    <ns0:keyword>theology</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Boston University, Pardee School of Global Studies, Institute on Culture, Religion &amp; World Affairs</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">CURA</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.bu.edu/cura/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.bu.edu/cura/contact-us/</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Brill</ns0:institutionName>
+                                <ns0:institutionCountry>NLD</ns0:institutionCountry>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://brill.com/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://brill.com/page/Contact/contact</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Methodology of the World Christian Database</ns0:policyName>
+                <ns0:policyURL>https://worldchristiandatabase.org/wcd/about/WCD_Methodology.pdf</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Online User and Order Help</ns0:policyName>
+                <ns0:policyURL>https://brill.com/page/OnlineUserandOrderHelp/online-user-and-order-help</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Policies</ns0:policyName>
+                <ns0:policyURL>https://brill.com/page/Policies/policies</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>restricted</ns0:databaseAccessType>
+                            <ns0:databaseAccessRestriction>feeRequired</ns0:databaseAccessRestriction>
+                            <ns0:databaseAccessRestriction>registration</ns0:databaseAccessRestriction>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>feeRequired</ns0:dataAccessRestriction>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://worldreligiondatabase.org/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                <ns0:versioning />
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                <ns0:remarks>World religion database is covered by Thomson Reuters Data Citation Index.
+The World Christian Database  complements the WRD by providing detailed demographic information on all aspects of global Christianity, including every Christian denomination.</ns0:remarks>
+        <ns0:entryDate>2016-11-24</ns0:entryDate>
+        <ns0:lastUpdate>2021-07-26</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

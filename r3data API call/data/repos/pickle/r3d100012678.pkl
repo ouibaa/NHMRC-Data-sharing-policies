@@ -1,0 +1,110 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012678</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Survey of India</ns0:repositoryName>
+                <ns0:repositoryURL>https://surveyofindia.gov.in/</ns0:repositoryURL>
+                <ns0:description language="eng">Survey of India, The National Survey and Mapping Organization of the country under the Department of Science &amp; Technology, is the OLDEST SCIENTIFIC DEPARTMENT OF THE GOVT. OF INDIA. It was set up in 1767 and has evolved rich traditions over the years. In its assigned role as the nation's Principal Mapping Agency, Survey of India bears a special responsibility to ensure that the country's domain is explored and mapped suitably, provide base maps for expeditious and integrated development and ensure that all resources contribute with their full measure to the progress, prosperity and security of our country now and for generations to come.
+
+The history of the Survey of India dates back to the 18th Century. Forerunners of army of the East India Company and Surveyors had an onerous task of exploring the unknown. Bit by bit the tapestry of Indian terrain was completed by the painstaking efforts of a distinguished line of Surveyors such as Mr. Lambton and Sir George Everest. It is a tribute to the foresight of such Surveyors that at the time of independence the country inherited a survey network built on scientific principles. The great Trigonometric series spanning the country from North to South East to West are some of the best geodetic control series available in the world. The scientific principles of surveying have since been augmented by the latest technology to meet the multidisciplinary requirement of data from planners and scientists.
+
+Organized into only 5 Directorates in 1950, mainly to look after the mapping needs of Defense Forces in North West and North East, the Department has now grown into 22 Directorates spread in approx. all parts (states) of the country to provide the basic map coverage required for the development of the country. Its technology, latest in the world, has been oriented to meet the needs of defense forces, planners and scientists in the field of geo-sciences, land and resource management. Its expert advice is being utilized by various Ministries and undertakings of Govt. of India in many sensitive areas including settlement of International borders, State boundaries and in assisting planned development of hitherto under developed areas.
+
+Faced with the requirement of digital topographical data, the department has created three Digital Centers during late eighties to generate Digital Topographical Data Base for the entire country for use in various planning processes and creation of geographic information system. Its specialized Directorates such as Geodetic and Research Branch, and Indian Institute of Surveying &amp; Mapping (erstwhile Survey Training Institute) have been further strengthened to meet the growing requirement of user community. The department is also assisting in many scientific programs of the Nation related to the field of geo-physics, remote sensing and digital data transfers.</ns0:description>
+                    <ns0:repositoryContact>helpdesk.soi@gov.in</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>hin</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">314 Geology and Palaeontology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31401 Geology and Palaeontology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">315 Geophysics and Geodesy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31501 Geophysics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL>https://www.surveyofindia.gov.in/</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>geological data</ns0:keyword>
+                    <ns0:keyword>geophysical data</ns0:keyword>
+                    <ns0:keyword>large-scale cities</ns0:keyword>
+                    <ns0:keyword>photogrammetry</ns0:keyword>
+                    <ns0:keyword>spatial data</ns0:keyword>
+                    <ns0:keyword>survey</ns0:keyword>
+                    <ns0:keyword>topographical data</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Ministry of Science and Technology, Department of Science &amp; Technology</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">DST</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>IND</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://dst.gov.in/survey-of-india-zone</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Uttarakhand</ns0:institutionName>
+                                <ns0:institutionCountry>IND</ns0:institutionCountry>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>commercial</ns0:institutionType>
+                <ns0:institutionURL>http://uk.gov.in/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Guidelines for implementing National Map Policy</ns0:policyName>
+                <ns0:policyURL>http://www.surveyofindia.gov.in/files/nmp/Guidlines%20for%20Implementing%20National%20Map%20policy.pdf</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>National Data Sharing and Accessibility Policy (NDSAP) - 2012</ns0:policyName>
+                <ns0:policyURL>http://www.surveyofindia.gov.in/pages/display/136-national-data-sharing-and-accessibility-policy-(ndsap)---2012</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>National Map Policy - 2005</ns0:policyName>
+                <ns0:policyURL>http://www.surveyofindia.gov.in/files/nmp/National%20Map%20Policy.pdf</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Service Tax Policy on Survey of India Products - 2005</ns0:policyName>
+                <ns0:policyURL>http://www.surveyofindia.gov.in/pages/display/143-service-tax-policy-on-survey-of-india-products---2005</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Terms &amp; Conditions</ns0:policyName>
+                <ns0:policyURL>http://www.surveyofindia.gov.in/pages/display/28-terms-conditions</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>feeRequired</ns0:dataAccessRestriction>
+                                    <ns0:dataAccessRestriction>other</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www.surveyofindia.gov.in/files/nmp/Guidlines%20for%20Implementing%20National%20Map%20policy.pdf</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>OGL</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www.surveyofindia.gov.in/pages/display/136-national-data-sharing-and-accessibility-policy-(ndsap)---2012</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                        <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                <ns0:remarks />
+        <ns0:entryDate>2018-05-19</ns0:entryDate>
+        <ns0:lastUpdate>2021-10-06</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

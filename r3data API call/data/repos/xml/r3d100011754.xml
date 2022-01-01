@@ -1,0 +1,118 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011754</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Knoema</ns0:repositoryName>
+                <ns0:repositoryURL>https://knoema.de/</ns0:repositoryURL>
+                <ns0:description language="eng">Knoema is a knowledge platform. The basic idea is to connect data with analytical and presentation tools. As a result, we end with one uniformed platform for users to access, present and share data-driven content.
+
+Within Knoema, we capture most aspects of a typical data use cycle: accessing data from multiple sources, bringing relevant indicators into a common space, visualizing figures, applying analytical functions, creating a set of dashboards, and presenting the outcome.</ns0:description>
+                    <ns0:repositoryContact>https://knoema.com/business/contact</ns0:repositoryContact>
+                    <ns0:repositoryContact>info@knoema.com</ns0:repositoryContact>
+                    <ns0:repositoryContact>support@knoema.com</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2011</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>ara</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>deu</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>fra</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>hin</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>jpn</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>por</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>rus</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>spa</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">111 Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">112 Economics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11205 Statistics and Econometrics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">12 Social and Behavioural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">205 Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20502 Public Health, Health Services Research, Social Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                <ns0:missionStatementURL>https://feedback.knoema.com/</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Databases</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Software applications</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>World Data Atlas</ns0:keyword>
+                    <ns0:keyword>agriculture</ns0:keyword>
+                    <ns0:keyword>analytics</ns0:keyword>
+                    <ns0:keyword>big data</ns0:keyword>
+                    <ns0:keyword>business</ns0:keyword>
+                    <ns0:keyword>demography</ns0:keyword>
+                    <ns0:keyword>economics</ns0:keyword>
+                    <ns0:keyword>energy</ns0:keyword>
+                    <ns0:keyword>foreign trade</ns0:keyword>
+                    <ns0:keyword>graphs</ns0:keyword>
+                    <ns0:keyword>health</ns0:keyword>
+                    <ns0:keyword>statistics</ns0:keyword>
+                    <ns0:keyword>telecommunication</ns0:keyword>
+                    <ns0:keyword>transportation</ns0:keyword>
+                    <ns0:keyword>visualization</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Knoema</ns0:institutionName>
+                                <ns0:institutionCountry>AAA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>commercial</ns0:institutionType>
+                <ns0:institutionURL>https://knoema.com/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>2011</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>info@knoema.com</ns0:institutionContact>
+                                    <ns0:institutionContact>support@knoema.com</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Terms of Use</ns0:policyName>
+                <ns0:policyURL>https://knoema.de/legal/termsofuse</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>closed</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>feeRequired</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://knoema.de/legal/termsofuse</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                    <ns0:api apiType="other">https://knoema.com/dev/explorer</ns0:api>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">SDMX - Statistical Data and Metadata Exchange</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/sdmx-statistical-data-and-metadata-exchange</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                            <ns0:syndication syndicationType="ATOM">http://blog.knoema.com/feeds/posts/default</ns0:syndication>
+                    <ns0:syndication syndicationType="RSS">http://blog.knoema.com/feeds/posts/default?alt=rss</ns0:syndication>
+                <ns0:remarks>Sources:  http://knoema.com/atlas/sources</ns0:remarks>
+        <ns0:entryDate>2016-02-02</ns0:entryDate>
+        <ns0:lastUpdate>2021-09-03</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

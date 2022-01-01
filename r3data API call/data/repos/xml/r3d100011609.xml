@@ -1,0 +1,82 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011609</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">PLANTS Database</ns0:repositoryName>
+                    <ns0:additionalName language="eng">PlantsList of Accepted Nomenclature, Taxoomy &amp; Symbols Database</ns0:additionalName>
+                <ns0:repositoryURL>https://plants.usda.gov/java/</ns0:repositoryURL>
+                <ns0:description language="eng">The PLANTS Database provides standardized information about the vascular plants, mosses, liverworts, hornworts, and lichens of the U.S. and its territories. It includes names, plant symbols, checklists, distributional data, species abstracts, characteristics, images, crop information, automated tools, onward Web links, and references. This information primarily promotes land conservation in the United States and its territories, but academic, educational, and general use is encouraged. PLANTS reduces government spending by minimizing duplication and making information exchange possible across agencies and disciplines.</ns0:description>
+                    <ns0:repositoryContact>plants@ftc.usda.gov</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2018-01-17">more than 50.000 plant images</ns0:size>
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">201 Basic Biological and Medical Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">202 Plant Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                <ns0:missionStatementURL>https://www.nrcs.usda.gov/wps/portal/nrcs/detail/national/plantsanimals/plants/?&amp;cid=stelprdb1047060</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>characteristics</ns0:keyword>
+                    <ns0:keyword>crop information</ns0:keyword>
+                    <ns0:keyword>distribution</ns0:keyword>
+                    <ns0:keyword>ecology</ns0:keyword>
+                    <ns0:keyword>fact sheets</ns0:keyword>
+                    <ns0:keyword>plant guides</ns0:keyword>
+                    <ns0:keyword>plant profiles</ns0:keyword>
+                    <ns0:keyword>plant symbols</ns0:keyword>
+                    <ns0:keyword>species abstracts</ns0:keyword>
+                    <ns0:keyword>taxonomy</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">U.S. Department of Agriculture, Natural Resources Conservation Service</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">USDA, NRCS</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.nrcs.usda.gov/wps/portal/nrcs/site/national/home/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Policies</ns0:policyName>
+                <ns0:policyURL>https://www.usda.gov/policies-and-links</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.usda.gov/policies-and-links</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://plants.usda.gov/java/intellectualPlants</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://plants.usda.gov/java/citePlants</ns0:citationGuidelineURL>
+                    <ns0:aidSystem>none</ns0:aidSystem>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks>The National Plant Data Team provides national and international leadership on plant information for the United States and its territories. The Team acquires, develops, and disseminates plant information to support USDA, NRCS and other efforts to improve the ecological health of the land. The Team maintains the PLANTS Database to support a variety of conservation activities. PLANTS is a collaborative effort of the USDA NRCS National Plant Data Team (NPDT), the USDA NRCS Information Technology Center (ITC), The USDA National Information Technology Center (NITC), and many other partners.
+Partners: https://plants.usda.gov/partners.html</ns0:remarks>
+        <ns0:entryDate>2015-07-20</ns0:entryDate>
+        <ns0:lastUpdate>2018-12-14</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

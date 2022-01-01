@@ -1,0 +1,95 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011750</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Italian National Biodiversity Network</ns0:repositoryName>
+                    <ns0:additionalName language="ita">NNB</ns0:additionalName>
+                    <ns0:additionalName language="ita">Network Nazionale Biodiversit&#224;</ns0:additionalName>
+                <ns0:repositoryURL>http://193.206.192.106/portalino/home_en/il-network.html</ns0:repositoryURL>
+                <ns0:description language="eng">The Ministry for the Environment, Land and Sea has promoted the project "Environment 2010" which plays a strong team move to support the  National Strategy for Biodiversity . The crux of the system is the National Biodiversity Network (NNB), a network of Centers of Excellence (CoE) and National Focal Point (FP), accredited to international and national level for the management, sharing and information about data on biodiversity.</ns0:description>
+                    <ns0:repositoryContact>http://www.nnb.isprambiente.it/it/contatti</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>ita</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">202 Plant Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20202 Plant Ecology and Ecosystem Analysis</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">203 Zoology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20303 Animal Ecology, Biodiversity and Ecosystem Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                <ns0:missionStatementURL>http://193.206.192.106/portalino/home_en/il-network.html</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>Environment 2010</ns0:keyword>
+                    <ns0:keyword>INSPIRE</ns0:keyword>
+                    <ns0:keyword>INfrastructure for SPatial InfoRmation in Europe</ns0:keyword>
+                    <ns0:keyword>LIFEWATCH</ns0:keyword>
+                    <ns0:keyword>LTER</ns0:keyword>
+                    <ns0:keyword>ecosystem</ns0:keyword>
+                    <ns0:keyword>gene</ns0:keyword>
+                    <ns0:keyword>habitat</ns0:keyword>
+                    <ns0:keyword>population</ns0:keyword>
+                    <ns0:keyword>species</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Ministry for the Environment, Land and Sea</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="ita">Ministero dell'Ambiente e della Tutela del Territorio e del Mare</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>ITA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.minambiente.it/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Italian Open Data License v2.0</ns0:policyName>
+                <ns0:policyURL>http://193.206.192.106/portalino/pdf/iodl2.pdf</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Policy del sito</ns0:policyName>
+                <ns0:policyURL>https://www.naturaitalia.it/static/media/doc/pdf/Policy_privacy_Naturaitalia.pdf</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://193.206.192.106/portalino/pdf/iodl2.pdf</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                <ns0:versioning />
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">ABCD - Access to Biological Collection Data</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/abcd-access-biological-collection-data</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                    <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">Darwin Core</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/darwin-core</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks>Draft Memorandum of Understanding: http://193.206.192.106/portalino/pdf/Protocollo_Intesa_NNB.pdf
+The NNB is a shared data management system consists of a central node, which allows you to do the research and data management, and peripheral nodes (database that have primary biodiversity data) in order to ensure consultation and the 'efficient integration of information on biodiversity, all done without the physical transfer of data, which always reside at cooperating institutions which retain all legal rights.
+The database of properties of individual nodes differ in structure (different fields) and architecture (different DBs, like Access, Oracle, MySQL, etc..), But they can communicate through the Protocol Biocase. This ensures, through a set of rules, a communication between the nodes themselves intrinsic and the international community that participates in the network of Biocase.</ns0:remarks>
+        <ns0:entryDate>2016-04-25</ns0:entryDate>
+        <ns0:lastUpdate>2021-07-02</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

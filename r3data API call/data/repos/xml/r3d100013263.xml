@@ -1,0 +1,110 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100013263</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">FaceBase</ns0:repositoryName>
+                <ns0:repositoryURL>https://www.facebase.org</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.mqvqde</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:SCR_005998</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:nlx_151372</ns0:repositoryIdentifier>
+                <ns0:description language="eng">FaceBase is a collaborative NIDCR-funded project that houses comprehensive data in support of advancing research into craniofacial development and malformation. It serves as a community resource by curating large datasets of a variety of types from the craniofacial research community and sharing them via this website. Practices emphasize a comprehensive and multidisciplinary approach to understanding the developmental processes that create the face. The data offered spotlights high-throughput genetic, molecular, biological, imaging and computational techniques. One of the missions of this project is to facilitate cooperation and collaboration between the central coordinating center (ie, the Hub) and the craniofacial research community.</ns0:description>
+                    <ns0:repositoryContact>help@facebase.org</ns0:repositoryContact>
+                        <ns0:size updated="2020-03-11">855 datasets</ns0:size>
+        <ns0:startDate>2009-01-09</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">201 Basic Biological and Medical Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20107 Bioinformatics and Theoretical Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">203 Zoology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20306 Animal Genetics, Cell and Developmental Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">205 Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20503 Human Genetics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20528 Dentistry, Oral Surgery</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                <ns0:missionStatementURL>https://www.facebase.org/about/</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Databases</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>3D facial imaging</ns0:keyword>
+                    <ns0:keyword>GWAS</ns0:keyword>
+                    <ns0:keyword>craniofacial</ns0:keyword>
+                    <ns0:keyword>craniofacial development</ns0:keyword>
+                    <ns0:keyword>dental</ns0:keyword>
+                    <ns0:keyword>enhancer identification</ns0:keyword>
+                    <ns0:keyword>facial morphology</ns0:keyword>
+                    <ns0:keyword>gene expression</ns0:keyword>
+                    <ns0:keyword>genomics</ns0:keyword>
+                    <ns0:keyword>genotype</ns0:keyword>
+                    <ns0:keyword>microCT</ns0:keyword>
+                    <ns0:keyword>orofacial clefts</ns0:keyword>
+                    <ns0:keyword>phenotype</ns0:keyword>
+                    <ns0:keyword>suture</ns0:keyword>
+                    <ns0:keyword>transcriptomics</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">National Institutes of Health</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NIH</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.nih.gov/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:01cwqze88</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>VIAF:223553453</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of Southern California, Information Sciences Institute</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://isi.edu/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>VIAF:136065954</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate>2014-10-13</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Data Access Policies</ns0:policyName>
+                <ns0:policyURL>https://www.facebase.org/access/policies/</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Terms of use</ns0:policyName>
+                <ns0:policyURL>https://www.facebase.org/odocs/tou-unrestricted-data/</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>other</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.facebase.org/odocs/tou-unrestricted-data/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>Submitting Data to Facebase</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>https://isrd.wufoo.com/forms/z144eh560oootq1/</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                        <ns0:versioning>yes</ns0:versioning>
+                    <ns0:api apiType="REST">https://docs.derivacloud.org/deriva-py/api/deriva.html</ns0:api>
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://www.facebase.org/access/citing/</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks />
+        <ns0:entryDate>2020-03-10</ns0:entryDate>
+        <ns0:lastUpdate>2021-11-09</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

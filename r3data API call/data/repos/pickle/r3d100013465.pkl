@@ -1,0 +1,107 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100013465</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="cat">Dip&#242;sit Digital de Documents de la UAB</ns0:repositoryName>
+                    <ns0:additionalName language="cat">DDD</ns0:additionalName>
+                    <ns0:additionalName language="spa">Dep&#243;sito Digital de Documentos de la UAB</ns0:additionalName>
+                    <ns0:additionalName language="eng">UAB Digital Repository of Documents</ns0:additionalName>
+                <ns0:repositoryURL>https://ddd.uab.cat/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>OpenDOAR:1404</ns0:repositoryIdentifier>
+                <ns0:description language="eng">The DDD,  the UAB Digital Repository of Documents, is the tool that collects, manages, disseminates and preserves the scientific, educational and institutional production of the University. It also gathers digital documents that are part of or complement UAB libraries collections. The DDD repository shows an organized, open access and interoperable collection.
+The Universitat Aut&#242;noma de Barcelona (UAB) acknowledges the importance of research data and the need for a policy aimed at promoting its visibility and reuse. This policy was drawn up by the Open Access Commission and was approved by the University Governing Council on 11 March 2020.</ns0:description>
+                    <ns0:repositoryContact>ddd.bib@uab.cat</ns0:repositoryContact>
+                            <ns0:type>institutional</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2006</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>cat</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>spa</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">4 Engineering Sciences</ns0:subject>
+                <ns0:missionStatementURL>https://www.uab.cat/web/our-collections/UAB-Digital-Repository-of-Documents-1345777080660.html</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Audiovisual data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>multidisciplinary</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="spa">Universitat Aut&#242;noma de Barcelona</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="spa">UAB</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>ESP</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.uab.cat/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:052g8jq94</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Data Protection Policy</ns0:policyName>
+                <ns0:policyURL>https://www.uab.cat/web/our-libraries/data-protection-1345775018054.html</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Pol&#237;tica institucional d'acc&#233;s obert per a les dades de recerca de la Universitat Aut&#242;noma de Barcelona</ns0:policyName>
+                <ns0:policyURL>https://ddd.uab.cat/record/222172</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Regulations</ns0:policyName>
+                <ns0:policyURL>https://www.uab.cat/web/our-collections/UAB-Digital-Repository-of-Documents-1345777080660.html</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>embargoed</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>institutional membership</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/licenses/by/3.0/deed.ca</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>CC0</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/share-your-work/public-domain/cc0/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>CC0</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://ddd.uab.cat/record/129205</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>institutional membership</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>other</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                    <ns0:api apiType="OAI-PMH">https://ddd.uab.cat/oai2d</ns0:api>
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                    <ns0:aidSystem>ORCID</ns0:aidSystem>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>no</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">DataCite Metadata Schema</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/datacite-metadata-schema</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                    <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">Dublin Core</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks />
+        <ns0:entryDate>2020-12-10</ns0:entryDate>
+        <ns0:lastUpdate>2020-12-13</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

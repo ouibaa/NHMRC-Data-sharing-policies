@@ -1,0 +1,91 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010515</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">WHOI Seafloor Data and Observation Visualization Environment</ns0:repositoryName>
+                    <ns0:additionalName language="eng">EPR Data Browser</ns0:additionalName>
+                    <ns0:additionalName language="eng">SeaDOVE</ns0:additionalName>
+                    <ns0:additionalName language="eng">Seafloor Data and Oberservation Visualization Environment</ns0:additionalName>
+                <ns0:repositoryURL>http://gis1server.whoi.edu/website/EPR_9N/viewer.htm</ns0:repositoryURL>
+                <ns0:description language="eng">Seafloor data at these locations include multibeam bathymetry, high-resolution scanning altimetry, deep-towed sidescan sonar, seafloor digital photographs, sample locations, deep-towed magnetic data, and more. Each dataset is geospatially registered and incorporates metadata (e.g., sample geochemistry and time and depth of collection) that can be interactively accessed by the user. The user can control which datasets are shown on a map view of the area and the scale at which the map is viewed. Datasets with resolutions inappropriate for the scale at which they are being viewed are automatically removed from the map.</ns0:description>
+                    <ns0:repositoryContact>dfornari@whoi.edu</ns0:repositoryContact>
+                    <ns0:repositoryContact>ssoule@whoi.edu</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31302 Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL>http://www.whoi.edu/main/vision-mission</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>deep sea</ns0:keyword>
+                    <ns0:keyword>gis-database</ns0:keyword>
+                    <ns0:keyword>global ocean observing system</ns0:keyword>
+                    <ns0:keyword>gscanning altimetry</ns0:keyword>
+                    <ns0:keyword>multi-scalar-seafloor data</ns0:keyword>
+                    <ns0:keyword>ocean subsurface</ns0:keyword>
+                    <ns0:keyword>ocean surface</ns0:keyword>
+                    <ns0:keyword>oceanography</ns0:keyword>
+                    <ns0:keyword>sidescan sonar</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">National Science Foundation</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NSF</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.nsf.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Woods Hole Oceanographic Institution</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">WHOI</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.whoi.edu/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>dfornari@whoi.edu</ns0:institutionContact>
+                                    <ns0:institutionContact>rgoldsmith@whoi.edu</ns0:institutionContact>
+                                    <ns0:institutionContact>ssoule@whoi.edu</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Privacy Policy</ns0:policyName>
+                <ns0:policyURL>http://www.whoi.edu/whoi/privacy.do</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://ndsf.whoi.edu/ndsf-data-archive-policy/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>http://cmip5.whoi.edu/?page_id=339</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks>Partners &amp; Sponsors: http://www.whoi.edu/main/partners-sponsors</ns0:remarks>
+        <ns0:entryDate>2013-10-21</ns0:entryDate>
+        <ns0:lastUpdate>2018-11-20</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

@@ -1,0 +1,139 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011742</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">AERONET</ns0:repositoryName>
+                    <ns0:additionalName language="eng">AErosol RObotic NETwork</ns0:additionalName>
+                <ns0:repositoryURL>https://aeronet.gsfc.nasa.gov/</ns0:repositoryURL>
+                <ns0:description language="eng">The AERONET (AErosol RObotic NETwork) program is a federation of ground-based remote sensing aerosol networks established by NASA and PHOTONS  (PHOtom&#233;trie pour le Traitement Op&#233;rationnel de Normalisation Satellitaire; Univ. of Lille 1, CNES, and CNRS-INSU) and is greatly expanded by networks (e.g., RIMA, AeroSpan, AEROCAN, and CARSNET) and collaborators from national agencies, institutes, universities, individual scientists, and partners. The program provides a long-term, continuous and readily accessible public domain database of aerosol optical, microphysical and radiative properties for aerosol research and characterization, validation of satellite retrievals, and synergism with other databases. The network imposes standardization of instruments, calibration, processing and distribution.</ns0:description>
+                    <ns0:repositoryContact>David.M.Giles@nasa.gov</ns0:repositoryContact>
+                    <ns0:repositoryContact>Ilya.Slutsker-1@nasa.gov</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">311 Astrophysics and Astronomy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">32 Physics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL>https://aeronet.gsfc.nasa.gov/new_web/system_descriptions.html</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>African Monsoon Multidisciplinary Analysis (AMMA)</ns0:keyword>
+                    <ns0:keyword>Angstr&#246;m exponent</ns0:keyword>
+                    <ns0:keyword>Atmospheric Brown Cloud (ABC)</ns0:keyword>
+                    <ns0:keyword>Base Asia - Thailand</ns0:keyword>
+                    <ns0:keyword>CALIPSO</ns0:keyword>
+                    <ns0:keyword>CATZ</ns0:keyword>
+                    <ns0:keyword>Cimel Sun Photometer</ns0:keyword>
+                    <ns0:keyword>Distributed Regional Aerosol Gridded Observation Networks (DRAGON)</ns0:keyword>
+                    <ns0:keyword>Megacity Aerosol Experiment in Mexico City (MAX-MEX)</ns0:keyword>
+                    <ns0:keyword>Sky radiance</ns0:keyword>
+                    <ns0:keyword>TIGERZ</ns0:keyword>
+                    <ns0:keyword>TROPOS</ns0:keyword>
+                    <ns0:keyword>aerosol</ns0:keyword>
+                    <ns0:keyword>aerosol optical depth (AOD)</ns0:keyword>
+                    <ns0:keyword>calibration</ns0:keyword>
+                    <ns0:keyword>sky-photometer</ns0:keyword>
+                    <ns0:keyword>sun-photometer</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">National Aeronautics and Space Administration</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NASA</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.nasa.gov/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:027ka1x80</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.nasa.gov/about/contact/index.html</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Aeronautics and Space Administration, Goddard Space Flight Center</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NASA, Goddard Space Flight Center</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.nasa.gov/goddard</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:0171mag52</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.nasa.gov/content/contact-goddard</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Science Foundation</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NSF</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.nsf.gov/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:021nxhr62</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:SCR_012938</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_inv_1005118</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.nsf.gov/help/contact.jsp</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Photons/Aeronet Network</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="fra">PHOTONS</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="fra">PHOtom&#233;trie pour le Traitement Op&#233;rationnel de Normalisation Satellitaire</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>FRA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://loaphotons.univ-lille1.fr/photons/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>didier.tanre@univ-lille1.fr</ns0:institutionContact>
+                                    <ns0:institutionContact>photons@univ-lille1.fr</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>DATA - ACCESS and DISSEMINATION TOOLS</ns0:policyName>
+                <ns0:policyURL>https://aeronet.gsfc.nasa.gov/new_web/data.html</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>DATA - Usage and Guidelines</ns0:policyName>
+                <ns0:policyURL>https://aeronet.gsfc.nasa.gov/new_web/data_usage.html</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>NASA Web Privacy Policy and Important Notices</ns0:policyName>
+                <ns0:policyURL>https://www.nasa.gov/about/highlights/HP_Privacy.html</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Public Domain</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://aeronet.gsfc.nasa.gov/new_web/data_usage.html</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                <ns0:versioning />
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://aeronet.gsfc.nasa.gov/new_web/data_usage.html</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">FGDC/CSDGM - Federal Geographic Data Committee Content Standard for Digital Geospatial Metadata</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/fgdccsdgm-federal-geographic-data-committee-content-standard-digital-ge</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                    <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">ISO 19115</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/iso-19115</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks>collaborators: https://aeronet.gsfc.nasa.gov/new_web/collaborators.html
+Explanation "How to download data from the AERONET database":  http://www.instesre.org/Aerosols/aeronet_files/aeronet.htm
+Several off-line analysis tools have been developed by AERONET/PHOTONS to analyze AERONET data with satellite data. These tools can be accessed at the LOA software development page: http://loawww.univ-lille1.fr/informatique/index.php?lang=us</ns0:remarks>
+        <ns0:entryDate>2016-04-04</ns0:entryDate>
+        <ns0:lastUpdate>2020-07-03</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

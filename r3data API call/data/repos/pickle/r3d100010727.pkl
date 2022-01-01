@@ -1,0 +1,93 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010727</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">OPEN-ADAS</ns0:repositoryName>
+                    <ns0:additionalName language="eng">Atomic data and analysis structure</ns0:additionalName>
+                <ns0:repositoryURL>https://open.adas.ac.uk/</ns0:repositoryURL>
+                <ns0:description language="eng">The ADAS Project is a self-funding (i.e. funded by participants) project consisting of most major fusion laboratories along with other astrophysical and university groups. As an implementation, it is an interconnected set of computer codes and data collections for modelling the radiating properties of ions and atoms in plasmas.  It can address plasmas ranging from the interstellar medium through the solar atmosphere and laboratory thermonuclear fusion devices to technological plasmas. ADAS assists in the analysis and interpretation of spectral emission and supports detailed plasma models.</ns0:description>
+                    <ns0:repositoryContact>adas@adas.ac.uk</ns0:repositoryContact>
+                    <ns0:repositoryContact>https://open.adas.ac.uk/contact</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2009</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">307 Condensed Matter Physics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">308 Optics, Quantum Optics and Physics of Atoms, Molecules and Plasmas</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">309 Particles, Nuclei and Fields</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">311 Astrophysics and Astronomy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">32 Physics</ns0:subject>
+                <ns0:missionStatementURL>https://open.adas.ac.uk/about-open-adas</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Databases</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Source code</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>astrophysical plasmas</ns0:keyword>
+                    <ns0:keyword>astrophysics</ns0:keyword>
+                    <ns0:keyword>atomic physics</ns0:keyword>
+                    <ns0:keyword>fusion</ns0:keyword>
+                    <ns0:keyword>microlithography plasmas</ns0:keyword>
+                    <ns0:keyword>spectroscopy</ns0:keyword>
+                    <ns0:keyword>technical plasmas</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">International Atomic Energy Agency</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">IAEA</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>AUT</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.iaea.org/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:00gtfax65</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>ROR:02zt1gg83</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate>2009</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of Strathclyde</ns0:institutionName>
+                                <ns0:institutionCountry>GBR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.strath.ac.uk/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:00n3w3b69</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:SCR_011705</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_158336</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate>2009</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.adas.ac.uk/contact.php</ns0:institutionContact>
+                                    <ns0:institutionContact>summers@phys.strath.ac.uk</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Terms and conditions</ns0:policyName>
+                <ns0:policyURL>https://open.adas.ac.uk/terms-and-conditions</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://open.adas.ac.uk/terms-and-conditions</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                            <ns0:pidSystem>other</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://www.adas.ac.uk/faq.php</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks>The Project currently has 28 members across the world https://www.adas.ac.uk/members.php. The ADAS database is not the only part of ADAS but it is arguably the most important and certainly core to everything which ADAS does.</ns0:remarks>
+        <ns0:entryDate>2013-10-09</ns0:entryDate>
+        <ns0:lastUpdate>2021-12-20</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

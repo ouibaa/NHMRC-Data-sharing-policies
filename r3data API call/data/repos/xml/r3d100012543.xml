@@ -1,0 +1,91 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012543</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Antarctic Marine Geology Research Facility</ns0:repositoryName>
+                    <ns0:additionalName language="eng">AMGRF</ns0:additionalName>
+                <ns0:repositoryURL>http://arf.fsu.edu/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>RRID:SCR_002213</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:nlx_154735</ns0:repositoryIdentifier>
+                <ns0:description language="eng">The Antarctic Research Facility is a national repository for geological materials collected in polar regions. The Facility houses the largest such Southern Ocean collection in the world. These materials have been acquired from over 90 USAP research vessel cruises.</ns0:description>
+                    <ns0:repositoryContact>arf.fsu@gmail.com</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2018-07-04">over 20.000 meters of deep-sea core sediment and over 5.000 kg of dredge, trawl, and grab samples, nearly 3.000 meters of rotary cored geological material</ns0:size>
+        <ns0:startDate>1963</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31302 Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">315 Geophysics and Geodesy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">316 Geochemistry, Mineralogy and Crystallography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL>https://geo-prose.com/pdfs/amgrf_broch.pdf</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>antarctic  climatic history</ns0:keyword>
+                    <ns0:keyword>antarctic geologic  history</ns0:keyword>
+                    <ns0:keyword>biostratigraphy</ns0:keyword>
+                    <ns0:keyword>core samples</ns0:keyword>
+                    <ns0:keyword>marine sediments</ns0:keyword>
+                    <ns0:keyword>paleoceanography</ns0:keyword>
+                    <ns0:keyword>sedimentology</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Florida State University</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.fsu.edu/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:05g3dte14</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:SCR_011228</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_70332</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>salters@magnet.fsu.edu</ns0:institutionContact>
+                                    <ns0:institutionContact>sbp6188@fsu.edu</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Science Foundation</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NSF</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.nsf.gov/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:21nxhr62</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:SCR_012938</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_inv_1005118</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.nsf.gov/help/contact.jsp</ns0:institutionContact>
+                            </ns0:institution>
+                        <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                    <ns0:databaseLicense>
+                <ns0:databaseLicenseName>Copyrights</ns0:databaseLicenseName>
+                <ns0:databaseLicenseURL>http://www.fsu.edu/misc/copyright.shtml</ns0:databaseLicenseURL>
+            </ns0:databaseLicense>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://arf.fsu.edu/sample-requests/sample-distribution-policy/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                        <ns0:citationGuidelineURL>http://arf.fsu.edu/sample-requests/sample-distribution-policy/</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks />
+        <ns0:entryDate>2017-11-16</ns0:entryDate>
+        <ns0:lastUpdate>2021-09-06</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

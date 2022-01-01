@@ -1,0 +1,135 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010166</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">SMOKA Science Archive</ns0:repositoryName>
+                    <ns0:additionalName language="eng">SMOKA</ns0:additionalName>
+                    <ns0:additionalName language="jpn">SMOKA&#12398;&#27010;&#35201;</ns0:additionalName>
+                    <ns0:additionalName language="eng">Subaru Mitaka Okayama Kiso Archive</ns0:additionalName>
+                    <ns0:additionalName language="jpn">&#12399; &#12377;&#12400;&#12427; &#19977;&#40441; &#23713;&#23665; &#26408;&#26365; &#12450;&#12540;&#12459;&#12452;&#12502;&#12471;&#12473;&#12486;&#12512;</ns0:additionalName>
+                <ns0:repositoryURL>https://smoka.nao.ac.jp/index.jsp</ns0:repositoryURL>
+                <ns0:description language="eng">SMOKA provides public science data obtained at Subaru Telescope, 188cm telescope at Okayama Astrophysical Observatory, 105cm Schmidt telescope at Kiso Observatory (University of Tokyo), MITSuME, and KANATA Telescope at Higashi-Hiroshima Observatory. It is intended mainly for astronomical researchers.</ns0:description>
+                    <ns0:repositoryContact>https://smoka.nao.ac.jp/about/helpdesk.jsp</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2017-03-29">16.201.170 	total number of frames;  113.539,80 total size GB</ns0:size>
+        <ns0:startDate>1999-01-04</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>jpn</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">311 Astrophysics and Astronomy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">32 Physics</ns0:subject>
+                <ns0:missionStatementURL>http://smoka.nao.ac.jp/about/overview.jsp</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>astronomy</ns0:keyword>
+                    <ns0:keyword>astrophysics</ns0:keyword>
+                    <ns0:keyword>data</ns0:keyword>
+                    <ns0:keyword>image</ns0:keyword>
+                    <ns0:keyword>observatory</ns0:keyword>
+                    <ns0:keyword>telescope</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Astronomical Data Archives Center</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">ADAC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>JPN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://dbc.nao.ac.jp/index.html.en</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>1999-01-04</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://smoka.nao.ac.jp/about/helpdesk.jsp</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Hiroshima University, Hiroshima Astrophysical Science Center, Higashi-Hiroshima Observatory</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">HASC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>JPN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://hasc.hiroshima-u.ac.jp/telescope/kanatatel-e.html</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>1999-01-04</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Kiso Observatory</ns0:institutionName>
+                                <ns0:institutionCountry>JPN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.ioa.s.u-tokyo.ac.jp/kisohp/top_e.html</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>1999-01-04</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Astronomical Observatory of Japan</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NAOJ</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>JPN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.nao.ac.jp/en/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>1999-01-04</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.nao.ac.jp/en/contact/</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Astronomical Observatory of Japan, Okayama Astrophysical Observatory</ns0:institutionName>
+                                <ns0:institutionCountry>JPN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.oao.nao.ac.jp/en/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>1999-01-04</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Subaru Telescope</ns0:institutionName>
+                                <ns0:institutionCountry>JPN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://subarutelescope.org/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>1999-01-04</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Retrieval Policy</ns0:policyName>
+                <ns0:policyURL>http://smoka.nao.ac.jp/about/overview.jsp</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://smoka.nao.ac.jp/about/overview.jsp</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://dbc.nao.ac.jp/index.html.en</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                    <ns0:api apiType="FTP">http://smoka.nao.ac.jp/help/help_mail_req.jsp</ns0:api>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>http://smoka.nao.ac.jp/about/publish.jsp#acknowledgement</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks />
+        <ns0:entryDate>2012-12-12</ns0:entryDate>
+        <ns0:lastUpdate>2021-07-30</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

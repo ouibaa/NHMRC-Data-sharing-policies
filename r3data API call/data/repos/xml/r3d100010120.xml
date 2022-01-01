@@ -1,0 +1,131 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010120</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">UK Polar Data Centre</ns0:repositoryName>
+                    <ns0:additionalName language="eng">UK PDC</ns0:additionalName>
+                <ns0:repositoryURL>https://www.bas.ac.uk/data/uk-pdc/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.t43bf6</ns0:repositoryIdentifier>
+                <ns0:description language="eng">The UK Polar Data Centre (UK PDC) is the focal point for Arctic and Antarctic environmental data management in the UK. Part of the Natural Environmental Research Council&#8217;s (NERC) network of environmental data centres and based at the British Antarctic Survey, it coordinates the management of polar data from UK-funded research and supports researchers in complying with national and international data legislation and policy.</ns0:description>
+                    <ns0:repositoryContact>PDCServiceDesk@bas.ac.uk</ns0:repositoryContact>
+                    <ns0:repositoryContact>https://www.bas.ac.uk/data/uk-pdc/contacts/</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2009</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL>https://www.bas.ac.uk/about/</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Databases</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                            <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>animal</ns0:keyword>
+                    <ns0:keyword>antarctica</ns0:keyword>
+                    <ns0:keyword>arctic</ns0:keyword>
+                    <ns0:keyword>biodiversity</ns0:keyword>
+                    <ns0:keyword>climate change</ns0:keyword>
+                    <ns0:keyword>data</ns0:keyword>
+                    <ns0:keyword>invertebrate</ns0:keyword>
+                    <ns0:keyword>marine geology</ns0:keyword>
+                    <ns0:keyword>plants</ns0:keyword>
+                    <ns0:keyword>polar science</ns0:keyword>
+                    <ns0:keyword>space weather</ns0:keyword>
+                    <ns0:keyword>terrestrial geology</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">British Antarctic Survey</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">BAS</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>GBR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.bas.ac.uk</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:01rhff309</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate>2009</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>polardatacentre@bas.ac.uk</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Natural Environment Research Council</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NERC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>GBR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://nerc.ukri.org/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:02b5d8509</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:SCR_012850</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_27406</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>CoreTrustSeal assessment UK Polar Data Centre</ns0:policyName>
+                <ns0:policyURL>https://www.coretrustseal.org/wp-content/uploads/2021/03/UK-Polar-Data-Centre.pdf</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Data Policy</ns0:policyName>
+                <ns0:policyURL>https://www.bas.ac.uk/data/uk-pdc/data-policy/</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>NERC Data policy</ns0:policyName>
+                <ns0:policyURL>https://nerc.ukri.org/research/sites/data/policy/</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/licenses/by/4.0/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.bas.ac.uk/about-this-site/copyright-statement/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>OGL</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.nationalarchives.gov.uk/information-management/producing-official-publications/copyright-statements/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>Data Transfer Agreement</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>https://www.bas.ac.uk/wp-content/uploads/2019/06/Data-Transfer-Agreement.docx</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                            <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                    <ns0:api apiType="REST">https://api.bas.ac.uk/data/metadata/csw/v2/</ns0:api>
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://www.bas.ac.uk/data/uk-pdc/data-citation-and-publishing/</ns0:citationGuidelineURL>
+                    <ns0:aidSystem>ORCID</ns0:aidSystem>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                    <ns0:certificate>other</ns0:certificate>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">DataCite Metadata Schema</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/datacite-metadata-schema</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                    <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">ISO 19115</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/iso-19115</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                            <ns0:syndication syndicationType="RSS">https://www.bas.ac.uk/rss-2/</ns0:syndication>
+                <ns0:remarks>PDC is covered by Clarivate Data Citation Index. is covered by Elsevier. PDC replaces the Antarctic Environmental Data Centre (AEDC) from 1st April 2009. The PDC is based within the British Antarctic Survey (BAS) and is part of the Natural Environment Research Council (NERC) network of data centres. It is the UK&#8217;s National Antarctic Data Centre in the SCAR Standing Committee on Antarctic Data Management (SCADM).</ns0:remarks>
+        <ns0:entryDate>2012-12-05</ns0:entryDate>
+        <ns0:lastUpdate>2021-09-03</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

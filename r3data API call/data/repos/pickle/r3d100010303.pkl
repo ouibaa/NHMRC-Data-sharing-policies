@@ -1,0 +1,118 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010303</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">ISRIC - World Soil Information</ns0:repositoryName>
+                    <ns0:additionalName language="eng">WDC Soils</ns0:additionalName>
+                    <ns0:additionalName language="eng">World Data Centre for Soils</ns0:additionalName>
+                <ns0:repositoryURL>https://www.isric.org/</ns0:repositoryURL>
+                <ns0:description language="eng">ISRIC - World Soil Information is an independent foundation. As regular member of the ICS World Data System it is also known as World Data Centre for Soils (WDC-Soils). ISRIC was founded in 1966 through the International Soil Science Society (ISSS) and United Nations Educational, Scientific and Cultural Organization (UNESCO). It has a mission to serve the international community with information about the world&#8217;s soil resources to help addressing major global issues.
+Our work is organised according to four work streams: 1) Setting standards and references, 2) Soil information provision (databases &amp; soil mapping), 3) Capcaity building and advocacy, and 4) Generation of derived products.</ns0:description>
+                    <ns0:repositoryContact>niels.batjes@isric.org</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2018--07-30">10,000 (digitized) maps &amp; 17.000 reports and books (via https://www.isric.org/explore/library); digital databases &gt; 150 (via data.isric.org)</ns0:size>
+        <ns0:startDate>1966</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">207 Agriculture, Forestry, Horticulture and Veterinary Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20701 Soil Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">23 Agriculture, Forestry, Horticulture and Veterinary Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">315 Geophysics and Geodesy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31502 Geodesy, Photogrammetry, Remote Sensing, Geoinformatics, Cartogaphy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL>https://www.isric.org/about/vision-mission</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Archived data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Databases</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Networkbased data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Software applications</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>FAIR</ns0:keyword>
+                    <ns0:keyword>OGC compliant</ns0:keyword>
+                    <ns0:keyword>soil collections</ns0:keyword>
+                    <ns0:keyword>soil data</ns0:keyword>
+                    <ns0:keyword>soil mapping</ns0:keyword>
+                    <ns0:keyword>web services</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">ISRIC - World Soil Information</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">World Data Centre for Soils (WDC-Soils)</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>AAA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.isric.org</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:01z8yfp14</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate>1966</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.isric.org/form/contact</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>CoreTrustSeal assessment 2017-2019</ns0:policyName>
+                <ns0:policyURL>https://www.coretrustseal.org/wp-content/uploads/2018/07/ISRIC-WDC-Soils.pdf</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>ISRIC Data and Software Policy</ns0:policyName>
+                <ns0:policyURL>https://www.isric.online/about/data-policy</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Regular member of ICSU World Data System</ns0:policyName>
+                <ns0:policyURL>https://www.icsu-wds.org/community/membership/regular-members/@@member_view?fid=isric-wdc-soils</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/licenses/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>ODC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://opendatacommons.org/licenses/odbl/summary/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.isric.online/about/data-policy</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.isric.online/about/data-policy#principles</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>CC</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>https://creativecommons.org/licenses/</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                            <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                    <ns0:api apiType="FTP">https://files.isric.org/soilgrids/</ns0:api>
+                    <ns0:api apiType="FTP">https://files.isric.org/soilgrids/data/recent/</ns0:api>
+                    <ns0:api apiType="REST">https://rest.soilgrids.org/</ns0:api>
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://www.isric.online/about/data-policy#citation</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                    <ns0:certificate>other</ns0:certificate>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">Dublin Core</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                    <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">ISO 19115</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/iso-19115</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks>World Data Centre for Soils is covered by Thomson Reuters Data Citation Index.</ns0:remarks>
+        <ns0:entryDate>2013-05-16</ns0:entryDate>
+        <ns0:lastUpdate>2021-09-03</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

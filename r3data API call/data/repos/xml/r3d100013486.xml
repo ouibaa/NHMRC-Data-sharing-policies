@@ -1,0 +1,61 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100013486</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Coronavirus Government Response Tracker</ns0:repositoryName>
+                    <ns0:additionalName language="eng">OxCGRT</ns0:additionalName>
+                <ns0:repositoryURL>https://www.bsg.ox.ac.uk/research/research-projects/coronavirus-government-response-tracker</ns0:repositoryURL>
+                <ns0:description language="eng">The Oxford COVID-19 Government Response Tracker (OxCGRT) systematically collects information on several different common policy responses that governments have taken to respond to the pandemic on 18 indicators such as school closures and travel restrictions. It now has data from more than 180 countries.</ns0:description>
+                    <ns0:repositoryContact>enquiries@bsg.ox.ac.uk</ns0:repositoryContact>
+                    <ns0:repositoryContact>https://forms.office.com/Pages/ResponsePage.aspx?id=G96VzPWXk0-0uv5ouFLPkVSWvw_jDgZKm4LZGz53kfBUME9NOUtYRkxLVldLUVFERTRTMEJSRkZITCQlQCN0PWcu</ns0:repositoryContact>
+                            <ns0:type>institutional</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                        <ns0:missionStatementURL>https://www.bsg.ox.ac.uk/research/research-projects/coronavirus-government-response-tracker</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>COVID-19</ns0:keyword>
+                    <ns0:keyword>pandemic</ns0:keyword>
+                    <ns0:keyword>school closures</ns0:keyword>
+                    <ns0:keyword>travel restrictions</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">University of Oxford, Blavatnik School of Government</ns0:institutionName>
+                                <ns0:institutionCountry>GBR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.bsg.ox.ac.uk/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>What we do</ns0:policyName>
+                <ns0:policyURL>https://www.bsg.ox.ac.uk/about/what-we-do</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>ODC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://github.com/OxCGRT/covid-policy-tracker/tree/00095550234e09ee5befb67a20378896a293fe32/data</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                <ns0:versioning>no</ns0:versioning>
+                    <ns0:api apiType="other">https://covidtracker.bsg.ox.ac.uk/about-api</ns0:api>
+                        <ns0:citationGuidelineURL>https://covidtracker.bsg.ox.ac.uk/</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                <ns0:remarks>data hosted at: https://github.com/OxCGRT/covid-policy-tracker</ns0:remarks>
+        <ns0:entryDate>2021-01-25</ns0:entryDate>
+        <ns0:lastUpdate>2021-10-05</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

@@ -1,0 +1,125 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011303</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Population Services International Dataverse</ns0:repositoryName>
+                    <ns0:additionalName language="eng">PSI Dataverse</ns0:additionalName>
+                <ns0:repositoryURL>https://dataverse.harvard.edu/dataverse/PSI</ns0:repositoryURL>
+                <ns0:description language="eng">PSI is a global health organization dedicated to improving the health of people in the developing world by focusing on serious challenges like a lack of family planning, HIV and AIDS, barriers to maternal health, and the greatest threats to children under five, including malaria, diarrhea, pneumonia and malnutrition.
+A hallmark of PSI is a commitment to the principle that health services and products are most effective when they are accompanied by robust communications and distribution efforts that help ensure wide acceptance and proper use.
+PSI works in partnership with local governments, ministries of health and local organizations to create health solutions that are built to last. We use original data to monitor and evaluate our programs, generate consumer insight, estimate the impact of our solutions, and evaluate the health of the markets we work to strengthen.</ns0:description>
+                    <ns0:repositoryContact>info@psi.org</ns0:repositoryContact>
+                            <ns0:type>institutional</ns0:type>
+                <ns0:size updated="2018-0-12-06">62 dataverses; 853 datasets; 9013 files</ns0:size>
+        <ns0:startDate>2014</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">111 Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">12 Social and Behavioural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">205 Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20502 Public Health, Health Services Research, Social Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                <ns0:missionStatementURL>https://dataverse.harvard.edu/dataverse/PSI</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>AIDS</ns0:keyword>
+                    <ns0:keyword>HIV</ns0:keyword>
+                    <ns0:keyword>developing world</ns0:keyword>
+                    <ns0:keyword>family planning</ns0:keyword>
+                    <ns0:keyword>geographic studies</ns0:keyword>
+                    <ns0:keyword>infectious diseases</ns0:keyword>
+                    <ns0:keyword>malaria</ns0:keyword>
+                    <ns0:keyword>malnutrition</ns0:keyword>
+                    <ns0:keyword>qualitative studies</ns0:keyword>
+                    <ns0:keyword>quantitative studies</ns0:keyword>
+                    <ns0:keyword>social sciences</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Population Services International</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">PSI</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.psi.org/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:03x1cjm87</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.psi.org/search/contact/?s=contact</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">The Dataverse Project</ns0:institutionName>
+                                <ns0:institutionCountry>AAA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://dataverse.org/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>support@dataverse.org</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Community-norms</ns0:policyName>
+                <ns0:policyURL>https://dataverse.org/best-practices/dataverse-community-norms</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Data-PASS Data Deposit Agreement</ns0:policyName>
+                <ns0:policyURL>http://www.data-pass.org/sites/default/files/deposit-agreement.pdf</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Dataverse Guides</ns0:policyName>
+                <ns0:policyURL>http://guides.dataverse.org/en/latest/</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Harvard Dataverse Policies</ns0:policyName>
+                <ns0:policyURL>https://dataverse.org/best-practices/harvard-dataverse-policies</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                    <ns0:databaseLicense>
+                <ns0:databaseLicenseName>Apache License 2.0</ns0:databaseLicenseName>
+                <ns0:databaseLicenseURL>http://www.apache.org/licenses/LICENSE-2.0</ns0:databaseLicenseURL>
+            </ns0:databaseLicense>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>closed</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>institutional membership</ns0:dataAccessRestriction>
+                                    <ns0:dataAccessRestriction>other</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://dataverse.org/best-practices/harvard-dataverse-general-terms-use</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>institutional membership</ns0:dataUploadRestriction>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>User Submission Data Usage License Agreement</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>https://dataverse.org/best-practices/harvard-dataverse-general-terms-use</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                            <ns0:software>
+                <ns0:softwareName>DataVerse</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                    <ns0:api apiType="SWORD">http://guides.dataverse.org/en/latest/api/sword.html</ns0:api>
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                    <ns0:pidSystem>hdl</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://dataverse.org/best-practices/data-citation</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">DDI - Data Documentation Initiative</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/ddi-data-documentation-initiative</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks>Population Services International is covered by Thomson Reuters Data Citation Index.</ns0:remarks>
+        <ns0:entryDate>2014-11-28</ns0:entryDate>
+        <ns0:lastUpdate>2021-09-03</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

@@ -1,0 +1,84 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100013508</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">DASS-BiH</ns0:repositoryName>
+                    <ns0:additionalName language="eng">Data Archive for Social Sciences in Bosnia and Herzegovina</ns0:additionalName>
+                <ns0:repositoryURL>https://dass.credi.ba/</ns0:repositoryURL>
+                <ns0:description language="eng">DASS-BiH (Data Archive for Social Sciences in Bosnia and Herzegovina) is the national service whose role is to ensure long-term preservation and dissemination of social science research data. The purpose of the data archive is to provide a vital research data resource for researchers, teachers, students, and all other interested users.</ns0:description>
+                    <ns0:repositoryContact>https://dass.credi.ba/contact/</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                    <ns0:type>other</ns0:type>
+                <ns0:size updated="2020-02-24">18 studies</ns0:size>
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">102 History</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">107 Theology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11 Humanities</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">111 Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">112 Economics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">12 Social and Behavioural Sciences</ns0:subject>
+                <ns0:missionStatementURL>https://dass.credi.ba/about-dass-bih/</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>FAIR</ns0:keyword>
+                    <ns0:keyword>anthropology</ns0:keyword>
+                    <ns0:keyword>diaspora</ns0:keyword>
+                    <ns0:keyword>ethnicity</ns0:keyword>
+                    <ns0:keyword>gender and feminist studies</ns0:keyword>
+                    <ns0:keyword>ideology</ns0:keyword>
+                    <ns0:keyword>inequality</ns0:keyword>
+                    <ns0:keyword>nationality</ns0:keyword>
+                    <ns0:keyword>poverty</ns0:keyword>
+                    <ns0:keyword>social identity</ns0:keyword>
+                    <ns0:keyword>youth</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Centre for Development Evaluation and Social Science Research</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">CREDI</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>BIH</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://credi.ba/en/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>General Terms and Conditionsof Usein the DASS-BiH</ns0:policyName>
+                <ns0:policyURL>https://dass.credi.ba/wp-content/uploads/2020/06/General-Terms-and-Contitions-of-Use-web.pdf</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Preservation Policy</ns0:policyName>
+                <ns0:policyURL>https://dass.credi.ba/wp-content/uploads/2020/06/Preservation-policy-DASS-BiH-on-line.pdf</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>other</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://dass.credi.ba/wp-content/uploads/2020/06/General-Terms-and-Contitions-of-Use-web.pdf</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>General Procedure for Data Depositors</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>https://dass.credi.ba/general-procedure-for-data-depositors/</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                        <ns0:versioning />
+                        <ns0:citationGuidelineURL>https://dass.credi.ba/wp-content/uploads/2020/06/General-Terms-and-Contitions-of-Use-web.pdf</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks>Partner universities: https://dass.credi.ba/partner-universities/</ns0:remarks>
+        <ns0:entryDate>2021-02-22</ns0:entryDate>
+        <ns0:lastUpdate>2021-08-19</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

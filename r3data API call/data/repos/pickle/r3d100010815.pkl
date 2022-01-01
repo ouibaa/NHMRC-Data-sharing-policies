@@ -1,0 +1,91 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010815</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Mechanism and Catalytic Site Atlas</ns0:repositoryName>
+                    <ns0:additionalName language="eng">CSA (formerly)</ns0:additionalName>
+                    <ns0:additionalName language="eng">Catalytic Site Atlas (formerly)</ns0:additionalName>
+                    <ns0:additionalName language="eng">M-CSA</ns0:additionalName>
+                <ns0:repositoryURL>https://www.ebi.ac.uk/thornton-srv/m-csa/Dine26!2</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.BrubDI</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>OMICS_23276</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:SCR_013099</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:nif-0000-02699</ns0:repositoryIdentifier>
+                <ns0:description language="eng">M-CSA is a database of enzyme reaction mechanisms. It provides annotation on the protein, catalytic residues, cofactors, and the reaction mechanisms of hundreds of enzymes. There are two kinds of entries in M-CSA. 'Detailed mechanism' entries are more complete and show the individual chemical steps of the mechanism as schemes with electron flow arrows. 'Catalytic Site' entries annotate the catalytic residues necessary for the reaction, but do not show the mechanism. The M-CSA (Mechanism and Catalytic Site Atlas) represents a unified resource that combines the data in both MACiE and the CSA</ns0:description>
+                    <ns0:repositoryContact>ribeiro@ebi.ac.uk</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2017-09</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">201 Basic Biological and Medical Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20101 Biochemistry</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20107 Bioinformatics and Theoretical Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">304 Analytical Chemistry, Method Development (Chemistry)</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31 Chemistry</ns0:subject>
+                <ns0:missionStatementURL>https://www.ebi.ac.uk/thornton-srv/m-csa/about/</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>3d structure</ns0:keyword>
+                    <ns0:keyword>activation (chemistry)</ns0:keyword>
+                    <ns0:keyword>amino acids</ns0:keyword>
+                    <ns0:keyword>catalysis</ns0:keyword>
+                    <ns0:keyword>enzymes</ns0:keyword>
+                    <ns0:keyword>proteins</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">European Molecular Biology Laboratory</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">EMBL</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>EEC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.embl.org/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">European Molecular Biology Laboratory, European Bioinformatics Institute, Thornton Group</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">EMBL-EBI</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>GBR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.ebi.ac.uk/research/thornton</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Terms of use</ns0:policyName>
+                <ns0:policyURL>https://www.ebi.ac.uk/about/terms-of-use</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://creativecommons.org/licenses/by-nd/3.0/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                            <ns0:pidSystem>other</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://www.ebi.ac.uk/thornton-srv/m-csa/about/</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks />
+        <ns0:entryDate>2014-05-19</ns0:entryDate>
+        <ns0:lastUpdate>2021-09-03</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

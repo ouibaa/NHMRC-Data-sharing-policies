@@ -1,0 +1,105 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011169</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="fra">Biblioth&#232;ques Virtuelles Humanistes</ns0:repositoryName>
+                    <ns0:additionalName language="fra">BVH</ns0:additionalName>
+                    <ns0:additionalName language="eng">Humanistic Virtual Libraries</ns0:additionalName>
+                <ns0:repositoryURL>http://www.bvh.univ-tours.fr/</ns0:repositoryURL>
+                <ns0:description language="eng">The program "Humanist Virtual Libraries" distributes heritage documents and pursues research associating skills in human sciences and computer science. It aggregates several types of digital documents:
+A selection of facsimiles of Renaissance works digitized in the Central Region and in partner institutions, the Epistemon Textual Database, which offers digital editions in XML-TEI, and Transcripts or analyzes of notarial minutes and manuscripts</ns0:description>
+                    <ns0:repositoryContact>bvh@univ-tours.fr</ns0:repositoryContact>
+                    <ns0:repositoryContact>http://www.bvh.univ-tours.fr/contact.asp</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2004</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>fra</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">101 Ancient Cultures</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">104 Linguistics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">105 Literary Studies</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11 Humanities</ns0:subject>
+                <ns0:missionStatementURL>http://www.bvh.univ-tours.fr/presentation.asp</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Archived data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Databases</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>Biblioth&#232;que Andr&#233;-Desguine</ns0:keyword>
+                    <ns0:keyword>Epistemon</ns0:keyword>
+                    <ns0:keyword>Gallica</ns0:keyword>
+                    <ns0:keyword>Medic@</ns0:keyword>
+                    <ns0:keyword>iconography</ns0:keyword>
+                    <ns0:keyword>project BaTyr</ns0:keyword>
+                    <ns0:keyword>project CRII</ns0:keyword>
+                    <ns0:keyword>project FORSE</ns0:keyword>
+                    <ns0:keyword>project MONLOE</ns0:keyword>
+                    <ns0:keyword>renaissance</ns0:keyword>
+                    <ns0:keyword>transcription</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="fra">Centre d&#8217;&#201;tudes Sup&#233;rieures de la Renaissance</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="fra">CESR</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">Center for Advanced Renaissance Studies</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>FRA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://cesr.univ-tours.fr/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://cesr.univ-tours.fr/informations-pratiques/contacter-le-cesr-63949.kjsp?RH=CESR_FR</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="fra">Institut de recherche et d&#8217;histoire des textes</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="fra">IRHT</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>FRA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.irht.cnrs.fr/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.irht.cnrs.fr/?q=fr/contactez-nous</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Mentions l&#233;gales</ns0:policyName>
+                <ns0:policyURL>http://www.bvh.univ-tours.fr/mentions.asp</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/licenses/by-nc-sa/4.0/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www.bvh.univ-tours.fr/mentions.asp</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>institutional membership</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>other</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>no</ns0:versioning>
+                    <ns0:api apiType="OAI-PMH">http://www.bvh.univ-tours.fr/oai2/repositoryOAI.asp</ns0:api>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">Dublin Core</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                            <ns0:syndication syndicationType="RSS">http://www.bvh.univ-tours.fr/bvh.xml</ns0:syndication>
+                <ns0:remarks>Partners: http://www.bvh.univ-tours.fr/partenaires.asp
+Since December 2006, the electronic resources of the Humanistic Virtual Libraries program have been integrated into Gallica, a digital library of the Biblioth&#232;que nationale de France (http://gallica.bnf.fr/accueil/?mode=desktop). Conversely, the Humanist Virtual Libraries program will retrieve the records of the documents published in Gallica, Medic @ ... to build a renaissance resource portal online.</ns0:remarks>
+        <ns0:entryDate>2014-10-14</ns0:entryDate>
+        <ns0:lastUpdate>2021-09-08</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

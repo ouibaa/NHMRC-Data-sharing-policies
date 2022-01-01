@@ -1,0 +1,91 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011433</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Electron-Impact Ionization of Multicharged Ions at ORNL</ns0:repositoryName>
+                <ns0:repositoryURL>http://www.cfadc.phy.ornl.gov/xbeam/xbmintro.html</ns0:repositoryURL>
+                <ns0:description language="eng">&gt;&gt;&gt;!!!&lt;&lt;&lt; 2019-12-04: The repository is no longer available &gt;&gt;&gt;!!!&lt;&lt;&lt; 
+Presented here are experimental ionization cross sections measured using the Electron-Ion Crossed Beams apparatus in the Multicharged Ion Research Facility (MIRF) at the Physics Division of Oak Ridge National Laboratory (ORNL). The data are given in both graphical and tabular form along with the reference to the original publication of the experimental results. Also presented in the figures are theoretical cross sections supporting the experiments.</ns0:description>
+                            <ns0:type>disciplinary</ns0:type>
+                    <ns0:type>institutional</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">308 Optics, Quantum Optics and Physics of Atoms, Molecules and Plasmas</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">309 Particles, Nuclei and Fields</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">32 Physics</ns0:subject>
+                <ns0:missionStatementURL />
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>electron gun</ns0:keyword>
+                    <ns0:keyword>electron impact excitation</ns0:keyword>
+                    <ns0:keyword>experimental physics</ns0:keyword>
+                    <ns0:keyword>ion optics</ns0:keyword>
+                    <ns0:keyword>ion source</ns0:keyword>
+                    <ns0:keyword>multicharged ions</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Oak Ridge National Laboratory, Physics Division</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">ORNL</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.phy.ornl.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">U.S. Department of Energy, Office of Fusion Energy Sciences</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">FES</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://science.energy.gov/fes/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://science.energy.gov/about/contact/</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">UT-Battelle</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://ut-battelle.org/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>info@ut-battelle.org</ns0:institutionContact>
+                            </ns0:institution>
+                        <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.ornl.gov/ornl/contact-us/Security--Privacy-Notice</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>Public Domain</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.ornl.gov/ornl/contact-us/Security--Privacy-Notice</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>other</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                    <ns0:api apiType="SOAP">http://jigsaw.w3.org/css-validator/api.html</ns0:api>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                <ns0:remarks />
+        <ns0:entryDate>2015-04-07</ns0:entryDate>
+        <ns0:lastUpdate>2021-03-19</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

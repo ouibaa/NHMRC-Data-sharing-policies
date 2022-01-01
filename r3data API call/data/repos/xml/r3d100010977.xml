@@ -1,0 +1,97 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010977</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">HIstome</ns0:repositoryName>
+                    <ns0:additionalName language="eng">The Histone Infobase</ns0:additionalName>
+                <ns0:repositoryURL>http://www.actrec.gov.in/histome/index.php</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.g56qnp</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>OMICS_03500</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:SCR_006972</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:nlx_151419</ns0:repositoryIdentifier>
+                <ns0:description language="eng">HIstome: The Histone Infobase is a database of human histones, their post-translational modifications and modifying enzymes. HIstome is a combined effort of researchers from two institutions, Advanced Center for Treatment, Research and Education in Cancer (ACTREC), Navi Mumbai and Center of Excellence in Epigenetics, Indian Institute of Science Education and Research (IISER), Pune.</ns0:description>
+                    <ns0:repositoryContact>histome@iiserpune.ac.in</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2019-12-04">Informations about ~50 histone proteins and ~150 histone modifying enzymes</ns0:size>
+        <ns0:startDate>2011</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">201 Basic Biological and Medical Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20103 Cell Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20105 General Genetics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                <ns0:missionStatementURL>http://www.actrec.gov.in/histome/index.php</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Source code</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>RNA</ns0:keyword>
+                    <ns0:keyword>biology</ns0:keyword>
+                    <ns0:keyword>cancer</ns0:keyword>
+                    <ns0:keyword>cell biology</ns0:keyword>
+                    <ns0:keyword>epigenetics</ns0:keyword>
+                    <ns0:keyword>histones</ns0:keyword>
+                    <ns0:keyword>human protein</ns0:keyword>
+                    <ns0:keyword>post-translational modifications PTMs</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Indian Institute of Science Education and Research</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">IISER</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="hin">&#2349;&#2366;&#2352;&#2340;&#2368;&#2351; &#2357;&#2367;&#2332;&#2381;&#2334;&#2366;&#2344; &#2358;&#2367;&#2325;&#2381;&#2359;&#2366; &#2319;&#2357;&#2306; &#2309;&#2344;&#2369;&#2360;&#2306;&#2343;&#2366;&#2344; &#2360;&#2306;&#2360;&#2381;&#2341;&#2366;&#2344;</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>IND</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.iiserpune.ac.in/header/the-institute</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>histome@iiserpune.ac.in</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Tata Memorial Centre, Advanced Centre for Treatment, Research and Education in Cancer</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">ACTREC, TMC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>IND</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://actrec.gov.in/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://actrec.gov.in/contact-us</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Policies and Terms of Use</ns0:policyName>
+                <ns0:policyURL>https://tmc.gov.in/index.php/policies-terms-of-use</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Public Domain</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www.actrec.gov.in/histome/index.php</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>other</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>http://www.actrec.gov.in/histome/index.php</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks />
+        <ns0:entryDate>2014-09-03</ns0:entryDate>
+        <ns0:lastUpdate>2021-08-25</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

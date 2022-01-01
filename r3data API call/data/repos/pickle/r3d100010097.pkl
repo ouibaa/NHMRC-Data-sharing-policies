@@ -1,0 +1,99 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010097</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Mansfeld's World Database of Agriculture and Horticultural Crops</ns0:repositoryName>
+                    <ns0:additionalName language="deu">Mansfeld-Datenbank f&#252;r landwirtschaftliche und g&#228;rtnerische Kulturpflanzen</ns0:additionalName>
+                <ns0:repositoryURL>https://mansfeld.ipk-gatersleben.de/apex/f?p=185:3</ns0:repositoryURL>
+                <ns0:description language="eng">The Mansfeld's World Database of Agriculture and Horticultural Crops is an online database. As a contribution to the project "Federal Information System on Genetic Resources" (BIG, http://www.big-flora.de/). It reflects the contents of "Mansfeld's Encyclopedia of Agricultural and Horticultural Crops" (Hanelt and IPK 2001) and contains information on 6,100 crop plant species, excluding forestry and ornamental plants. Each species entry provides nomenclature and synonymy, common names in different languages, spontaneous distribution and regions of cultivation, uses, images, references, but also the ancestral species and notes on the phylogeny, variation and history.</ns0:description>
+                    <ns0:repositoryContact>http://mansfeld.ipk-gatersleben.de/apex/f?p=185:6:</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                    <ns0:type>institutional</ns0:type>
+                <ns0:size updated="2012-11-23">6.100 crop plant species</ns0:size>
+        <ns0:startDate>1998</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">202 Plant Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">207 Agriculture, Forestry, Horticulture and Veterinary Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20701 Soil Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20702 Plant Cultivation</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20703 Plant Nutrition</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20704 Ecology of Agricultural Landscapes</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20705 Plant Breeding</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">23 Agriculture, Forestry, Horticulture and Veterinary Medicine</ns0:subject>
+                <ns0:missionStatementURL>http://mansfeld.ipk-gatersleben.de/apex/f?p=185:18</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>agricultural crops</ns0:keyword>
+                    <ns0:keyword>horticultural crops</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="deu">BundesInformationssystem Genetische Ressourcen</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="deu">BIG</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.big-flora.de/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>1998</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Bundesministerium f&#252;r Bildung und Forschung</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="deu">BMBF</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.bmbf.de/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>1998</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Leibniz Institute of Plant Genetics and Crop Plant Research</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="deu">IPK</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="deu">Leibniz-Institut f&#252;r Pflanzengenetik und Kulturpflanzenforschung</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.ipk-gatersleben.de/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>1998</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.ipk-gatersleben.de/en/contact/address/</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Disclaimer</ns0:policyName>
+                <ns0:policyURL>http://mansfeld.ipk-gatersleben.de/apex/f?p=185:29</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                    <ns0:databaseLicense>
+                <ns0:databaseLicenseName>Copyrights</ns0:databaseLicenseName>
+                <ns0:databaseLicenseURL>http://mansfeld.ipk-gatersleben.de/apex/f?p=185:4</ns0:databaseLicenseURL>
+            </ns0:databaseLicense>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://mansfeld.ipk-gatersleben.de/apex/f?p=185:29</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                <ns0:remarks>Parallel to the book edition a database version available in the Internet is being developed. For this purpose the electronic text files of the submitted manuscripts are structured and converted into tables, so that they can be imported into a database.The information in this database is mainly based on "Hanelt, P. &amp; Institute of Plant Genetics and Crop Plant Research 2001: Mansfeld's Encyclopedia of Agricultural and Horticultural Crops", published by Springer. &#169; of the electronic version: IPK Gatersleben.</ns0:remarks>
+        <ns0:entryDate>2012-11-23</ns0:entryDate>
+        <ns0:lastUpdate>2021-09-27</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

@@ -1,0 +1,112 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010543</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Protein Lysine Modification Database</ns0:repositoryName>
+                    <ns0:additionalName language="eng">PLMD</ns0:additionalName>
+                <ns0:repositoryURL>http://plmd.biocuckoo.org/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>FAIRsharing_doi:10.25504/fairsharing.se7ewy</ns0:repositoryIdentifier>
+                <ns0:description language="eng">PLMD (Protein Lysine Modifications Database) is an online data resource specifically designed for protein lysine modifications (PLMs). The PLMD 3.0 database was extended and adapted from CPLA 1.0 (Compendium of Protein Lysine Acetylation) database  and CPLM 2.0 (Compendium of Protein Lysine Modifications) database</ns0:description>
+                    <ns0:repositoryContact>haodong_xu@hust.edu.cn</ns0:repositoryContact>
+                    <ns0:repositoryContact>http://plmd.biocuckoo.org/contact.php</ns0:repositoryContact>
+                    <ns0:repositoryContact>xueyu@hust.edu.cn</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                    <ns0:type>institutional</ns0:type>
+                <ns0:size updated="2018-08-16">284.780 modification events in 53.501 proteins for 20 types</ns0:size>
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">201 Basic Biological and Medical Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20103 Cell Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20105 General Genetics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">202 Plant Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20207 Plant Genetics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">203 Zoology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20306 Animal Genetics, Cell and Developmental Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                <ns0:missionStatementURL>http://plmd.biocuckoo.org/userguide.php</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Configuration data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Databases</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Software applications</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>protein lysine modifications</ns0:keyword>
+                    <ns0:keyword>zebrafish</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Cuckoo Workgroup</ns0:institutionName>
+                                <ns0:institutionCountry>CHN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.biocuckoo.org/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>lzx.bioinfo@gmail.com</ns0:institutionContact>
+                                    <ns0:institutionContact>xueyu@hust.edu.cn</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Huazhong University of Science and Technology, Department of Biomedical Engineering, College of Life Science and Technology</ns0:institutionName>
+                                <ns0:institutionCountry>CHN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://english.life.hust.edu.cn/index.htm</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>lzx.bioinfo@gmail.com</ns0:institutionContact>
+                                    <ns0:institutionContact>xueyu@hust.edu.cn</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of Science &amp; Technology of China, Hefei National Laboratory for Physical Sciences at the Microscale</ns0:institutionName>
+                                <ns0:institutionCountry>CHN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://en.hfnl.ustc.edu.cn/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>renjian.sysu@gmail.com</ns0:institutionContact>
+                                    <ns0:institutionContact>xueyu@mail.hust.edu.cn</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of Science &amp; Technology of China, School of Life Sciences</ns0:institutionName>
+                                <ns0:institutionCountry>CHN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://en.biox.ustc.edu.cn/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>GPS Manual</ns0:policyName>
+                <ns0:policyURL>http://gps.biocuckoo.org/download/GPS%20Manual.pdf</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                    <ns0:databaseLicense>
+                <ns0:databaseLicenseName>other</ns0:databaseLicenseName>
+                <ns0:databaseLicenseURL>http://cplm.biocuckoo.org/download.php</ns0:databaseLicenseURL>
+            </ns0:databaseLicense>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://nar.oxfordjournals.org/content/39/suppl_1/D1029.full#sec-1</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>other</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>http://plmd.biocuckoo.org/index.php</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks>CPLA is covered by Thomson Reuters Data Citation Index. 
+A description of the CPLA 1.0 database is available at https://doi.org/10.1093/nar/gkq939
+Link to CPLM: http://cplm.biocuckoo.org/index_1.php</ns0:remarks>
+        <ns0:entryDate>2013-11-11</ns0:entryDate>
+        <ns0:lastUpdate>2021-12-15</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

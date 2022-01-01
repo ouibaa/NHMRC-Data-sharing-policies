@@ -1,0 +1,92 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010333</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Roper Center for Public Opinion Research: Elections and Presidents</ns0:repositoryName>
+                <ns0:repositoryURL>https://ropercenter.cornell.edu/data-highlights/elections-and-presidents</ns0:repositoryURL>
+                <ns0:description language="eng">The Roper Center has made available its entire collection of Primary exit polls. Primary exit polls datasets include standard demographic makeup of interviewee and questions pertinent to the issues of each state.</ns0:description>
+                    <ns0:repositoryContact>https://ropercenter.cornell.edu/about-us/contact-us</ns0:repositoryContact>
+                    <ns0:repositoryContact>support@ropercenter.org</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">111 Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11104 Political Science</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">12 Social and Behavioural Sciences</ns0:subject>
+                <ns0:missionStatementURL>https://ropercenter.cornell.edu/about-center/roper-center-mission-statement</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>Congressional Elections</ns0:keyword>
+                    <ns0:keyword>National Election Day Exit Polls</ns0:keyword>
+                    <ns0:keyword>Popular Vote</ns0:keyword>
+                    <ns0:keyword>Presidential Elections</ns0:keyword>
+                    <ns0:keyword>Primary Exit Polls</ns0:keyword>
+                    <ns0:keyword>State Election Day Exit Polls</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">University of Connecticut, Roper Center</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://ropercenter.cornell.edu/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://ropercenter.cornell.edu/contact-us/</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Digital Preservation Policy</ns0:policyName>
+                <ns0:policyURL>https://ropercenter.cornell.edu/policies/digital-preservation-policy</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Privacy Policy</ns0:policyName>
+                <ns0:policyURL>https://ropercenter.cornell.edu/policies/privacy-policy</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Roper Center Data Archive Terms and Conditions</ns0:policyName>
+                <ns0:policyURL>https://ropercenter.cornell.edu/end-user-terms-and-conditions</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Roper Center Transparency and Acquisition Policy&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;&#8203;</ns0:policyName>
+                <ns0:policyURL>https://ropercenter.cornell.edu/roper-center-transparency-and-acquisitions-policy</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>feeRequired</ns0:dataAccessRestriction>
+                                    <ns0:dataAccessRestriction>institutional membership</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://ropercenter.cornell.edu/end-user-terms-and-conditions</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://ropercenter.cornell.edu/publishing-roper-center-data/how-cite</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                    <ns0:syndication syndicationType="RSS">https://ropercenter.cornell.edu/rss/rss_archiveRevisions.xml</ns0:syndication>
+                    <ns0:syndication syndicationType="RSS">https://ropercenter.cornell.edu/rss/rss_archiveUpdates.xml</ns0:syndication>
+                    <ns0:syndication syndicationType="RSS">https://ropercenter.cornell.edu/rss/rss_archiveAdditions.xml</ns0:syndication>
+                <ns0:remarks>A list of Roper Members is available at https://ropercenter.cornell.edu/membership/list-members
+The iPOLL Databank: Comprehensive resource for US public opinion; The system allows for users to sift through over 700,000 questions archived from national public opinion surveys since 1935.
+There is no connection today between the non-profit Roper Center for Public Opinion Research at Cornell University and the for-profit Roper Poll owned by GfK Group.  Public opinion pioneer Elmo Roper founded both organizations, but they are completely separate entities.</ns0:remarks>
+        <ns0:entryDate>2013-07-28</ns0:entryDate>
+        <ns0:lastUpdate>2021-07-01</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

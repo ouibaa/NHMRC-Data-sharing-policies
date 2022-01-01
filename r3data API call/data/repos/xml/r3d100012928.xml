@@ -1,0 +1,142 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012928</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">MicroScope</ns0:repositoryName>
+                    <ns0:additionalName language="eng">Microbial Genome Annotation &amp; Analysis Platform</ns0:additionalName>
+                <ns0:repositoryURL>http://www.genoscope.cns.fr/agc/microscope/home/index.php</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>FAIRsharing_DOI: 10.25504/FAIRsharing.3t5qc3</ns0:repositoryIdentifier>
+                <ns0:description language="eng">The MicroScope platform is an informatics infrastructure dedicated to the annotation and comparative analysis of microbial genomes and metagenomes.</ns0:description>
+                    <ns0:repositoryContact>mage@genoscope.cns.fr</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">201 Basic Biological and Medical Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20107 Bioinformatics and Theoretical Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                <ns0:missionStatementURL>http://www.genoscope.cns.fr/agc/microscope/about/index.php?&amp;wwwpkgdb=c76cfb2d02a51046820e7bef31dccd21</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Databases</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>MicroCyc</ns0:keyword>
+                    <ns0:keyword>PkGDB, Prokaryotic Genome Database</ns0:keyword>
+                    <ns0:keyword>bioinformatics</ns0:keyword>
+                    <ns0:keyword>comperative genomics</ns0:keyword>
+                    <ns0:keyword>expression analysis</ns0:keyword>
+                    <ns0:keyword>microbiology</ns0:keyword>
+                    <ns0:keyword>nucleid sequences</ns0:keyword>
+                    <ns0:keyword>protein -coding genes</ns0:keyword>
+                    <ns0:keyword>systems biology</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="fra">Centre national de la recherche scientifique</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="fra">CNRS</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">French National Centre for Scientific Research</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>FRA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.cnrs.fr/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:02feahw73</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:SCR_011247</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_98477</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="fra">Genopole</ns0:institutionName>
+                                <ns0:institutionCountry>FRA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://join-the-biocluster.genopole.fr/A-Business-Accelerator.html?lang=fr#.XH56xPVCeUk</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:0380k9k47</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:SCR_004333</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_35123</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="fra">Infrastructures en Biologie Sant&#233; et Agronomie</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="fra">IBISA</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>FRA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.ibisa.net/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="fra">Institut de biologie Fran&#231;ois Jacob</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Fran&#231;ois Jacob Institute of biology</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>FRA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.cea.fr/drf/ifrancoisjacob</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="fra">Laboratory of Bioinformatics Analyses for Genomics and Metabolism</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="fra">LABGeM</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="fra">Laboratoire d'Analyses Bioinformatiques pour Genomique et le Metabolisme</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>FRA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://labgem.genoscope.cns.fr/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="fra">Minist&#232;re de l&#700;Enseignement sup&#233;rieur,  de la Recherche et de l&#700;Innovation</ns0:institutionName>
+                                <ns0:institutionCountry>FRA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.enseignementsup-recherche.gouv.fr/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:03sjk9a61</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>MicroScope Charter</ns0:policyName>
+                <ns0:policyURL>http://www.genoscope.cns.fr/agc/microscope/about/microscopecharter.php</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Terms of Use</ns0:policyName>
+                <ns0:policyURL>http://www.genoscope.cns.fr/agc/microscope/about/termsofuse.php</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>restricted</ns0:databaseAccessType>
+                            <ns0:databaseAccessRestriction>registration</ns0:databaseAccessRestriction>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>feeRequired</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/licenses/by/4.0/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>institutional membership</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>http://www.genoscope.cns.fr/agc/microscope/about/microscopecharter.php</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                    <ns0:certificate>other</ns0:certificate>
+                                    <ns0:syndication syndicationType="RSS">https://microscope.readthedocs.io/en/stable/content/overview/latestnews.html</ns0:syndication>
+                <ns0:remarks />
+        <ns0:entryDate>2019-01-22</ns0:entryDate>
+        <ns0:lastUpdate>2020-07-29</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

@@ -1,0 +1,180 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012832</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Community Coordinated Modeling Center</ns0:repositoryName>
+                    <ns0:additionalName language="eng">CCMC</ns0:additionalName>
+                <ns0:repositoryURL>https://ccmc.gsfc.nasa.gov/</ns0:repositoryURL>
+                <ns0:description language="eng">The Community Coordinated Modeling Center (CCMC) is a multi-agency partnership based at the NASA Goddard Space Flight Center in Greenbelt, Maryland and a component of the National Space Weather Program. The CCMC provides, to the international research community, access to modern space science simulations. In addition, the CCMC supports the transition to space weather operations of modern space research models.</ns0:description>
+                    <ns0:repositoryContact>gsfc-ccmc-support@lists.hq.nasa.gov</ns0:repositoryContact>
+                    <ns0:repositoryContact>https://ccmc.gsfc.nasa.gov/ComQues/submitFeedback.php</ns0:repositoryContact>
+                    <ns0:repositoryContact>https://ccmc.gsfc.nasa.gov/staff/index.php</ns0:repositoryContact>
+                        <ns0:size updated="2019-12-20">over 20.000 model run results</ns0:size>
+        <ns0:startDate>1998</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">311 Astrophysics and Astronomy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31101 Astrophysics and Astronomy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31301 Atmospheric Science</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">32 Physics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL>https://ccmc.gsfc.nasa.gov/CONOPS_final.pdf</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Databases</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Source code</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>heliosphere</ns0:keyword>
+                    <ns0:keyword>ionosphere</ns0:keyword>
+                    <ns0:keyword>magnetosphere</ns0:keyword>
+                    <ns0:keyword>solar</ns0:keyword>
+                    <ns0:keyword>space science</ns0:keyword>
+                    <ns0:keyword>space weather</ns0:keyword>
+                    <ns0:keyword>thermosphere</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Air Force Materiel Command</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">AFMC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.afmc.af.mil/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>VIAF:305307839</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Air Force Research Laboratory</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">AFRL</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.afrl.hpc.mil</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:02e2egq70</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Air Force Weather Agency</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">557th Weather Wing</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL />
+                                    <ns0:institutionIdentifier>VIAF:155116235</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Aeronautics and Space Administration</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NASA</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.nasa.gov/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:027ka1x80</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Oceanic and Atmospheric Administration, Space Weather Prediction Center</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NOAA SEC</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">Space Environment Center</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.swpc.noaa.gov/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>VIAF:149320869</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Science Foundation</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NSF</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.nsf.gov/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:021nxhr62</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Office of Naval Research</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">ONR</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.onr.navy.mil/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:00rk2pe57</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:SCR_004366</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_144142</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">United States Air Force, Office of Scientific Research</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">AFOSR&#8207; &#8206;</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.wpafb.af.mil/afrl/afosr/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>VIAF:154163999</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">United States Air Force, Space and Missile Systems Center</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">USAF SMC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.losangeles.af.mil/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>VIAF:122915039</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>CCMC Publications Policy</ns0:policyName>
+                <ns0:policyURL>https://ccmc.gsfc.nasa.gov/PubPolicy.php</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Public Domain</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://ccmc.gsfc.nasa.gov/CONOPS_final.pdf</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>Data Input</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>https://ccmc.gsfc.nasa.gov/CONOPS_final.pdf</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                    <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>Rules of the Road</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>https://ccmc.gsfc.nasa.gov/submissions/CCMC_Rules.doc</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                        <ns0:versioning>yes</ns0:versioning>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://ccmc.gsfc.nasa.gov/PubPolicy.php</ns0:citationGuidelineURL>
+                    <ns0:aidSystem>none</ns0:aidSystem>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">SPASE Data Model</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/spase-data-model</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks>The two APIs present are rather for research to operations (DONKI, iSWA) rather than for main model run results, FTP access is possible upon request.</ns0:remarks>
+        <ns0:entryDate>2018-08-27</ns0:entryDate>
+        <ns0:lastUpdate>2021-06-21</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

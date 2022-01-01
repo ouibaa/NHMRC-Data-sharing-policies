@@ -1,0 +1,120 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010493</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Norwegian Centre for Research Data</ns0:repositoryName>
+                    <ns0:additionalName language="nor">NSD</ns0:additionalName>
+                    <ns0:additionalName language="nor">Norsk senter for forskningsdata</ns0:additionalName>
+                <ns0:repositoryURL>https://nsd.no/nsd/english/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.mKDii0</ns0:repositoryIdentifier>
+                <ns0:description language="eng">NSD - Norwegian Centre for Research Data is a national archive and center for research data. Our main competencies lie in curating and archiving research data (including sensitive data) in compliance with international metadata standards, such as DDI. We offer long term data preservation (&gt;10 years), data dissemination and data access management as per data owner requirements. NSD has a large professional team with competency in the field of personal data protection in research. We are committed to continuously providing researchers with modern services to easily archive, share and access data without major legal, economic or practical obstacles. NSD archives and disseminates data for both national and international research communities. NSD is the Norwegian service provider for CESSDA ERIC, and is a certified Trusted Digital Repository. NSD is responsible for archiving data from projects funded by the Norwegian Research Council, and for archiving publicly funded research data on behalf of The National Archives of Norway.</ns0:description>
+                    <ns0:repositoryContact>dataarkivering@nsd.no</ns0:repositoryContact>
+                    <ns0:repositoryContact>https://nsd.no/nsd/english/kontakt.html</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>nor</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">111 Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">12 Social and Behavioural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL>https://nsd.no/nsd/english/</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Audiovisual data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Software applications</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>international social science surveys</ns0:keyword>
+                    <ns0:keyword>national research data archive</ns0:keyword>
+                    <ns0:keyword>political system</ns0:keyword>
+                    <ns0:keyword>qualitative social sciences</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Norwegian Centre for Research Data</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NSD</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="nor">Norsk senter for forskningsdata</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>NOR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.nsd.uib.no/nsd/english/index.html</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:04y3kre43</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.nsd.uib.no/nsd/english/kontakt.html</ns0:institutionContact>
+                                    <ns0:institutionContact>nsd@nsd.uib.no</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Research Council of Norway</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="nno">Forskningsradet</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>NOR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.forskningsradet.no/en/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:00epmv149</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Personal data protection</ns0:policyName>
+                <ns0:policyURL>https://www.forskningsradet.no/en/footer/Personal-data-protection-privacy-statement/</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Procedures for accessing NSDs data</ns0:policyName>
+                <ns0:policyURL>http://www.nsd.uib.no/nsddata/utlaansrutiner_en.html</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>restricted</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>closed</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>embargoed</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>other</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www.nsd.uib.no/nsd/english/order.html</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>Nesstar</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                    <ns0:certificate>other</ns0:certificate>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">DDI - Data Documentation Initiative</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/ddi-data-documentation-initiative</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                            <ns0:syndication syndicationType="RSS">http://www.nsd.uib.no/rss/nsd</ns0:syndication>
+                <ns0:remarks>CLARIN Knowledge Centre for Data Management at NSD. NSD is part of a broad international network of international organisations and through its commitments to a wide range of projects aiming at building a resource base for comparative quantitative research.
+NSD is a member of the following international organisations:
+Council of European Social Science Data Archives (CESSDA ERIC) 
+International Federation of Data Organisations for the Social Sciences (IFDO)
+Inter-university Consortium for Political and Social Research (ICPSR) 
+Luxembourg Income Study (LIS) 
+International Social Survey Programme (ISSP)
+Data Documentation Initiative (DDI Alliance)</ns0:remarks>
+        <ns0:entryDate>2013-08-23</ns0:entryDate>
+        <ns0:lastUpdate>2021-06-21</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

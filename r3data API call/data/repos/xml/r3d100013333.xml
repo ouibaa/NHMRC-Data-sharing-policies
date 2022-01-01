@@ -1,0 +1,132 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100013333</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">BIRD</ns0:repositoryName>
+                    <ns0:additionalName language="nor">lagre og dele forskningsdata</ns0:additionalName>
+                    <ns0:additionalName language="eng">store and share research data</ns0:additionalName>
+                <ns0:repositoryURL>https://bird.unit.no/</ns0:repositoryURL>
+                <ns0:description language="eng">BIRD is a digital service that collects, preserves, and distributes digital material. Repositories are important tools for preserving an organization's legacy; they facilitate digital preservation and scholarly communication.</ns0:description>
+                    <ns0:repositoryContact>birdsupport@unit.no</ns0:repositoryContact>
+                            <ns0:type>institutional</ns0:type>
+                    <ns0:type>other</ns0:type>
+                <ns0:size updated="2020-05-11">52 public resources</ns0:size>
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>nor</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">4 Engineering Sciences</ns0:subject>
+                <ns0:missionStatementURL>https://bird.unit.no/about/bird</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Archived data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Audiovisual data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Source code</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>multidisciplinary</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">BI Norwegian Business School</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="nor">Handelsh&#248;yskolen BI</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>NOR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.bi.edu/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:03ez40v33</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Norwegian Directorate&#8203; for ICT and Joint Services &#8203;in Higher Education and Research&#8203;&#8203;</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="nor">IKT og fellestjenester i h&#248;yere utdanning og forskning</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">UNIT</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>NOR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.unit.no/en/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>Wikidata:Q55097783</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Norwegian Institute of Bioeconomy Research</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NIBIO</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="nor">Norsk institutt for bio&#248;konomi</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>NOR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.nibio.no/en</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:04aah1z61</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Norwegian University of Science and Technology</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NTNU</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="nno">Noregs teknisk-naturvitskaplege universitet</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="nob">Norges teknisk-naturvitenskapelige universitet</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>NOR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.ntnu.edu</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:059dkdx38</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>research-data@ntnu.no</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Norwegian Veterinary Institute</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NVI</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="nor">Veterin&#230;rinstituttet</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>NOR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.vetinst.no/eng</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:05m6y3182</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Privacy statement for Bird: The service in brief</ns0:policyName>
+                <ns0:policyURL>https://www.unit.no/sites/default/files/media/filer/2019/08/Personvernerkl%C3%A6ring-Bird_en.pdf</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Versioning ; Landing page</ns0:policyName>
+                <ns0:policyURL>https://bird.unit.no/information/faq</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>institutional membership</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>institutional membership</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                <ns0:versioning>yes</ns0:versioning>
+                    <ns0:api apiType="other">https://hdl.handle.net/11250/2607898</ns0:api>
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                    <ns0:pidSystem>hdl</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks />
+        <ns0:entryDate>2020-05-07</ns0:entryDate>
+        <ns0:lastUpdate>2021-08-24</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

@@ -1,0 +1,139 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012463</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">ADS</ns0:repositoryName>
+                    <ns0:additionalName language="eng">Arctic Data archive System</ns0:additionalName>
+                <ns0:repositoryURL>https://ads.nipr.ac.jp/portal/index.action</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.WDGf1A</ns0:repositoryIdentifier>
+                <ns0:description language="eng">The arctic data archive system (ADS) collects observation data and modeling&#12288;products obtained by various Japanese research projects and gives researchers to access the results. By centrally managing a wide variety of Arctic observation data, we promote the use of data across multiple disciplines. Researchers use these integrated databases to clarify the mechanisms of environmental change in the atmosphere, ocean, land-surface and cryosphere. That ADS will be provide an opportunity of collaboration between modelers and field scientists, can be expected.</ns0:description>
+                    <ns0:repositoryContact>ads-info@nipr.ac.jp</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>jpn</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">23 Agriculture, Forestry, Horticulture and Veterinary Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">314 Geology and Palaeontology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">315 Geophysics and Geodesy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31502 Geodesy, Photogrammetry, Remote Sensing, Geoinformatics, Cartogaphy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">316 Geochemistry, Mineralogy and Crystallography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">317 Geography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">318 Water Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">4 Engineering Sciences</ns0:subject>
+                <ns0:missionStatementURL>https://ads.nipr.ac.jp/portal/index.action</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Archived data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Databases</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Networkbased data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>agricultuer</ns0:keyword>
+                    <ns0:keyword>antarctic</ns0:keyword>
+                    <ns0:keyword>arctic</ns0:keyword>
+                    <ns0:keyword>climate</ns0:keyword>
+                    <ns0:keyword>climatology</ns0:keyword>
+                    <ns0:keyword>ecosystem</ns0:keyword>
+                    <ns0:keyword>forestry</ns0:keyword>
+                    <ns0:keyword>geography</ns0:keyword>
+                    <ns0:keyword>hydrology</ns0:keyword>
+                    <ns0:keyword>in-situ data</ns0:keyword>
+                    <ns0:keyword>meteorology</ns0:keyword>
+                    <ns0:keyword>model output</ns0:keyword>
+                    <ns0:keyword>oceanography</ns0:keyword>
+                    <ns0:keyword>remote sensing</ns0:keyword>
+                    <ns0:keyword>water</ns0:keyword>
+                    <ns0:keyword>weather</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Ministry of Education, Culture, Sports, Science and Technology</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">MEXT</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>JPN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.mext.go.jp/en/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:048rj2z13</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Institute of Polar Research</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NIPR</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="jpn">&#22269;&#31435;&#26997;&#22320;&#30740;&#31350;&#25152;</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>JPN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.nipr.ac.jp/english/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:05k6m5t95</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>ADS Privacy Policy</ns0:policyName>
+                <ns0:policyURL>https://ads.nipr.ac.jp/portal/public/pdf/PrivacyPolicy.pdf</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Arctic Data archive System Data Policy</ns0:policyName>
+                <ns0:policyURL>https://ads.nipr.ac.jp/portal/public/pdf/aboutus/ADSDataPolicy_en.pdf</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>GRENE Data Guidelines</ns0:policyName>
+                <ns0:policyURL>https://ads.nipr.ac.jp/portal/public/pdf/aboutus/GRENEArcticProjectFinal_en.pdf</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                    <ns0:databaseLicense>
+                <ns0:databaseLicenseName>Copyrights</ns0:databaseLicenseName>
+                <ns0:databaseLicenseURL>https://ads.nipr.ac.jp/portal/public/pdf/aboutus/ADSDataPolicy_en.pdf</ns0:databaseLicenseURL>
+            </ns0:databaseLicense>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>embargoed</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>institutional membership</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>institutional membership</ns0:dataUploadRestriction>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                <ns0:versioning>yes</ns0:versioning>
+                    <ns0:api apiType="OAI-PMH">https://ads.nipr.ac.jp/portal/kiwa/OaiReference.action</ns0:api>
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://ads.nipr.ac.jp/portal/public/pdf/aboutus/ADSDataPolicy_en.pdf</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>no</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">DIF - Directory Interchange Format</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dif-directory-interchange-format</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                    <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">ISO 19115</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/iso-19115</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                    <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">Repository-Developed Metadata Schemas</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/repository-developed-metadata-schemas</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks />
+        <ns0:entryDate>2017-09-07</ns0:entryDate>
+        <ns0:lastUpdate>2021-09-08</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

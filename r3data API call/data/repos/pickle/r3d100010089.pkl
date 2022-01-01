@@ -1,0 +1,134 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010089</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">NASA/IPAC InfraRed Science Archive</ns0:repositoryName>
+                    <ns0:additionalName language="eng">IRSA</ns0:additionalName>
+                <ns0:repositoryURL>https://irsa.ipac.caltech.edu/frontpage/</ns0:repositoryURL>
+                <ns0:description language="eng">IRSA is chartered to curate the calibrated science products from NASAs infrared and sub-millimeter missions, including five major large-area/all-sky surveys. IRSA exploits a re-useable architecture to deploy cost-effective archives for customers, including: the Spitzer Space Telescope; the 2MASS and IRAS all-sky surveys; and multi-mission datasets such as COSMOS, WISE and Planck mission</ns0:description>
+                    <ns0:repositoryContact>https://irsasupport.ipac.caltech.edu/</ns0:repositoryContact>
+                    <ns0:repositoryContact>irsasupport@ipac.caltech.edu</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                    <ns0:type>institutional</ns0:type>
+                <ns0:size updated="2019-05-15">all-sky surveys in 20 bands; 88 billion rows of catalog data; 100 million images; and over 100,000 spectra.</ns0:size>
+        <ns0:startDate>1986</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">311 Astrophysics and Astronomy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31101 Astrophysics and Astronomy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">32 Physics</ns0:subject>
+                <ns0:missionStatementURL>https://irsa.ipac.caltech.edu/charter.html</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>2MASS</ns0:keyword>
+                    <ns0:keyword>AKARI</ns0:keyword>
+                    <ns0:keyword>BLAST</ns0:keyword>
+                    <ns0:keyword>BOLOCAM</ns0:keyword>
+                    <ns0:keyword>COSMOS</ns0:keyword>
+                    <ns0:keyword>DENIS</ns0:keyword>
+                    <ns0:keyword>Herschel</ns0:keyword>
+                    <ns0:keyword>IRAS</ns0:keyword>
+                    <ns0:keyword>IRTS</ns0:keyword>
+                    <ns0:keyword>ISO</ns0:keyword>
+                    <ns0:keyword>MSX</ns0:keyword>
+                    <ns0:keyword>PPXML</ns0:keyword>
+                    <ns0:keyword>Planck</ns0:keyword>
+                    <ns0:keyword>SDSS</ns0:keyword>
+                    <ns0:keyword>SWAS</ns0:keyword>
+                    <ns0:keyword>Spitzer Space Telescope</ns0:keyword>
+                    <ns0:keyword>USNO</ns0:keyword>
+                    <ns0:keyword>WISE</ns0:keyword>
+                    <ns0:keyword>infrared missions</ns0:keyword>
+                    <ns0:keyword>mapping</ns0:keyword>
+                    <ns0:keyword>satellite missions</ns0:keyword>
+                    <ns0:keyword>sub-millimeter missions</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">California Institute of Technology</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">CALTECH</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.caltech.edu/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>1986</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Infrared Processing and Analysis Center, Science and Data Center for Infrared Astronomy</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">IPAC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.ipac.caltech.edu/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>1986</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://irsasupport.ipac.caltech.edu/</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Jet Propulsion Laboratory</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">JPL</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.jpl.nasa.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>1986</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Aeronautics and Space Administration</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NASA</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.nasa.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>1986</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>NASA web privacy Policy and Important Notices</ns0:policyName>
+                <ns0:policyURL>https://www.nasa.gov/offices/ogc/about/disclaimer.html</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.jpl.nasa.gov/privacy/#copyright</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>Public Domain</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.nasa.gov/offices/ogc/about/disclaimer.html</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>IRSA Data Validation Tool</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>https://irsa.ipac.caltech.edu/irsa-dataQA.html</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                            <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                    <ns0:api apiType="other">http://irsa.ipac.caltech.edu/voapi.html</ns0:api>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://irsa.ipac.caltech.edu/ack.html</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks>NASA/IPAC Infrared Science Archive is covered by Thomson Reuters Data Citation Index.  IRSA is part of the Infrared Processing and Analysis Center (IPAC)</ns0:remarks>
+        <ns0:entryDate>2012-10-02</ns0:entryDate>
+        <ns0:lastUpdate>2021-09-27</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

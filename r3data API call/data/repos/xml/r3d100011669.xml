@@ -1,0 +1,90 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011669</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Illinois State Water Survey</ns0:repositoryName>
+                    <ns0:additionalName language="eng">ISWS</ns0:additionalName>
+                <ns0:repositoryURL>https://www.isws.illinois.edu/</ns0:repositoryURL>
+                <ns0:description language="eng">The Water Survey has flourished for more than a century by anticipating and responding to new challenges and opportunities to serve the citizens of Illinois. Today, the ISWS continues to demonstrate flexibility and adaptability by developing new programs, while continuing to provide long-standing services upon which Illinoisans have come to rely. The Scientific Surveys of the University of Illinois at Urbana-Champaign are the primary agencies in Illinois responsible for producing and disseminating scientific and technological information, services, and products related to the environment, economic development, and quality of life. To achieve this mission, the Scientific Surveys conduct state-of-the-art research and collect, analyze, archive, and disseminate high-quality, objective data and technical information. The information, services, and products provide a sound technical basis for the citizens and policymakers of Illinois and the nation to make wise social, economic, and environmental decisions.</ns0:description>
+                    <ns0:repositoryContact>https://www.isws.illinois.edu/contact</ns0:repositoryContact>
+                    <ns0:repositoryContact>web@prairie.illinois.edu</ns0:repositoryContact>
+                            <ns0:type>institutional</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2008</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">23 Agriculture, Forestry, Horticulture and Veterinary Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">318 Water Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL>http://www.prairie.illinois.edu/about-inrs.shtml</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Archived data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>agriculture</ns0:keyword>
+                    <ns0:keyword>air chemistry</ns0:keyword>
+                    <ns0:keyword>air quality</ns0:keyword>
+                    <ns0:keyword>atmospheric chemical deposition</ns0:keyword>
+                    <ns0:keyword>climatology</ns0:keyword>
+                    <ns0:keyword>foodplain</ns0:keyword>
+                    <ns0:keyword>groundwater</ns0:keyword>
+                    <ns0:keyword>measuring rain</ns0:keyword>
+                    <ns0:keyword>meteorology</ns0:keyword>
+                    <ns0:keyword>storm</ns0:keyword>
+                    <ns0:keyword>water chemistry</ns0:keyword>
+                    <ns0:keyword>water quality</ns0:keyword>
+                    <ns0:keyword>water supply planning</ns0:keyword>
+                    <ns0:keyword>weather</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">University of Illinois at Urbanan-Champaign, Prairie Research Institute</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://prairie.illinois.edu/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>prairie@illinois.edu</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Data Use License Agreement</ns0:policyName>
+                <ns0:policyURL>https://www.isws.illinois.edu/dat/data-disclaimer/data-use-agreement</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Terms of Use</ns0:policyName>
+                <ns0:policyURL>https://www.isws.illinois.edu/terms-of-use</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.isws.illinois.edu/terms-of-use</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>Illinois Water Inventory Program</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>https://www.isws.illinois.edu/groundwater-science/illinois-water-inventory-program</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                        <ns0:versioning />
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://www.isws.illinois.edu/terms-of-use</ns0:citationGuidelineURL>
+                    <ns0:aidSystem>none</ns0:aidSystem>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks>The Illinois State Water Survey (ISWS) is a Division of the Prairie Research Institute of the University of Illinois at Urbana-Champaign (U of I). 
+In 2013 the Illinois State Water Survey restructured in order to focus on critical research issues that are important to the state of Illinois. The new organizational structure of the Water Survey includes seven sections (Climate and Atmospheric Science, Chemistry and Technology, Groundwater Science, Water Quality, Surface Water Hydrology and Hydraulics, Coordinated Hazard Assessment and Mapping Program (CHAMP), and Water Resources Data and Information), and one national program (National Atmospheric Deposition Program), together with central administration and management functions conducted in the Office of the Director. In addition to its traditional strengths, the Water Survey is enhancing its monitoring, analytical, and mathematical modeling capabilities to address issues with greater efficiency and productivity.</ns0:remarks>
+        <ns0:entryDate>2015-11-02</ns0:entryDate>
+        <ns0:lastUpdate>2021-10-18</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

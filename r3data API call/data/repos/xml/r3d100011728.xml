@@ -1,0 +1,150 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011728</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">European Union Open Data Portal</ns0:repositoryName>
+                    <ns0:additionalName language="eng">EU ODP</ns0:additionalName>
+                    <ns0:additionalName language="eng">EU Open Data Portal</ns0:additionalName>
+                <ns0:repositoryURL>https://data.europa.eu/euodp/en/data</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>ISSN 2315-3091</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>biodbcore-001451</ns0:repositoryIdentifier>
+                <ns0:description language="eng">The European Union Open Data Portal is the single point of access to a growing range of data from the institutions and other bodies of the European Union (EU). Data are free for you to use and reuse for commercial or non-commercial purposes.
+By providing easy and free access to data, the portal aims to promote their innovative use and unleash their economic potential. It also aims to help foster the transparency and the accountability of the institutions and other bodies of the EU.
+The EU Open Data Portal is managed by the Publications Office of the European Union. Implementation of the EU's open data policy is the responsibility of the Directorate-General for Communications Networks, Content and Technology of the European Commission.</ns0:description>
+                    <ns0:repositoryContact>https://data.europa.eu/de/feedback/form</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2020-05-06">14.528 datasets</ns0:size>
+        <ns0:startDate>2012-12</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>bul</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>ces</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>dan</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>deu</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>ell</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>est</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>fin</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>fra</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>gle</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>hrv</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>hun</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>ita</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>lav</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>lit</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>mlt</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>nld</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>pol</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>por</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>ron</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>slk</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>slv</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>spa</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>swe</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">4 Engineering Sciences</ns0:subject>
+                <ns0:missionStatementURL>https://data.europa.eu/euodp/en/about</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Software applications</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>COVID-19</ns0:keyword>
+                    <ns0:keyword>European Union</ns0:keyword>
+                    <ns0:keyword>agriculture</ns0:keyword>
+                    <ns0:keyword>business</ns0:keyword>
+                    <ns0:keyword>communication</ns0:keyword>
+                    <ns0:keyword>economics</ns0:keyword>
+                    <ns0:keyword>education and communications</ns0:keyword>
+                    <ns0:keyword>employment</ns0:keyword>
+                    <ns0:keyword>energy</ns0:keyword>
+                    <ns0:keyword>environment</ns0:keyword>
+                    <ns0:keyword>finance</ns0:keyword>
+                    <ns0:keyword>fisheries</ns0:keyword>
+                    <ns0:keyword>forestry</ns0:keyword>
+                    <ns0:keyword>geography</ns0:keyword>
+                    <ns0:keyword>industry</ns0:keyword>
+                    <ns0:keyword>law</ns0:keyword>
+                    <ns0:keyword>politics</ns0:keyword>
+                    <ns0:keyword>production</ns0:keyword>
+                    <ns0:keyword>research</ns0:keyword>
+                    <ns0:keyword>science</ns0:keyword>
+                    <ns0:keyword>social questions</ns0:keyword>
+                    <ns0:keyword>statistics</ns0:keyword>
+                    <ns0:keyword>surveys</ns0:keyword>
+                    <ns0:keyword>technology</ns0:keyword>
+                    <ns0:keyword>trade</ns0:keyword>
+                    <ns0:keyword>transport</ns0:keyword>
+                    <ns0:keyword>transport</ns0:keyword>
+                    <ns0:keyword>youth population</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">European Union</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="deu">Europ&#228;ische Union</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>EEC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://europa.eu/european-union/index_en</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:019w4f821</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:SCR_011219</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_67420</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://europa.eu/european-union/contact_en</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Disclaimer</ns0:policyName>
+                <ns0:policyURL>https://ec.europa.eu/info/legal-notice_en</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Public Domain</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://ec.europa.eu/info/legal-notice_en</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L:2011:330:0039:0042:EN:PDF</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:02003L0098-20130717</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>CKAN</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                    <ns0:api apiType="REST">https://data.europa.eu/euodp/data/api</ns0:api>
+                    <ns0:api apiType="SPARQL">https://data.europa.eu/euodp/sparqlep</ns0:api>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                    <ns0:aidSystem>none</ns0:aidSystem>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">DCAT - Data Catalog Vocabulary</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dcat-data-catalog-vocabulary</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                    <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">Dublin Core</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                            <ns0:syndication syndicationType="ATOM">https://data.europa.eu/euodp/en/data/feeds/custom.atom?</ns0:syndication>
+                <ns0:remarks />
+        <ns0:entryDate>2016-03-07</ns0:entryDate>
+        <ns0:lastUpdate>2021-11-17</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

@@ -1,0 +1,83 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010813</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Wharton Research Data Services</ns0:repositoryName>
+                    <ns0:additionalName language="eng">WRDS</ns0:additionalName>
+                <ns0:repositoryURL>https://wrds-web.wharton.upenn.edu/wrds/</ns0:repositoryURL>
+                <ns0:description language="eng">Wharton Research Data Services (WRDS) is a web-based business data research service from The Wharton School at the University of Pennsylvania. Developed in 1993 to support faculty research at Wharton, the service has evolved to become a common tool for research for over 290 institutions around the world. WRDS is the de facto standard for business data, providing researchers worldwide with instant access to financial, economic, and marketing data through a uniform, web-based interface. This hosted data service has become the locus for quantitative data research and is recognized by the academic and financial research community around the world as the leading business intelligence tool. WRDS provides access to COMPUSTAT, CRSP, IBES, NYSE-TAQ, Bureau van Dijk, Global Insight, OptionMetrics and other important business research databases.</ns0:description>
+                    <ns0:repositoryContact>https://www.facebook.com/Wharton-Research-Data-Services-WRDS-97638911013/</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>1993</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">112 Economics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11205 Statistics and Econometrics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">12 Social and Behavioural Sciences</ns0:subject>
+                <ns0:missionStatementURL>https://wrds-www.wharton.upenn.edu/pages/about/?_ga=2.103243849.894001953.1503909743-863245952.1503909743</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>Accounting</ns0:keyword>
+                    <ns0:keyword>Banking</ns0:keyword>
+                    <ns0:keyword>Economics</ns0:keyword>
+                    <ns0:keyword>Finance</ns0:keyword>
+                    <ns0:keyword>Marketing</ns0:keyword>
+                    <ns0:keyword>Statistics</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">University of Pennsylvania, The Wharton School</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>commercial</ns0:institutionType>
+                <ns0:institutionURL>https://www.wharton.upenn.edu/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>1993</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>communications@wharton.upenn.edu</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>WRDS Terms of Use</ns0:policyName>
+                <ns0:policyURL>https://wrds-web.wharton.upenn.edu/wrds/about/terms.cfm?</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                    <ns0:databaseLicense>
+                <ns0:databaseLicenseName>other</ns0:databaseLicenseName>
+                <ns0:databaseLicenseURL>https://wrds-web.wharton.upenn.edu/wrds/about/terms.cfm?</ns0:databaseLicenseURL>
+            </ns0:databaseLicense>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>feeRequired</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://wrds-web.wharton.upenn.edu/wrds/about/terms.cfm?</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://wrds-web.wharton.upenn.edu/wrds/about/terms.cfm?</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks />
+        <ns0:entryDate>2014-07-25</ns0:entryDate>
+        <ns0:lastUpdate>2018-12-19</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

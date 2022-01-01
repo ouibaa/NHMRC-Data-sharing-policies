@@ -1,0 +1,95 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010845</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Census of Agriculture</ns0:repositoryName>
+                    <ns0:additionalName language="eng">United States Department of Agriculture Census of Agriculture</ns0:additionalName>
+                <ns0:repositoryURL>https://www.nass.usda.gov/AgCensus/</ns0:repositoryURL>
+                <ns0:description language="eng">The Census of Agriculture provides extensive data about U.S. agriculture at the country, state and county level.  The census is conducted every 5 years, and it gathers uniform, detailed data about U.S. farms and ranches and their operators.  Data from recent censuses are available in different formats, but historical censuses (back to 1840) are available in pdf format.</ns0:description>
+                    <ns0:repositoryContact>nass@nass.usda.gov</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                    <ns0:type>other</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2007</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">207 Agriculture, Forestry, Horticulture and Veterinary Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20704 Ecology of Agricultural Landscapes</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20708 Agricultural Economics and Sociology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">23 Agriculture, Forestry, Horticulture and Veterinary Medicine</ns0:subject>
+                <ns0:missionStatementURL>https://www.nass.usda.gov/About_NASS/Mission_Statement/index.php</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>census data</ns0:keyword>
+                    <ns0:keyword>statistics</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">U.S. General Services Administration, Data.gov</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.data.gov/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>RRID:SCR_004712</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_70953</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">United States Department of Agriculture, Economics, Statistics, and Market Information System</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">USDA, ESMIS</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://usda.library.cornell.edu/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">United States Department of Agriculture, National Agricultural Statistics Service</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">USDA, NASS</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.nass.usda.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.agcensus.usda.gov/Contact_Us/</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Policies and Links</ns0:policyName>
+                <ns0:policyURL>https://www.usda.gov/policies-and-links</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.usda.gov/policies-and-links</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>Public Domain</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.usda.gov/policies-and-links</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>no</ns0:versioning>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>no</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                    <ns0:syndication syndicationType="RSS">https://www.nass.usda.gov/rss/census.xml</ns0:syndication>
+                    <ns0:syndication syndicationType="RSS">https://www.nass.usda.gov/rss/asb.xml</ns0:syndication>
+                <ns0:remarks />
+        <ns0:entryDate>2014-08-07</ns0:entryDate>
+        <ns0:lastUpdate>2018-12-12</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

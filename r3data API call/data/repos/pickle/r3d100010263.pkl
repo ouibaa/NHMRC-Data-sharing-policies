@@ -1,0 +1,135 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010263</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Substance Abuse and Mental Health Data Archive</ns0:repositoryName>
+                    <ns0:additionalName language="eng">SAMHDA</ns0:additionalName>
+                <ns0:repositoryURL>https://www.datafiles.samhsa.gov/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>RRID:SCR_007002</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:nif-0000-00618</ns0:repositoryIdentifier>
+                <ns0:description language="eng">The Substance Abuse and Mental Health Data Archive (SAMHDA) is an initiative funded under contract HHSS283201500001C with the Center for Behavioral Health Statistics and Quality (CBHSQ), Substance Abuse and Mental Health Services Administration (SAMHSA), U.S. Department of Health and Human Services (HHS). CBHSQ has primary responsibility for the collection, analysis, and dissemination of SAMHSA's behavioral health data. Public use files and restricted use files are provided.
+CBHSQ promotes the access and use of the nation's substance abuse and mental health data through SAMHDA. SAMHDA provides public-use data files, file documentation, and access to restricted-use data files to support a better understanding of this critical area of public health.</ns0:description>
+                    <ns0:repositoryContact>cbhsqrequest@samhsa.hhs.gov</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2015</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">205 Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20502 Public Health, Health Services Research, Social Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">206 Neurosciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20604 Systemic Neuroscience, Computational Neuroscience, Behaviour</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                <ns0:missionStatementURL>https://www.datafiles.samhsa.gov/info/about-samhda-project-nid14</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Networkbased data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Software applications</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>DAWN</ns0:keyword>
+                    <ns0:keyword>N-MHSS</ns0:keyword>
+                    <ns0:keyword>N-SSATS</ns0:keyword>
+                    <ns0:keyword>NONSRS</ns0:keyword>
+                    <ns0:keyword>NSDUH</ns0:keyword>
+                    <ns0:keyword>TEDS-A</ns0:keyword>
+                    <ns0:keyword>TEDS-D</ns0:keyword>
+                    <ns0:keyword>aids / HIV</ns0:keyword>
+                    <ns0:keyword>alcohol</ns0:keyword>
+                    <ns0:keyword>drugs</ns0:keyword>
+                    <ns0:keyword>health</ns0:keyword>
+                    <ns0:keyword>mental illnesses</ns0:keyword>
+                    <ns0:keyword>prevention</ns0:keyword>
+                    <ns0:keyword>program</ns0:keyword>
+                    <ns0:keyword>rehabilitative services</ns0:keyword>
+                    <ns0:keyword>substance abuse</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Inter-university Consortium for Political and Social Research</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">ICPSR</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.icpsr.umich.edu/icpsrweb/index.jsp</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate>2015</ns0:responsibilityEndDate>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Substance Abuse &amp; Mental Health Services Administration</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">SAMHSA</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.samhsa.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>Neil.Russell@samhsa.gov</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Substance Abuse &amp; Mental Health Services Administration, Center for Behavioral Health Statistics and Quality</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">CBHSQ</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.samhsa.gov/about-us/who-we-are/offices-centers/cbhsq</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">U.S. Department of Health &amp; Human Services</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.hhs.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Certificate of Confidentiality</ns0:policyName>
+                <ns0:policyURL>https://www.samhsa.gov/grants/gpra-measurement-tools/certificate-confidentiality</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Statement of commitment</ns0:policyName>
+                <ns0:policyURL>https://datafiles.samhsa.gov/info/statement-commitment-nid3421</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Terms of Use</ns0:policyName>
+                <ns0:policyURL>https://datafiles.samhsa.gov/info/terms-use-nid3422</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>other</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://datafiles.samhsa.gov/info/terms-use-nid3422</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>institutional membership</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                        <ns0:citationGuidelineURL>https://datafiles.samhsa.gov/info/terms-use-nid3422</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">DDI - Data Documentation Initiative</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/ddi-data-documentation-initiative</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                            <ns0:syndication syndicationType="RSS">http://www.samhsa.gov/rss/</ns0:syndication>
+                <ns0:remarks>SAHMDA was one of the core partners of Inter-University Consortium for Political and Social Research (ICPSR)re3data100010255 . As of August 21, 2015 SAMHSA contracted with a different vendor to distribute NSDUH, DAWN, and other SAMHDA restricted-use data.  Questions about SAMHSA restricted-use data should be sent to samhda-support@samhsa.hhs.gov. ICPSR will continue to distribute public-use files created by the SAMHDA project. Users interested in substance abuse data are encouraged to search the ICPSR catalog and to visit the National Addiction &amp; HIV Data Archive Program. See http://www.icpsr.umich.edu/icpsrweb/SAMHDA/</ns0:remarks>
+        <ns0:entryDate>2013-04-24</ns0:entryDate>
+        <ns0:lastUpdate>2021-08-25</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

@@ -1,0 +1,111 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012037</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">North American Breeding Bird Survey</ns0:repositoryName>
+                    <ns0:additionalName language="eng">BBS</ns0:additionalName>
+                    <ns0:additionalName language="eng">NABBS</ns0:additionalName>
+                <ns0:repositoryURL>https://www.pwrc.usgs.gov/bbs/index.cfm</ns0:repositoryURL>
+                <ns0:description language="eng">The BBS is a cooperative effort between the U.S. Geological Survey's Patuxent Wildlife Research Center and Environment Canada's Canadian Wildlife Service to monitor the status and trends of North American bird populations. Following a rigorous protocol, BBS data are collected by thousands of dedicated participants along thousands of randomly established roadside routes throughout the continent. Professional BBS coordinators and data managers work closely with researchers and statisticians to compile and deliver these population data and population trend analyses on more than 400 bird species, for use by conservation managers, scientists, and the general public.</ns0:description>
+                    <ns0:repositoryContact>https://www.pwrc.usgs.gov/bbs/contactus/</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">203 Zoology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20303 Animal Ecology, Biodiversity and Ecosystem Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                <ns0:missionStatementURL>https://www.pwrc.usgs.gov/bbs/about/</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Archived data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>Biological Sciences</ns0:keyword>
+                    <ns0:keyword>avian breeding</ns0:keyword>
+                    <ns0:keyword>avian point counts</ns0:keyword>
+                    <ns0:keyword>biodiversity</ns0:keyword>
+                    <ns0:keyword>bioinformatics</ns0:keyword>
+                    <ns0:keyword>bird monitoring</ns0:keyword>
+                    <ns0:keyword>bird occurrences</ns0:keyword>
+                    <ns0:keyword>bird taxa</ns0:keyword>
+                    <ns0:keyword>ornitology</ns0:keyword>
+                    <ns0:keyword>population</ns0:keyword>
+                    <ns0:keyword>population distribution</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">U.S. Geological Survey</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.usgs.gov/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:035a68863</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">U.S. Geological Survey,  Patuxent Wildlife Research Center</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">USGS  Patuxent</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.usgs.gov/centers/pwrc</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>Keith_Pardieck@usgs.gov</ns0:institutionContact>
+                                    <ns0:institutionContact>webmaster@patuxent.usgs.gov</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">United States Department of Agriculture - Animal and Plant Health Inspection Service, National Wildlife Research Center</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">USDA-APHIS, NWRC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.aphis.usda.gov/aphis/ourfocus/wildlifedamage/programs/nwrc</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>John_Sauer@usgs.gov</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Comments and Disclaimers</ns0:policyName>
+                <ns0:policyURL>https://www.mbr-pwrc.usgs.gov/bbs/intro10.html</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Terms of Use</ns0:policyName>
+                <ns0:policyURL>https://www.pwrc.usgs.gov/bbs/RawData/</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.usgs.gov/information-policies-and-instructions</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>Public Domain</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.usgs.gov/information-policies-and-instructions</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>MySQL</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://www.pwrc.usgs.gov/BBS/help/Citations.cfm</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks>Some websites additionally in french and spanish</ns0:remarks>
+        <ns0:entryDate>2016-06-21</ns0:entryDate>
+        <ns0:lastUpdate>2021-01-07</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

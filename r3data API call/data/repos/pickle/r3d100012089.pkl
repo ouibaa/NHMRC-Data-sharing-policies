@@ -1,0 +1,81 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012089</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Canadian Centre for Climate Modelling and Analysis</ns0:repositoryName>
+                    <ns0:additionalName language="eng">CCCma</ns0:additionalName>
+                    <ns0:additionalName language="fra">CCmaC</ns0:additionalName>
+                    <ns0:additionalName language="fra">Centre canadien de la mod&#233;lisation et de l'analyse climatique</ns0:additionalName>
+                <ns0:repositoryURL>http://www.ec.gc.ca/ccmac-cccma/</ns0:repositoryURL>
+                <ns0:description language="eng">CCCma has developed a number of climate models. These are used to study climate change and variability, and to understand the various processes which govern the climate system. They are also used to make quantitative projections of future long-term climate change (given various greenhouse gas and aerosol forcing scenarios), and increasingly to make initialized climate predictions on time scales ranging from seasons to decades. A brief description of these models and their corresponding references can be found:  http://ec.gc.ca/ccmac-cccma/default.asp?lang=En&amp;n=4A642EDE-1</ns0:description>
+                    <ns0:repositoryContact>ec.cccma.info-info.ccmac.ec@canada.ca</ns0:repositoryContact>
+                    <ns0:repositoryContact>https://www.canada.ca/en/environment-climate-change/services/climate-change/science-research-data/modeling-projections-analysis/centre-modelling-analysis/contact-information.html</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>fra</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31301 Atmospheric Science</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL>http://www.ec.gc.ca/default.asp?lang=En&amp;n=BD3CE17D-1</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Audiovisual data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>Intergovernmental Panel on Climate Change (IPCC)</ns0:keyword>
+                    <ns0:keyword>World Climate Research Programme (WCRP)</ns0:keyword>
+                    <ns0:keyword>atmospheric science</ns0:keyword>
+                    <ns0:keyword>climate change</ns0:keyword>
+                    <ns0:keyword>global climate</ns0:keyword>
+                    <ns0:keyword>regional climate</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Environment and Climate Change Canada</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="fra">Environnement et Changement climatique Canada</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://ec.gc.ca/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Acts, Regulations and Agreements</ns0:policyName>
+                <ns0:policyURL>http://ec.gc.ca/default.asp?lang=En&amp;n=48D356C1-1</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Terms and conditions</ns0:policyName>
+                <ns0:policyURL>http://ec.gc.ca/default.asp?lang=En&amp;xml=5830C36B-1773-4E3E-AF8C-B21F54633E0A</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://ec.gc.ca/default.asp?lang=En&amp;xml=5830C36B-1773-4E3E-AF8C-B21F54633E0A#copy</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                    <ns0:aidSystem>none</ns0:aidSystem>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks />
+        <ns0:entryDate>2016-07-27</ns0:entryDate>
+        <ns0:lastUpdate>2021-10-08</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

@@ -1,0 +1,103 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010684</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">domino</ns0:repositoryName>
+                    <ns0:additionalName language="eng">domaine peptide interactions</ns0:additionalName>
+                <ns0:repositoryURL />
+                <ns0:description language="eng">&gt;&gt;&gt;!!!&lt;&lt;&lt; The repository is no longer available. 2019-02-19</ns0:description>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2014-04-03">14809 proteins, 200 domains, 972 pmids</ns0:size>
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">201 Basic Biological and Medical Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20105 General Genetics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">204 Microbiology, Virology and Immunology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                <ns0:missionStatementURL />
+                    <ns0:contentType contentTypeScheme="parse">Networkbased data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Software applications</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>molecular genetics</ns0:keyword>
+                    <ns0:keyword>peptides</ns0:keyword>
+                    <ns0:keyword>protein interaction domains</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="ita">Associazione Italiana Per La Ricerca Sul Cancro</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="ita">AIRC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>ITA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.airc.it/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:02g2x7380</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">HUPO Proteomics Standards Initiative</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">PSI</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.psidev.info/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">International Molecular Exchange Consortium</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">IMEx</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>AAA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.imexconsortium.org/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="ita">Universita degli Studi di Roma 'Tor Vergata', Dipartimento di Biologia</ns0:institutionName>
+                                <ns0:institutionCountry>ITA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://bio.uniroma2.it/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://mint.bio.uniroma2.it/domino/contacts.do</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>IMEx Curation Rules</ns0:policyName>
+                <ns0:policyURL>http://www.imexconsortium.org/curation</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://creativecommons.org/licenses/by/2.5/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>IMEx data submission</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>http://www.imexconsortium.org/submit-your-data</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                        <ns0:versioning>yes</ns0:versioning>
+                    <ns0:api apiType="REST">http://mentha.uniroma2.it/developers.php</ns0:api>
+                        <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                <ns0:remarks>DOMINO is an open-access database comprising more than 3900 annotated experiments describing interactions mediated by protein-interaction domains. The curation effort aims at covering the interactions mediated by the following domains (SH3, SH2, 14-3-3, PDZ, PTB, WW, EVH, VHS, FHA, EH, FF, BRCT, Bromo, Chromo, GYF). The interactions deposited in DOMINO are annotated according to the PSI MI standard and can be easily analyzed in the context of the global protein interaction network as downloaded from major interaction databases like MINT, INTACT, DIP, MIPS/MPACT. DOMINO can be searched with a versatile search tool and the interaction networks can be visualized with a convenient graphic display applet that explicitly identifies the domains/sites involved in the interactions.domino is active partner of the International Molcular Exchange Consortium (IMEx). DOMONO uses the HUPO PSI-MI Metadata Standard</ns0:remarks>
+        <ns0:entryDate>2014-04-03</ns0:entryDate>
+        <ns0:lastUpdate>2021-10-05</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

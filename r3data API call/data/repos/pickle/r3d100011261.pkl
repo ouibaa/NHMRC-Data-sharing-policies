@@ -1,0 +1,92 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011261</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">BsubCyc</ns0:repositoryName>
+                    <ns0:additionalName language="eng">a member of the BioCyc Database Collection</ns0:additionalName>
+                <ns0:repositoryURL>https://bsubcyc.org/</ns0:repositoryURL>
+                <ns0:description language="eng">BsubCyc is a model-organism database for the bacterium Bacillus subtilis and is based on the updated B. subtilis 168 genome sequence and annotation published by Barbe et al. in 2009. Gene function annotations are being updated when new literature is available.
+Subscriptions are now required to access BsubCyc. For more information on obtaining a subscription, click here: http://www.phoenixbioinformatics.org/biocyc/subscriptions.html</ns0:description>
+                    <ns0:repositoryContact>biocyc-support@ai.sri.com</ns0:repositoryContact>
+                    <ns0:repositoryContact>https://bsubcyc.org/contact.shtml</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">201 Basic Biological and Medical Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20105 General Genetics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">204 Microbiology, Virology and Immunology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                <ns0:missionStatementURL />
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Software applications</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>Bacillus subtilis</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">National Institutes of Health, National Institute of General Medical Sciences</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NIH NIGMS</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.nigms.nih.gov/Pages/default.aspx</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:04q48ey07</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">SRI International</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.sri.com/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:05s570m15</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:SCR_004926</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.sri.com/locations</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>BioCyc to Adopt Subscription Model</ns0:policyName>
+                <ns0:policyURL>https://biocyc.org/news001-subscriptions.shtml</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Web Site User's Guide for Pathway Tools-Based Web Sites</ns0:policyName>
+                <ns0:policyURL>https://bsubcyc.org/PToolsWebsiteHowto.shtml</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>feeRequired</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://biocyc.org/download-flatfiles.shtml</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://biocyc.org/download.shtml</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://bioinformatics.ai.sri.com/ptools/licensing/all-reg.shtml</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                <ns0:versioning />
+                    <ns0:api apiType="REST">https://bsubcyc.org/web-services.shtml</ns0:api>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://bsubcyc.org/</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                    <ns0:syndication syndicationType="RSS">http://feeds.feedburner.com/BioCycUpdates</ns0:syndication>
+                <ns0:remarks>BsubCyc is covered by Thomson Reuters Data Citation Index.</ns0:remarks>
+        <ns0:entryDate>2014-11-13</ns0:entryDate>
+        <ns0:lastUpdate>2021-09-08</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

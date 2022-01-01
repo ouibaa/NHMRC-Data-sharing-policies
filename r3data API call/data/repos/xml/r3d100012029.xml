@@ -1,0 +1,102 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012029</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Environmental Monitoring System</ns0:repositoryName>
+                    <ns0:additionalName language="eng">British Columbia Environmental Monitoring System</ns0:additionalName>
+                    <ns0:additionalName language="eng">EMS</ns0:additionalName>
+                    <ns0:additionalName language="eng">Environmental Monitoring Databases</ns0:additionalName>
+                <ns0:repositoryURL>https://www2.gov.bc.ca/gov/content/environment/research-monitoring-reporting/monitoring/environmental-monitoring-system</ns0:repositoryURL>
+                <ns0:description language="eng">EMS is the BC Ministry of Environment's primary monitoring data repository. The system was designed to capture data covering physical/chemical and biological analyses performed on water, air, solid waste discharges and ambient monitoring sites throughout the province. 
+It also contains related quality assurance data. Samples are collected by either ministry staff or permittees under the Environmental Management Act and then analyzed in public or private sector laboratories. The majority of such monitoring data is entered into EMS electronically via Electronic Data Transfer (EDT). 
+EMS data is typically available in formatted hard copy reports or electronically in comma delimited (e.g., .csv) files as: 
+Monitoring location-related data, 
+Sample and results-related data.
+Direct access to EMS is restricted to ministry staff, however public access is available upon request through EMS Web Reporting.</ns0:description>
+                    <ns0:repositoryContact>EMSHelp@gov.bc.ca</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">202 Plant Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20202 Plant Ecology and Ecosystem Analysis</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">203 Zoology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20303 Animal Ecology, Biodiversity and Ecosystem Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">207 Agriculture, Forestry, Horticulture and Veterinary Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20709 Inventory Control and Use of Forest Resources</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">23 Agriculture, Forestry, Horticulture and Veterinary Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31 Chemistry</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">318 Water Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31801 Hydrogeology, Hydrology, Limnology, Urban Water Management, Water Chemistry, Integrated Water Resources Management</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL />
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>Effluent Discharge Monitoring EDM</ns0:keyword>
+                    <ns0:keyword>Electronic Data Transfer EDT</ns0:keyword>
+                    <ns0:keyword>Environmental Management Act EMA</ns0:keyword>
+                    <ns0:keyword>Environmental Monitoring Databases</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">British Columbia, Ministry of Environment and Climate Change Strategy</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">B.C. Ministry of Environment</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www2.gov.bc.ca/gov/content/governments/organizational-structure/ministries-organizations/ministries/environment-climate-change</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www2.gov.bc.ca/gov/content/home/get-help-with-government-services</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>BC Employment &amp; Assistance Policy &amp; Procedure Manual</ns0:policyName>
+                <ns0:policyURL>https://www2.gov.bc.ca/gov/content/governments/policies-for-government/bcea-policy-and-procedure-manual</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>FOIPPA Policy &amp; Procedures Manual</ns0:policyName>
+                <ns0:policyURL>https://www2.gov.bc.ca/gov/content/governments/services-for-government/policies-procedures/foippa-manual</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Information Security Policy and Guidelines</ns0:policyName>
+                <ns0:policyURL>https://www2.gov.bc.ca/gov/content/governments/services-for-government/policies-procedures/information-security-policy-and-guidelines?keyword=Information&amp;keyword=Security&amp;keyword=Policy</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Services &amp; Policies for Government and Broader Public Sector</ns0:policyName>
+                <ns0:policyURL>https://www2.gov.bc.ca/gov/content/governments/services-for-government</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>restricted</ns0:databaseAccessType>
+                            <ns0:databaseAccessRestriction>other</ns0:databaseAccessRestriction>
+                            <ns0:databaseAccessRestriction>registration</ns0:databaseAccessRestriction>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>feeRequired</ns0:dataAccessRestriction>
+                                    <ns0:dataAccessRestriction>other</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www2.gov.bc.ca/gov/content/home/copyright</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                <ns0:versioning />
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks>EMS WR is an internet application that allows users to access information stored in the EMS database. The database is essentially an electronic information warehouse that includes: Physical, chemical, and biological test results for analyses performed on air, water, solid waste discharge, and ambient monitoring locations throughout B.C. 
+Drinking water test results on samples collected by water purveyors and health authorities.
+External data requests should be directed to regional ministry staff  or to the EMS help desk in Victoria (Email: EMSHELP@gov.bc.ca).</ns0:remarks>
+        <ns0:entryDate>2016-06-21</ns0:entryDate>
+        <ns0:lastUpdate>2021-02-16</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

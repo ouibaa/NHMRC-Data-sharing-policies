@@ -1,0 +1,111 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010537</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">SOAP</ns0:repositoryName>
+                    <ns0:additionalName language="eng">Subaru Observatory Astronomical Projects</ns0:additionalName>
+                <ns0:repositoryURL>http://soaps.nao.ac.jp/index.html</ns0:repositoryURL>
+                <ns0:description language="eng">The "Subaru Observatory Project" was originally planned for producing very important output to astronomical society by systematic time allocation and using characteristic functions of Subaru Telescope. The observation time for this project consists of guaranteed time both for telescope builders and for people responsible for telescope operation. 3 proposals were selected for execution during 2002 and 2003 fiscal years. They are Subaru Deep Field (SDF) (PI is Dr. Kashikawa at Mitaka, NAOJ), Subaru XMM-Newton Deep Survey (SXDS) (PI is Dr. Sekiguchi at Hilo, Subaru Telescope), and Disk and Planet Searches (SDPS) (PI is Dr. Hayashi at Hilo, Subaru Telescope). SOAPs web server provide the data (fully reduced images and catalogs) download obtained from SDF and SXDS projects. Raw Data are available at the SMOKA Science Archive: https://smoka.nao.ac.jp/</ns0:description>
+                    <ns0:repositoryContact>soaps_manager@dbc.nao.ac.jp</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2004</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">311 Astrophysics and Astronomy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">32 Physics</ns0:subject>
+                <ns0:missionStatementURL>http://soaps.nao.ac.jp/sdf/project/overview.html</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Databases</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>QSQS and galaxies</ns0:keyword>
+                    <ns0:keyword>Subaru Deep Field (SDF)</ns0:keyword>
+                    <ns0:keyword>Subaru XMM-Newton Deep Survey (SXDS)</ns0:keyword>
+                    <ns0:keyword>astronomy</ns0:keyword>
+                    <ns0:keyword>astrophysics</ns0:keyword>
+                    <ns0:keyword>extragalactic X-ray population</ns0:keyword>
+                    <ns0:keyword>universe</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Japan Society for the Promotion of Science</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="jpn">&#26085;&#26412;&#23398;&#34899;&#25391;&#33288;&#20250;</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>JPN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.jsps.go.jp/english/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:02m7axw05</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">NAOJ</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Inter-University Research Institute Corporation, National Institutes of Natural Sciences, Astronomical Observatory of Japan</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="jpn">&#22269;&#31435;&#22825;&#25991;&#21488;</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="jpn">&#33258;&#28982;&#31185;&#23398;&#30740;&#31350;&#27231;&#27083; &#22269;&#31435;&#22825;&#25991;&#21488;</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>JPN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.nao.ac.jp/en/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:052rrw050</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>soaps_manager@soaps.nao.ac.jp</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Subaru Telescope</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="jpn">&#12377;&#12400;&#12427;&#26395;&#36960;&#37857;</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>JPN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://subarutelescope.org/jp/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://subarutelescope.org/en/inquiries/</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Copyright and Basic Policy</ns0:policyName>
+                <ns0:policyURL>https://subarutelescope.org/en/sitepolicy/</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Guide to Using NAOJ Website Copyrighted Materials</ns0:policyName>
+                <ns0:policyURL>https://www.nao.ac.jp/en/policy-guide.html</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>other</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.subarutelescope.org/en/sitepolicy/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://subarutelescope.org/en/sitepolicy/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://www.subarutelescope.org/en/inquiries/faq/index.html#q4</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks>The Subaru/XMM-Newton Deep Survey (SXDS) is a major new multi-wavelength survey of a ~1.3 square degree region of sky. The SXDS optical imagery represents an unprecedented combination of depth and area coverage, and will be combined with suitably deep images at other wavelengths to provide an accurate census of the contents of the Universe without suffering from the biasing effects of large-scale structure.
+See also: SMOKA Science Archive</ns0:remarks>
+        <ns0:entryDate>2013-11-08</ns0:entryDate>
+        <ns0:lastUpdate>2021-12-14</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

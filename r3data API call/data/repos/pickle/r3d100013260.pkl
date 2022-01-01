@@ -1,0 +1,94 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100013260</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">AmeriFlux</ns0:repositoryName>
+                    <ns0:additionalName language="eng">Measuring carbon, water and energy flux across the Americas</ns0:additionalName>
+                <ns0:repositoryURL>https://ameriflux.lbl.gov/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>biodbcore-001731</ns0:repositoryIdentifier>
+                <ns0:description language="eng">AmeriFlux is a network of PI-managed sites measuring ecosystem CO2, water, and energy fluxes in North, Central and South America. It was established to connect research on field sites representing major climate and ecological biomes, including tundra, grasslands, savanna, crops, and conifer, deciduous, and tropical forests. As a grassroots, investigator-driven network, the AmeriFlux community has tailored instrumentation to suit each unique ecosystem. This &#8220;coalition of the willing&#8221; is diverse in its interests, use of technologies and collaborative approaches. As a result, the AmeriFlux Network continually pioneers new ground.</ns0:description>
+                    <ns0:repositoryContact>ameriflux-support@lbl.gov</ns0:repositoryContact>
+                    <ns0:repositoryContact>https://ameriflux.lbl.gov/contact-us/</ns0:repositoryContact>
+                        <ns0:size updated="" />
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">207 Agriculture, Forestry, Horticulture and Veterinary Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20701 Soil Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">23 Agriculture, Forestry, Horticulture and Veterinary Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31301 Atmospheric Science</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL>https://ameriflux.lbl.gov/about/about-ameriflux/</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Archived data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>carbon dioxide</ns0:keyword>
+                    <ns0:keyword>climate</ns0:keyword>
+                    <ns0:keyword>ecosystem</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Lawrence Berkeley National Laboratory</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Berkeley Lab</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">LBL</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.lbl.gov/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:02jbv0t02</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">U.S.  Department of Energy, Office of Science</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">U.S. DOE, Office of Science</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.energy.gov/science/office-science</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>VIAF:305307871</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Data Policy</ns0:policyName>
+                <ns0:policyURL>https://ameriflux.lbl.gov/data/data-policy/</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.lbl.gov/disclaimers/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://ameriflux.lbl.gov/data/data-policy/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>AmeriFlux Data Contributor Policy</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>https://ameriflux.lbl.gov/data/how-to-uploaddownload-data/</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                        <ns0:versioning>no</ns0:versioning>
+                    <ns0:api apiType="FTP">ftp://ftp.fluxdata.org/.ameriflux_downloads/</ns0:api>
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://ameriflux.lbl.gov/data/data-policy/</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks>AmeriFlux is covered by Clarivate Data Citation Index. Regional networks supporting the FLUXNET: AmeriFlux</ns0:remarks>
+        <ns0:entryDate>2020-03-09</ns0:entryDate>
+        <ns0:lastUpdate>2021-11-17</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

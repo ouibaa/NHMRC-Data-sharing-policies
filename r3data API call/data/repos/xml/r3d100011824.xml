@@ -1,0 +1,95 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011824</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Danish National Birth Cohort</ns0:repositoryName>
+                    <ns0:additionalName language="dan">Bedre sundhet i generationer</ns0:additionalName>
+                    <ns0:additionalName language="eng">DNBC</ns0:additionalName>
+                <ns0:repositoryURL>https://www.dnbc.dk/</ns0:repositoryURL>
+                <ns0:description language="eng">Exposures in the period from conception to early childhood - including fetal growth, cell division, and organ functioning - may have long-lasting impact on health and disease susceptibility.
+To investigate these issues the Danish National Birth Cohort (Better health in generations) was established.
+A large cohort of pregnant women with long-term follow-up of the offspring was the obvious choice because many of the exposures of interest cannot be reconstructed with suffcient validity back in time. The study needed to be large, and the aim was to recruit 100,000 women early in pregnancy, and to continue follow-up for decades. 
+Exposure information was collected by computer-assisted telephone interviews with the women twice during pregnancy and when their children were six and 18 months old. Participants were also asked to fill in a self-administered food frequency questionnaire in mid-pregnancy. Furthermore, a biological bank has been set up with blood taken from the mother twice during pregnancy and blood from theumbilical cord taken shortly after birth.</ns0:description>
+                    <ns0:repositoryContact>dnbc-research@ssi.dk</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>1996</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">12 Social and Behavioural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">205 Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20501 Epidemiology, Medical Biometry, Medical Informatics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20502 Public Health, Health Services Research, Social Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                <ns0:missionStatementURL>https://www.dnbc.dk/about-the-dnbc</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>Dietary Habits of 14-year Olds</ns0:keyword>
+                    <ns0:keyword>biological samples</ns0:keyword>
+                    <ns0:keyword>food frequency</ns0:keyword>
+                    <ns0:keyword>history of birth</ns0:keyword>
+                    <ns0:keyword>lifestyle during pregnancy</ns0:keyword>
+                    <ns0:keyword>miscarriage</ns0:keyword>
+                    <ns0:keyword>post-natal</ns0:keyword>
+                    <ns0:keyword>pre-natal</ns0:keyword>
+                    <ns0:keyword>pregnancy</ns0:keyword>
+                    <ns0:keyword>triplets</ns0:keyword>
+                    <ns0:keyword>twins</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="dan">Statens Serum Institut</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="dan">SSI</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>DNK</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://en.ssi.dk/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>serum@ssi.dk</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Access to data from the DNBC</ns0:policyName>
+                <ns0:policyURL>https://www.dnbc.dk/access-to-dnbc-data</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Working with data from the DNBC on the VDI &#8211; general information</ns0:policyName>
+                <ns0:policyURL>https://www.dnbc.dk/-/media/arkiv/projekt-sites/dnbc/vdi-access-to-dnbc_october_2018.pdf?la=en</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>feeRequired</ns0:dataAccessRestriction>
+                                    <ns0:dataAccessRestriction>other</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>other</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.dnbc.dk/access-to-dnbc-data</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                <ns0:versioning />
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://www.dnbc.dk/access-to-dnbc-data/acknowledgement</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">DDI - Data Documentation Initiative</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/ddi-data-documentation-initiative</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                            <ns0:syndication syndicationType="RSS">https://www.ssi.dk/English/RandD/Research%20areas/Epidemiology/DNBC/DNBC%20News.aspx?feed=1</ns0:syndication>
+                <ns0:remarks>Danish National Birth Cohort is covered by Thomson Reuters Data Citation Index.</ns0:remarks>
+        <ns0:entryDate>2016-03-04</ns0:entryDate>
+        <ns0:lastUpdate>2019-01-09</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

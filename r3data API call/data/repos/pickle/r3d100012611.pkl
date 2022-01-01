@@ -1,0 +1,131 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012611</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Materials Cloud Archive</ns0:repositoryName>
+                    <ns0:additionalName language="eng">Materials Cloud</ns0:additionalName>
+                <ns0:repositoryURL>https://archive.materialscloud.org/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.tlbUpj</ns0:repositoryIdentifier>
+                <ns0:description language="eng">FAIR &amp; long-term storage of research data from computational materials science, or from experimental materials science that is of relevance to simulations. Complementary tools available to explore the full provenance of the calculations and to perform simulations or data analytics in the cloud.</ns0:description>
+                    <ns0:repositoryContact>giovanni.pizzi@epfl.ch</ns0:repositoryContact>
+                    <ns0:repositoryContact>nicola.marzari@epfl.ch</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2021-11-02">427 records</ns0:size>
+        <ns0:startDate>2017-03</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">302 Chemical Solid State and Surface Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">30203 Theory and Modelling</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">307 Condensed Matter Physics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">30702 Theoretical Condensed Matter Physics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31 Chemistry</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">32 Physics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">4 Engineering Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">406 Materials Science</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">43 Materials Science and Engineering</ns0:subject>
+                <ns0:missionStatementURL>https://www.materialscloud.org/home#about</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Databases</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>FAIR</ns0:keyword>
+                    <ns0:keyword>atomistic simulations</ns0:keyword>
+                    <ns0:keyword>computational materials science</ns0:keyword>
+                    <ns0:keyword>material science</ns0:keyword>
+                    <ns0:keyword>materials informatics</ns0:keyword>
+                    <ns0:keyword>physics</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">National Centre of Competence in Research MARVEL</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NCCR MARVEL</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CHE</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://nccr-marvel.ch/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://nccr-marvel.ch/contact</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Swiss National Supercomputing Centre</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">CSCS</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="ita">Centro Svizzero di Calcolo Scientifico</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CHE</ns0:institutionCountry>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.cscs.ch/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>Wikidata:Q581684</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>info@cscs.ch</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="fra">&#201;cole polytechnique f&#233;d&#233;rale de Lausanne</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="fra">EPFL</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CHE</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.epfl.ch/index.en.html</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:02s376052</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:SCR_000961</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_151927</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>giovanni.pizzi@epfl.ch</ns0:institutionContact>
+                                    <ns0:institutionContact>nicola.marzari@epfl.ch</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Policies</ns0:policyName>
+                <ns0:policyURL>https://www.materialscloud.org/policies</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Terms of Use</ns0:policyName>
+                <ns0:policyURL>https://www.materialscloud.org/terms</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                    <ns0:databaseLicense>
+                <ns0:databaseLicenseName>CC</ns0:databaseLicenseName>
+                <ns0:databaseLicenseURL>https://creativecommons.org/licenses/</ns0:databaseLicenseURL>
+            </ns0:databaseLicense>
+                    <ns0:databaseLicense>
+                <ns0:databaseLicenseName>CC0</ns0:databaseLicenseName>
+                <ns0:databaseLicenseURL>https://creativecommons.org/publicdomain/zero/1.0/deed.de</ns0:databaseLicenseURL>
+            </ns0:databaseLicense>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/licenses/by-sa/4.0/legalcode</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.materialscloud.org/policies</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                    <ns0:api apiType="OAI-PMH">https://www.openarchives.org/pmh/</ns0:api>
+                    <ns0:api apiType="REST">https://www.materialscloud.org/explore/connect</ns0:api>
+                    <ns0:api apiType="other">https://archive.materialscloud.org/json</ns0:api>
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">Dublin Core</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks>Citations provided within the records</ns0:remarks>
+        <ns0:entryDate>2018-02-17</ns0:entryDate>
+        <ns0:lastUpdate>2021-11-02</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

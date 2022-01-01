@@ -1,0 +1,118 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010869</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Open Government Canada - Open Data</ns0:repositoryName>
+                    <ns0:additionalName language="fra">Gouvernement Ouvert Canada - donn&#233;es ouvertes</ns0:additionalName>
+                <ns0:repositoryURL>https://open.canada.ca/en/open-data</ns0:repositoryURL>
+                <ns0:description language="eng">The Canada Open Data  Project provides Government of Canada data to the public as potential driver for economic innovation. Searchable and browsable raw data is available for download, and the public can recommend specific data be made available.</ns0:description>
+                    <ns0:repositoryContact>https://open.canada.ca/en/forms/contact-us</ns0:repositoryContact>
+                    <ns0:repositoryContact>open-ouvert@tbs-sct.gc.ca</ns0:repositoryContact>
+                            <ns0:type>other</ns0:type>
+                <ns0:size updated="2021-11-19">140.000 datasets</ns0:size>
+        <ns0:startDate>2011</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>fra</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">4 Engineering Sciences</ns0:subject>
+                <ns0:missionStatementURL>https://open.canada.ca/en/open-data-principles</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>agriculture</ns0:keyword>
+                    <ns0:keyword>archaeology</ns0:keyword>
+                    <ns0:keyword>census</ns0:keyword>
+                    <ns0:keyword>communication</ns0:keyword>
+                    <ns0:keyword>culture</ns0:keyword>
+                    <ns0:keyword>demographic surveys</ns0:keyword>
+                    <ns0:keyword>economics</ns0:keyword>
+                    <ns0:keyword>education</ns0:keyword>
+                    <ns0:keyword>geospatial data</ns0:keyword>
+                    <ns0:keyword>government information</ns0:keyword>
+                    <ns0:keyword>health</ns0:keyword>
+                    <ns0:keyword>history</ns0:keyword>
+                    <ns0:keyword>labor</ns0:keyword>
+                    <ns0:keyword>law</ns0:keyword>
+                    <ns0:keyword>linguistics</ns0:keyword>
+                    <ns0:keyword>multidisciplinary</ns0:keyword>
+                    <ns0:keyword>nature</ns0:keyword>
+                    <ns0:keyword>political science</ns0:keyword>
+                    <ns0:keyword>population</ns0:keyword>
+                    <ns0:keyword>public safety</ns0:keyword>
+                    <ns0:keyword>science</ns0:keyword>
+                    <ns0:keyword>social sciences</ns0:keyword>
+                    <ns0:keyword>technology</ns0:keyword>
+                    <ns0:keyword>transportation</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Government of Canada</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="fra">Gouvernement du Canada</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.canada.ca/en.html</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:010q4q527</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.canada.ca/en/contact.html</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Open Data 101</ns0:policyName>
+                <ns0:policyURL>https://open.canada.ca/en/open-data-principles</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Terms and conditions</ns0:policyName>
+                <ns0:policyURL>https://www.canada.ca/en/transparency/terms.html?_ga=1.31404735.1212096498.1470989893</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://laws-lois.justice.gc.ca/eng/acts/C-42/index.html</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>OGL</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://open.canada.ca/en/open-government-licence-canada</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>Suggest a dataset</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>https://search.open.canada.ca/en/sd/</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                            <ns0:software>
+                <ns0:softwareName>CKAN</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                    <ns0:api apiType="REST">https://open.canada.ca/en/access-our-application-programming-interface-api</ns0:api>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">DCAT - Data Catalog Vocabulary</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dcat-data-catalog-vocabulary</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                    <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">ISO 19115</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/iso-19115</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                            <ns0:syndication syndicationType="ATOM">https://open.canada.ca/data/en/feeds/dataset.atom</ns0:syndication>
+                <ns0:remarks>data.gc.ca Open Data  has changed to Open Government Canada - Open Data</ns0:remarks>
+        <ns0:entryDate>2014-07-25</ns0:entryDate>
+        <ns0:lastUpdate>2021-11-19</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

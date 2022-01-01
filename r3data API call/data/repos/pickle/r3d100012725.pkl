@@ -1,0 +1,117 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012725</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">iRefWeb</ns0:repositoryName>
+                    <ns0:additionalName language="eng">Interaction Reference Index Web Interface</ns0:additionalName>
+                <ns0:repositoryURL>http://wodaklab.org/iRefWeb/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.t31wcb</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>OMICS_02922</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:SCR_008118</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:nif-0000-20861</ns0:repositoryIdentifier>
+                <ns0:description language="eng">iRefWeb is an interface to a relational database containing the latest build of the interaction Reference Index (iRefIndex) which integrates protein interaction data from ten different interaction databases: BioGRID, BIND, CORUM, DIP, HPRD, INTACT, MINT, MPPI, MPACT and OPHID.</ns0:description>
+                    <ns0:repositoryContact>support@wodaklab.org</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2019-02-13">509.876 results</ns0:size>
+        <ns0:startDate>2009</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">201 Basic Biological and Medical Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20103 Cell Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20104 Structural Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20105 General Genetics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20107 Bioinformatics and Theoretical Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                <ns0:missionStatementURL>http://wodaklab.org/iRefWeb/</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>IMEx</ns0:keyword>
+                    <ns0:keyword>PPI</ns0:keyword>
+                    <ns0:keyword>PSI-MI</ns0:keyword>
+                    <ns0:keyword>biogrid</ns0:keyword>
+                    <ns0:keyword>bioinformatics</ns0:keyword>
+                    <ns0:keyword>interactions</ns0:keyword>
+                    <ns0:keyword>macromulecules</ns0:keyword>
+                    <ns0:keyword>protein-ligand</ns0:keyword>
+                    <ns0:keyword>protein-protein</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Canadian Institutes of Health Research</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">CIHR</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="fra">IRSC</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="fra">Instituts de recherche en sant&#233; du Canada</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.cihr-irsc.gc.ca/e/193.html</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>RRID:SCR_012838</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_45689</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.cihr-irsc.gc.ca/e/9833.html</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Donaldson Research</ns0:institutionName>
+                                <ns0:institutionCountry>NOR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://donaldsonresearch.com/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>ian@donaldsonresearch.com</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">SickKids Foundation</ns0:institutionName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.sickkidsfoundation.com/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.sickkidsfoundation.com/faqs</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of Toronto</ns0:institutionName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.utoronto.ca/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.utoronto.ca/contacts</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Wodak Lab</ns0:institutionName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://wodaklab.org/ws/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>support@wodaklab.org</ns0:institutionContact>
+                            </ns0:institution>
+                        <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Public Domain</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://wodaklab.org/iRefWeb/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>open</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>other</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                        <ns0:citationGuidelineURL>http://irefindex.org/wiki/index.php?title=iRefIndex_Citations</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                <ns0:remarks />
+        <ns0:entryDate>2018-07-04</ns0:entryDate>
+        <ns0:lastUpdate>2019-02-13</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

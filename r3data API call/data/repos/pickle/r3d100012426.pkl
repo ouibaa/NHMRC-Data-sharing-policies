@@ -1,0 +1,106 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012426</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">OMICtools</ns0:repositoryName>
+                <ns0:repositoryURL>https://omictools.com/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>RRID:SCR_002250</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:nlx_155571</ns0:repositoryIdentifier>
+                <ns0:description language="eng">&gt;&gt;&gt;!!!&lt;&lt;&lt; OMICtools is no longer online  &gt;&gt;&gt;!!!&lt;&lt;&lt; 
+We founded OMICtools in 2012 with the vision to drive progress in life science. We wanted to empower life science practitioners all over the world to achieve breakthroughs by getting data to talk. While we made tremendous progress over the past three years, developing a bioinformatics database of software and dynamic protocols, attracting more than 1.5M visitors a year, we lacked the financial support we needed to continue.  We certainly gave it our all.  We'd like to thank everyone who believed in us and supported us on this journey: all our users, our community, our friends, families and employees (who we consider as our extended family!).
+omicX will probably shut down its operations within the next few weeks.  The team and I remain firmly committed to our vision, particularly at this very difficult time.  It is now, more than ever before, that researchers need access to a resource that pools collective scientific intelligence. We have accumulated an awful lot of experience which we are keen to share. If your institution would be interested in taking over our website and database, to provide researchers with continued access to the platform, or you simply want to stay in touch with the omicX team, contact us at contact@omictools.com or at carine.toutain@fhbx.eu.</ns0:description>
+                    <ns0:repositoryContact>https://omictools.com/contact</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2017-07-31">19.200 software and databases</ns0:size>
+        <ns0:startDate>2012</ns0:startDate>
+        <ns0:endDate>2020</ns0:endDate>
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">201 Basic Biological and Medical Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20101 Biochemistry</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20102 Biophysics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20105 General Genetics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20107 Bioinformatics and Theoretical Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">202 Plant Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20205 Plant Biochemistry and Biophysics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">205 Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20503 Human Genetics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">206 Neurosciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20601 Molecular Neuroscience and Neurogenetics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                <ns0:missionStatementURL>https://www.ncbi.nlm.nih.gov/pubmed/25024350</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Databases</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Software applications</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Source code</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>bioinformatics</ns0:keyword>
+                    <ns0:keyword>epigenomics</ns0:keyword>
+                    <ns0:keyword>genomics</ns0:keyword>
+                    <ns0:keyword>metabolomics</ns0:keyword>
+                    <ns0:keyword>metadatabase</ns0:keyword>
+                    <ns0:keyword>phenomics</ns0:keyword>
+                    <ns0:keyword>proteomics</ns0:keyword>
+                    <ns0:keyword>research software</ns0:keyword>
+                    <ns0:keyword>transcriptomics</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Financial and Institutional Partners</ns0:institutionName>
+                                <ns0:institutionCountry>FRA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://omictools.com/about</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">omicX</ns0:institutionName>
+                                <ns0:institutionCountry>FRA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://omictools.com/terms-of-use</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://omictools.com/contact</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Contribute to accelerating research</ns0:policyName>
+                <ns0:policyURL>https://omictools.com/community</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Terms of Use of the OMICTOOLS Database</ns0:policyName>
+                <ns0:policyURL>https://omictools.com/terms-of-use</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/licenses/by-sa/4.0/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://omictools.com/terms-of-use</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                            <ns0:pidSystem>other</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks>Description: A community-based search platform. OMICtools bridges the gap between researchers and tool developers. OMICtools brings together an interactive worldwide user community, linking expert curators who submit, review and categorize tools, to users who strengthen the interface by bringing feedback and reviews.
+Community: https://omictools.com/community</ns0:remarks>
+        <ns0:entryDate>2017-07-31</ns0:entryDate>
+        <ns0:lastUpdate>2021-07-06</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

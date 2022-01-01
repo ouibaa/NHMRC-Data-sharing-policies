@@ -1,0 +1,89 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011725</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Eurobarometer</ns0:repositoryName>
+                    <ns0:additionalName language="fra">Eurobarom&#232;tre</ns0:additionalName>
+                <ns0:repositoryURL>http://ec.europa.eu/COMMFrontOffice/PublicOpinion/index.cfm/General/index</ns0:repositoryURL>
+                <ns0:description language="eng">Public Opinion in the European Union. Our surveys address major topics concerning European citizenship. The Standard Eurobarometer was established in 1973. Since 1973, the European Commission has been monitoring the evolution of public opinion in the Member States, thus helping the preparation of texts, decision-making and the evaluation of its work. Our surveys and studies address major topics concerning European citizenship: enlargement, social situation, health, culture, information technology, environment, the Euro, defence, etc. Each survey consists of approximately 1000 face-to-face interviews per country. Reports are published twice yearly. Reproduction is authorised, except for commercial purposes, provided the source is acknowledged.
+Special Eurobarometer reports are based on in-depth thematic studies carried out for various services of the European Commission or other EU Institutions and integrated in the Standard Eurobarometer's polling waves. Reproduction is authorised, except for commercial purposes, provided the source is acknowledged.
+Flash Eurobarometers are ad hoc thematic telephone interviews conducted at the request of any service of the European Commission. Flash surveys enable the Commission to obtain results relatively quickly and to focus on specific target groups, as and when required. Reproduction is authorised, except for commercial purposes, provided the source is acknowledged.
+The qualitative studies investigate in-depth the motivations, feelings and reactions of selected social groups towards a given subject or concept, by listening to and analysing their way of expressing themselves in discussion groups or with non-directive interviews.</ns0:description>
+                    <ns0:repositoryContact>eurobarometer@ec.europa.eu</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                    <ns0:type>institutional</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>fra</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11 Humanities</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">111 Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11102 Empirical Social Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">12 Social and Behavioural Sciences</ns0:subject>
+                <ns0:missionStatementURL />
+                    <ns0:contentType contentTypeScheme="parse">Archived data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                            <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>Europe</ns0:keyword>
+                    <ns0:keyword>culture</ns0:keyword>
+                    <ns0:keyword>defence</ns0:keyword>
+                    <ns0:keyword>enlargement</ns0:keyword>
+                    <ns0:keyword>environment</ns0:keyword>
+                    <ns0:keyword>health</ns0:keyword>
+                    <ns0:keyword>information technology</ns0:keyword>
+                    <ns0:keyword>public opinion</ns0:keyword>
+                    <ns0:keyword>social situation</ns0:keyword>
+                    <ns0:keyword>socio-demographics</ns0:keyword>
+                    <ns0:keyword>the Euro</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">European Commission, Directorate-General Communication</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">COMM</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>EEC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://ec.europa.eu/info/departments/communication_en</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://ec.europa.eu/info/departments/communication_en</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Alphabetical guide to eurobarometer surveys</ns0:policyName>
+                <ns0:policyURL>http://ec.europa.eu/commfrontoffice/publicopinion/index.cfm/Archive/index</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Terms and conditions</ns0:policyName>
+                <ns0:policyURL>https://www.gesis.org/eurobarometer-data-service/search-data-access/data-access</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://ec.europa.eu/info/legal-notice_en</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.gesis.org/issp/search-and-data-access/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://www.gesis.org/eurobarometer-data-service/search-data-access/data-access</ns0:citationGuidelineURL>
+                    <ns0:aidSystem>none</ns0:aidSystem>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks>Data access is provided through European Union Open Data Portal http://open-data.europa.eu/en/ . Microdata access through GESIS - Leibniz Institute for the Social Sciences, Eurobarometer Data Service http://www.gesis.org/eurobarometer-data-service/data-access/ .</ns0:remarks>
+        <ns0:entryDate>2016-03-14</ns0:entryDate>
+        <ns0:lastUpdate>2018-12-19</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

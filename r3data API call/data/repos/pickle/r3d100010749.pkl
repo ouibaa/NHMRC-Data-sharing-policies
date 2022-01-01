@@ -1,0 +1,205 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010749</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">InGeoCloudS</ns0:repositoryName>
+                    <ns0:additionalName language="eng">Inspired GEOdata CLOUD Services</ns0:additionalName>
+                <ns0:repositoryURL>https://www.akka-technologies.com/en/innovation/projects/ingeoclouds</ns0:repositoryURL>
+                <ns0:description language="eng">&lt;&lt;&lt;!!!&lt;&lt;&lt;  The repository is no longer available. Information about the project see https://www.pole-inside.fr/en/page/ingeoclouds or https://www.eurogeosurveys.org/projects/ingeoclouds/&gt;&gt;&gt;!!!&gt;&gt;&gt;</ns0:description>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2012</ns0:startDate>
+        <ns0:endDate>2014</ns0:endDate>
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">207 Agriculture, Forestry, Horticulture and Veterinary Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">23 Agriculture, Forestry, Horticulture and Veterinary Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL />
+                    <ns0:contentType contentTypeScheme="parse">Databases</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>boreholes</ns0:keyword>
+                    <ns0:keyword>geography</ns0:keyword>
+                    <ns0:keyword>geohazards</ns0:keyword>
+                    <ns0:keyword>geology</ns0:keyword>
+                    <ns0:keyword>geoprocessing</ns0:keyword>
+                    <ns0:keyword>groundwater</ns0:keyword>
+                    <ns0:keyword>maps</ns0:keyword>
+                    <ns0:keyword>pesticides</ns0:keyword>
+                    <ns0:keyword>shakes</ns0:keyword>
+                    <ns0:keyword>space</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="fra">AKKA informatique et systemes</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="fra">AKKA</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">AKKA Technologies</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>FRA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.one-akka.com/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>2012</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.akka-technologies.com/en/page/contact-akka</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Earthquake Planning and Protection Organisation</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">EPPO</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="ell">&#927;.&#913;.&#931;.&#928;.</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="ell">&#927;&#961;&#947;&#945;&#957;&#953;&#963;&#956;&#972;&#962; &#913;&#957;&#964;&#953;&#963;&#949;&#953;&#963;&#956;&#953;&#954;&#959;&#973; &#931;&#967;&#949;&#948;&#953;&#945;&#963;&#956;&#959;&#973; &#954;&#945;&#953; &#928;&#961;&#959;&#963;&#964;&#945;&#963;&#943;&#945;&#962;</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>GRC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.oasp.gr/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>2012</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.oasp.gr/contact</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">European Commission</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">CIP</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">Competitiveness and Innovation Framework Programme (CIP)</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">EU</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>EEC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://ec.europa.eu/commission/index_en</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>RRID:SCR_011211</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_47458</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate>2012</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://ec.europa.eu/info/contact_en</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">European Commission, Infrastructure for Spatial Information in the European Community</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">INSPIRE</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>EEC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://inspire.ec.europa.eu/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>2012</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>ENV-INSPIRE@ec.europa.eu</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Foundation for Research and Technology - Hellas, Institute of Computer Science</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">FORTH, ICS</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="ell">&#921;&#932;&#917;,&#921;&#928;</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="ell">&#921;&#948;&#961;&#973;&#956;&#945;&#964;&#959;&#962; &#932;&#949;&#967;&#957;&#959;&#955;&#959;&#947;&#943;&#945;&#962; &#954;&#945;&#953; &#904;&#961;&#949;&#965;&#957;&#945;&#962;, &#921;&#957;&#963;&#964;&#953;&#964;&#959;&#973;&#964;&#959;&#965; &#928;&#955;&#951;&#961;&#959;&#966;&#959;&#961;&#953;&#954;&#942;&#962;</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>GRC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.ics.forth.gr/index.html</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>2012</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.ics.forth.gr/index_main.php?c=5&amp;l=e</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Geological Survey of Denmark and Greenland</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="dan">De Nationale Geologiske Unders&#248;gelser for Danmark og Gr&#248;nland</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="dan">GEUS</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>DNK</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://eng.geus.dk/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>2012</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://eng.geus.dk/about/contact/</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="slv">Geolo&#353;ki zavod Slovenije</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="slv">GeoZS</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">Geological Survey of Slovenia</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>SVN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.geo-zs.si/index.php/en/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>2012</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>info@geo-zs.si</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Institute of Geology &amp; Mineral Exploration</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">IGME</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>GRC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://portal.igme.gr</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>2012</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Research Council</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="ita">CNR</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">CNR</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="ita">Consiglio Nazionale delle Ricerche</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>ITA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.cnr.it/en</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>RRID:SCR_011322</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_33409</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate>2012</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.cnr.it/sitocnr/ServiziSito/contattaci_eng.html</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="fra">brgm</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="fra">Bureau de Recherches G&#233;ologiques et Mini&#232;res</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="fra">G&#233;osciences pour une terre durable</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>FRA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.brgm.fr/brgm/le-brgm-service-geologique-national/brgm-service-geologique-national</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>2012</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.brgm.fr/content/contact</ns0:institutionContact>
+                            </ns0:institution>
+                        <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                    <ns0:databaseLicense>
+                <ns0:databaseLicenseName>other</ns0:databaseLicenseName>
+                <ns0:databaseLicenseURL>https://opendatacommons.org/licenses/odbl/</ns0:databaseLicenseURL>
+            </ns0:databaseLicense>
+                    <ns0:databaseLicense>
+                <ns0:databaseLicenseName>other</ns0:databaseLicenseName>
+                <ns0:databaseLicenseURL>https://opendatacommons.org/licenses/odbl/1-0/</ns0:databaseLicenseURL>
+            </ns0:databaseLicense>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/licenses/by-nc-sa/3.0/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                    <ns0:api apiType="REST">http://ingeoclouds-api.isti.cnr.it/platform/</ns0:api>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks>Description:
+"InGeoCloudS is an innovative solution for the creation and sharing of environmental data. The project responds to the European INSPIRE Directive requiring public authorities to make all their geological data available via internet.
+InGeoCloudS will facilitate public and professional access to a large volume of geological data, especially for the study and prevention of natural disasters: earthquake zones, risk of landslides, groundwater conditions. The reliability and flexibility of Cloud architectures will provide scientists with a high-quality, robust and cost-effective service."
+InGeoClouds is a collaborative research project co-funded by the European Commission in the framework of the "Competitiveness and Innovation Framework Programme" (CIP). AKKA Group is participating as project coordinator and technical manager.</ns0:remarks>
+        <ns0:entryDate>2013-12-05</ns0:entryDate>
+        <ns0:lastUpdate>2021-12-22</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

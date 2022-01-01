@@ -1,0 +1,81 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012978</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">City of Burlington's Open Data Catalogue</ns0:repositoryName>
+                    <ns0:additionalName language="eng">Navigate Burlington data</ns0:additionalName>
+                <ns0:repositoryURL>https://navburl-burlington.opendata.arcgis.com/pages/data</ns0:repositoryURL>
+                <ns0:description language="eng">Search and explore the City of Burlington's open data.  The Open Data service makes raw city data available for public use and new application development. The Open Data service is just one of the innovative ways we are evolving our customer service practices using online technology.</ns0:description>
+                    <ns0:repositoryContact>https://webforms.burlington.ca/Capital-Works/Burlington-Maps-Feedback-Form</ns0:repositoryContact>
+                            <ns0:type>other</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">111 Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">12 Social and Behavioural Sciences</ns0:subject>
+                <ns0:missionStatementURL>https://navburl-burlington.opendata.arcgis.com/pages/data</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Software applications</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>culture</ns0:keyword>
+                    <ns0:keyword>infrastructure</ns0:keyword>
+                    <ns0:keyword>land use</ns0:keyword>
+                    <ns0:keyword>natural feature</ns0:keyword>
+                    <ns0:keyword>open budget</ns0:keyword>
+                    <ns0:keyword>property</ns0:keyword>
+                    <ns0:keyword>recreation</ns0:keyword>
+                    <ns0:keyword>transportation</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">City of Burlington</ns0:institutionName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.burlington.ca/en/index.asp</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>city@burlington.ca</ns0:institutionContact>
+                                    <ns0:institutionContact>https://webforms.burlington.ca/Capital-Works/Burlington-Maps-Feedback-Form</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Municipal Freedom of Information and Protection of Privacy Act (MFIPPA)</ns0:policyName>
+                <ns0:policyURL>https://www.ontario.ca/laws/statute/90m56</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Terms of Use for Open Data Burlington</ns0:policyName>
+                <ns0:policyURL>https://www.burlington.ca/en/services-for-you/resources/Ongoing_Projects/Open_Data/OpenDataBurlingtonTermsOfUseSeptember192011.pdf</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.burlington.ca/en/services-for-you/resources/Ongoing_Projects/Open_Data/OpenDataBurlingtonTermsOfUseSeptember192011.pdf</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                    <ns0:api apiType="FTP">https://navburl-burlington.opendata.arcgis.com/pages/data</ns0:api>
+                    <ns0:api apiType="other">https://navburl-burlington.opendata.arcgis.com/datasets/city-owned-trees</ns0:api>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                    <ns0:aidSystem>none</ns0:aidSystem>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                <ns0:remarks />
+        <ns0:entryDate>2019-03-09</ns0:entryDate>
+        <ns0:lastUpdate>2021-08-24</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

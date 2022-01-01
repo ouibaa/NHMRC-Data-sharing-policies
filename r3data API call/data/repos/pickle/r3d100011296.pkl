@@ -1,0 +1,295 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011296</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">NIST Atomic Spectra Database</ns0:repositoryName>
+                    <ns0:additionalName language="eng">ASD</ns0:additionalName>
+                    <ns0:additionalName language="eng">NIST Standard Reference Database 78</ns0:additionalName>
+                    <ns0:additionalName language="eng">Spectral Data for the Chandra X-Ray Observatory (former database / discontinued)</ns0:additionalName>
+                <ns0:repositoryURL>https://www.nist.gov/pml/atomic-spectra-database</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>biodbcore-001108</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>doi:10.18434/T4W30F</ns0:repositoryIdentifier>
+                <ns0:description language="eng">The Atomic Spectra Database (ASD) contains data for radiative transitions and energy levels in atoms and atomic ions.  Data are included for observed transitions and energy levels of most of the known chemical elements. ASD contains data on spectral lines with wavelengths from about 0.2 &#197; (&#229;ngstr&#246;ms) to 60 m (meters). For many lines, ASD includes radiative transition probabilities. The energy level data include the ground states and ionization energies for all spectra. Except where noted, the data have been critically evaluated by NIST.
+For most spectra, wavelengths, transition probabilities, relative intensities, and energy levels are integrated, so that all the available information for a given transition is incorporated under a single listing. For classified lines, in addition to the observed wavelength, ASD includes the Ritz wavelength, which is the wavelength derived from the energy levels. The Ritz wavelengths are usually more precise than the observed ones.
+Line lists containing classified lines can be ordered by either multiplet (for a given spectrum) or wavelength. For some spectra, ASD includes lists of prominent lines with wavelengths and relative intensities but without energy-level classifications.</ns0:description>
+                    <ns0:repositoryContact>https://www.nist.gov/about-nist/contact-us</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>1995</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">303 Physical and Theoretical Chemistry</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">30301 Physical Chemistry of Molecules, Interfaces and Liquids - Spectroscopy, Kinetics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">308 Optics, Quantum Optics and Physics of Atoms, Molecules and Plasmas</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">30801 Optics, Quantum Optics, Atoms, Molecules, Plasmas</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">309 Particles, Nuclei and Fields</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31 Chemistry</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">32 Physics</ns0:subject>
+                <ns0:missionStatementURL>https://www.nist.gov/about-nist/work-nist</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>actinium</ns0:keyword>
+                    <ns0:keyword>aluminium</ns0:keyword>
+                    <ns0:keyword>aluminum</ns0:keyword>
+                    <ns0:keyword>americium</ns0:keyword>
+                    <ns0:keyword>antimony</ns0:keyword>
+                    <ns0:keyword>argon</ns0:keyword>
+                    <ns0:keyword>arsenic</ns0:keyword>
+                    <ns0:keyword>astatine</ns0:keyword>
+                    <ns0:keyword>atom</ns0:keyword>
+                    <ns0:keyword>atomic</ns0:keyword>
+                    <ns0:keyword>atomic physics</ns0:keyword>
+                    <ns0:keyword>atomic property</ns0:keyword>
+                    <ns0:keyword>atomic spectroscopy</ns0:keyword>
+                    <ns0:keyword>atomic spectroscopy</ns0:keyword>
+                    <ns0:keyword>atomic-ions</ns0:keyword>
+                    <ns0:keyword>barium</ns0:keyword>
+                    <ns0:keyword>berkelium</ns0:keyword>
+                    <ns0:keyword>beryllium</ns0:keyword>
+                    <ns0:keyword>bismuth</ns0:keyword>
+                    <ns0:keyword>bohrium</ns0:keyword>
+                    <ns0:keyword>boron</ns0:keyword>
+                    <ns0:keyword>bromine</ns0:keyword>
+                    <ns0:keyword>cadmium</ns0:keyword>
+                    <ns0:keyword>calcium</ns0:keyword>
+                    <ns0:keyword>californium</ns0:keyword>
+                    <ns0:keyword>carbon</ns0:keyword>
+                    <ns0:keyword>cerium</ns0:keyword>
+                    <ns0:keyword>cesium</ns0:keyword>
+                    <ns0:keyword>chandra</ns0:keyword>
+                    <ns0:keyword>chlorine</ns0:keyword>
+                    <ns0:keyword>chromium</ns0:keyword>
+                    <ns0:keyword>cobalt</ns0:keyword>
+                    <ns0:keyword>columbium</ns0:keyword>
+                    <ns0:keyword>copernicium</ns0:keyword>
+                    <ns0:keyword>copper</ns0:keyword>
+                    <ns0:keyword>curium</ns0:keyword>
+                    <ns0:keyword>darmstadtium</ns0:keyword>
+                    <ns0:keyword>database</ns0:keyword>
+                    <ns0:keyword>deuterium</ns0:keyword>
+                    <ns0:keyword>doubly-charged</ns0:keyword>
+                    <ns0:keyword>dubnium</ns0:keyword>
+                    <ns0:keyword>dysprosium</ns0:keyword>
+                    <ns0:keyword>einsteinium</ns0:keyword>
+                    <ns0:keyword>element</ns0:keyword>
+                    <ns0:keyword>energy levels</ns0:keyword>
+                    <ns0:keyword>erbium</ns0:keyword>
+                    <ns0:keyword>europium</ns0:keyword>
+                    <ns0:keyword>fermium</ns0:keyword>
+                    <ns0:keyword>flerovium</ns0:keyword>
+                    <ns0:keyword>fluorine</ns0:keyword>
+                    <ns0:keyword>francium</ns0:keyword>
+                    <ns0:keyword>gadolinium</ns0:keyword>
+                    <ns0:keyword>gallium</ns0:keyword>
+                    <ns0:keyword>germanium</ns0:keyword>
+                    <ns0:keyword>gold</ns0:keyword>
+                    <ns0:keyword>ground states</ns0:keyword>
+                    <ns0:keyword>hafnium</ns0:keyword>
+                    <ns0:keyword>hassium</ns0:keyword>
+                    <ns0:keyword>helium</ns0:keyword>
+                    <ns0:keyword>holmium</ns0:keyword>
+                    <ns0:keyword>hydrogen</ns0:keyword>
+                    <ns0:keyword>indium</ns0:keyword>
+                    <ns0:keyword>iodine</ns0:keyword>
+                    <ns0:keyword>ionization potentials</ns0:keyword>
+                    <ns0:keyword>ionization-energies</ns0:keyword>
+                    <ns0:keyword>ionization-limits</ns0:keyword>
+                    <ns0:keyword>ionized spectra</ns0:keyword>
+                    <ns0:keyword>ionized-atoms</ns0:keyword>
+                    <ns0:keyword>iridium</ns0:keyword>
+                    <ns0:keyword>iron</ns0:keyword>
+                    <ns0:keyword>krypton</ns0:keyword>
+                    <ns0:keyword>kurchatovium</ns0:keyword>
+                    <ns0:keyword>lanthanum</ns0:keyword>
+                    <ns0:keyword>lawrencium</ns0:keyword>
+                    <ns0:keyword>lead</ns0:keyword>
+                    <ns0:keyword>line classifications</ns0:keyword>
+                    <ns0:keyword>lithium</ns0:keyword>
+                    <ns0:keyword>livermorium</ns0:keyword>
+                    <ns0:keyword>lutetium</ns0:keyword>
+                    <ns0:keyword>magnesium</ns0:keyword>
+                    <ns0:keyword>manganese</ns0:keyword>
+                    <ns0:keyword>meitnerium</ns0:keyword>
+                    <ns0:keyword>mendelevium</ns0:keyword>
+                    <ns0:keyword>mercury</ns0:keyword>
+                    <ns0:keyword>mg</ns0:keyword>
+                    <ns0:keyword>molybdenum</ns0:keyword>
+                    <ns0:keyword>multiply-charged</ns0:keyword>
+                    <ns0:keyword>ne</ns0:keyword>
+                    <ns0:keyword>neodymium</ns0:keyword>
+                    <ns0:keyword>neon</ns0:keyword>
+                    <ns0:keyword>neptunium</ns0:keyword>
+                    <ns0:keyword>neutral</ns0:keyword>
+                    <ns0:keyword>nickel</ns0:keyword>
+                    <ns0:keyword>niobium</ns0:keyword>
+                    <ns0:keyword>nitrogen</ns0:keyword>
+                    <ns0:keyword>nobelium</ns0:keyword>
+                    <ns0:keyword>observatory</ns0:keyword>
+                    <ns0:keyword>osmium</ns0:keyword>
+                    <ns0:keyword>oxygen</ns0:keyword>
+                    <ns0:keyword>palladium</ns0:keyword>
+                    <ns0:keyword>phosphorus</ns0:keyword>
+                    <ns0:keyword>physical reference data</ns0:keyword>
+                    <ns0:keyword>physical sciences</ns0:keyword>
+                    <ns0:keyword>platinum</ns0:keyword>
+                    <ns0:keyword>plutonium</ns0:keyword>
+                    <ns0:keyword>polonium</ns0:keyword>
+                    <ns0:keyword>potassium</ns0:keyword>
+                    <ns0:keyword>praseodymium</ns0:keyword>
+                    <ns0:keyword>promethium</ns0:keyword>
+                    <ns0:keyword>protactinium</ns0:keyword>
+                    <ns0:keyword>quadruply-charged</ns0:keyword>
+                    <ns0:keyword>radium</ns0:keyword>
+                    <ns0:keyword>radon</ns0:keyword>
+                    <ns0:keyword>rhenium</ns0:keyword>
+                    <ns0:keyword>rhodium</ns0:keyword>
+                    <ns0:keyword>roentgenium</ns0:keyword>
+                    <ns0:keyword>rubidium</ns0:keyword>
+                    <ns0:keyword>ruthenium</ns0:keyword>
+                    <ns0:keyword>rutherfordium</ns0:keyword>
+                    <ns0:keyword>s</ns0:keyword>
+                    <ns0:keyword>samarium</ns0:keyword>
+                    <ns0:keyword>scandium</ns0:keyword>
+                    <ns0:keyword>seaborgium</ns0:keyword>
+                    <ns0:keyword>selenium</ns0:keyword>
+                    <ns0:keyword>si</ns0:keyword>
+                    <ns0:keyword>silicium</ns0:keyword>
+                    <ns0:keyword>silicon</ns0:keyword>
+                    <ns0:keyword>silver</ns0:keyword>
+                    <ns0:keyword>singly-charged</ns0:keyword>
+                    <ns0:keyword>sodium</ns0:keyword>
+                    <ns0:keyword>spectra</ns0:keyword>
+                    <ns0:keyword>spectral lines</ns0:keyword>
+                    <ns0:keyword>spectroscopy</ns0:keyword>
+                    <ns0:keyword>spectrum</ns0:keyword>
+                    <ns0:keyword>strontium</ns0:keyword>
+                    <ns0:keyword>sulfur</ns0:keyword>
+                    <ns0:keyword>sulphur</ns0:keyword>
+                    <ns0:keyword>tantalum</ns0:keyword>
+                    <ns0:keyword>technetium</ns0:keyword>
+                    <ns0:keyword>tellurium</ns0:keyword>
+                    <ns0:keyword>terbium</ns0:keyword>
+                    <ns0:keyword>thallium</ns0:keyword>
+                    <ns0:keyword>thorium</ns0:keyword>
+                    <ns0:keyword>thulium</ns0:keyword>
+                    <ns0:keyword>tin</ns0:keyword>
+                    <ns0:keyword>titanium</ns0:keyword>
+                    <ns0:keyword>transition probabilities</ns0:keyword>
+                    <ns0:keyword>triply-charged</ns0:keyword>
+                    <ns0:keyword>tritium</ns0:keyword>
+                    <ns0:keyword>tungsten</ns0:keyword>
+                    <ns0:keyword>ununbium</ns0:keyword>
+                    <ns0:keyword>ununhexium</ns0:keyword>
+                    <ns0:keyword>ununoctium</ns0:keyword>
+                    <ns0:keyword>ununpentium</ns0:keyword>
+                    <ns0:keyword>ununquadium</ns0:keyword>
+                    <ns0:keyword>ununseptium</ns0:keyword>
+                    <ns0:keyword>ununtrium</ns0:keyword>
+                    <ns0:keyword>unununium</ns0:keyword>
+                    <ns0:keyword>uranium</ns0:keyword>
+                    <ns0:keyword>vanadium</ns0:keyword>
+                    <ns0:keyword>wavelengths</ns0:keyword>
+                    <ns0:keyword>x-ray</ns0:keyword>
+                    <ns0:keyword>xenon</ns0:keyword>
+                    <ns0:keyword>ytterbium</ns0:keyword>
+                    <ns0:keyword>yttrium</ns0:keyword>
+                    <ns0:keyword>zinc</ns0:keyword>
+                    <ns0:keyword>zirconium</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">National Aeronautics and Space Administration</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NASA</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.nasa.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Institute of Standards and Technology, Physical Measurement Laboratory</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">PML</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.nist.gov/pml/index.cfm</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Institute of Standards and Technology, Standard Reference Data Program</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NIST, SRDP</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.nist.gov/srd</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Institute of Standards and Technology, Systems Integration for Manufacturing Applications</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NIST, SIMA</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.nist.gov/el/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">U.S. Department of Commerce</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.commerce.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">U.S. Department of Energy, Office of Fusion Energy Sciences</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://science.energy.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Disclaimer</ns0:policyName>
+                <ns0:policyURL>http://www.nist.gov/public_affairs/disclaimer.cfm</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>NIST quality standards</ns0:policyName>
+                <ns0:policyURL>http://www.nist.gov/director/quality_standards.cfm</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>NIST scientific integrity</ns0:policyName>
+                <ns0:policyURL>http://www.nist.gov/director/scientific_integrity_summary.cfm</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www.nist.gov/public_affairs/disclaimer.cfm</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                <ns0:versioning>yes</ns0:versioning>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>http://physics.nist.gov/PhysRefData/ASD/Html/verhist.shtml</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks>NIST Atomic Spectra Database is covered by Thomson Reuters Data Citation Index.
+The National Institute of Standards and Technology (NIST) is an agency of the U.S. Department of Commerce.
+As of November 2011, the contents of the database "Spectral Data for the Chandra X-Ray Observatory" have been completely superseded by the NIST Atomic Spectra Database (ASD). Therefore, this database has been discontinued. To search for the data previously contained in this database (multiply ionized spectra of Ne, Mg, Si, and S), please go to Atomic Spectra Database (ASD):</ns0:remarks>
+        <ns0:entryDate>2014-11-26</ns0:entryDate>
+        <ns0:lastUpdate>2021-11-16</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

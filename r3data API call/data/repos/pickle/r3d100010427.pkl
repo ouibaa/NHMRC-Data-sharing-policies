@@ -1,0 +1,220 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010427</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Forschungsdatenzentrum am IQB</ns0:repositoryName>
+                    <ns0:additionalName language="deu">FDZ am IQB</ns0:additionalName>
+                    <ns0:additionalName language="eng">FDZ at IQB</ns0:additionalName>
+                    <ns0:additionalName language="deu">Forschungsdatenzentrum am Institut zur Qualit&#228;tsentwicklung</ns0:additionalName>
+                    <ns0:additionalName language="eng">Research Data Centre at the Institute for Educational Quality Improvement</ns0:additionalName>
+                <ns0:repositoryURL>https://www.iqb.hu-berlin.de/fdz</ns0:repositoryURL>
+                <ns0:description language="eng">The Research Data Centre (Forschungsdatenzentrum, FDZ) at the Institute for Educational Quality Improvement (Institut zur Qualit&#228;tsentwicklung im Bildungswesen, IQB) archives and documents data sets resulting from national and international assessment studies (such as DESI, PIRLS, PISA, IQB-Bildungstrends). Moreover, the FDZ makes these data sets available for re- and secondary analysis. Members of the scientific community can apply for access to the data sets archived at the FDZ.</ns0:description>
+                    <ns0:repositoryContact>fdz@iqb.hu-berlin.de</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                    <ns0:type>institutional</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2006</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>deu</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">109 Education Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">10902 Research on Teaching, Learning and Training</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">110 Psychology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">111 Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11102 Empirical Social Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">12 Social and Behavioural Sciences</ns0:subject>
+                <ns0:missionStatementURL>https://www.iqb.hu-berlin.de/fdz</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>ASCOT</ns0:keyword>
+                    <ns0:keyword>Attention is doing school</ns0:keyword>
+                    <ns0:keyword>BELLA</ns0:keyword>
+                    <ns0:keyword>BIKS</ns0:keyword>
+                    <ns0:keyword>BiLieF</ns0:keyword>
+                    <ns0:keyword>BiSS-EILe</ns0:keyword>
+                    <ns0:keyword>BiSpra</ns0:keyword>
+                    <ns0:keyword>BilWiss</ns0:keyword>
+                    <ns0:keyword>CoBALIT</ns0:keyword>
+                    <ns0:keyword>Competence Development</ns0:keyword>
+                    <ns0:keyword>CosMed</ns0:keyword>
+                    <ns0:keyword>Cross-Sectional Studies</ns0:keyword>
+                    <ns0:keyword>DESI</ns0:keyword>
+                    <ns0:keyword>Data Workshops</ns0:keyword>
+                    <ns0:keyword>DomPL-IK</ns0:keyword>
+                    <ns0:keyword>ELEMENT</ns0:keyword>
+                    <ns0:keyword>Educational Assessment</ns0:keyword>
+                    <ns0:keyword>Educational Science Knowledge</ns0:keyword>
+                    <ns0:keyword>Educational System</ns0:keyword>
+                    <ns0:keyword>FAIR</ns0:keyword>
+                    <ns0:keyword>FUnDuS</ns0:keyword>
+                    <ns0:keyword>Germany</ns0:keyword>
+                    <ns0:keyword>ICILS</ns0:keyword>
+                    <ns0:keyword>IGLU</ns0:keyword>
+                    <ns0:keyword>IQB-Bildungstrend</ns0:keyword>
+                    <ns0:keyword>IQB-Landervergleich</ns0:keyword>
+                    <ns0:keyword>International Comparison</ns0:keyword>
+                    <ns0:keyword>International Student Assessment</ns0:keyword>
+                    <ns0:keyword>KAT-HS</ns0:keyword>
+                    <ns0:keyword>Ko-NaMa</ns0:keyword>
+                    <ns0:keyword>KuL</ns0:keyword>
+                    <ns0:keyword>LABEL</ns0:keyword>
+                    <ns0:keyword>LISA</ns0:keyword>
+                    <ns0:keyword>LISA 6</ns0:keyword>
+                    <ns0:keyword>Large-Scale Assessment Studies</ns0:keyword>
+                    <ns0:keyword>Longitudinal Studies</ns0:keyword>
+                    <ns0:keyword>MARKUS</ns0:keyword>
+                    <ns0:keyword>MenZa</ns0:keyword>
+                    <ns0:keyword>MoMa</ns0:keyword>
+                    <ns0:keyword>National Assessment Study</ns0:keyword>
+                    <ns0:keyword>National Student Assessment</ns0:keyword>
+                    <ns0:keyword>PHONO</ns0:keyword>
+                    <ns0:keyword>PIRLS</ns0:keyword>
+                    <ns0:keyword>PISA</ns0:keyword>
+                    <ns0:keyword>ProFeL</ns0:keyword>
+                    <ns0:keyword>ProLeLe</ns0:keyword>
+                    <ns0:keyword>ProwiN</ns0:keyword>
+                    <ns0:keyword>QuaSUM</ns0:keyword>
+                    <ns0:keyword>SEIKA</ns0:keyword>
+                    <ns0:keyword>SEIKA-NRW</ns0:keyword>
+                    <ns0:keyword>ScaRf</ns0:keyword>
+                    <ns0:keyword>School Achievement</ns0:keyword>
+                    <ns0:keyword>StEG</ns0:keyword>
+                    <ns0:keyword>Stereotype Threat</ns0:keyword>
+                    <ns0:keyword>Student Achievement</ns0:keyword>
+                    <ns0:keyword>Systemdenken</ns0:keyword>
+                    <ns0:keyword>TEMA</ns0:keyword>
+                    <ns0:keyword>TIMSS</ns0:keyword>
+                    <ns0:keyword>proPHI</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="deu">Bundesministerium f&#252;r Bildung und Forschung</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="deu">BMBF</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">Federal Ministry of Education and Research</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.bmbf.de/bmbf/en/home/home_node.html</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:04pz7b180</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:SCR_005066</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_143994</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate>2006</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate>2011</ns0:responsibilityEndDate>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="deu">Humboldt-Universit&#228;t zu Berlin</ns0:institutionName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.hu-berlin.de/en</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:01hcx6992</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="deu">Humboldt-Universit&#228;t zu Berlin, Institut zur Qualit&#228;tsentwicklung im Bildungswesen</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="deu">IQB</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">Institute for Educational Quality Improvement</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.iqb.hu-berlin.de/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>fdz@iqb.hu-berlin.de</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="deu">Zentrum f&#252;r internationale Bildungsvergleichsstudien</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Centre for International Student Assessment</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="deu">ZIB</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://zib.education/home.html</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:02eva5865</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate>2011</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Application process and guidelines: Campus Files (CFs)</ns0:policyName>
+                <ns0:policyURL>https://www.iqb.hu-berlin.de/fdz/Datenzugang/CF-Antrag</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Application process and guidelines: Scientific Use Files (SUFs)</ns0:policyName>
+                <ns0:policyURL>https://www.iqb.hu-berlin.de/fdz/Datenzugang/SUF-Antrag</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Collection Policy</ns0:policyName>
+                <ns0:policyURL>https://www.iqb.hu-berlin.de/fdz/CollectionPolicy.pdf</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>CoreTrustSeal Assessment</ns0:policyName>
+                <ns0:policyURL>https://www.coretrustseal.org/wp-content/uploads/2020/06/UCD_Digital_Library.pdf</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Kriterien des RatSWD</ns0:policyName>
+                <ns0:policyURL>https://www.konsortswd.de/wp-content/uploads/RatSWD_FDZKriterien.PDF</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                    <ns0:databaseLicense>
+                <ns0:databaseLicenseName>CC0</ns0:databaseLicenseName>
+                <ns0:databaseLicenseURL>https://creativecommons.org/publicdomain/zero/1.0/deed.de</ns0:databaseLicenseURL>
+            </ns0:databaseLicense>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>institutional membership</ns0:dataAccessRestriction>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.iqb.hu-berlin.de/fdz/FDZNutzungsordnu.pdf</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.iqb.hu-berlin.de/fdz/Muster_FDZDatenn.pdf</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>Rules of procedure</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>https://www.iqb.hu-berlin.de/fdz/20190131_FDZ_Ver.pdf</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                            <ns0:software>
+                <ns0:softwareName>other</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                    <ns0:certificate>other</ns0:certificate>
+                    <ns0:certificate>RatSWD</ns0:certificate>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">DDI - Data Documentation Initiative</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/ddi-data-documentation-initiative</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                    <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">DataCite Metadata Schema</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/datacite-metadata-schema</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                    <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">Dublin Core</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                    <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">Repository-Developed Metadata Schemas</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/repository-developed-metadata-schemas</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks>Research Data Centre at IQB is covered by Clarivate Data Citation Index. Work at the Research Data Centre at IQB is carried out in line with the criteria for research data centres established by the German Council for Social and Economic Data (RatSWD). The project is part of the Centre for International Student Assessment (ZIB) funded by the Federal Ministry of Education and Research (BMBF) and The Standing Conference of the Ministers of Education and Cultural Affairs of the L&#228;nder in the Federal Republic of Germany.</ns0:remarks>
+        <ns0:entryDate>2013-07-04</ns0:entryDate>
+        <ns0:lastUpdate>2021-10-04</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

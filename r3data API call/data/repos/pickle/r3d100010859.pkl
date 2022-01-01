@@ -1,0 +1,181 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010859</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">World Register of Marine Species</ns0:repositoryName>
+                    <ns0:additionalName language="eng">ERMS</ns0:additionalName>
+                    <ns0:additionalName language="eng">European Register of Marine Species</ns0:additionalName>
+                    <ns0:additionalName language="eng">WoRMS</ns0:additionalName>
+                <ns0:repositoryURL>http://www.marinespecies.org/index.php</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>RRID:SCR_013312</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:nlx_156921</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>fairsharing_doi:10.25504/fairsharing.7g1bzj</ns0:repositoryIdentifier>
+                <ns0:description language="eng">The World Register of Marine Species (WoRMS) integrates approximately 100 marine datbases to provide an authoritative and comprehensive list of marine organisms. WoRMS has an editorial system where taxonomic groups are managed by experts responsible for the quality of the information.  WorMS register of marine species emerged from the European Register of Marine Species (ERMS) and the Flanders Marine Institute (VLIZ). WoRMS is a contribution to Lifewatch, Catalogue of Life, Encyclopedia of Life,
+Global Biodiversity Information Facility and the Census of Marine Life.</ns0:description>
+                    <ns0:repositoryContact>info@marinespecies.org</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                    <ns0:type>institutional</ns0:type>
+                <ns0:size updated="2021-05-31">Accepted marine species 238 356 (97% checked); Marine species names, including synonyms 469 788; Species with image 36 673 (56% checked)</ns0:size>
+        <ns0:startDate>2008</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">201 Basic Biological and Medical Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20104 Structural Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">203 Zoology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20301 Systematics and Morphology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20303 Animal Ecology, Biodiversity and Ecosystem Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31302 Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL>http://www.marinespecies.org/about.php</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>biodiversity</ns0:keyword>
+                    <ns0:keyword>biology</ns0:keyword>
+                    <ns0:keyword>marine biodiversity</ns0:keyword>
+                    <ns0:keyword>marine biology</ns0:keyword>
+                    <ns0:keyword>marine ecology</ns0:keyword>
+                    <ns0:keyword>marine species diversity</ns0:keyword>
+                    <ns0:keyword>oceanography</ns0:keyword>
+                    <ns0:keyword>taxonomists</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Alfred P. Sloan Foundation</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://sloan.org/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:052csg198</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Global Biodiversity Information Facility</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">GBIF</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>AAA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.gbif.org/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:05fjyn938</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:SCR_005904</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_149475</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Marine Biodiversity and Ecosystem Functioning</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">EU Network of Excellence</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">MarBEF</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>EEC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.marbef.org/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Ocean Biodiversity Information System</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">OBIS</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">formerly: Ocean Biogeographics Information System</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>AAA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.iobis.org/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>RRID:SCR_006933</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_154698</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Richard Lounsbery Foundation</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://rlounsbery.org/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Society for the Management of Electronic Biodiversity Data</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">SMEBD</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>EEC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.smebd.eu/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate>2015</ns0:responsibilityEndDate>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="nld">Vlaams Instituut voor de Zee</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Flanders Marine Institute</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="nld">VLIZ</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>BEL</ns0:institutionCountry>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.vliz.be/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:0496vr396</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>WoRMS instructions to editors</ns0:policyName>
+                <ns0:policyURL>http://www.marinespecies.org/aphia.php?p=manual</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/licenses/by/3.0/deed.en</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www.vliz.be/en/data-policy</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                <ns0:versioning>yes</ns0:versioning>
+                    <ns0:api apiType="REST">http://www.marinespecies.org/rest/</ns0:api>
+                    <ns0:api apiType="SOAP">http://www.marinespecies.org/aphia.php?p=soap&amp;wsdl=1</ns0:api>
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                    <ns0:pidSystem>other</ns0:pidSystem>
+                <ns0:citationGuidelineURL>http://www.marinespecies.org/index.php</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">CF (Climate and Forecast) Metadata Conventions</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/cf-climate-and-forecast-metadata-conventions</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                    <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">Darwin Core</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/darwin-core</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                    <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">Dublin Core</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                    <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">EML - Ecological Metadata Language</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/eml-ecological-metadata-language</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                            <ns0:syndication syndicationType="RSS">http://www.marinespecies.org/aphia.php?p=rss&amp;what=images</ns0:syndication>
+                    <ns0:syndication syndicationType="RSS">http://www.marinespecies.org/aphia.php?p=rss&amp;what=notes</ns0:syndication>
+                    <ns0:syndication syndicationType="RSS">http://www.marinespecies.org/aphia.php?p=rss&amp;what=vernaculars</ns0:syndication>
+                    <ns0:syndication syndicationType="RSS">http://www.marinespecies.org/aphia.php?p=rss</ns0:syndication>
+                <ns0:remarks>WoRMS has implemented the persistent identifier 'Life Science Identifier - LSID' and uses metadata Standards Darwin Core and Dublin Core</ns0:remarks>
+        <ns0:entryDate>2014-07-21</ns0:entryDate>
+        <ns0:lastUpdate>2021-06-11</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

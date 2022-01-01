@@ -1,0 +1,140 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011703</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Chesapeake Bay Data Hub</ns0:repositoryName>
+                    <ns0:additionalName language="eng">CPB</ns0:additionalName>
+                    <ns0:additionalName language="eng">Chesapeake Bay Program</ns0:additionalName>
+                <ns0:repositoryURL>https://www.chesapeakebay.net/what/data</ns0:repositoryURL>
+                <ns0:description language="eng">This interface provides access to several types of data related to the Chesapeake Bay. Bay Program databases can be queried based upon user-defined inputs such as geographic region and date range. Each query results in a downloadable, tab- or comma-delimited text file that can be imported to any program (e.g., SAS, Excel, Access) for further analysis. Comments regarding the interface are encouraged. Questions in reference to the data should be addressed to the contact provided on subsequent pages.</ns0:description>
+                    <ns0:repositoryContact>https://www.chesapeakebay.net/who/contact</ns0:repositoryContact>
+                    <ns0:repositoryContact>mmallone@chesapeakebay.net</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                    <ns0:type>institutional</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>1995</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">205 Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20502 Public Health, Health Services Research, Social Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">23 Agriculture, Forestry, Horticulture and Veterinary Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31302 Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL>http://archive.chesapeakebay.net/pubs/532.pdf</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Archived data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Audiovisual data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Databases</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Software applications</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>Geographic Information System (GIS)</ns0:keyword>
+                    <ns0:keyword>Quality Assurance (QA)</ns0:keyword>
+                    <ns0:keyword>agriculture</ns0:keyword>
+                    <ns0:keyword>algae</ns0:keyword>
+                    <ns0:keyword>bathymetry</ns0:keyword>
+                    <ns0:keyword>biodiversity</ns0:keyword>
+                    <ns0:keyword>crabs</ns0:keyword>
+                    <ns0:keyword>disease</ns0:keyword>
+                    <ns0:keyword>drainage basin</ns0:keyword>
+                    <ns0:keyword>ecology</ns0:keyword>
+                    <ns0:keyword>ecosystem</ns0:keyword>
+                    <ns0:keyword>emissions</ns0:keyword>
+                    <ns0:keyword>fish</ns0:keyword>
+                    <ns0:keyword>forest</ns0:keyword>
+                    <ns0:keyword>hydrology</ns0:keyword>
+                    <ns0:keyword>invertebrate</ns0:keyword>
+                    <ns0:keyword>land use</ns0:keyword>
+                    <ns0:keyword>mammal</ns0:keyword>
+                    <ns0:keyword>marine</ns0:keyword>
+                    <ns0:keyword>natural infrasturcture</ns0:keyword>
+                    <ns0:keyword>pollution</ns0:keyword>
+                    <ns0:keyword>sedimentation</ns0:keyword>
+                    <ns0:keyword>submerged aquatic vegetation</ns0:keyword>
+                    <ns0:keyword>terrestrial</ns0:keyword>
+                    <ns0:keyword>urbanization</ns0:keyword>
+                    <ns0:keyword>vertebrate</ns0:keyword>
+                    <ns0:keyword>water quality</ns0:keyword>
+                    <ns0:keyword>watershed</ns0:keyword>
+                    <ns0:keyword>zooplankton</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">U.S. Environmental Protection Agency, Chesapeake Bay Program Office</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">EPA, CBPO</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www2.epa.gov/aboutepa/about-chesapeake-bay-program-office</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>debell.kevin@epa.gov</ns0:institutionContact>
+                                    <ns0:institutionContact>https://www2.epa.gov/aboutepa/about-chesapeake-bay-program-office</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Chesapeake Bay Program Guidance for Data Management</ns0:policyName>
+                <ns0:policyURL>http://archive.chesapeakebay.net/cims/Guidance%20for%20Data%20Management%20Nov%202006.pdf</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                    <ns0:databaseLicense>
+                <ns0:databaseLicenseName>other</ns0:databaseLicenseName>
+                <ns0:databaseLicenseURL>http://archive.chesapeakebay.net/cims/Guidance%20for%20Data%20Management%20Nov%202006.pdf</ns0:databaseLicenseURL>
+            </ns0:databaseLicense>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>closed</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>other</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.chesapeakebay.net/site/terms</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>Public Domain</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.chesapeakebay.net/site/terms</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://archive.chesapeakebay.net/cims/Guidance%20for%20Data%20Management%20Nov%202006.pdf</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>open</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>Chesapeake Bay Program Guidance for Data Management</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>http://archive.chesapeakebay.net/cims/Guidance%20for%20Data%20Management%20Nov%202006.pdf</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                            <ns0:software>
+                <ns0:softwareName>other</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                        <ns0:citationGuidelineURL>https://www.chesapeakebay.net/terms</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">FGDC/CSDGM - Federal Geographic Data Committee Content Standard for Digital Geospatial Metadata</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/fgdccsdgm-federal-geographic-data-committee-content-standard-digital-ge</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                    <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">other</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/abcd-access-biological-collection-data</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks>The Chesapeake Bay Program  is founded on the commitment of Pennsylvania, Maryland, Virginia, the District of Columbia, the Federal Government and the Chesapeake Bay Commission to work in partnership to protect and restore the Chesapeake Bay system. In the years since the Chesapeake Bay Agreement of 1983 , the Program has expanded its scope of partnerships to include greater participation by citizens, local governments, businesses and others. The Program has also expanded its geographic and technical scope by encompassing more activities in the watershed, the airshed and even the influence of the ocean in recognition of the extensive ecosystem connections that affect the Bay and its management.
+Funding: https://www.chesapeakebay.net/about/how/funding   --
+Bay program partners: http://www.chesapeakebay.net/about/partners</ns0:remarks>
+        <ns0:entryDate>2015-11-09</ns0:entryDate>
+        <ns0:lastUpdate>2018-12-19</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

@@ -1,0 +1,99 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012194</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">CKAN @ IoT Lab</ns0:repositoryName>
+                <ns0:repositoryURL>http://ckan.iotlab.eu/</ns0:repositoryURL>
+                <ns0:description language="eng">IoT Lab is a research platform exploring the potential of crowdsourcing and Internet of Things for multidisciplinary research with more end-user interactions. 
+IoT Lab is a European Research project which aims at researching the potential of crowdsourcing to extend IoT testbed infrastructure for multidisciplinary experiments with more end-user interactions. It addresses topics such as:
+- Crowdsourcing mechanisms and tools;
+- &#8220;Crowdsourcing-driven research&#8221;;
+- Virtualization of crowdsourcing and testbeds;
+- Ubiquitous Interconnection and Cloudification of testbeds;
+- Testbed as a Service platform;
+- Multidisciplinary experiments;
+- End-user and societal value creation;
+- Privacy and personal data protection.</ns0:description>
+                    <ns0:repositoryContact>mhazan@mandint.org</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2016</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">4 Engineering Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">408 Electrical Engineering</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">40802 Communication, High-Frequency and Network Technology, Theoretical Electrical Engineering</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">409 Computer Science</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">40902 Software Technology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">40904 Artificial Intelligence, Image and Language Processing</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">44 Computer Science, Electrical and System Engineering</ns0:subject>
+                <ns0:missionStatementURL>http://ckan.iotlab.eu/about</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>F-Interop</ns0:keyword>
+                    <ns0:keyword>actuators</ns0:keyword>
+                    <ns0:keyword>historical</ns0:keyword>
+                    <ns0:keyword>humidity</ns0:keyword>
+                    <ns0:keyword>live</ns0:keyword>
+                    <ns0:keyword>luminance</ns0:keyword>
+                    <ns0:keyword>meteo</ns0:keyword>
+                    <ns0:keyword>motion</ns0:keyword>
+                    <ns0:keyword>nanoscience</ns0:keyword>
+                    <ns0:keyword>performance test tools</ns0:keyword>
+                    <ns0:keyword>relay</ns0:keyword>
+                    <ns0:keyword>sensors</ns0:keyword>
+                    <ns0:keyword>temperature</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">IoT Lab</ns0:institutionName>
+                                <ns0:institutionCountry>EEC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.iotlab.eu</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.iotlab.eu/IOTLabProject/Contact</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Mandat International</ns0:institutionName>
+                                <ns0:institutionCountry>CHE</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.mandint.org/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:01r0w2t07</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.mandint.org/en/contact</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Terms and conditions of the IOT Lab Project</ns0:policyName>
+                <ns0:policyURL>http://www.iotlab.eu/IOTLabProject/PrivacyRulesAndGuidelines</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www.opendefinition.org/licenses/cc-by-sa</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>CKAN</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                    <ns0:api apiType="REST">http://docs.ckan.org/en/ckan-2.4.1/api/</ns0:api>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                <ns0:remarks />
+        <ns0:entryDate>2016-10-24</ns0:entryDate>
+        <ns0:lastUpdate>2021-09-03</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

@@ -1,0 +1,123 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012307</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">RADAR Luke</ns0:repositoryName>
+                    <ns0:additionalName language="eng">Luke research data descriptions</ns0:additionalName>
+                    <ns0:additionalName language="fin">Luonnonvarakeskuksen tutkimusaineistokuvausten hakupalvelu</ns0:additionalName>
+                    <ns0:additionalName language="eng">Research data descriptions discovery service of Natural Resources Institute Finland</ns0:additionalName>
+                <ns0:repositoryURL>http://radar.luke.fi/catalog/search/search.page</ns0:repositoryURL>
+                <ns0:description language="eng">RADAR service offers the ability to search for research data descriptions of the Natural Resources Institute Finland (Luke). The service includes descriptions of research data for agriculture, forestry and food sectors, game management, fisheries and environment. The public web service aims to facilitate discovering subjects of natural resources studies. 
+In addition to Luke's research data descriptions one can search metadata of the Finnish Environment Institute (SYKE). The interface between Luke and SYKE metadata services combines Luke's research data descriptions and SYKE's descriptions of spatial datasets and data systems into a unified search service.</ns0:description>
+                    <ns0:repositoryContact>sirpa.suonpaa@luke.fi</ns0:repositoryContact>
+                            <ns0:type>institutional</ns0:type>
+                <ns0:size updated="2019-01-23">888 records</ns0:size>
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>fin</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>swe</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">112 Economics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">12 Social and Behavioural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">204 Microbiology, Virology and Immunology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20402 Microbial Ecology and Applied Microbiology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">23 Agriculture, Forestry, Horticulture and Veterinary Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">305 Biological Chemistry and Food Chemistry</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31 Chemistry</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">4 Engineering Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">406 Materials Science</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">410 Construction Engineering and Architecture</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">41002 Urbanism, Spatial Planning, Transportation and Infrastructure Planning, Landscape Planning</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">43 Materials Science and Engineering</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">45 Construction Engineering and Architecture</ns0:subject>
+                <ns0:missionStatementURL>http://radar.luke.fi/catalog/content/about.page</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>agriculture</ns0:keyword>
+                    <ns0:keyword>economics</ns0:keyword>
+                    <ns0:keyword>fisheries</ns0:keyword>
+                    <ns0:keyword>forestry</ns0:keyword>
+                    <ns0:keyword>game</ns0:keyword>
+                    <ns0:keyword>nutrition</ns0:keyword>
+                    <ns0:keyword>statistics</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Esri Geoportal Server</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.esri.com/en-us/arcgis/products/geoportal-server/overview</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">European Commission, EASME, Life programme</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Life+</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>EEC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://ec.europa.eu/environment/life/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://ec.europa.eu/easme/en/section/life/life-national-contact-points</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Natural Resources Institute Finland</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Luke</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="fin">Luonnonvarakeskus</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="swe">Naturresursinstitutet</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>FIN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.luke.fi/en/luke-3/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>2015-01-01</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>Eero.Mikkola@luke.fi</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Code of conduct</ns0:policyName>
+                <ns0:policyURL>https://www.luke.fi/en/luke-3/strategy/code-of-conduct/</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                    <ns0:databaseLicense>
+                <ns0:databaseLicenseName>CC</ns0:databaseLicenseName>
+                <ns0:databaseLicenseURL>https://creativecommons.org/licenses/by/4.0/</ns0:databaseLicenseURL>
+            </ns0:databaseLicense>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>other</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/licenses/by/4.0/deed.fi</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>institutional membership</ns0:dataUploadRestriction>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                <ns0:versioning />
+                    <ns0:api apiType="REST">http://metatieto.ymparisto.fi:8080/geoportal/webhelp/en/geoportal/index.html#//00t000000030000000.htm</ns0:api>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">FGDC/CSDGM - Federal Geographic Data Committee Content Standard for Digital Geospatial Metadata</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/fgdccsdgm-federal-geographic-data-committee-content-standard-digital-ge</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                    <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">ISO 19115</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/iso-19115</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks />
+        <ns0:entryDate>2017-01-29</ns0:entryDate>
+        <ns0:lastUpdate>2019-01-23</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

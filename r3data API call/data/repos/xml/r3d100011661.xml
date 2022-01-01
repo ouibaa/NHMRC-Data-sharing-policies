@@ -1,0 +1,196 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011661</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">M-TROPICS</ns0:repositoryName>
+                    <ns0:additionalName language="eng">Multiscale TROPIcal CatchmentS</ns0:additionalName>
+                    <ns0:additionalName language="fra">formerly: Bassins Versants Exp&#233;rimentaux Tropicaux</ns0:additionalName>
+                    <ns0:additionalName language="eng">formerly: Experimental Tropical Watersheds</ns0:additionalName>
+                <ns0:repositoryURL>https://mtropics.obs-mip.fr/</ns0:repositoryURL>
+                <ns0:description language="eng">The CZO Multiscale TROPIcal CatchmentS (M-TROPICS) consists in the merging, in 2016, of two previously-existing CZOs: BVET (India and Cameroon) and MSEC (Laos and Vietnam).
+The CZO Multiscale TROPIcal CatchmentS (M-TROPICS) provides the international scientific community with unique decennial time series of meteorological, hydrological, geochemical, and ecological variables in tropical environments. The CZO M-TROPICS involves academic and governmental partners in tropical countries (Cameroun, India, Lao PDR, and Vietnam) and is included in the Research Infrastructure OZCAR, the French contribution to the international CZO initiative.</ns0:description>
+                    <ns0:repositoryContact>https://mtropics.obs-mip.fr/technical-contact-form-2/</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2016</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>fra</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">316 Geochemistry, Mineralogy and Crystallography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">318 Water Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL>https://mtropics.obs-mip.fr/presentation-eng/historical-background/</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>BVET</ns0:keyword>
+                    <ns0:keyword>Cameroon</ns0:keyword>
+                    <ns0:keyword>FAIR</ns0:keyword>
+                    <ns0:keyword>India</ns0:keyword>
+                    <ns0:keyword>MSEC</ns0:keyword>
+                    <ns0:keyword>air temperature</ns0:keyword>
+                    <ns0:keyword>biogeochemistry</ns0:keyword>
+                    <ns0:keyword>ecosystem</ns0:keyword>
+                    <ns0:keyword>environment</ns0:keyword>
+                    <ns0:keyword>erosion</ns0:keyword>
+                    <ns0:keyword>global radiation</ns0:keyword>
+                    <ns0:keyword>hydrochemistry</ns0:keyword>
+                    <ns0:keyword>hydrology</ns0:keyword>
+                    <ns0:keyword>measurement</ns0:keyword>
+                    <ns0:keyword>meteorology</ns0:keyword>
+                    <ns0:keyword>mineralogy</ns0:keyword>
+                    <ns0:keyword>rainfall</ns0:keyword>
+                    <ns0:keyword>sediment</ns0:keyword>
+                    <ns0:keyword>water</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="fra">G&#233;osciences Environnement  Toulouse</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="fra">GET</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>FRA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.get.omp.eu/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:05k0qmv73</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="fra">IEES Paris</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Institute of Ecology and Environmental Sciences Paris</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>FRA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://iees-paris.fr/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:02s56xp85</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Indian Institute of Science Bangalore</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">IIS</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>IND</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.iisc.ac.in/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:04dese585</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="fra">Institut de Recherches G&#233;ologiques et Mini&#232;res</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">IRGM</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">Institute of Geological and Mining Research</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CMR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.irgm-cameroun.org/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:02hz8mm45</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="fra">Laboratoire des Sciences du Climat et de l'Environnement</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="fra">LSCE</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>FRA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.lsce.ipsl.fr/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:01j4h9t83</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National University of Lao PDR</ns0:institutionName>
+                                <ns0:institutionCountry>LAO</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://nuol.edu.la/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Observatoire des sciences de l'univers, Ecce Terra</ns0:institutionName>
+                                <ns0:institutionCountry>FRA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.ecceterra.upmc.fr/fr/index.html</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Soil and Fertilisers Research Institute</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">SFRI</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>VNM</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://sfri.org.vn/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of Science and Technology of Hanoi</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">USTH</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>VNM</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.usth.edu.vn/en/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of Yaound&#233;</ns0:institutionName>
+                                <ns0:institutionCountry>CMR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://uy1.uninet.cm/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:022zbs961</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                        <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/licenses/by/4.0/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                    <ns0:aidSystem>none</ns0:aidSystem>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">DDI - Data Documentation Initiative</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/ddi-data-documentation-initiative</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                    <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">DataCite Metadata Schema</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/abcd-access-biological-collection-data</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                    <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">Dublin Core</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/abcd-access-biological-collection-data</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks>Data collected as part of M-TROPICS based research projects: https://dataverse.ird.fr/dataverse/M-TROPICS
+International joint laboratories and other networks:  https://mtropics.obs-mip.fr/presentation-eng/national-and-international-networks/
+Related research projects:  https://mtropics.obs-mip.fr/presentation-eng/related-research-projects/</ns0:remarks>
+        <ns0:entryDate>2015-10-07</ns0:entryDate>
+        <ns0:lastUpdate>2021-10-12</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

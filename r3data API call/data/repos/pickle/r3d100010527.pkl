@@ -1,0 +1,163 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010527</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">European Nucleotide Archive</ns0:repositoryName>
+                    <ns0:additionalName language="eng">ENA</ns0:additionalName>
+                <ns0:repositoryURL>https://www.ebi.ac.uk/ena/browser/home</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.dj8nt8</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>MIR:00000372</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>OMICS_01029</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:SCR_006515</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:nif-0000-32981</ns0:repositoryIdentifier>
+                <ns0:description language="eng">The European Nucleotide Archive (ENA) captures and presents information relating to experimental workflows that are based around nucleotide sequencing. A typical workflow includes the isolation and preparation of material for sequencing, a run of a sequencing machine in which sequencing data are produced and a subsequent bioinformatic analysis pipeline. ENA records this information in a data model that covers input information (sample, experimental setup, machine configuration), output machine data (sequence traces, reads and quality scores) and interpreted information (assembly, mapping, functional annotation). 
+Data arrive at ENA from a variety of sources. These include submissions of raw data, assembled sequences and annotation from small-scale sequencing efforts, data provision from the major European sequencing centres and routine and comprehensive exchange with our partners in the International Nucleotide Sequence Database Collaboration (INSDC).
+Provision of nucleotide sequence data to ENA or its INSDC partners has become a central and mandatory step in the dissemination of research findings to the scientific community. ENA works with publishers of scientific literature and funding bodies to ensure compliance with these principles and to provide optimal submission systems and data access tools that work seamlessly with the published literature.</ns0:description>
+                    <ns0:repositoryContact>https://www.ebi.ac.uk/ena/browser/support</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2010</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">201 Basic Biological and Medical Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20105 General Genetics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20107 Bioinformatics and Theoretical Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">204 Microbiology, Virology and Immunology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                <ns0:missionStatementURL>https://www.ebi.ac.uk/ena/browser/about</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Networkbased data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Software applications</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>CRAM</ns0:keyword>
+                    <ns0:keyword>DNA, RNA</ns0:keyword>
+                    <ns0:keyword>epigenomics</ns0:keyword>
+                    <ns0:keyword>genome</ns0:keyword>
+                    <ns0:keyword>human genetics</ns0:keyword>
+                    <ns0:keyword>metagenomics</ns0:keyword>
+                    <ns0:keyword>protein coding</ns0:keyword>
+                    <ns0:keyword>samples</ns0:keyword>
+                    <ns0:keyword>taxonomy data</ns0:keyword>
+                    <ns0:keyword>transcripts</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Biotechnology and Biological Sciences Research Council</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">BBSRC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>GBR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://bbsrc.ukri.org/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:00cwqg982</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:SCR_011118</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_inv_1005015</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">European Commission, Research &amp; Innovation, Seventh Framework Programm - FP7</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">EC-FP7</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>EEC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://wayback.archive-it.org/12090/20191127213419/https:/ec.europa.eu/research/fp7/index_en.cfm</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">European Molecular Biology Laboratory - The European Bioinformatics Institute</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">EMBL-EBI</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>EEC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.ebi.ac.uk/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:02catss52</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:SCR_004727</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_72386</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>datasubs@ebi.ac.uk</ns0:institutionContact>
+                                    <ns0:institutionContact>update@ebi.ac.uk</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">International Nucleotide Sequence Database Collaboration</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">INSDC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>AAA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.insdc.org/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>MIR:00000029</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>OMICS_01653</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:SCR_011967</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Wellcome Trust Genome Campus</ns0:institutionName>
+                                <ns0:institutionCountry>GBR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://wellcome.org/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>EMBL-EBI terms of use</ns0:policyName>
+                <ns0:policyURL>https://www.ebi.ac.uk/about/terms-of-use/</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>ENA and INSDC Policies</ns0:policyName>
+                <ns0:policyURL>https://www.ebi.ac.uk/ena/browser/about/policies</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>International Nucleotide Sequence Database Collaboration Policy</ns0:policyName>
+                <ns0:policyURL>https://www.insdc.org/policy.html</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                    <ns0:databaseLicense>
+                <ns0:databaseLicenseName>Apache License 2.0</ns0:databaseLicenseName>
+                <ns0:databaseLicenseURL>https://www.apache.org/licenses/LICENSE-2.0</ns0:databaseLicenseURL>
+            </ns0:databaseLicense>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/publicdomain/zero/1.0/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>CC</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>https://creativecommons.org/publicdomain/zero/1.0/</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                            <ns0:software>
+                <ns0:softwareName>other</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                    <ns0:api apiType="FTP">https://ena-docs.readthedocs.io/en/latest/retrieval/file-download.html</ns0:api>
+                    <ns0:api apiType="REST">https://ena-docs.readthedocs.io/en/latest/retrieval/programmatic-access.html</ns0:api>
+                    <ns0:api apiType="REST">https://www.ebi.ac.uk/ena/browser/api/</ns0:api>
+                    <ns0:api apiType="REST">https://www.ebi.ac.uk/ena/portal/api/</ns0:api>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://www.ebi.ac.uk/ena/browser/about/citing-ena</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                    <ns0:syndication syndicationType="RSS">https://www.ebi.ac.uk/about/news/service-news.xml</ns0:syndication>
+                    <ns0:syndication syndicationType="RSS">https://www.ebi.ac.uk/about/news/press-releases.xml</ns0:syndication>
+                <ns0:remarks>is covered by Elsevier. European Nucleotide Archive is covered by Thomson Reuters Data Citation Index. The ENA is developed and maintained at the EMBL-EBI under the guidance of the INSDC International Advisory Committee and a newly formed Scientific Advisory Board. ENA is part of the International Nucleotide Sequence Database Collaboration, which comprises the DNA DataBank of Japan (DDBJ), the European Molecular Biology Laboratory (EMBL), and GenBank at NCBI.
+The archive is composed of three main databases: the Sequence Read Archive, the Trace Archive and the EMBL Nucleotide Sequence Database (also known as EMBL-Bank). The ENA has grown out of the EMBL Data Library which was released in 1982 as the first internationally supported resource for nucleotide sequence data</ns0:remarks>
+        <ns0:entryDate>2013-09-26</ns0:entryDate>
+        <ns0:lastUpdate>2021-12-13</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

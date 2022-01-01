@@ -1,0 +1,120 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010208</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">The SuiteSparse Matrix Collection</ns0:repositoryName>
+                    <ns0:additionalName language="eng">The University of Florida Sparse Matrix Collection (formerly)</ns0:additionalName>
+                    <ns0:additionalName language="eng">UFL, Sparse Matrix Collection</ns0:additionalName>
+                <ns0:repositoryURL>https://sparse.tamu.edu</ns0:repositoryURL>
+                <ns0:description language="eng">The SuiteSparse Matrix Collection is a large and actively growing set of sparse matrices that arise in real applications. The Collection is widely used by the numerical linear algebra community for the development and performance evaluation of sparse matrix algorithms. It allows for robust and repeatable experiments. Its matrices cover a wide spectrum of domains, include those arising from problems with underlying 2D or 3D geometry (as structural engineering, computational fluid dynamics, model reduction, electromagnetics, semiconductor devices, thermodynamics, materials, acoustics, computer graphics/vision, robotics/kinematics, and other discretizations) and those that typically do not have such geometry (optimization, circuit simulation, economic and financial modeling, theoretical and quantum chemistry, chemical process simulation, mathematics and statistics, power networks, and other networks and graphs.</ns0:description>
+                    <ns0:repositoryContact>http://faculty.cse.tamu.edu/davis/background.html</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2020-02-17">2.856 matrices</ns0:size>
+        <ns0:startDate>2011</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">312 Mathematics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">33 Mathematics</ns0:subject>
+                <ns0:missionStatementURL>https://sparse.tamu.edu/about</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>algorithm analysis</ns0:keyword>
+                    <ns0:keyword>algorithms</ns0:keyword>
+                    <ns0:keyword>discrete mathematics</ns0:keyword>
+                    <ns0:keyword>experimentation</ns0:keyword>
+                    <ns0:keyword>graph drawing</ns0:keyword>
+                    <ns0:keyword>graph theory</ns0:keyword>
+                    <ns0:keyword>mathematical software</ns0:keyword>
+                    <ns0:keyword>mathematics of computing</ns0:keyword>
+                    <ns0:keyword>multilevel algorithms</ns0:keyword>
+                    <ns0:keyword>numerical analysis</ns0:keyword>
+                    <ns0:keyword>numerical linear algebra</ns0:keyword>
+                    <ns0:keyword>performance</ns0:keyword>
+                    <ns0:keyword>performance evaluation</ns0:keyword>
+                    <ns0:keyword>sparse matrices</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">National Science Foundation</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NSF</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.nsf.gov/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:021nxhr62</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Texas A&amp;M University</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">ATM</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.tamu.edu/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:01f5ytq51</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://faculty.cse.tamu.edu/davis/welcome.html</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of Florida, Department of Computer and Information Science and Engineering</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">CISE</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.cise.ufl.edu/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>DrTimothyAldenDavis@gmail.com</ns0:institutionContact>
+                                    <ns0:institutionContact>http://www.cise.ufl.edu/~davis/background.html</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Policies &amp; Statements</ns0:policyName>
+                <ns0:policyURL>https://www.tamu.edu/statements/</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                    <ns0:databaseLicense>
+                <ns0:databaseLicenseName>other</ns0:databaseLicenseName>
+                <ns0:databaseLicenseURL>https://opensource.org/licenses/MIT</ns0:databaseLicenseURL>
+            </ns0:databaseLicense>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>embargoed</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://sparse.tamu.edu/submit</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>other</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                    <ns0:api apiType="other">https://sparse.tamu.edu/interfaces</ns0:api>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://sparse.tamu.edu/about</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks>SuiteSparse Matrix Collection is covered by Clarivate Data Citation Index. The SuiteSparse Matrix Collection (formerly known as the University of Florida Sparse Matrix Collection)
+I am now at Texas A&amp;M University, with a home page of http://faculty.cse.tamu.edu/davis. The UF Sparse Matrix Collection is still hosted at this site by the University of Florida. It will soon be hosted at a new primary wev site at Texas A&amp;M University (See:  https://sparse.tamu.edu ); this site will continue to be maintained and kept up to date as a mirror. My SuiteSparse package of sparse matrix solvers is hosted at suitesparse.com   // 
+We provide software for accessing and managing the Collection, from MATLABTM, MathematicaTM,
+Fortran, and C, as well as an online search capability. Graph visualization of the matrices is provided, and a new multilevel coarsening scheme is proposed to facilitate this task. The collection also appears as a Public Data Set hosted by Amazon Web Services, at aws.amazon.com This collection is managed by Tim Davis (University of Florida, Department of Computer and Information Science and Engineering) , with images created by Yifan Hu (AT&amp;T Labs Research). // The University of Florida Sparse Matrix Collection is covered by Thomson Reuters Data Citation Index.</ns0:remarks>
+        <ns0:entryDate>2013-02-12</ns0:entryDate>
+        <ns0:lastUpdate>2020-02-17</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

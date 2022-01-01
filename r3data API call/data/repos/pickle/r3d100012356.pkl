@@ -1,0 +1,141 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012356</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Electron Microscopy Public Image Archive</ns0:repositoryName>
+                    <ns0:additionalName language="eng">EMDB Public Image Archive</ns0:additionalName>
+                    <ns0:additionalName language="eng">EMPIAR</ns0:additionalName>
+                    <ns0:additionalName language="eng">Electron Microscopy Data Bank Public Image Archive</ns0:additionalName>
+                    <ns0:additionalName language="eng">formerly: Electron Microscopy Pilot Image ARchive</ns0:additionalName>
+                <ns0:repositoryURL>https://www.ebi.ac.uk/empiar/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>OMICS_11376</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>biodbcore-001140</ns0:repositoryIdentifier>
+                <ns0:description language="eng">EMPIAR, the Electron Microscopy Public Image Archive, is a public resource for raw, 2D electron microscopy images. Here, you can browse, upload, download and reprocess the thousands of raw, 2D images used to build a 3D structure. 
+The purpose of EMPIAR is to provide an easy access to the state-of-the-art raw data to facilitate methods development and validation, which will lead to better 3D structures. It complements the Electron Microscopy Data Bank (EMDB), where 3D images are stored, and uses the fault-tolerant Aspera platform for data transfers</ns0:description>
+                    <ns0:repositoryContact>empdep-help@ebi.ac.uk</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2020-01-30">268 entries</ns0:size>
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">201 Basic Biological and Medical Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20105 General Genetics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">204 Microbiology, Virology and Immunology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                <ns0:missionStatementURL>http://www.ebi.ac.uk/pdbe/emdb/empiar/about</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>2D crystallography</ns0:keyword>
+                    <ns0:keyword>micrograph</ns0:keyword>
+                    <ns0:keyword>particle</ns0:keyword>
+                    <ns0:keyword>tilt-series</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Biotechnology and Biological Sciences Research Council</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">BBSRC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>GBR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://bbsrc.ukri.org/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:00cwqg982</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://bbsrc.ukri.org/about/contact/</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">European Molecular Biology Laboratory, European Bioinformatics Institute</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">EMBL-EBI</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>EEC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.ebi.ac.uk/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>GRID:225360.0</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>ISNI:0000000097097726</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>ROR:02catss52</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>Wikidata:Q1341845</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.ebi.ac.uk/about/contact</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Medical Research Council</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">MRC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>GBR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.mrc.ac.uk/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>Crossref Funder ID:501100000265</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>GRID:14105.31</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>ISNI:0000000122478951</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>ROR:03x94j517</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>Wikidata:Q746879</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.mrc.ac.uk/about/contact/</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Protein Data Bank in Europe</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">PDBe</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>GBR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.ebi.ac.uk/pdbe/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Wellcome Trust</ns0:institutionName>
+                                <ns0:institutionCountry>GBR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://wellcome.ac.uk/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:029chgv08</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://wellcome.ac.uk/about-us/contact-us</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>EMBL-EBI&#8217;s Terms of Use</ns0:policyName>
+                <ns0:policyURL>http://www.ebi.ac.uk/about/terms-of-use</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>wwPDB Processing Procedures and Policies Document</ns0:policyName>
+                <ns0:policyURL>http://www.wwpdb.org/documentation/policy</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Public Domain</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www.ebi.ac.uk/pdbe/emdb/empiar/about</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>EMPIAR deposition manual</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>https://www.ebi.ac.uk/pdbe/emdb/empiar/deposition/manual/</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                            <ns0:software>
+                <ns0:softwareName>other</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                    <ns0:api apiType="REST">https://www.ebi.ac.uk/emdb/api/</ns0:api>
+                    <ns0:api apiType="REST">https://www.ebi.ac.uk/pdbe/emdb/empiar/api/documentation/</ns0:api>
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://www.ebi.ac.uk/pdbe/emdb/empiar/about#accessionCodes</ns0:citationGuidelineURL>
+                    <ns0:aidSystem>ORCID</ns0:aidSystem>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks>EMPIAR, the Electron Microscopy Public Image Archive, is a public resource for raw, 2D electron microscopy images related to 3DEM experiments. The  EMPIAR Deposition System can be used to deposited data to EMPIAR. However prior to depositing data to EMPIAR, the associated 3DEM reconstructions must be deposited to EMDB.</ns0:remarks>
+        <ns0:entryDate>2017-05-02</ns0:entryDate>
+        <ns0:lastUpdate>2021-09-08</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

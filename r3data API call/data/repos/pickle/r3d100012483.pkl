@@ -1,0 +1,78 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012483</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">National Park Service Geographic Information Systems</ns0:repositoryName>
+                    <ns0:additionalName language="eng">I&amp;M GIS</ns0:additionalName>
+                    <ns0:additionalName language="eng">Inventory &amp; Monitoring Geopgraphic Information Systems</ns0:additionalName>
+                <ns0:repositoryURL>https://www.nps.gov/gis/index.html</ns0:repositoryURL>
+                <ns0:description language="eng">The I&amp;M GIS group of NPS manages the collection, analysis, and distribution of I&amp;M, NPS, and related geospatial data to I&amp;M networks, the NPS, and the public. Develops, collects, and shares helpful GIS tools, extensions, and applications with I&amp;M networks, the NPS, and the public.</ns0:description>
+                    <ns0:repositoryContact>https://www.nps.gov/aboutus/contact-form.htm?o=4A96D0B58DC08FB284A85DA8F601&amp;r=/aboutus/contactus.htm</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">315 Geophysics and Geodesy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31502 Geodesy, Photogrammetry, Remote Sensing, Geoinformatics, Cartogaphy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL />
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Software applications</ns0:contentType>
+                            <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>GIS data</ns0:keyword>
+                    <ns0:keyword>GIS tools</ns0:keyword>
+                    <ns0:keyword>geospatial data</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">U.S Department of the Interior, National Park Service</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NPS</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.nps.gov/index.htm</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Inventory and Monitoring Division Database  Standards</ns0:policyName>
+                <ns0:policyURL>https://www.nps.gov/im/upload/IMD_Database_Standards_2015.pdf</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Managing Science Data</ns0:policyName>
+                <ns0:policyURL>https://www.nps.gov/im/data.htm</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.nps.gov/aboutus/disclaimer.htm</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>Public Domain</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.nps.gov/aboutus/disclaimer.htm</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                <ns0:versioning />
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">FGDC/CSDGM - Federal Geographic Data Committee Content Standard for Digital Geospatial Metadata</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/fgdccsdgm-federal-geographic-data-committee-content-standard-digital-ge</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                    <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">ISO 19115</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/iso-19115</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks />
+        <ns0:entryDate>2017-09-29</ns0:entryDate>
+        <ns0:lastUpdate>2021-10-06</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

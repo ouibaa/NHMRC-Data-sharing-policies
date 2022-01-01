@@ -1,0 +1,98 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011675</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Natural History Museum, Data Portal</ns0:repositoryName>
+                    <ns0:additionalName language="eng">Explore and download the Natural History Museum&#8217;s research and collections data</ns0:additionalName>
+                <ns0:repositoryURL>https://data.nhm.ac.uk/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>biodbcore-001302</ns0:repositoryIdentifier>
+                <ns0:description language="eng">The Museum is committed to open access and open science, and has launched the Data Portal to make its research and collections datasets available online. It allows anyone to explore, download and reuse the data for their own research. Our natural history collection is one of the most important in the world, documenting 4.5 billion years of life, the Earth and the solar system. Almost all animal, plant, mineral and fossil groups are represented. These datasets will increase exponentially. Under the Museum's ambitious digital collections programme we aim to have 20 million specimens digitised in the next five years.</ns0:description>
+                    <ns0:repositoryContact>data@nhm.ac.uk</ns0:repositoryContact>
+                    <ns0:repositoryContact>https://data.nhm.ac.uk/contact</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                    <ns0:type>other</ns0:type>
+                <ns0:size updated="2015-10-20">2.834.363 records</ns0:size>
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">201 Basic Biological and Medical Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">203 Zoology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20302 Evolution, Anthropology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                <ns0:missionStatementURL>http://data.nhm.ac.uk/about</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Archived data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>biodiversity</ns0:keyword>
+                    <ns0:keyword>botany</ns0:keyword>
+                    <ns0:keyword>entomology</ns0:keyword>
+                    <ns0:keyword>mineralogy</ns0:keyword>
+                    <ns0:keyword>palaeontology</ns0:keyword>
+                    <ns0:keyword>zoology</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Natural History Museum</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NHM</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>GBR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.nhm.ac.uk/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.nhm.ac.uk/contact-us.html</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Terms and conditions of use</ns0:policyName>
+                <ns0:policyURL>http://www.nhm.ac.uk/about-us/website-terms-conditions.html</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>other</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://opendefinition.org/licenses/cc-by/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>CC0</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://opendefinition.org/licenses/cc-zero/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>ODC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://data.nhm.ac.uk/dataset</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://data.nhm.ac.uk/terms-conditions</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>CKAN</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                    <ns0:api apiType="REST">http://data.nhm.ac.uk/about/download</ns0:api>
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                <ns0:citationGuidelineURL>http://data.nhm.ac.uk/about/citation</ns0:citationGuidelineURL>
+                    <ns0:aidSystem>none</ns0:aidSystem>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks>The Data Portal has been developed by the Museum&#8217;s biodiversity informatics group, with the help and support of teams throughout the Museum.</ns0:remarks>
+        <ns0:entryDate>2015-10-20</ns0:entryDate>
+        <ns0:lastUpdate>2021-11-17</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

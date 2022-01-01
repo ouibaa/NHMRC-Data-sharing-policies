@@ -1,0 +1,110 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012104</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Signature Bank</ns0:repositoryName>
+                    <ns0:additionalName language="fra">Banque Signature</ns0:additionalName>
+                <ns0:repositoryURL>http://www.iusmm.ca/research/signature-bank.html</ns0:repositoryURL>
+                <ns0:description language="eng">One of the world&#8217;s largest banks of biological, psychosocial and clinical data on people suffering from mental health problems. The Signature center systematically collects biological, psychosocial and clinical indicators from patients admitted to the psychiatric emergency and at four points throughout their journey in the hospital: upon arrival to the emergency room (state of crisis), at the end of their hospital stay, as well as at the beginning and the end of outpatient treatment. For all hospital clients who agree to participate, blood specimens are collected for the purpose of measuring metabolic, genetic, toxic and infectious biomarkers, while saliva samples are collected to measure sex hormones and hair samples are collected to measure stress hormones. Questionnaire has been selected to cover important dimensional aspects of mental illness such as Behaviour and Cognition (Psychosis, Depression, Anxiety, Impulsiveness, Aggression, Suicide, Addiction, Sleep),Socio-demographic Profile  (Spiritual beliefs, Social functioning, Childhood experiences, Demographic,  Family background) and Medical Data (Medication, Diagnosis, Long-term health, RAMQ data).
+On 2016, May there are more than 1150 participants and 400 for the longitudinal Follow-Up</ns0:description>
+                    <ns0:repositoryContact>http://www.banquesignature.ca/contact/?lang=en</ns0:repositoryContact>
+                    <ns0:repositoryContact>nfrancois.iusmm@ssss.gouv.qc.ca</ns0:repositoryContact>
+                    <ns0:repositoryContact>signature.iusmm@ssss.gouv.qc.ca</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2018-04-23">More than 1.400 participants  and 520 for the longitudinal follow-up</ns0:size>
+        <ns0:startDate>2012-11-27</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>fra</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">110 Psychology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11004 Differential Psychology, Clinical Psychology, Medical Psychology, Methodology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">12 Social and Behavioural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">201 Basic Biological and Medical Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20105 General Genetics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">205 Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20501 Epidemiology, Medical Biometry, Medical Informatics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20503 Human Genetics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20510 Toxicology and Occupational Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">206 Neurosciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                <ns0:missionStatementURL>http://www.iusmm.ca/research/signature-bank/managment-framework.html</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Databases</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>behaviour and cognition</ns0:keyword>
+                    <ns0:keyword>biological signature</ns0:keyword>
+                    <ns0:keyword>developmental psychopathology</ns0:keyword>
+                    <ns0:keyword>environment biomarker</ns0:keyword>
+                    <ns0:keyword>human</ns0:keyword>
+                    <ns0:keyword>longitudinal study</ns0:keyword>
+                    <ns0:keyword>medical data</ns0:keyword>
+                    <ns0:keyword>mental health</ns0:keyword>
+                    <ns0:keyword>psychosocial data</ns0:keyword>
+                    <ns0:keyword>socio-demographic profile</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="fra">Centre int&#233;gr&#233; universitaire de sant&#233; et de services sociaux de l&#8217;Est-de-l&#8217;&#206;le-de-Montr&#233;al</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="fra">CIUSSS de l&#8217;Est-de-l&#8217;&#206;le-de-Montr&#233;al</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://ciusss-estmtl.gouv.qc.ca/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>2015</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://ciusss-estmtl.gouv.qc.ca/nous-joindre/</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="fra">Institut universitaire en sant&#233; mentale de Montr&#233;al, Centre de recherche</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="fra">IUSMM</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.iusmm.ca/institut.html</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>2012</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.iusmm.ca/coordonnees.html</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Access request procedure</ns0:policyName>
+                <ns0:policyURL>http://www.banquesignature.ca/demande-acces/procedure-de-demande-dacces/?lang=en</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>MANAGEMENT FRAMEWORK</ns0:policyName>
+                <ns0:policyURL>http://www.iusmm.ca/documents/Management_framework.pdf</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>restricted</ns0:databaseAccessType>
+                            <ns0:databaseAccessRestriction>feeRequired</ns0:databaseAccessRestriction>
+                            <ns0:databaseAccessRestriction>registration</ns0:databaseAccessRestriction>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>feeRequired</ns0:dataAccessRestriction>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www.iusmm.ca/documents/Management_framework.pdf</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                    <ns0:aidSystem>none</ns0:aidSystem>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks />
+        <ns0:entryDate>2016-07-28</ns0:entryDate>
+        <ns0:lastUpdate>2019-01-15</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

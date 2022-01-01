@@ -1,0 +1,86 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012628</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Biosamples</ns0:repositoryName>
+                    <ns0:additionalName language="eng">Biosample Database at EBI</ns0:additionalName>
+                <ns0:repositoryURL>https://www.ebi.ac.uk/biosamples/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.ewjdq6</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>MIR:00100447</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>OMICS_01025</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:SCR_004856</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:nlx_143930</ns0:repositoryIdentifier>
+                <ns0:description language="eng">BioSamples stores and supplies descriptions and metadata about biological samples used in research and development by academia and industry. Samples are either 'reference' samples (e.g. from 1000 Genomes, HipSci, FAANG) or have been used in an assay database such as the European Nucleotide Archive (ENA) or ArrayExpress.</ns0:description>
+                    <ns0:repositoryContact>biosamples@ebi.ac.uk</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2020-01-30">12.148.116 datasets</ns0:size>
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">201 Basic Biological and Medical Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                <ns0:missionStatementURL>https://www.ebi.ac.uk/biosamples/about</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Databases</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>biological sample annotation</ns0:keyword>
+                    <ns0:keyword>cell line</ns0:keyword>
+                    <ns0:keyword>gene expression</ns0:keyword>
+                    <ns0:keyword>genomics</ns0:keyword>
+                    <ns0:keyword>nucleotide</ns0:keyword>
+                    <ns0:keyword>peptide</ns0:keyword>
+                    <ns0:keyword>protein</ns0:keyword>
+                    <ns0:keyword>proteomics</ns0:keyword>
+                    <ns0:keyword>sequencing</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Elixir</ns0:institutionName>
+                                <ns0:institutionCountry>EEC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.elixir-europe.org/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">European Molecular Biology Laboratory, European Bioinformatics Institute</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">EMBL-EBI</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>EEC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.ebi.ac.uk/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:02catss52</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:SCR_004727</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_72386</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.ebi.ac.uk/about/people/helen-parkinson</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Terms of use</ns0:policyName>
+                <ns0:policyURL>https://www.ebi.ac.uk/about/terms-of-use</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.ebi.ac.uk/about/terms-of-use</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                <ns0:versioning>yes</ns0:versioning>
+                    <ns0:api apiType="REST">https://www.ebi.ac.uk/biosamples/docs/references/api</ns0:api>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://www.ebi.ac.uk/biosamples/about</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                <ns0:remarks />
+        <ns0:entryDate>2018-03-26</ns0:entryDate>
+        <ns0:lastUpdate>2021-10-08</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

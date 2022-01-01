@@ -1,0 +1,111 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100000037</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Oak Ridge National Laboratory Distributed Active Archive Center for Biogeochemical Dynamics</ns0:repositoryName>
+                    <ns0:additionalName language="eng">ORNL DAAC</ns0:additionalName>
+                <ns0:repositoryURL>https://daac.ornl.gov/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.a833sq</ns0:repositoryIdentifier>
+                <ns0:description language="eng">The Oak Ridge National Laboratory Distributed Active Archive Center (ORNL DAAC) for biogeochemical dynamics is one of the National Aeronautics and Space Administration (NASA) Earth Observing System Data and Information System (EOSDIS) data centers managed by the Earth Science Data and Information System (ESDIS) Project. The ORNL DAAC archives data produced by NASA's Terrestrial Ecology Program. The DAAC provides data and information relevant to biogeochemical dynamics, ecological data, and environmental processes, critical for understanding the dynamics relating to the biological, geological, and chemical components of Earth's environment.</ns0:description>
+                    <ns0:repositoryContact>uso@daac.ornl.gov</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>1998</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31301 Atmospheric Science</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">315 Geophysics and Geodesy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">318 Water Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL>https://daac.ornl.gov/about/</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Archived data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>biogeochemical dynamics</ns0:keyword>
+                    <ns0:keyword>ecological data</ns0:keyword>
+                    <ns0:keyword>environmental processes</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">National Aeronautics and Space Administration, Terrestrial Ecology Program</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NASA Terrestrial Ecology Program</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://cce.nasa.gov/terrestrial_ecology/index.html</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Oak Ridge National Laboratory</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">ORNL</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.ornl.gov/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:01qz5mb56</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>USO@daac.ornl.gov</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>CoreTrustSeal assessment</ns0:policyName>
+                <ns0:policyURL>https://www.coretrustseal.org/wp-content/uploads/2019/01/Oak-Ridge-National-Laboratory-DAAC.pdf</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Data Management for Data Providers</ns0:policyName>
+                <ns0:policyURL>https://daac.ornl.gov/datamanagement/</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Data Product Citation Policy</ns0:policyName>
+                <ns0:policyURL>https://daac.ornl.gov/about/#citation_policy</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Privacy Policy</ns0:policyName>
+                <ns0:policyURL>https://www.nasa.gov/about/highlights/HP_Privacy.html</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Public Domain</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://earthdata.nasa.gov/earth-observation-data/data-citations-acknowledgements</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>Data Management for Data Providers</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>https://daac.ornl.gov/datamanagement/</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                            <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                    <ns0:api apiType="NetCDF">https://www.unidata.ucar.edu/software/tds/current/reference/NetcdfSubsetServiceConfigure.html</ns0:api>
+                    <ns0:api apiType="OpenDAP">https://www.unidata.ucar.edu/software/tds/current/reference/Services.html#DAP2</ns0:api>
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://daac.ornl.gov/about/#citation_policy</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                    <ns0:certificate>other</ns0:certificate>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">CF (Climate and Forecast) Metadata Conventions</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/cf-climate-and-forecast-metadata-conventions</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                    <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">RDF Data Cube Vocabulary</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/rdf-data-cube-vocabulary</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                            <ns0:syndication syndicationType="RSS">https://daac-news.ornl.gov/rss.xml</ns0:syndication>
+                <ns0:remarks>is covered by Elsevier. ORNL DAAC is covered by Thomson Reuters Data Citation Index. ORNL DAAC is part of National Aeronautics and Space Administration (NASA) Earth Observing System Data and Information System (EOSDIS) data centers https://earthdata.nasa.gov/eosdis/science-system-description/eosdis-services | Much of the data is in the public domain. Data licenses usually appears under 'Access Restrictions'.</ns0:remarks>
+        <ns0:entryDate>2013-01-14</ns0:entryDate>
+        <ns0:lastUpdate>2021-09-02</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

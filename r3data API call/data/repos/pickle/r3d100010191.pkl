@@ -1,0 +1,102 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010191</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Biological Magnetic Resonance Data Bank</ns0:repositoryName>
+                    <ns0:additionalName language="eng">BMRB</ns0:additionalName>
+                    <ns0:additionalName language="eng">BioMagResBank</ns0:additionalName>
+                    <ns0:additionalName language="eng">Biological Magnetic Resonance Databank</ns0:additionalName>
+                <ns0:repositoryURL>http://www.bmrb.wisc.edu/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.p06nme</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>OMICS_02858</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:SCR_002296</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:nif-0000-21058</ns0:repositoryIdentifier>
+                <ns0:description language="eng">BioMagResBank (BMRB) is the publicly-accessible depository for NMR results from peptides, proteins, and nucleic acids recognized by the International Society of Magnetic Resonance and by the IUPAC-IUBMB-IUPAB Inter-Union Task Group on the Standardization of Data Bases of Protein and Nucleic Acid Structures Determined by NMR Spectroscopy. In addition, BMRB provides reference information and maintains a collection of NMR pulse sequences and computer software for biomolecular NMR</ns0:description>
+                    <ns0:repositoryContact>bmrbhelp@bmrb.wisc.edu</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2019-05-21">18773 files</ns0:size>
+        <ns0:startDate>1996</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">201 Basic Biological and Medical Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20101 Biochemistry</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20102 Biophysics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">309 Particles, Nuclei and Fields</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">32 Physics</ns0:subject>
+                <ns0:missionStatementURL>http://www.bmrb.wisc.edu/bmrb/mission_statement.shtml</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Software applications</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>NMR</ns0:keyword>
+                    <ns0:keyword>biomolecules</ns0:keyword>
+                    <ns0:keyword>genomics</ns0:keyword>
+                    <ns0:keyword>nucleic acids</ns0:keyword>
+                    <ns0:keyword>peptides</ns0:keyword>
+                    <ns0:keyword>proteins</ns0:keyword>
+                    <ns0:keyword>spectroscopy</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">National Institutes of Health, National Institute of General Medical Sciences</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NLM</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.nigms.nih.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>1996</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of Wisconsin-Madison</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.wisconsin.edu/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>1996</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>bmrbhelp@bmrb.wisc.edu</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>BMRB Aims and Policies</ns0:policyName>
+                <ns0:policyURL>http://www.bmrb.wisc.edu/bmrb/aims_and_policies.shtml</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>embargoed</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www.bmrb.wisc.edu/bmrb/aims_and_policies.shtml</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>open</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>Deposit data</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>http://www.bmrb.wisc.edu/deposit/</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                            <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                    <ns0:api apiType="FTP">http://ftp.bmrb.wisc.edu/</ns0:api>
+                    <ns0:api apiType="FTP">http://www.bmrb.wisc.edu/ftp/pub/bmrb/</ns0:api>
+                    <ns0:api apiType="REST">http://www.bmrb.wisc.edu/bmrb/linking.shtml</ns0:api>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>http://www.bmrb.wisc.edu/bmrb/citation.shtml</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks>is covered by Elsevier. BMRB is covered by Thomson Reuters Data Citation Index. In collaboration with the Protein Data Bank (PDB, Rutgers University) and Nucleic Acid Data Bank (NDB, Rutgers University), BMRB aims to develop into the collection site for structural NMR data in proteins and nucleic acids. BMRB mirror sites in Osaka, Japan (http://bmrb.protein.osaka-u.ac.jp/) and Florence, Italy (http://bmrb.cerm.unifi.it/).</ns0:remarks>
+        <ns0:entryDate>2013-02-01</ns0:entryDate>
+        <ns0:lastUpdate>2021-09-02</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

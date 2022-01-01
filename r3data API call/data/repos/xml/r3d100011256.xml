@@ -1,0 +1,133 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011256</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Avon Longitudinal Study of Parents and Children</ns0:repositoryName>
+                    <ns0:additionalName language="eng">ALSPAC</ns0:additionalName>
+                    <ns0:additionalName language="eng">Avon Longitudinal Study of Pregnancy and Childhood</ns0:additionalName>
+                    <ns0:additionalName language="eng">Children of the 90s</ns0:additionalName>
+                <ns0:repositoryURL>https://www.bristol.ac.uk/alspac/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>RRID:SCR_007260</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:nif-0000-30224</ns0:repositoryIdentifier>
+                <ns0:description language="eng">ALSPAC is a longitudinal birth cohort study which enrolled pregnant women who were resident in one of three Bristol-based health districts in the former County of Avon with an expected delivery date between 1st April 1991 and 31st December 1992. Around 14,000 pregnant women were initially recruited. Detailed information has been collected on these women, their partners and subsequent children using self-completion questionnaires, data extraction from medical notes, linkage to routine information systems and from hands-on research clinics.
+Additional cohorts of participants have since been enrolled in their own right including fathers, siblings, children of the children and grandparents of the children.
+Ethical approval for the study was obtained from the ALSPAC Ethics and Law Committee (IRB00003312) and Local Research Ethics.</ns0:description>
+                    <ns0:repositoryContact>alspac-exec@bristol.ac.uk</ns0:repositoryContact>
+                    <ns0:repositoryContact>https://www.bristol.ac.uk/alspac/contact/</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>1991</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">111 Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11102 Empirical Social Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">12 Social and Behavioural Sciences</ns0:subject>
+                <ns0:missionStatementURL />
+                    <ns0:contentType contentTypeScheme="parse">Archived data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Audiovisual data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>biosamples</ns0:keyword>
+                    <ns0:keyword>biospecimen assays</ns0:keyword>
+                    <ns0:keyword>genetic data</ns0:keyword>
+                    <ns0:keyword>genomics</ns0:keyword>
+                    <ns0:keyword>macrodata</ns0:keyword>
+                    <ns0:keyword>microdata</ns0:keyword>
+                    <ns0:keyword>social sciences</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Medical Research Council</ns0:institutionName>
+                                <ns0:institutionCountry>GBR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.mrc.ac.uk/?nav=main</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:03x94j517</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.mrc.ac.uk/research/facilities-and-resources-for-researchers/cohort-directory/avon-longitudinal-study-of-parents-and-children-alspac-children-of-the-90s/</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of Bristol</ns0:institutionName>
+                                <ns0:institutionCountry>GBR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.bristol.ac.uk/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:0524sp257</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:SCR_011613</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_14701</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Wellcome Trust</ns0:institutionName>
+                                <ns0:institutionCountry>GBR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://wellcome.org/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:029chgv08</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>ALSPAC Data Management Plan</ns0:policyName>
+                <ns0:policyURL>https://www.bristol.ac.uk/media-library/sites/alspac/documents/researchers/data-access/alspac-data-management-plan.pdf</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>ALSPAC access policy</ns0:policyName>
+                <ns0:policyURL>http://www.bristol.ac.uk/media-library/sites/alspac/documents/researchers/data-access/ALSPAC_Access_Policy.pdf</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Confidentiality form</ns0:policyName>
+                <ns0:policyURL>http://www.bristol.ac.uk/media-library/sites/alspac/documents/researchers/data-access/ALSPAC_Access_Policy.pdf</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Data Transfer Agreement - DTA</ns0:policyName>
+                <ns0:policyURL>https://www.bristol.ac.uk/media-library/sites/alspac/documents/researchers/data-access/ALSPAC%20non%20HTA%20Material%20Transfer%20Agreement.pdf</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Material Transfer Agreement - MTA</ns0:policyName>
+                <ns0:policyURL>https://www.bristol.ac.uk/media-library/sites/alspac/documents/researchers/data-access/ALSPAC%20non%20HTA%20Material%20Transfer%20Agreement.pdf</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Research Councils UK Open Access Policy</ns0:policyName>
+                <ns0:policyURL>https://www.ucl.ac.uk/library/research-support/open-access/research-funders/uk-research-councils-open-access-policy-and-funding</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Wellcome Trust Open Access Policy</ns0:policyName>
+                <ns0:policyURL>https://wellcome.ac.uk/funding/managing-grant/open-access</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>restricted</ns0:databaseAccessType>
+                            <ns0:databaseAccessRestriction>other</ns0:databaseAccessRestriction>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>feeRequired</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>other</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www.bristol.ac.uk/web/policies/terms-conditions.html</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>http://www.bristol.ac.uk/alspac/researchers/publications/</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                    <ns0:syndication syndicationType="RSS">http://www.bris.ac.uk/alspac/news/news-feed.rss</ns0:syndication>
+                <ns0:remarks>ALSPAC is covered by Thomson Reuters Data Citation Index</ns0:remarks>
+        <ns0:entryDate>2014-11-10</ns0:entryDate>
+        <ns0:lastUpdate>2021-09-08</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

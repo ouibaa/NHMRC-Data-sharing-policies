@@ -1,0 +1,100 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010339</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Systema Dipterorum</ns0:repositoryName>
+                    <ns0:additionalName language="eng">BDWD</ns0:additionalName>
+                    <ns0:additionalName language="eng">The BioSystematic Database of World Diptera</ns0:additionalName>
+                    <ns0:additionalName language="eng">The Diptera Site</ns0:additionalName>
+                <ns0:repositoryURL>http://www.diptera.org/</ns0:repositoryURL>
+                <ns0:description language="eng">Systema Dipterorum (and the former Biosystematic Database of World Diptera) is a source of names and information about those names and the taxa to which they apply. Systema Dipterorum is a set of tools to aid users in finding information about flies. The two main components of Systema Dipterorum are the Nomenclator and the Reference database.</ns0:description>
+                    <ns0:repositoryContact>http://www.diptera.org/ContactUs</ns0:repositoryContact>
+                    <ns0:repositoryContact>neale@bishopmuseum.org</ns0:repositoryContact>
+                    <ns0:repositoryContact>tpape@snm.ku.dk</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2017-03-01">236.604 species names; 23.085 genus names;  4.647 family names;</ns0:size>
+        <ns0:startDate>2008</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">203 Zoology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                <ns0:missionStatementURL>http://www.diptera.org/About</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>Flies</ns0:keyword>
+                    <ns0:keyword>Fly</ns0:keyword>
+                    <ns0:keyword>Two-winged insects</ns0:keyword>
+                    <ns0:keyword>biodiversity</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Bernice Pauahi Bishop Museum</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Bishop Museum</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.bishopmuseum.org/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:04m60en37</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Natural History Museum of Denmark</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="dan">Statens Naturhistoriske Museum</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>DNK</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://snm.ku.dk/english/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:040ck2b86</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Smithsonian Institution, National Museum of Natural History, Department of Entomology</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NMNH, Department of Entomology</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://naturalhistory.si.edu/research/entomology</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Systema Dipterorum team</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.diptera.org/TheTeam</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>How to Cite and Copyrights</ns0:policyName>
+                <ns0:policyURL>http://www.diptera.org/HowToCiteCopyrights</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www.diptera.org/HowToCiteCopyrights</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>http://www.diptera.org/HowToCiteCopyrights</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks>The products of Systema Dipterorum (and the former Biosystematic Database of World Diptera) are disseminated in three formats and distributed via three media. The formats represent the traditional catalog, nomenclator and species database.  Systema Dipterorum works with ITIS (Catalogue of Life https://www.catalogueoflife.org/data/dataset/1101) and was an initial member of the Species2000 program. Systema Dipterorum is endorsed by the Council for the International Congresses of Dipterology, which is a scientific member of the International Union of Biological Sciences. 
+The Diptera Web after 12 years is now officially closed.</ns0:remarks>
+        <ns0:entryDate>2013-04-25</ns0:entryDate>
+        <ns0:lastUpdate>2021-07-21</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

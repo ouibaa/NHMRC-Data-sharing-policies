@@ -1,0 +1,111 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010582</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Chinese Astronomical Data Center</ns0:repositoryName>
+                    <ns0:additionalName language="eng">CAsDC</ns0:additionalName>
+                    <ns0:additionalName language="eng">China-VO</ns0:additionalName>
+                    <ns0:additionalName language="eng">National Astronomical Data Center - NADC</ns0:additionalName>
+                    <ns0:additionalName language="eng">World Data Center for Astronomy</ns0:additionalName>
+                    <ns0:additionalName language="zho">&#20013;&#22269;&#22825;&#25991;&#25968;&#25454;&#20013;&#24515;</ns0:additionalName>
+                <ns0:repositoryURL>http://explore.china-vo.org/?locale=en</ns0:repositoryURL>
+                <ns0:description language="eng">Chinese Astronomical Data Center (CAsDC) is the scientific data service and infrastructure of National Astronomical Observatories, Chinese Academy of Sciences (NAOC), which is a key service from the China-VO. We are aiming to meet user requirements for astronomical research and education.
+The CAsDC is based on World Data Center (WDC) for Astronomy, which is hosted at NAOC and has been providing data services to users since its initiation in 1980s. In 2012, the CAsDC became a regular member of the new created World Data System.</ns0:description>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2018-10-25">contains more than 500TB of data, has 1.5 PB storage capability, 700 TFlops computing power, and more than 100 software.</ns0:size>
+        <ns0:startDate>2005</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>zho</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">311 Astrophysics and Astronomy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">32 Physics</ns0:subject>
+                <ns0:missionStatementURL />
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Software applications</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>space sciences</ns0:keyword>
+                    <ns0:keyword>virtual observatory</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Ministry of Science and Technology of the People's Republic of China</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">MOST</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CHN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.most.gov.cn/eng/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:027s68j25</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Astronomical Observatories, Chinese Academy of Sciences, Chinese Virtual Observatory</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NAOC, China-VO</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CHN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.china-vo.org/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:058pyyv44</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>archive@bao.ac.cn</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Natural Science Foundation of China</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NSFC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CHN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.nsfc.gov.cn/english/site_1/index.html</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:01h0zpd94</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:SCR_011448</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_149106</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>CORETrustSeal assessment</ns0:policyName>
+                <ns0:policyURL>https://www.coretrustseal.org/wp-content/uploads/2018/10/Chinese-Astronomical-Data-Center-CAsDC.pdf</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>LAMOST data policy</ns0:policyName>
+                <ns0:policyURL>http://explore.china-vo.org/u/casdc/0C_LAMOST_data_policy_en.pdf</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>NAOC rules on data archiving and open access</ns0:policyName>
+                <ns0:policyURL>http://explore.china-vo.org/u/casdc/0B_NAOC_AstroProject_Rules.pdf</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.coretrustseal.org/wp-content/uploads/2018/10/Chinese-Astronomical-Data-Center-CAsDC.pdf</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                    <ns0:api apiType="FTP">http://vizier.china-vo.org/ftp/cats/</ns0:api>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                    <ns0:certificate>other</ns0:certificate>
+                                <ns0:remarks />
+        <ns0:entryDate>2013-01-09</ns0:entryDate>
+        <ns0:lastUpdate>2020-02-03</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

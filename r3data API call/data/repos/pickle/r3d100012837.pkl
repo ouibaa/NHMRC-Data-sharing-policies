@@ -1,0 +1,129 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012837</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Federal Interagency Traumatic Brain Injury Research Informatics System</ns0:repositoryName>
+                    <ns0:additionalName language="eng">FITBIR</ns0:additionalName>
+                <ns0:repositoryURL>https://fitbir.nih.gov/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>FAIRsharing_doi:10.25504/fairsharing.rz7h29</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:SCR_006856</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:nlx_151755</ns0:repositoryIdentifier>
+                <ns0:description language="eng">The Federal Interagency Traumatic Brain Injury Research (FITBIR) informatics system was developed to share data across the entire TBI research field and to facilitate collaboration between laboratories, as well as interconnectivity with other informatics platforms. Sharing data, methodologies, and associated tools, rather than summaries or interpretations of this information, can accelerate research progress by allowing re-analysis of data, as well as re-aggregation, integration, and rigorous comparison with other data, tools, and methods. This community-wide sharing requires common data definitions and standards, as well as comprehensive and coherent informatics approaches.</ns0:description>
+                    <ns0:repositoryContact>FITBIR-ops@mail.nih.gov</ns0:repositoryContact>
+                    <ns0:repositoryContact>https://fitbir.nih.gov/content/contact-us</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2020-08-26">63.496 Subjects; 128 Studies</ns0:size>
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">206 Neurosciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20608 Clinical Neurosciences I - Neurology, Neurosurgery</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                <ns0:missionStatementURL>https://fitbir.nih.gov/content/about</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>FAIR</ns0:keyword>
+                    <ns0:keyword>Traumatic brain injury - TBI</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">General Dynamics Information Technology</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">GDIT</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>commercial</ns0:institutionType>
+                <ns0:institutionURL>https://www.gdit.com/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Institutes of Health, Center for Information Technology</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">CIT</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://cit.nih.gov</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:03jh5a977</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>Matthew.McAuliffe@nih.gov</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Institutes of Health, National Institute of Neurological Disorders &amp; Stroke</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NINDS</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.ninds.nih.gov</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:01s5ya894</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>patrick.frostbellgowan@nih.gov</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Publicis Sapient</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>commercial</ns0:institutionType>
+                <ns0:institutionURL>https://www.publicissapient.com/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>Wikidata:Q1602881</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">U.S. Army Medical Research and Development Command, Combat Casuality Care Research Program</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">CCCRP</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">MCMR-RTC</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">USAMRDC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://ccc.amedd.army.mil</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>CoreTrustSeal assessment</ns0:policyName>
+                <ns0:policyURL>https://www.coretrustseal.org/wp-content/uploads/2020/08/The-Federal-Interagency-Traumatic-Brain-Injury-Research-FITBIR-Informatics-System.pdf</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>FITBIR policies</ns0:policyName>
+                <ns0:policyURL>https://fitbir.nih.gov/content/policies-and-procedures</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>embargoed</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>other</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://fitbir.nih.gov/content/policies-and-procedures</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>FITBIR Data Submission Request</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>https://fitbir.nih.gov/sites/default/files/inline-files/FITBIR_Submission_Request.pdf</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                        <ns0:versioning>no</ns0:versioning>
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                    <ns0:pidSystem>other</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://fitbir.nih.gov/sites/default/files/inline-files/FITBIR_Data_Access_Request_DUC.pdf</ns0:citationGuidelineURL>
+                    <ns0:aidSystem>ORCID</ns0:aidSystem>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                    <ns0:certificate>other</ns0:certificate>
+                                <ns0:remarks />
+        <ns0:entryDate>2018-08-27</ns0:entryDate>
+        <ns0:lastUpdate>2020-12-04</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

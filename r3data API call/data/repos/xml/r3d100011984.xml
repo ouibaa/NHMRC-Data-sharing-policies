@@ -1,0 +1,90 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011984</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Canadian Ice Service Archive</ns0:repositoryName>
+                    <ns0:additionalName language="fra">Archives du Service canadien des glaces</ns0:additionalName>
+                    <ns0:additionalName language="eng">CISA</ns0:additionalName>
+                <ns0:repositoryURL>http://www.ec.gc.ca/glaces-ice/default.asp?lang=En&amp;n=0A70E5EB-1</ns0:repositoryURL>
+                <ns0:description language="eng">The Canadian Ice Service (CIS), a division of the Meteorological Service of Canada (MSC), is the leading authority for information about ice in Canada's navigable waters. The Canadian Ice Service Archive (CISA) allows online access to the following collections: Daily ice analysis charts (since 1999), Regional ice analysis charts, and Weekly ice thickness and on-ice snow depth measurements for Canadian stations.</ns0:description>
+                    <ns0:repositoryContact>enviroinfo@ec.gc.ca</ns0:repositoryContact>
+                    <ns0:repositoryContact>http://www.ec.gc.ca/glaces-ice/default.asp?lang=En&amp;n=C096D8FE-1</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>fra</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">318 Water Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL />
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>cryosphere</ns0:keyword>
+                    <ns0:keyword>geosciences</ns0:keyword>
+                    <ns0:keyword>ice atlas</ns0:keyword>
+                    <ns0:keyword>ice climatology</ns0:keyword>
+                    <ns0:keyword>ice graph</ns0:keyword>
+                    <ns0:keyword>iceberg</ns0:keyword>
+                    <ns0:keyword>oil pollution monitoring</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Environment and Climate Change Canada</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="fra">Environnement et Changement Climatique Canada</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://ec.gc.ca/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>ec.enviroinfo.ec@canada.ca</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Meteorological Service of Canada, Canadian Ice Service</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">CIS</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">MSC</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="fra">SCG</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="fra">SMC</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="fra">Service m&#233;t&#233;orologique du Canada, Service canadien des glaces</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.ec.gc.ca/glaces-ice/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.ec.gc.ca/glaces-ice/default.asp?lang=En&amp;n=C096D8FE-1</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Acts, Regulations and Agreements</ns0:policyName>
+                <ns0:policyURL>http://www.ec.gc.ca/default.asp?lang=En&amp;n=48D356C1-1</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Terms and Conditions</ns0:policyName>
+                <ns0:policyURL>http://www.ec.gc.ca/default.asp?lang=En&amp;xml=5830C36B-1773-4E3E-AF8C-B21F54633E0A</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www.ec.gc.ca/default.asp?lang=En&amp;xml=5830C36B-1773-4E3E-AF8C-B21F54633E0A</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                <ns0:versioning />
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                <ns0:remarks>The North American Ice Service is a partnership between the Canadian Ice Service, the United States' National/Naval Ice Center, and the United States Coast Guard's International Ice Patrol.</ns0:remarks>
+        <ns0:entryDate>2016-05-10</ns0:entryDate>
+        <ns0:lastUpdate>2016-08-08</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

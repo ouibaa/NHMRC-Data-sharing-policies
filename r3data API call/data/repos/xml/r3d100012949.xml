@@ -1,0 +1,85 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012949</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">City of Toronto Open Data Portal</ns0:repositoryName>
+                <ns0:repositoryURL>https://open.toronto.ca/</ns0:repositoryURL>
+                <ns0:description language="eng">Explore the City of Toronto's open data catalogue, including datasets from a wide range of City divisions.</ns0:description>
+                    <ns0:repositoryContact>opendata@toronto.ca</ns0:repositoryContact>
+                            <ns0:type>other</ns0:type>
+                <ns0:size updated="2019-02-27">292 datasets; 1.329 data files;</ns0:size>
+        <ns0:startDate>2018</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">12 Social and Behavioural Sciences</ns0:subject>
+                <ns0:missionStatementURL>http://wx.toronto.ca/inter/it/newsrel.nsf/11476e3d3711f56e85256616006b891f/39b743d2573055968525828200473b02?OpenDocument</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Archived data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>Toronto</ns0:keyword>
+                    <ns0:keyword>business</ns0:keyword>
+                    <ns0:keyword>city government</ns0:keyword>
+                    <ns0:keyword>culture</ns0:keyword>
+                    <ns0:keyword>environment</ns0:keyword>
+                    <ns0:keyword>finance</ns0:keyword>
+                    <ns0:keyword>garbage</ns0:keyword>
+                    <ns0:keyword>health</ns0:keyword>
+                    <ns0:keyword>infrastructure</ns0:keyword>
+                    <ns0:keyword>mapping</ns0:keyword>
+                    <ns0:keyword>parks</ns0:keyword>
+                    <ns0:keyword>public safety</ns0:keyword>
+                    <ns0:keyword>recycling</ns0:keyword>
+                    <ns0:keyword>tourism</ns0:keyword>
+                    <ns0:keyword>transportation</ns0:keyword>
+                    <ns0:keyword>water</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Toronto</ns0:institutionName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.toronto.ca/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.toronto.ca/home/contact-us/</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Open Government Licence &#8211; Toronto</ns0:policyName>
+                <ns0:policyURL>https://www.toronto.ca/city-government/data-research-maps/open-data/open-data-licence/</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>OGLC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.toronto.ca/city-government/data-research-maps/open-data/open-data-licence/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.toronto.ca/wp-content/uploads/2017/11/969b-open_data_policy.pdf</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>CKAN</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                    <ns0:api apiType="other">https://www.toronto.ca/home/311-toronto-at-your-service/open311-api-and-mobile-apps/</ns0:api>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://www.toronto.ca/city-government/data-research-maps/open-data/open-data-licence/</ns0:citationGuidelineURL>
+                    <ns0:aidSystem>none</ns0:aidSystem>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                <ns0:remarks>We plan to have the former catalogue decommissioned once all datasets have been migrated over to the new Portal: https://portal0.cf.opendata.inter.sandbox-toronto.ca/</ns0:remarks>
+        <ns0:entryDate>2019-02-14</ns0:entryDate>
+        <ns0:lastUpdate>2020-12-08</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

@@ -1,0 +1,132 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010804</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">IMGT/HLA Database</ns0:repositoryName>
+                    <ns0:additionalName language="eng">IPD-IMGT/HLA</ns0:additionalName>
+                    <ns0:additionalName language="eng">ImMunoGeneTics/HLA Database</ns0:additionalName>
+                    <ns0:additionalName language="eng">International ImMunoGeneTics information system/Humane Leukozyten Antigene Database</ns0:additionalName>
+                <ns0:repositoryURL>https://www.ebi.ac.uk/ipd/imgt/hla/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.e28v7g</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:SCR_002971</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:nif-0000-03014</ns0:repositoryIdentifier>
+                <ns0:description language="eng">The IPD-IMGT/HLA Database provides a specialist database for sequences of the human major histocompatibility complex (MHC) and includes the official sequences named by the WHO Nomenclature Committee For Factors of the HLA System. The IPD-IMGT/HLA Database is part of the international ImMunoGeneTics project (IMGT).
+
+The database uses the 2010 naming convention for HLA alleles in all tools herein. To aid in the adoption of the new nomenclature, all search tools can be used with both the current and pre-2010 allele designations. The pre-2010 nomenclature designations are only used where older reports or outputs have been made available for download.</ns0:description>
+                    <ns0:repositoryContact>https://www.ebi.ac.uk/support/hla.php</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                    <ns0:type>institutional</ns0:type>
+                <ns0:size updated="2018-11-23">20.088 allele sequences</ns0:size>
+        <ns0:startDate>1992</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">201 Basic Biological and Medical Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20105 General Genetics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20107 Bioinformatics and Theoretical Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">204 Microbiology, Virology and Immunology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                <ns0:missionStatementURL>https://www.ebi.ac.uk/ipd/imgt/hla/intro.html</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Software applications</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>Immunogenetics</ns0:keyword>
+                    <ns0:keyword>allele</ns0:keyword>
+                    <ns0:keyword>bioinformatics</ns0:keyword>
+                    <ns0:keyword>gene mapping</ns0:keyword>
+                    <ns0:keyword>gene rearrangement</ns0:keyword>
+                    <ns0:keyword>genetic recombination - research</ns0:keyword>
+                    <ns0:keyword>genetics - research</ns0:keyword>
+                    <ns0:keyword>histocompatibility</ns0:keyword>
+                    <ns0:keyword>human</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">European Molecular Biology Laboratory</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">EMBL</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>EEC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.embl.org/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">European Molecular Biology Laboratory, European Bioinformatics Institute</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">EMBL-EBI</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>EEC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.ebi.ac.uk/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Histogenetics</ns0:institutionName>
+                                <ns0:institutionCountry>GBR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.histogenetics.com/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Royal Free Hospital, Anthony Nolan Research Institute, HLA Informatics Group</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">HLA</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>GBR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.anthonynolan.org/clinicians-and-researchers/anthony-nolan-research-institute/hla-informatics-group</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Stanford University, School of Medicine, Parham Lab</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Parham Lab</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.stanford.edu/group/parhamlab/members/peter-parham/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Terms of use</ns0:policyName>
+                <ns0:policyURL>https://www.ebi.ac.uk/ipd/licence/</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                    <ns0:databaseLicense>
+                <ns0:databaseLicenseName>CC</ns0:databaseLicenseName>
+                <ns0:databaseLicenseURL>https://creativecommons.org/licenses/by-nd/3.0/</ns0:databaseLicenseURL>
+            </ns0:databaseLicense>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/licenses/by-nc-nd/2.5/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>Submission Tool</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>https://www.ebi.ac.uk/ipd/imgt/hla/subs/submit.html</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                        <ns0:versioning>yes</ns0:versioning>
+                    <ns0:api apiType="FTP">ftp://ftp.ebi.ac.uk/pub/databases/ipd/imgt/hla/</ns0:api>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://www.ebi.ac.uk/ipd/imgt/hla/help/faq.html#citing</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks>IMGT/HLA is a part of Immuno Polymorphism Database and is part of IMGT, the international ImMunoGeneTics information system&#174; http://www.imgt.org</ns0:remarks>
+        <ns0:entryDate>2014-05-16</ns0:entryDate>
+        <ns0:lastUpdate>2019-02-13</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

@@ -1,0 +1,91 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012903</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Antimicrobial Combination Networks</ns0:repositoryName>
+                <ns0:repositoryURL>http://www.sing-group.org/antimicrobialCombination/networks/view</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>OMICS_14444</ns0:repositoryIdentifier>
+                <ns0:description language="eng">The database aims to bridge the gap between agent repositories and studies documenting the effect of antimicrobial combination therapies. Most notably, our primary aim is to compile data on the combination of antimicrobial agents, namely natural products such as AMP. To meet this purpose, we have developed a data curation workflow that combines text mining, manual expert curation and graph analysis and supports the reconstruction of AMP-Drug combinations.</ns0:description>
+                    <ns0:repositoryContact>http://www.sing-group.org/antimicrobialCombination/pages/about#support</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">201 Basic Biological and Medical Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">204 Microbiology, Virology and Immunology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                <ns0:missionStatementURL>http://www.sing-group.org/antimicrobialCombination/pages/history</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>antimicrobial peptides (AMP)</ns0:keyword>
+                    <ns0:keyword>candida albicans</ns0:keyword>
+                    <ns0:keyword>drug</ns0:keyword>
+                    <ns0:keyword>escherichia coli</ns0:keyword>
+                    <ns0:keyword>gene</ns0:keyword>
+                    <ns0:keyword>listeria monocytogenes</ns0:keyword>
+                    <ns0:keyword>pathogenic organisms</ns0:keyword>
+                    <ns0:keyword>pseudomonas aeruginosa</ns0:keyword>
+                    <ns0:keyword>staphylococcus aureuas</ns0:keyword>
+                    <ns0:keyword>virulence mechanism</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Sing Group</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Next Generation Computer Systems Group</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="spa">Sistemas Inform&#225;ticos de Nueva Generaci&#243;n</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>ESP</ns0:institutionCountry>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.sing-group.org/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of Minho, Centre of Biological Engineering</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">CEB</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="por">Universidade do Minho, Centro de Engenharia Biol&#243;gica</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>PRT</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.ceb.uminho.pt/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>ceb@ceb.uminho.pt</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>License and disclaimer</ns0:policyName>
+                <ns0:policyURL>http://www.sing-group.org/antimicrobialCombination/pages/about</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>institutional membership</ns0:dataAccessRestriction>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www.sing-group.org/antimicrobialCombination/pages/about</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>MySQL</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>http://www.sing-group.org/antimicrobialCombination/pages/about</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                <ns0:remarks />
+        <ns0:entryDate>2018-11-16</ns0:entryDate>
+        <ns0:lastUpdate>2019-02-26</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

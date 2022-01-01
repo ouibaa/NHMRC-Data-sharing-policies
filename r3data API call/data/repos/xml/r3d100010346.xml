@@ -1,0 +1,119 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010346</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Database of Genomic Variants</ns0:repositoryName>
+                    <ns0:additionalName language="eng">A curated catalogue of human genomic structural variation</ns0:additionalName>
+                    <ns0:additionalName language="eng">DGV</ns0:additionalName>
+                <ns0:repositoryURL>http://dgv.tcag.ca/dgv/app/home</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>OMICS_00266</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:SCR_007000</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:nif-0000-02721</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>biodbcore-001156</ns0:repositoryIdentifier>
+                <ns0:description language="eng">The objective of the Database of Genomic Variants is to provide a comprehensive summary of structural variation in the human genome. We define structural variation as genomic alterations that involve segments of DNA that are larger than &gt;1kb. Now we also annotate InDels in 100bp-1kb range. The content of the database is only representing structural variation identified in healthy control samples. The Database of Genomic Variants provides a useful catalog of control data for studies aiming to correlate genomic variation with phenotypic data. The database is continuously updated with new data from peer reviewed research studies. We always welcome suggestions and comments regarding the database from the research community.</ns0:description>
+                    <ns0:repositoryContact>dgv-contact@sickkids.ca</ns0:repositoryContact>
+                    <ns0:repositoryContact>http://dgv.tcag.ca/dgv/app/contacts</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2008</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">205 Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20503 Human Genetics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                <ns0:missionStatementURL>http://dgv.tcag.ca/dgv/app/about</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>human genome</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Canadian Institutes for Health Research</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">CIHR</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="fra">Instituts de recherche en sant&#233; du Canada</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://cihr-irsc.gc.ca/e/193.html</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:01gavpb45</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Genome Canada, Ontario Genomics Institute</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">OGI</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.ontariogenomics.ca/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:00c68jz96</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">The Centre for Applied Genomics</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">TCAG</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.tcag.ca/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.tcag.ca/contact/index.html</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of Toronto, McLaughlin Centre for Molecular Medicine</ns0:institutionName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.mclaughlin.utoronto.ca/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Wellcome Trust</ns0:institutionName>
+                                <ns0:institutionCountry>GBR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://wellcome.org/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:029chgv08</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Notice and Disclaimer</ns0:policyName>
+                <ns0:policyURL>http://www.tcag.ca/projects/databaseDisclaimer.html</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.sickkids.ca/en/about/terms-of-use/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>Data submission</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>http://dgv.tcag.ca/v103_20131106/app/submissions</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                            <ns0:software>
+                <ns0:softwareName>other</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                    <ns0:api apiType="FTP">ftp://ftp.ebi.ac.uk/pub/databases/dgva/</ns0:api>
+                            <ns0:pidSystem>other</ns0:pidSystem>
+                <ns0:citationGuidelineURL>http://dgv.tcag.ca/dgv/app/faq#q8</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks>The Database of Genomic Variants is no longer accepting direct submission of data to DGV. We are currently part of a collaboration with two new archival CNV databases at EBI and NCBI, called DGVa and dbVAR, respectively. One of the changes to DGV as part of this collaborative effort is that we will no longer be accepting direct submissions, but rather obtain the datasets from DGVa (short for DGV archive). This will ensure that the three databases are synchronized, and will allow for an official accessioning of variants.
+To proceed with the submission of data, we therefore recommend that you contact either DGVa or dbVAR and let them handle the archiving and accessioning of your data. Once the data is deposited in their system and the manuscript is published, we will import the variants into DGV.</ns0:remarks>
+        <ns0:entryDate>2013-04-25</ns0:entryDate>
+        <ns0:lastUpdate>2021-08-26</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

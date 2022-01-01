@@ -1,0 +1,123 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011733</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">GENCODE</ns0:repositoryName>
+                <ns0:repositoryURL>https://www.gencodegenes.org/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>OMICS_06416</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:SCR_014966</ns0:repositoryIdentifier>
+                <ns0:description language="eng">GENCODE is a scientific project in genome research and part of the ENCODE (ENCyclopedia Of DNA Elements) scale-up project.
+The GENCODE consortium was initially formed as part of the pilot phase of the ENCODE project to identify and map all protein-coding genes within the ENCODE regions (approx. 1% of Human genome).  Given the initial success of the project, GENCODE now aims to build an &#8220;Encyclopedia of genes and genes variants&#8221; by identifying all gene features in the human and mouse genome using a combination of computational analysis, manual annotation, and experimental validation, and annotating all evidence-based gene features in the entire human genome at a high accuracy.</ns0:description>
+                    <ns0:repositoryContact>gencode-help@ebi.ac.uk</ns0:repositoryContact>
+                    <ns0:repositoryContact>https://www.gencodegenes.org/pages/contact.html</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2013</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">201 Basic Biological and Medical Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">204 Microbiology, Virology and Immunology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">205 Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                <ns0:missionStatementURL>https://www.gencodegenes.org/pages/gencode.html</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>biotype</ns0:keyword>
+                    <ns0:keyword>chromosomes</ns0:keyword>
+                    <ns0:keyword>genes</ns0:keyword>
+                    <ns0:keyword>human</ns0:keyword>
+                    <ns0:keyword>mouse</ns0:keyword>
+                    <ns0:keyword>protein</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">European Molecular Biology Laboratory, European Bioinformatics Institute</ns0:institutionName>
+                                <ns0:institutionCountry>EEC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.ebi.ac.uk/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:02catss52</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:SCR_004727</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_72386</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.ebi.ac.uk/about/contact</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Human Genome Research Institute</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NHGRI</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.genome.gov/Funded-Programs-Projects/ENCODE-Project-ENCyclopedia-Of-DNA-Elements</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:00baak391</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:SCR_003205</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:SCR_006475</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:SCR_011416</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_143900</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_inv_1005098</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.genome.gov/about-nhgri/Contact</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Wellcome Trust Sanger Institute</ns0:institutionName>
+                                <ns0:institutionCountry>GBR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.sanger.ac.uk/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:05cy4wa09</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:SCR_011784</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_91258</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.sanger.ac.uk/about/who-we-are/sanger-institute/contact-us</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>EMBL-EBI Terms of Use</ns0:policyName>
+                <ns0:policyURL>https://www.ebi.ac.uk/about/terms-of-use/</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>How to access the data</ns0:policyName>
+                <ns0:policyURL>https://www.gencodegenes.org/pages/data_access.html</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/licenses/by-nc-nd/2.5/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.gencodegenes.org/pages/data_access.html</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                    <ns0:api apiType="FTP">http://www.ensembl.org/info/data/ftp/index.html</ns0:api>
+                    <ns0:api apiType="FTP">ftp://ftp.sanger.ac.uk/pub/gencode/</ns0:api>
+                    <ns0:api apiType="REST">http://rest.ensembl.org/</ns0:api>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://www.gencodegenes.org/pages/publications.html</ns0:citationGuidelineURL>
+                    <ns0:aidSystem>none</ns0:aidSystem>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">Repository-Developed Metadata Schemas</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/repository-developed-metadata-schemas</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks>Participants:  https://www.gencodegenes.org/pages/all_participants.html</ns0:remarks>
+        <ns0:entryDate>2016-03-16</ns0:entryDate>
+        <ns0:lastUpdate>2021-07-02</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

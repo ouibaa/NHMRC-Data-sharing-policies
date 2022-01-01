@@ -1,0 +1,111 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010280</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Henry A. Murray Research Archive at IQSS, Harvard University</ns0:repositoryName>
+                    <ns0:additionalName language="eng">Murray Archive</ns0:additionalName>
+                <ns0:repositoryURL>http://www.murray.harvard.edu/</ns0:repositoryURL>
+                <ns0:description language="eng">The Henry A. Murray Research Archive is Harvard's endowed, permanent repository for quantitative and qualitative research data at the Institute for Quantitative Social Science, and provides physical storage for the entire IQSS Dataverse Network. Our collection comprises over 100 terabytes of data, audio, and video. We preserve in perpetuity all types of data of interest to the research community, including numerical, video, audio, interview notes, and other data. We accept data deposits through this web site, which is powered by our Dataverse Network software</ns0:description>
+                    <ns0:repositoryContact>dvn_support@help.hmdc.harvard.edu</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2017-05-11">over 100 terabytes of data, audio, and video</ns0:size>
+        <ns0:startDate>2005</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">109 Education Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">111 Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11102 Empirical Social Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">112 Economics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11202 Economic and Social Policy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11205 Statistics and Econometrics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">12 Social and Behavioural Sciences</ns0:subject>
+                <ns0:missionStatementURL>http://murray.harvard.edu/about</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Archived data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Audiovisual data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>demography</ns0:keyword>
+                    <ns0:keyword>ethnicity</ns0:keyword>
+                    <ns0:keyword>family</ns0:keyword>
+                    <ns0:keyword>government</ns0:keyword>
+                    <ns0:keyword>politics</ns0:keyword>
+                    <ns0:keyword>public health</ns0:keyword>
+                    <ns0:keyword>race</ns0:keyword>
+                    <ns0:keyword>religion</ns0:keyword>
+                    <ns0:keyword>sexual orientation</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Harvard University, Institute for Quantitative Social Science</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">IQSS</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.iq.harvard.edu/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>dvn_support@help.hmdc.harvard.edu</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Collection of Important Services and Usage Policies</ns0:policyName>
+                <ns0:policyURL>http://www.murray.harvard.edu/policies</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>HMDC Usage Policies</ns0:policyName>
+                <ns0:policyURL>https://css.iq.harvard.edu/hmdc-usage-policies</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                    <ns0:databaseLicense>
+                <ns0:databaseLicenseName>ODC</ns0:databaseLicenseName>
+                <ns0:databaseLicenseURL>http://opendatacommons.org/licenses/by/1.0/</ns0:databaseLicenseURL>
+            </ns0:databaseLicense>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>other</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC0</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/share-your-work/public-domain/cc0/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://dataverse.org/best-practices/dataverse-community-norms</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>institutional membership</ns0:dataUploadRestriction>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>other</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>http://murray.harvard.edu/policies</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                            <ns0:software>
+                <ns0:softwareName>DataVerse</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                            <ns0:pidSystem>hdl</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://dataverse.org/best-practices/data-citation</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">DDI - Data Documentation Initiative</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/ddi-data-documentation-initiative</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks>The Henry A. Murray Archive, through its endowment, supports permanent bit-level preservation of all social science research studies directly deposited in the IQSS Dataverse Network (r3d100010051). (For details, see the IQSS Archival Preservation policies.)</ns0:remarks>
+        <ns0:entryDate>2013-06-19</ns0:entryDate>
+        <ns0:lastUpdate>2019-03-05</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

@@ -1,0 +1,128 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011472</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Ocean Science Information System</ns0:repositoryName>
+                    <ns0:additionalName language="eng">OSIS</ns0:additionalName>
+                    <ns0:additionalName language="eng">Ocean Science Information System</ns0:additionalName>
+                <ns0:repositoryURL>https://portal.geomar.de/osis</ns0:repositoryURL>
+                <ns0:description language="eng">Our system consists of a portal (portal.geomar.de), providing access to several projects with personal password. The portal offers document exchange, common or individual blogs and fora and implementation of external webpages and -services. Moreover, you can access the expedition database, that organizes data description and exchange of cruises and expeditions for each project. Expeditions are linked to KML-files (Google-Earth compatible), allowing a visualization of all stations of a cruise/expedition.
+We established the linkage to the publications database /repository OceanRep (EPrints), as well as the description of model-output and linkage to paper publications.</ns0:description>
+                    <ns0:repositoryContact>datamanagement@geomar.de</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                    <ns0:type>institutional</ns0:type>
+                <ns0:size updated="2018-04-18">2.274 legs; 20 models ;20 experiments; 149 platforms; 482 gears; 33networks</ns0:size>
+        <ns0:startDate>2009</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>deu</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31302 Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL>https://portal.geomar.de/home</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>cruises</ns0:keyword>
+                    <ns0:keyword>expeditions</ns0:keyword>
+                    <ns0:keyword>marine sciences</ns0:keyword>
+                    <ns0:keyword>oceans</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">BIOACID</ns0:institutionName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.oceanacidification.de/?lang=en</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>info(at)geomar.de</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Future Ocean</ns0:institutionName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.futureocean.org/en/index.php</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.futureocean.org/de/kontakt.php</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">GEOMAR Data Management</ns0:institutionName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://portal.geomar.de/about-us</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>datamanagement(at)geomar.de</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="deu">GEOMAR Helmholtz-Zentrum f&#252;r Ozeanforschung Kiel</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="deu">GEOMAR</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">GEOMAR Helmholtz Centre for Ocean Research Kiel</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.geomar.de/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:02h2x0161</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>info(at)geomar.de</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="deu">Sonderforschungsbereich 754 Climate - biogeochemistry interactions in the tropical ocean</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Collaborative Research Center 754</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="deu">SFB 754</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.sfb754.de/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>aoschlies(a)geomar.de</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Terms of Use of the Data Management Portal</ns0:policyName>
+                <ns0:policyURL>https://portal.geomar.de/metadata/user/agree</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>closed</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>embargoed</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>institutional membership</ns0:dataAccessRestriction>
+                                    <ns0:dataAccessRestriction>other</ns0:dataAccessRestriction>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.geomar.de/en/impressum</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>institutional membership</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                <ns0:versioning>yes</ns0:versioning>
+                    <ns0:api apiType="OpenDAP">http://thredds.geomar.de/</ns0:api>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks>The Kiel Data Mangement Team (KDMT) is a joined  group of GEOMAR, cluster of excellence "Future Ocean", SFB 754 and BIOACID. Our aim is to provide ONE place for all marine sciences in Kiel for data description, data storage and data archiving, independent of project status but specific restrictions for each project. This system is aimed at preparing data for paper publication, data exchange inside a project  and data publication.</ns0:remarks>
+        <ns0:entryDate>2015-07-17</ns0:entryDate>
+        <ns0:lastUpdate>2020-11-30</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

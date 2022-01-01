@@ -1,0 +1,163 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011828</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Fragile Families and Child Wellbeing Study</ns0:repositoryName>
+                    <ns0:additionalName language="eng">FFCWS</ns0:additionalName>
+                <ns0:repositoryURL>https://fragilefamilies.princeton.edu/</ns0:repositoryURL>
+                <ns0:description language="eng">The Fragile Families &amp; Child Wellbeing Study is following a cohort of nearly 5,000 children born in large U.S. cities between 1998 and 2000 (roughly three-quarters of whom were born to unmarried parents). We refer to unmarried parents and their children as &#8220;fragile families&#8221; to underscore that they are families and that they are at greater risk of breaking up and living in poverty than more traditional families.
+The core Study was originally designed to primarily address four questions of great interest to researchers and policy makers: (1) What are the conditions and capabilities of unmarried parents, especially fathers?; (2) What is the nature of the relationships between unmarried parents?; (3) How do children born into these families fare?; and (4) How do policies and environmental conditions affect families and children?</ns0:description>
+                    <ns0:repositoryContact>ffdata@princeton.edu</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>1998</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">111 Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11102 Empirical Social Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">12 Social and Behavioural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">205 Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20503 Human Genetics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20520 Pediatric and Adolescent Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                <ns0:missionStatementURL>https://fragilefamilies.princeton.edu/about</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>Great Recession</ns0:keyword>
+                    <ns0:keyword>brain development</ns0:keyword>
+                    <ns0:keyword>child behavior</ns0:keyword>
+                    <ns0:keyword>child neglect</ns0:keyword>
+                    <ns0:keyword>family dynamics</ns0:keyword>
+                    <ns0:keyword>family resources</ns0:keyword>
+                    <ns0:keyword>fathers' investments</ns0:keyword>
+                    <ns0:keyword>genetic-environmental interactions</ns0:keyword>
+                    <ns0:keyword>incarceration</ns0:keyword>
+                    <ns0:keyword>mDiary</ns0:keyword>
+                    <ns0:keyword>population research</ns0:keyword>
+                    <ns0:keyword>prenatal care</ns0:keyword>
+                    <ns0:keyword>religion</ns0:keyword>
+                    <ns0:keyword>school</ns0:keyword>
+                    <ns0:keyword>school performance</ns0:keyword>
+                    <ns0:keyword>sleep</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Columbia University, Columbia Population Research Center</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">CPRC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://cprc.columbia.edu/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>cprc@columbia.edu</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Columbia University, National Center for Children &amp; Families</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NCCF</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://policyforchildren.org/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>brooks-gunn@columbia.edu</ns0:institutionContact>
+                                    <ns0:institutionContact>http://policyforchildren.org/research-projects/families/fragile-families-and-child-well-being-study/</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Institutes of Health, Eunice Kennedy Shriver National Institute of Child Health and Human Development</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NICHD</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.nichd.nih.gov/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:04byxyr05</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:SCR_011429)</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_inv_1005104</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Princeton University</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.princeton.edu/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:00hx57361</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:SCR_001059</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_16293</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://fragilefamilies.princeton.edu/mclanahan</ns0:institutionContact>
+                                    <ns0:institutionContact>https://fragilefamilies.princeton.edu/people/irv-garfinkel</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Princeton University, Bendheim-Thoman Center for Research on Child Wellbeing</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">CRCW</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://crcw.princeton.edu/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>CRCW@princeton.edu</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Princeton University, Center for Health and Wellbeing</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">CHW</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://chw.princeton.edu/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://chw.princeton.edu/research/additional-research-projects</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>General documentation</ns0:policyName>
+                <ns0:policyURL>https://fragilefamilies.princeton.edu/documentation</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Restricted vs Public Data</ns0:policyName>
+                <ns0:policyURL>https://fragilefamilies.princeton.edu/restricted</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>feeRequired</ns0:dataAccessRestriction>
+                                    <ns0:dataAccessRestriction>other</ns0:dataAccessRestriction>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://fragilefamilies.princeton.edu/documentation</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://fragilefamilies.princeton.edu/restricted</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://fragilefamilies.princeton.edu/faq#general_9</ns0:citationGuidelineURL>
+                    <ns0:aidSystem>none</ns0:aidSystem>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                    <ns0:syndication syndicationType="RSS">https://fragilefamilies.princeton.edu/feed/news/rss?&amp;&amp;uid=&amp;field_news_author_title=&amp;sort_order=DESC&amp;sort_by=field_news_date_value</ns0:syndication>
+                <ns0:remarks>FFCWS is covered by Thomson Reuters Data Citation Index.
+The Fragile Families and Child Wellbeing Study is the longest running population based birth cohort study in the U.S. We have been collecting data for the past 17 years on nearly 5,000 families.
+The first five waves of data are publicly available through the Office of Population Research data archive https://opr.princeton.edu/Archive/FF/ .</ns0:remarks>
+        <ns0:entryDate>2016-04-18</ns0:entryDate>
+        <ns0:lastUpdate>2020-07-08</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

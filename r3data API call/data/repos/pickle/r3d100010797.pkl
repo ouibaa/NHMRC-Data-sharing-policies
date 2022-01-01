@@ -1,0 +1,100 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010797</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Immuno Polymorphism Database</ns0:repositoryName>
+                    <ns0:additionalName language="eng">IPD</ns0:additionalName>
+                <ns0:repositoryURL>https://www.ebi.ac.uk/ipd/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.c3v6e6</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>OMICS_03057</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:SCR_003004</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:nif-0000-03038</ns0:repositoryIdentifier>
+                <ns0:description language="eng">Established by the HLA Informatics Group of the Anthony Nolan Research Institute, IPD provides a centralized system for studying the immune system's polymorphism in genes. The IPD maintains databases concerning the sequences of human Killer-cell Immunoglobulin-like Receptors (KIR), sequences of the major histocompatibility complex in a number of species, human platelet antigens (HPA), and tumor cell lines. Each subject has related, credible news, current research and publications, and a searchable database for highly specific, research grade genetic information.</ns0:description>
+                    <ns0:repositoryContact>hla@alleles.org</ns0:repositoryContact>
+                    <ns0:repositoryContact>https://www.ebi.ac.uk/ipd/contacts/</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2003</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">201 Basic Biological and Medical Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20105 General Genetics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20107 Bioinformatics and Theoretical Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">204 Microbiology, Virology and Immunology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">205 Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20514 Hematology, Oncology, Transfusion Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                <ns0:missionStatementURL />
+                    <ns0:contentType contentTypeScheme="parse">Databases</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>Bioinformatics</ns0:keyword>
+                    <ns0:keyword>Chromosome polymorphism</ns0:keyword>
+                    <ns0:keyword>Genetic code - Research</ns0:keyword>
+                    <ns0:keyword>Genetic recombination</ns0:keyword>
+                    <ns0:keyword>Genetics</ns0:keyword>
+                    <ns0:keyword>Immune system</ns0:keyword>
+                    <ns0:keyword>Molecular biology</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">European Molecular Biology Laboratory, European Bioinformatics Institute</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">EMBL-EBI</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>EEC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.ebi.ac.uk/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Histogenetics</ns0:institutionName>
+                                <ns0:institutionCountry>GBR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.histogenetics.com/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Royal Free Hospital, Anthony Nolan Research Institute, HLA Informatics Group</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">HLA</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>GBR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.anthonynolan.org/clinicians-and-researchers/anthony-nolan-research-institute/hla-informatics-group</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>hla [at] alleles [dot] org</ns0:institutionContact>
+                                    <ns0:institutionContact>https://www.anthonynolan.org/about-us/contact-us</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Terms of use</ns0:policyName>
+                <ns0:policyURL>https://www.ebi.ac.uk/ipd/licence/</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/licenses/by-nd/4.0/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                <ns0:versioning>yes</ns0:versioning>
+                    <ns0:api apiType="FTP">ftp://ftp.ebi.ac.uk/pub/databases/ipd/</ns0:api>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://www.ebi.ac.uk/ipd/citations.html</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                <ns0:remarks>immuno polymorphism database consists of a number of individual databases: international ImMunoGeneTics IMGT/ HLA, IPD-KIR Killer-cell immunoglobulin-like Receptors, IPD-MHC Major Histocompatibility Complex, IPD-HPA Human platelet antigens and ESTDAB European Searchable Tumour Line Database</ns0:remarks>
+        <ns0:entryDate>2014-05-15</ns0:entryDate>
+        <ns0:lastUpdate>2021-10-06</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

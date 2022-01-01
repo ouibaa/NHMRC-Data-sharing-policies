@@ -1,0 +1,99 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011232</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">PANDIT</ns0:repositoryName>
+                    <ns0:additionalName language="eng">Protein and Associated Nucleotide Domains with Inferred Trees</ns0:additionalName>
+                <ns0:repositoryURL>https://www.ebi.ac.uk/research/goldman/software/pandit</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>RRID:SCR_003321</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:nif-0000-03241</ns0:repositoryIdentifier>
+                <ns0:description language="eng">&gt;&gt;&gt;!!!&lt;&lt;&lt;Efforts to obtain renewed funding after 2008 were unfortunately not successful.  PANDIT has therefore been frozen since November 2008, and its data are not updated since September 2005 when version 17.0 was released (corresponding to Pfam 17.0).  The existing data and website remain available from these pages, and should remain stable and, we hope, useful. &gt;&gt;&gt;!!!&lt;&lt;&lt; PANDIT is a collection of multiple sequence alignments and phylogenetic trees. It contains corresponding amino acid and nucleotide sequence alignments, with trees inferred from each alignment. PANDIT is based on the Pfam database (Protein families database of alignments and HMMs), and includes the seed amino acid alignments of most families in the Pfam-A database. DNA sequences for as many members of each family as possible are extracted from the EMBL Nucleotide Sequence Database and aligned according to the amino acid alignment. PANDIT also contains a further copy of the amino acid alignments, restricted to the sequences for which DNA sequences were found.</ns0:description>
+                    <ns0:repositoryContact>pandit@ebi.ac.uk</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2019-05-15">7.738 protein families</ns0:size>
+        <ns0:startDate>2001</ns0:startDate>
+        <ns0:endDate>2008</ns0:endDate>
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">201 Basic Biological and Medical Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20105 General Genetics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20107 Bioinformatics and Theoretical Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                <ns0:missionStatementURL />
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>DNA</ns0:keyword>
+                    <ns0:keyword>nucleotide</ns0:keyword>
+                    <ns0:keyword>pfam-A</ns0:keyword>
+                    <ns0:keyword>protein</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">European Molecular Biology Laboratory</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">EMBL</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>EEC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.embl.org/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">European Molecular Biology Laboratory, European Bioinformatics Institute</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">EMBL-EBI</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>EEC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.ebi.ac.uk/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">European Molecular Biology Laboratory, European Bioinformatics Institute, Goldman Group</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">EMBL-EBI, Goldman Group</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>EEC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.ebi.ac.uk/research/goldman</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>EMBL-EBI terms of use</ns0:policyName>
+                <ns0:policyURL>https://www.ebi.ac.uk/about/terms-of-use</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                    <ns0:databaseLicense>
+                <ns0:databaseLicenseName>other</ns0:databaseLicenseName>
+                <ns0:databaseLicenseURL>https://www.ebi.ac.uk/goldman-srv/pandit/Pandit/data/GNULICENSE</ns0:databaseLicenseURL>
+            </ns0:databaseLicense>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.ebi.ac.uk/goldman-srv/pandit/Pandit/data/COPYRIGHT</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.ebi.ac.uk/goldman-srv/pandit/Pandit/data/GNULICENSE</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>other</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://www.ebi.ac.uk/goldman-srv/pandit/pandit.cgi?action=help</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>no</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                <ns0:remarks>What happened to PANDIT:  Efforts to obtain renewed funding after 2008 were unfortunately not successful. PANDIT has therefore been frozen since November 2008, and its data are not updated since September 2005 when version 17.0 was released (corresponding to Pfam 17.0).  The existing data and website remain available from these pages, and should remain stable and, we hope, useful.</ns0:remarks>
+        <ns0:entryDate>2014-11-03</ns0:entryDate>
+        <ns0:lastUpdate>2019-05-15</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

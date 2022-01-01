@@ -1,0 +1,76 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012187</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">SilkDB 3.0</ns0:repositoryName>
+                    <ns0:additionalName language="eng">SilkWorm</ns0:additionalName>
+                    <ns0:additionalName language="eng">Silkworm Genome Database</ns0:additionalName>
+                <ns0:repositoryURL>https://silkdb.bioinfotoolkits.net/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>RRID:SCR_007926</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:nif-0000-03462</ns0:repositoryIdentifier>
+                <ns0:description language="eng">SilkDB is a database of the integrated genome resource for the silkworm, Bombyx mori. This database provides access to not only genomic data including functional annotation of genes, gene products and chromosomal mapping, but also extensive biological information such as microarray expression data, ESTs and corresponding references. SilkDB will be useful for the silkworm research community as well as comparative genomics</ns0:description>
+                    <ns0:repositoryContact>xiaqy@swu.edu.cn</ns0:repositoryContact>
+                    <ns0:repositoryContact>yiwang28@swu.edu.cn</ns0:repositoryContact>
+                    <ns0:repositoryContact>zezhang@swu.edu.cn</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2004</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">201 Basic Biological and Medical Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20105 General Genetics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                <ns0:missionStatementURL>https://silkdb.bioinfotoolkits.net/main/help/-1</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>bioinformatics</ns0:keyword>
+                    <ns0:keyword>expression data</ns0:keyword>
+                    <ns0:keyword>functional annotation mapping</ns0:keyword>
+                    <ns0:keyword>functional chromosome mapping</ns0:keyword>
+                    <ns0:keyword>genes</ns0:keyword>
+                    <ns0:keyword>genomics</ns0:keyword>
+                    <ns0:keyword>sequences</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Southwest University</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">SWU</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CHN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.swu.edu.cn/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:01kj4z117</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                        <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://academic.oup.com/nar/article/48/D1/D749/5603220</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://silkdb.bioinfotoolkits.net/main/species-info/BMSK0001209</ns0:citationGuidelineURL>
+                    <ns0:aidSystem>none</ns0:aidSystem>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks>Mirror servers: SilkDB at COU, SilkDB at SWU, SilkDB at BGI</ns0:remarks>
+        <ns0:entryDate>2016-10-19</ns0:entryDate>
+        <ns0:lastUpdate>2021-09-22</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

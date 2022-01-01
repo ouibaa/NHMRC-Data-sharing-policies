@@ -1,0 +1,139 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011386</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Digital Averroes Research Environment</ns0:repositoryName>
+                    <ns0:additionalName language="eng">Averroes-Database</ns0:additionalName>
+                    <ns0:additionalName language="eng">DARE</ns0:additionalName>
+                <ns0:repositoryURL>https://dare.uni-koeln.de/</ns0:repositoryURL>
+                <ns0:description language="eng">The Digital Averroes Research Environment (DARE) collects and edits the works of the Andalusian Philosopher Averroes or Ab&#363; l-Wal&#299;d Mu&#7717;ammad Ibn A&#7717;mad Ibn Ru&#353;d, born in Cordoba in 1126, died in Marrakesh in 1198.
+DARE makes accessible online digital editions of Averroes's works, and images of all textual witnesses, including manuscripts, incunabula, and early prints. Averroes's writings and the scholarly literature are documented in a bibliographical database.
+At the same time, DARE is a research platform, giving scholars who work on Averroes the opportunity to present their research and to discuss questions related to Averroes's thought in the Forum. A collaborative, evolving, and open-ended project hosted by DARE is the Averroes Encyclopaedia, designed to document Averroes's philosophical, scientific and technical vocabulary.</ns0:description>
+                    <ns0:repositoryContact>https://dare.uni-koeln.de/contact/</ns0:repositoryContact>
+                    <ns0:repositoryContact>info-averroes@uni-koeln.de</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                    <ns0:type>institutional</ns0:type>
+                <ns0:size updated="2014-11-21">80.000 digitized manuscript pages; 33 fully transcribed editions</ns0:size>
+        <ns0:startDate>2011-02-19</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">108 Philosophy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11 Humanities</ns0:subject>
+                <ns0:missionStatementURL>http://dare.uni-koeln.de/?q=node/22</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>Andalusian philosophy</ns0:keyword>
+                    <ns0:keyword>Arabian philosophy</ns0:keyword>
+                    <ns0:keyword>Arabic</ns0:keyword>
+                    <ns0:keyword>Hewbrew</ns0:keyword>
+                    <ns0:keyword>Latin</ns0:keyword>
+                    <ns0:keyword>critical editions</ns0:keyword>
+                    <ns0:keyword>early prints</ns0:keyword>
+                    <ns0:keyword>grammar</ns0:keyword>
+                    <ns0:keyword>incunabula</ns0:keyword>
+                    <ns0:keyword>law and theology</ns0:keyword>
+                    <ns0:keyword>logic</ns0:keyword>
+                    <ns0:keyword>manuscripts</ns0:keyword>
+                    <ns0:keyword>mathematics</ns0:keyword>
+                    <ns0:keyword>medicine</ns0:keyword>
+                    <ns0:keyword>metaphysics</ns0:keyword>
+                    <ns0:keyword>philosophy of nature</ns0:keyword>
+                    <ns0:keyword>practical philosophy</ns0:keyword>
+                    <ns0:keyword>psychology</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="deu">Deutsche Forschungsgemeinschaft</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="deu">DFG</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.dfg.de/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>RRID:SCR_012420</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_144062</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="deu">Fritz Thyssen Stiftung</ns0:institutionName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.fritz-thyssen-stiftung.de/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.fritz-thyssen-stiftung.de/kontakt/</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="deu">Nordrhein-Westf&#228;lische Akademie der Wissenschaften und der K&#252;nste</ns0:institutionName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.awk.nrw.de/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.awk.nrw.de/kontakt.html</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="deu">Universit&#228;t zu K&#246;ln, Philosophische Fakult&#228;t, Thomas-Institut</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">University of Cologne, Faculty of Arts and Humanities, Thomas-Institute</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.thomasinstitut.uni-koeln.de/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>2011</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.thomasinstitut.uni-koeln.de/index.php?id=119</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="deu">Universit&#228;t zu K&#246;ln, Regionales Rechenzentrum</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="deu">RRZK</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">University of Cologne, Regional Computing Centre</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://rrzk.uni-koeln.de/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>2011</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://rrzk.uni-koeln.de/kontakt-uebersicht.html?&amp;L=1</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Contribution guidelines</ns0:policyName>
+                <ns0:policyURL>http://dare.uni-koeln.de/?q=node/39</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Project Description</ns0:policyName>
+                <ns0:policyURL>http://dare.uni-koeln.de/?q=node/22</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://creativecommons.org/licenses/by-nc-nd/4.0/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://dare.uni-koeln.de/?q=node/26</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>other</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                            <ns0:pidSystem>PURL</ns0:pidSystem>
+                <ns0:citationGuidelineURL>http://dare.uni-koeln.de/?q=node/129</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks>A collaborative, evolving, and open-ended project hosted by DARE is the Averroes Encyclopaedia, designed to document Averroes's philosophical, scientific and technical vocabulary.
+Even though the DARE-website, and especially the section "Sources," will one day replace the old Averroes Database, it is still online and can be accessed under: http://www.thomasinstitut.uni-koeln.de/index.php?id=11620</ns0:remarks>
+        <ns0:entryDate>2014-11-21</ns0:entryDate>
+        <ns0:lastUpdate>2021-10-11</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

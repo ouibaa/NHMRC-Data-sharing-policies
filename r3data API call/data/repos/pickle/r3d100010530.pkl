@@ -1,0 +1,259 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010530</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Earthdata powered by EOSDIS</ns0:repositoryName>
+                    <ns0:additionalName language="eng">Earth Observing System Data and Information System</ns0:additionalName>
+                    <ns0:additionalName language="eng">Earthdata</ns0:additionalName>
+                <ns0:repositoryURL>https://earthdata.nasa.gov/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>FAIRsharing_DOI:10.25504/FAIRsharing.OXUGmN</ns0:repositoryIdentifier>
+                <ns0:description language="eng">Earthdata powered by EOSDIS (Earth Observing System Data and Information System) is a key core capability in NASA&#8217;s Earth Science Data Systems Program. It provides end-to-end capabilities for managing NASA&#8217;s Earth science data from various sources &#8211; satellites, aircraft, field measurements, and various other programs. EOSDIS uses the metadata and service discovery tool Earthdata Search https://search.earthdata.nasa.gov/search.  
+The capabilities of EOSDIS constituting the EOSDIS Science Operations are managed by NASA's Earth Science Data and Information System (ESDIS) Project. The capabilities include: generation of higher level (Level 1-4) science data products for several satellite missions; archiving and distribution of data products from Earth observation satellite missions, as well as aircraft and field measurement campaigns. The EOSDIS science operations are performed within a distributed system of many interconnected nodes -  Science Investigator-led Processing Systems (SIPS), and distributed, discipline-specific, Earth science Distributed Active Archive Centers (DAACs) with specific responsibilities for production, archiving, and distribution of Earth science data products. The DAACs serve a large and diverse user community by providing capabilities to search and access science data products and specialized services.</ns0:description>
+                    <ns0:repositoryContact>support@earthdata.nasa.gov</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                    <ns0:type>institutional</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2012</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">203 Zoology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20303 Animal Ecology, Biodiversity and Ecosystem Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">311 Astrophysics and Astronomy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">32 Physics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL>https://earthdata.nasa.gov/esds</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Archived data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Databases</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Networkbased data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Software applications</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>aerosols</ns0:keyword>
+                    <ns0:keyword>atmospheric chemistry</ns0:keyword>
+                    <ns0:keyword>ocean biology</ns0:keyword>
+                    <ns0:keyword>physical oceanography</ns0:keyword>
+                    <ns0:keyword>radiance</ns0:keyword>
+                    <ns0:keyword>remote sensing</ns0:keyword>
+                    <ns0:keyword>satellites</ns0:keyword>
+                    <ns0:keyword>snow and ice</ns0:keyword>
+                    <ns0:keyword>socioeconomics</ns0:keyword>
+                    <ns0:keyword>topography</ns0:keyword>
+                    <ns0:keyword>tropospheric chemistry</ns0:keyword>
+                    <ns0:keyword>vegetation</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">National Aeronautics and Space Administration,  California Institute of Technology, Jet Propulsion Laboratory, Physical Oceanography Distributed Active Archive Center</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">PO.DAAC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://podaac.jpl.nasa.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>podaac@podaac.jpl.nasa.gov</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Aeronautics and Space Administration, Crustal Dynamics Data Information System</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">CDDIS</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://cddis.nasa.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>carey.noll@nasa.gov</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Aeronautics and Space Administration, Earth Observing System Data and Information System</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NASA EOSDIS</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">NASA Earth Data</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://earthdata.nasa.gov/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>RRID:SCR_005078</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_144092</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Aeronautics and Space Administration, Global Hydrology Resource Center</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">GHRC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://ghrc.nsstc.nasa.gov/home/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://ghrc.nsstc.nasa.gov/home/contact-us</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Aeronautics and Space Administration, Goddard Earth Sciences Data and Information Services Center</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">GES DISC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://disc.sci.gsfc.nasa.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>gsfc-help-disc@lists.nasa.gov</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Aeronautics and Space Administration, Goddard Space Flight Center, Ocean Biology Distributed Active Archive Center</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">OB.DAAC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://oceancolor.gsfc.nasa.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://oceancolor.gsfc.nasa.gov/forum/oceancolor/forum_show.pl</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Aeronautics and Space Administration, Land Processes Distributed Active Archive Center</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">LP DAAC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://lpdaac.usgs.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>lpdaac@usgs.gov</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Aeronautics and Space Administration, Langley Research Center Atmospheric Science Data Center</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">LaRC ASDC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://eosweb.larc.nasa.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>larc-asdc-uds@lists.nasa.gov</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Aeronautics and Space Administration, MODIS Level 1 and Atmosphere Archive and Distribution System</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">MODAPS LAADS</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://ladsweb.modaps.eosdis.nasa.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>modapsuso@sigmaspace.com</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Aeronautics and Space Administration, National Snow and Ice Data Center</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NSIDC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://nsidc.org/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>nsidc@nsidc.org</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Aeronautics and Space Administration, Oak Ridge National Laboratory DAAC</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">ORNL DAAC</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">Oak Ridge National Laboratory Distributed Active Archive Center</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://daac.ornl.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>uso@daac.ornl.gov</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Aeronautics and Space Administration, Socio-Economic Data and Applications Center</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">SEDAC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://sedac.ciesin.columbia.edu/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://sedac.ciesin.columbia.edu/help</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of Alaska Fairbanks, Alaska Satellite Facility SAR Data Center</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">ASF SDC</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">Alaska Satellite Facility</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://asf.alaska.edu/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>RRID:SCR_003610</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_157757</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>uso@asf.alaska.edu</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Data and Information Policy</ns0:policyName>
+                <ns0:policyURL>https://science.nasa.gov/earth-science/earth-science-data/data-information-policy/</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>NASA Web Privacy Policy and Important Notices</ns0:policyName>
+                <ns0:policyURL>https://www.nasa.gov/about/highlights/HP_Privacy.html</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>other</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://science.nasa.gov/earth-science/earth-science-data/data-information-policy/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                    <ns0:api apiType="NetCDF">https://earthdata.nasa.gov/esdis/eso/standards-and-references/netcdf-4hdf5-file-format</ns0:api>
+                    <ns0:api apiType="NetCDF">https://earthdata.nasa.gov/esdis/eso/standards-and-references/netcdf-classic</ns0:api>
+                    <ns0:api apiType="OpenDAP">https://earthdata.nasa.gov/esdis/eso/standards-and-references/data-access-protocol-2</ns0:api>
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://earthdata.nasa.gov/earth-observation-data/data-citations-acknowledgements</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">CF (Climate and Forecast) Metadata Conventions</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/cf-climate-and-forecast-metadata-conventions</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                    <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">DIF - Directory Interchange Format</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dif-directory-interchange-format</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                    <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">ISO 19115</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/iso-19115</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                    <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">Repository-Developed Metadata Schemas</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/repository-developed-metadata-schemas</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                            <ns0:syndication syndicationType="RSS">https://earthdata.nasa.gov/rss.xml</ns0:syndication>
+                <ns0:remarks>EOSDIS is designed as a distributed system, with major facilities at data centers located throughout the United States. These institutions are custodians of Earth science mission data and ensure that data will be easily accessible to users. The EOSDIS data centers (Distributed Active Archive Centers, known as DAACs) process, archive, document, and distribute data from NASA's past and current Earth-observing satellites, ariborne instrument observations and field measurement programs. Acting in concert, the data centers provide reliable, robust services to users whose needs may cross the traditional boundaries of a science discipline, while continuing to support the particular needs of users within the discipline communities.For more information about the EOSDIS data centers see https://earthdata.nasa.gov/eosdis/daacs</ns0:remarks>
+        <ns0:entryDate>2013-10-18</ns0:entryDate>
+        <ns0:lastUpdate>2021-12-14</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

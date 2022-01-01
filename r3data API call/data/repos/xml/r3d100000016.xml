@@ -1,0 +1,116 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100000016</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Canadian Astronomy Data Centre</ns0:repositoryName>
+                    <ns0:additionalName language="eng">CADC</ns0:additionalName>
+                    <ns0:additionalName language="fra">CCDA</ns0:additionalName>
+                    <ns0:additionalName language="fra">Centre canadien de donn&#233;es astronomiques</ns0:additionalName>
+                <ns0:repositoryURL>http://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/en/</ns0:repositoryURL>
+                <ns0:description language="eng">The Canadian Astronomy Data Centre (CADC) was established in 1986 by the National Research Council of Canada (NRC), through a grant provided by the Canadian Space Agency (CSA). Over the past 30 years the CADC has evolved from an archiving centre---hosting data from Hubble Space Telescope, Canada-France-Hawaii Telescope, the Gemini observatories, and the James Clerk Maxwell Telescope---into a Science Platform for data-intensive astronomy. The CADC, in partnership with Shared Services Canada, Compute Canada, CANARIE and the university community (funded through the Canadian Foundation for Innovation), offers cloud computing, user-managed storage, group management, and data publication services, in addition to its ongoing mission to provide permanent storage for major data collections.
+
+Located at NRC Herzberg Astronomy and Astrophysics Research Centre in Victoria, BC, the CADC staff consists of professional astronomers, software developers, and operations staff who work with the community to develop and deliver leading-edge services to advance Canadian research. The CADC plays a leading role in international efforts to improve the scientific/technical landscape that supports data intensive science. This includes leadership roles in the International Virtual Observatory Alliance and participation in organizations like the Research Data Alliance, CODATA, and the World Data Systems. CADC also contributes significantly to future Canadian projects like the Square Kilometre Array and TMT. 
+
+In 2019, the Canadian Astronomy Data Centre (CADC) delivered over 2 Petabytes of data (over 200 million individual files) to thousands of astronomers in Canada and in over 80 other countries. The cloud processing system completed over 6 million jobs (over 1100 core years) in 2019.</ns0:description>
+                    <ns0:repositoryContact>cadc@nrc.gc.ca</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>1986</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>fra</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">311 Astrophysics and Astronomy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">32 Physics</ns0:subject>
+                <ns0:missionStatementURL>http://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/en/about.html#mandate</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Databases</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Software applications</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                            <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>CFHT</ns0:keyword>
+                    <ns0:keyword>CGPS</ns0:keyword>
+                    <ns0:keyword>DAO</ns0:keyword>
+                    <ns0:keyword>FUSE</ns0:keyword>
+                    <ns0:keyword>Gemini</ns0:keyword>
+                    <ns0:keyword>HST</ns0:keyword>
+                    <ns0:keyword>Hubble</ns0:keyword>
+                    <ns0:keyword>JCMT</ns0:keyword>
+                    <ns0:keyword>MACHO</ns0:keyword>
+                    <ns0:keyword>MOST</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Canadian Space Agency</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="fra">Agence spatiale canadienne</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.asc-csa.gc.ca/eng/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:03a1gte98</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.asc-csa.gc.ca/eng/contact.asp</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Research Council Canada</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="fra">CNRC</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="fra">Conseil national de recherches Canada</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">NRC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://nrc.canada.ca/en</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:04mte1k06</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>cadc@hia.nrc.ca</ns0:institutionContact>
+                                    <ns0:institutionContact>cadc@nrc.gc.ca</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Certification of WDS Members</ns0:policyName>
+                <ns0:policyURL>http://www.icsu-wds.org/services/certification</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>ICSU World Data System Constitution</ns0:policyName>
+                <ns0:policyURL>http://www.icsu-wds.org/organization/constitution_and_bylaws</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Terms and Conditions</ns0:policyName>
+                <ns0:policyURL>https://www.canada.ca/en/transparency/terms.html</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www.nrc-cnrc.gc.ca/eng/notices/index.html#copy_perm</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://laws-lois.justice.gc.ca/eng/acts/C-42/index.html</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                    <ns0:api apiType="other">http://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/en/doc/data/</ns0:api>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>http://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/en/about.html#acknowledgements</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                    <ns0:certificate>WDS</ns0:certificate>
+                                <ns0:remarks>The Canadian Astronomy Data Centre is aiming for regular ICSU-WDS membership . The Letter of Agreement (LoA) is Pending (10.03.2020)</ns0:remarks>
+        <ns0:entryDate>2012-08-06</ns0:entryDate>
+        <ns0:lastUpdate>2020-03-10</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

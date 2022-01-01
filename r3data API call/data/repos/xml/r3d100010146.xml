@@ -1,0 +1,159 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010146</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Swedish National Data Service</ns0:repositoryName>
+                    <ns0:additionalName language="swe">SND</ns0:additionalName>
+                    <ns0:additionalName language="swe">Svensk Nationell Datatj&#228;nst</ns0:additionalName>
+                <ns0:repositoryURL>https://snd.gu.se/en</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.pn7yxf</ns0:repositoryIdentifier>
+                <ns0:description language="eng">Swedish National Data Service (SND) is a research data infrastructure designed to assist researchers in preserving, maintaining, and disseminating research data in a secure and sustainable manner. The SND Search function makes it easy to find, use, and cite research data from a variety of scientific disciplines. Together with an extensive network of almost 40 Swedish higher education institutions and other research organisations, SND works for increased access to research data, nationally as well as internationally.</ns0:description>
+                    <ns0:repositoryContact>https://snd.gu.se/en/contact</ns0:repositoryContact>
+                    <ns0:repositoryContact>snd@gu.se</ns0:repositoryContact>
+                            <ns0:type>other</ns0:type>
+                <ns0:size updated="2020-02-21">2.021 studies</ns0:size>
+        <ns0:startDate>2009</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>swe</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11 Humanities</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">111 Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">12 Social and Behavioural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                <ns0:missionStatementURL>https://snd.gu.se/en/about-us</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Networkbased data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>Gallup archive</ns0:keyword>
+                    <ns0:keyword>International Social Survey Programme (ISSP)</ns0:keyword>
+                    <ns0:keyword>Sweden</ns0:keyword>
+                    <ns0:keyword>Swedish history</ns0:keyword>
+                    <ns0:keyword>Swedish party programmes</ns0:keyword>
+                    <ns0:keyword>archaeological GIS data</ns0:keyword>
+                    <ns0:keyword>archaeology</ns0:keyword>
+                    <ns0:keyword>demography</ns0:keyword>
+                    <ns0:keyword>economy</ns0:keyword>
+                    <ns0:keyword>election manifestos</ns0:keyword>
+                    <ns0:keyword>epidemiology</ns0:keyword>
+                    <ns0:keyword>health</ns0:keyword>
+                    <ns0:keyword>law</ns0:keyword>
+                    <ns0:keyword>politics</ns0:keyword>
+                    <ns0:keyword>purchasing habits</ns0:keyword>
+                    <ns0:keyword>reading habits</ns0:keyword>
+                    <ns0:keyword>social medicine</ns0:keyword>
+                    <ns0:keyword>sociology</ns0:keyword>
+                    <ns0:keyword>statistics</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Swedish National Data Service</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="swe">SND</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="swe">Svensk Nationell Datatj&#228;nst</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>SWE</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://snd.gu.se/en</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://snd.gu.se/en/contact</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of Gothenburg</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="swe">G&#246;teborgs Universitet</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>SWE</ns0:institutionCountry>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.gu.se/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:01tm6cn81</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:SCR_011647</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_93338</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate>2008</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="swe">Vetenskapsradet</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Swedish Research Council</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>SWE</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.vr.se/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:03zttf063</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:SCR_011552</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_152073</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate>2008</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>CODEX rules &amp; guidelines for research</ns0:policyName>
+                <ns0:policyURL>https://www.vr.se/english/mandates/ethics.html</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Data Management</ns0:policyName>
+                <ns0:policyURL>https://snd.gu.se/en/data-management/data-management-resources</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Deposit agreement</ns0:policyName>
+                <ns0:policyURL>https://snd.gu.se/en/deposit-data/deposit-agreement</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Using data via SND</ns0:policyName>
+                <ns0:policyURL>https://snd.gu.se/en/search-and-order-data/using-data</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>other</ns0:dataAccessRestriction>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://snd.gu.se/en/find-and-order-data/accessibility-levels-snd</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>Deposit agreement</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>https://snd.gu.se/en/deposit-data/deposit-agreement</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                            <ns0:software>
+                <ns0:softwareName>other</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://snd.gu.se/en/find-and-order-data/research-data-catalogue/accessibility-levels-snd</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                    <ns0:certificate>other</ns0:certificate>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">DDI - Data Documentation Initiative</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/ddi-data-documentation-initiative</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                    <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">DataCite Metadata Schema</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/datacite-metadata-schema</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                    <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">Dublin Core</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                            <ns0:syndication syndicationType="RSS">https://snd.gu.se/en/news/feed</ns0:syndication>
+                <ns0:remarks>SND is a regular ICSU-WDS member. 
+SND is covered by Thomson Reuters Data Citation Index. 
+Swedish National Data Service (SND) is a research data infrastructure that supports accessibility, preservation, and reuse of research data. The SND Search function makes it easy to find, use, and cite research data from a variety of scientific disciplines. SND is present throughout the Swedish research ecology, through an extensive network across closer to 40 higher education institutions and other research organisations. Together, SND and this network form a distributed system of certified research data repositories with the SND main office as a central node. The certification means that SND ensures that research data are managed, stored, and made accessible in a secure and sustainable manner, today and for the future. SND collaborates with various international stakeholders in order to advance global access to research data.
+SND is governed by a consortium of nine Swedish universities: University of Gothenburg, Chalmers University of Technology, Karolinska Institutet, KTH Royal Institute of Technology, Lund University, Stockholm University, Swedish University of Agricultural Sciences, Ume&#229; University, and Uppsala University. University of Gothenburg is the host university, and subsequently the SND head office is located in Gothenburg. The SND operations are primarily funded by the Swedish Research Council and the consortium universities.</ns0:remarks>
+        <ns0:entryDate>2012-10-24</ns0:entryDate>
+        <ns0:lastUpdate>2021-05-11</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

@@ -1,0 +1,132 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011558</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Influenza Research Database</ns0:repositoryName>
+                    <ns0:additionalName language="eng">IRD</ns0:additionalName>
+                <ns0:repositoryURL>https://www.fludb.org/brc/home.spg?decorator=influenza</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.ws7cgw</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>MIR:00000172</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>OMICS_04512</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:SCR_006641</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:nif-0000-21222</ns0:repositoryIdentifier>
+                <ns0:description language="eng">The mission of the Influenza Research Database (IRD) is to provide a resource for the influenza virus research community that will facilitate an understanding of the influenza virus and how it interacts with the host organism, leading to new treatments and preventive actions. This resource will contain avian and non-human mammalian influenza surveillance data, human clinical data associated with virus extracts, phenotypic characteristics of viruses isolated from extracts, and all genomic and proteomic data available in public repositories for influenza viruses.</ns0:description>
+                    <ns0:repositoryContact>https://www.fludb.org/brc/problemReport.spg?decorator=influenza</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">201 Basic Biological and Medical Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20107 Bioinformatics and Theoretical Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">203 Zoology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20302 Evolution, Anthropology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">204 Microbiology, Virology and Immunology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">205 Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">207 Agriculture, Forestry, Horticulture and Veterinary Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">23 Agriculture, Forestry, Horticulture and Veterinary Medicine</ns0:subject>
+                <ns0:missionStatementURL>https://www.fludb.org/brc/staticContent.spg?decorator=influenza&amp;type=FluInfo&amp;subtype=Mission</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Archived data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Audiovisual data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Databases</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>COVID-19</ns0:keyword>
+                    <ns0:keyword>allergy</ns0:keyword>
+                    <ns0:keyword>genomics</ns0:keyword>
+                    <ns0:keyword>phylogenetics</ns0:keyword>
+                    <ns0:keyword>protein structure</ns0:keyword>
+                    <ns0:keyword>proteomics</ns0:keyword>
+                    <ns0:keyword>systems biology</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Bioinformatics Resource Centers</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">BRCs</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.niaid.nih.gov/research/bioinformatics-resource-centers</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>alison.yao@nih.gov</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Institute of Allergy and Infectious Diseases</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NIAID</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.niaid.nih.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.niaid.nih.gov/global/contact-us</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Northrop Grumman</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>commercial</ns0:institutionType>
+                <ns0:institutionURL>http://www.northropgrumman.com/Pages/default.aspx</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.northropgrumman.com/ContactUs/Pages/default.aspx</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">The J. Craig Venter Institute</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.jcvi.org/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.jcvi.org/contact</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Vecna Technologies, Inc.</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>commercial</ns0:institutionType>
+                <ns0:institutionURL>https://www.vecna.com/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>info@vecna.com</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>NIAID/Division of Microbiology and Infectious Diseases (DMID) Data Sharing and Release Guidelines</ns0:policyName>
+                <ns0:policyURL>https://www.niaid.nih.gov/research/data-sharing-and-release-guidelines</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                    <ns0:databaseLicense>
+                <ns0:databaseLicenseName>other</ns0:databaseLicenseName>
+                <ns0:databaseLicenseURL>https://opensource.org/licenses/</ns0:databaseLicenseURL>
+            </ns0:databaseLicense>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.niaid.nih.gov/research/data-sharing-and-release-guidelines</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>open</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://www.fludb.org/brc/staticContent.spg?decorator=influenza&amp;type=FluInfo&amp;subtype=Cite</ns0:citationGuidelineURL>
+                    <ns0:aidSystem>none</ns0:aidSystem>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks>Northrop Grumman is one of the Bioinformatics Resource Centers awarded by NIAID to provide data, tools and services which can be accessed through publicly available sites. 
+Terms &amp; Conditions: While this resource is freely available to researchers neither we as data providers nor our funding agencies are responsible for incorrect data or for incorrect interpretations of any results. Accuracy cannot be guaranteed for data that is predicted using computational tools and sequence similarity methods as they may not be experimentally validated. In some cases data can be incomplete as it may be part of an ongoing research project. To minimize errors, we strongly encourage users to contact the primary data provider(s) to ensure that any anomalies present in the primary data are adequately considered.</ns0:remarks>
+        <ns0:entryDate>2015-03-09</ns0:entryDate>
+        <ns0:lastUpdate>2020-04-24</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

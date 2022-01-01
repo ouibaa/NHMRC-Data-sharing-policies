@@ -1,0 +1,77 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010982</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Mutopia Project</ns0:repositoryName>
+                    <ns0:additionalName language="eng">Free sheet music for everyone</ns0:additionalName>
+                <ns0:repositoryURL>http://www.mutopiaproject.org/</ns0:repositoryURL>
+                <ns0:description language="eng">The Mutopia Project offers sheet music editions of classical music for free download. These are based on editions in the public domain, and include works by Bach, Beethoven, Chopin, Handel, Mozart, and many others. A team of volunteers are involved in typesetting the music by computer using the LilyPond software. 
+A growing number of modern editions, arrangements and new music are also available for download. The respective editors, arrangers and composers have chosen to make these works freely available.</ns0:description>
+                    <ns0:repositoryContact>http://www.mutopiaproject.org/contact.html</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2019-08-22">2.118 pieces of music</ns0:size>
+        <ns0:startDate>2001</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">103 Fine Arts, Music, Theatre and Media Studies</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">10302 Musicology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11 Humanities</ns0:subject>
+                <ns0:missionStatementURL>https://www.mutopiaproject.org/index.html</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Audiovisual data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>music</ns0:keyword>
+                    <ns0:keyword>performing arts</ns0:keyword>
+                    <ns0:keyword>sheet music</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">University of Waterloo</ns0:institutionName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://uwaterloo.ca/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>How to contribute to Mutopia</ns0:policyName>
+                <ns0:policyURL>https://www.mutopiaproject.org/contribute.html</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>wiki Guidelines</ns0:policyName>
+                <ns0:policyURL>https://github.com/chrissawer/The-Mutopia-Project/wiki</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www.mutopiaproject.org/legal.html</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>Public Domain</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www.mutopiaproject.org/legal.html</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>open</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>How to contribute</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>http://www.mutopiaproject.org/contribute.html</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                        <ns0:versioning />
+                    <ns0:api apiType="FTP">http://www.mutopiaproject.org/ftp/</ns0:api>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                    <ns0:syndication syndicationType="RSS">http://www.mutopiaproject.org/latestadditions.rss</ns0:syndication>
+                <ns0:remarks>mirror site at Portugal http://eremita.di.uminho.pt/mutopia/</ns0:remarks>
+        <ns0:entryDate>2014-09-03</ns0:entryDate>
+        <ns0:lastUpdate>2019-08-22</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

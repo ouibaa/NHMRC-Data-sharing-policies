@@ -1,0 +1,97 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010654</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">WDC - Oceanography, Tianjin</ns0:repositoryName>
+                    <ns0:additionalName language="eng">WDC - D, Oceanography</ns0:additionalName>
+                <ns0:repositoryURL>http://wdc-d.coi.gov.cn/nmdisenglish/</ns0:repositoryURL>
+                <ns0:description language="eng">As the third center for oceanography of the World Data Center following WDC-A of the United States and WDC-B of Russia, WDC-D for oceanography boasts long-term and stable sources of domestic marine basic data. The State Oceanic Administration now has long-term observations obtained from the fixed coastal ocean stations, offshore and oceanic research vessels, moored and drifting buoys. More and more marine data have been available from the Chinese-foreign marine cooperative surveys, analysis and measurement of laboratory samples, reception by the satellite ground station, aerial telemeter and remote sensing, the GOOS program and global ships of opportunity reports, etc; More marine data are being and will be obtained from the ongoing &#8220;863&#8221; program, one of the state key projects during the Ninth Five-year plan and the seasat No 1 which is scheduled to be launched next year. Through many years&#8217; effort, the WDC-D for oceanography has established formal relationship of marine data exchange with over 130 marine institutions in more than 60 countries in the world and is maintaining a close relationship of data exchange with over 30 major national oceanographic data centers. The established China Oceanic Information Network has joined the international marine data exchange system via Internet. Through these channels, a large amount data have been acquired of through international exchange, which, plus the marine data collected at home for many years, has brought the WDC-D for Oceanography over 100 years&#8217; global marine data with a total data amounting to more than 10 billion bytes. In the meantime, a vast amount of work has been done in the standardized and normalized processing and management of the data, and a series of national and professional standards have been formulated and implemented successively. Moreover, appropriate standards and norms are being formulated as required.</ns0:description>
+                    <ns0:repositoryContact>shlin@mail.nmdis.gov.cn</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>zho</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">203 Zoology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31302 Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL>http://www.coi.gov.cn/nmdisenglish/mission/</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Networkbased data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>SEASAT</ns0:keyword>
+                    <ns0:keyword>marine disaster</ns0:keyword>
+                    <ns0:keyword>marine environment</ns0:keyword>
+                    <ns0:keyword>marine research</ns0:keyword>
+                    <ns0:keyword>marine resource</ns0:keyword>
+                    <ns0:keyword>marine zoology</ns0:keyword>
+                    <ns0:keyword>telemeter</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">National Marine Data and Information Service</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NMDIS</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CHN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://wdc-d.coi.gov.cn/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>duqw@mail.nmdis.gov.cn</ns0:institutionContact>
+                                    <ns0:institutionContact>shlin@mail.nmdis.gov.cn</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">State Oceanic Administration of China</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">SOA</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CHN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://english.gov.cn/state_council/2014/10/06/content_281474992889983.htm</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Certification of WDS Members</ns0:policyName>
+                <ns0:policyURL>http://www.icsu-wds.org/services/certification</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>ICSU World Data System Constitution</ns0:policyName>
+                <ns0:policyURL>http://www.icsu-wds.org/organization/constitution_and_bylaws</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www.icsu-wds.org/services/data-sharing-principles</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                    <ns0:certificate>WDS</ns0:certificate>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">FGDC/CSDGM - Federal Geographic Data Committee Content Standard for Digital Geospatial Metadata</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/fgdccsdgm-federal-geographic-data-committee-content-standard-digital-ge</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks>NMDIS is the National Oceanographic Data Center, the ODP node, and the coordinating institution of the ODINWESTPAC under the framework of the IODE. It is also the ODAS Metadata Management Center of JCOMM, the China Argo Data Center of international Argo project, the China GTSPP Data Center of international GTSPP project, the China NEAR-GOOS Delayed Mode Database hosting institution of GOOS and the Chinese node of the PICES Metadata Federation.</ns0:remarks>
+        <ns0:entryDate>2014-02-13</ns0:entryDate>
+        <ns0:lastUpdate>2021-08-25</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

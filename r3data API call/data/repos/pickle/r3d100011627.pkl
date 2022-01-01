@@ -1,0 +1,111 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011627</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Polar Rock Repository</ns0:repositoryName>
+                    <ns0:additionalName language="eng">PRR</ns0:additionalName>
+                <ns0:repositoryURL>http://research.bpcrc.osu.edu/rr/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>RRID:SCR_002212</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:nlx_154740</ns0:repositoryIdentifier>
+                <ns0:description language="eng">The Polar Rock Repository is a national facility constructed adjacent to Scott Hall, home of the Byrd Polar Research Center, The Ohio State University. It is supported by the National Science Foundation's Office of Polar Programs. The repository houses rock samples from Antarctica, the Arctic, southern South America and South Africa. The polar rock collection and database includes field notes, photos, maps, cores, powder and mineral residues, thin sections, as well as microfossil mounts, microslides and residues. Rock samples may be borrowed for research by university scientists from anywhere in the world. Samples may also be borrowed for educational or museum use in the United States.</ns0:description>
+                    <ns0:repositoryContact>curator@bpcrc.osu.edu</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">315 Geophysics and Geodesy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">316 Geochemistry, Mineralogy and Crystallography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">317 Geography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL>http://research.bpcrc.osu.edu/rr/policy.php</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>antarctica</ns0:keyword>
+                    <ns0:keyword>arctic</ns0:keyword>
+                    <ns0:keyword>fossils</ns0:keyword>
+                    <ns0:keyword>geology</ns0:keyword>
+                    <ns0:keyword>minerals</ns0:keyword>
+                    <ns0:keyword>rock sample</ns0:keyword>
+                    <ns0:keyword>sediment</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">National Science Foundation, Office of Polar Programs</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NSF, OPP</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.nsf.gov/div/index.jsp?div=OPP</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:05nwjp114</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate>2012-04-01</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>OPPwebmaster@nsf.gov</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Ohio State University, Byrd Polar and Climate Research Center</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://bpcrc.osu.edu/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://byrd.osu.edu/contact</ns0:institutionContact>
+                                    <ns0:institutionContact>www@bprc.mps.ohio-state.edu</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Ohio State University, Office of Sponsored Programs</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">OSU-OSP</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>sponsoring</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://osp.osu.edu/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>2012-04-01</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://osp.osu.edu/contact/</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>PRR Policy for sample donation, distribution and publication</ns0:policyName>
+                <ns0:policyURL>http://research.bpcrc.osu.edu/rr/policy.php</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>embargoed</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://research.bpcrc.osu.edu/rr/policy.php</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>PRR Policy</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>http://research.bpcrc.osu.edu/rr/policy.php</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                            <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>http://research.bpcrc.osu.edu/rr/about/</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks>This material is based upon work supported by the National Science Foundation, Office of Polar Programs, under Grant No. 1141906.</ns0:remarks>
+        <ns0:entryDate>2015-06-29</ns0:entryDate>
+        <ns0:lastUpdate>2020-01-29</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

@@ -1,0 +1,145 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012347</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="deu">&lt;intR&gt;&#178;Dok[&#167;]</ns0:repositoryName>
+                    <ns0:additionalName language="deu">Inter-Zwei-Dok</ns0:additionalName>
+                <ns0:repositoryURL>https://intr2dok.vifa-recht.de/content/index.xml</ns0:repositoryURL>
+                <ns0:description language="eng">As Germany&#8217;s first disciplinary repository in the field of international and interdisciplinary legal scholarship &lt;intR&gt;&#178;Dok offers to all academic scholars currently affiliated with a university, college or research institute the opportunity to self-archive their quality-assured research data, research papers, pre-prints and previously published articles by means of open access. The disciplinary repository &lt;intR&gt;&#178;Dok is a service offer provided by the Scientific Information Service for International and Interdisciplinary Legal Research (Fachinformationsdienst f&#252;r internationale und interdisziplin&#228;re Rechtsforschung) established at Berlin State Library (Staatsbibliothek zu Berlin) and funded by the German Research Foundation (Deutsche Forschungsgemeinschaft).</ns0:description>
+                    <ns0:repositoryContact>christian.mathieu@sbb.spk-berlin.de</ns0:repositoryContact>
+                    <ns0:repositoryContact>intR2dok@sbb.spk-berlin.de</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2017-11-06">over 2.000 documents</ns0:size>
+        <ns0:startDate>2015</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>deu</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">113 Jurisprudence</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">12 Social and Behavioural Sciences</ns0:subject>
+                <ns0:missionStatementURL>https://intr2dok.vifa-recht.de/content/brand/who.xml</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Audiovisual data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>European law</ns0:keyword>
+                    <ns0:keyword>German language law</ns0:keyword>
+                    <ns0:keyword>interdisciplinary law</ns0:keyword>
+                    <ns0:keyword>interdisciplinary law research</ns0:keyword>
+                    <ns0:keyword>international law</ns0:keyword>
+                    <ns0:keyword>legal history</ns0:keyword>
+                    <ns0:keyword>legal philosophy</ns0:keyword>
+                    <ns0:keyword>sociology of law</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="deu">Deutsche Forschungsgemeinschaft</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="deu">DFG</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.dfg.de/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:018mejw64</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:SCR_012420</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_144062</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="deu">Fachinformationsdienst f&#252;r internationale und interdisziplin&#228;re Rechtsforschung</ns0:institutionName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://staatsbibliothek-berlin.de/recherche/fachgebiete/rechtswissenschaft/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="deu">Staatsbibliothek zu Berlin - Preu&#223;ischer Kulturbesitz</ns0:institutionName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://staatsbibliothek-berlin.de/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:02ysgg478</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://staatsbibliothek-berlin.de/die-staatsbibliothek/kontakt/</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="deu">Verbundzentrale des Gemeinsamen Bibliotheksverbundes der L&#228;nder Bremen, Hamburg, Mecklenburg-Vorpommern, Niedersachsen, Sachsen-Anhalt, Schleswig-Holstein, Th&#252;ringen und der Stiftung Preu&#223;ischer Kulturbesitz</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">VZG</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">Verbundzentrale des GBV</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.gbv.de/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:048vdhs48</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Urheberrecht</ns0:policyName>
+                <ns0:policyURL>https://intr2dok.vifa-recht.de//content/rights/rights.xml</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Wer wir sind</ns0:policyName>
+                <ns0:policyURL>https://intr2dok.vifa-recht.de//content/brand/who.xml</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                    <ns0:databaseLicense>
+                <ns0:databaseLicenseName>CC0</ns0:databaseLicenseName>
+                <ns0:databaseLicenseURL>https://creativecommons.org/publicdomain/zero/1.0/deed.de</ns0:databaseLicenseURL>
+            </ns0:databaseLicense>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>feeRequired</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/licenses/by-nc-nd/4.0/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>CC0</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/publicdomain/zero/1.0/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>ODC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://opendatacommons.org/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>institutional membership</ns0:dataUploadRestriction>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>Publikationsvertrag</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>http://intr2dok.vifa-recht.de/content/rights/vertrag.pdf</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                            <ns0:software>
+                <ns0:softwareName>other</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                    <ns0:api apiType="OAI-PMH">http://intr2dok.vifa-recht.de/servlets/OAIDataProvider</ns0:api>
+                    <ns0:api apiType="REST">https://intr2dok.vifa-recht.de/api/v1/objects/</ns0:api>
+                    <ns0:api apiType="SWORD">https://intr2dok.vifa-recht.de/sword2/sd/</ns0:api>
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                    <ns0:pidSystem>URN</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                    <ns0:certificate>DINI Certificate</ns0:certificate>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">DataCite Metadata Schema</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/datacite-metadata-schema</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                    <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">Dublin Core</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks>&lt;intR&gt;&#178;Dok also supports metadata standard MODS. Name of repository software: MyCoRe.</ns0:remarks>
+        <ns0:entryDate>2017-04-12</ns0:entryDate>
+        <ns0:lastUpdate>2021-09-03</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

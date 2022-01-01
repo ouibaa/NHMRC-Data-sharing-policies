@@ -1,0 +1,152 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010578</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">IEDA</ns0:repositoryName>
+                    <ns0:additionalName language="eng">IEDA Data Browser</ns0:additionalName>
+                    <ns0:additionalName language="eng">Interdisciplinary Earth Data Alliance</ns0:additionalName>
+                <ns0:repositoryURL>https://www.iedadata.org/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>FAIRsharing_doi: 10.25504/FAIRsharing.be9dj8</ns0:repositoryIdentifier>
+                <ns0:description language="eng">IEDA is a community-based facility that serves to support, sustain, and advance the geosciences by providing data services for observational Geoscience data from the Ocean, Earth, and Polar Sciences. IEDA welcomes and encourages investigators to contribute their data to the IEDA collections so that the data can be discovered and reused by a diverse community now and in the future. The IEDA collections are: EarthChem, Geochron, System for Earth Sample Registration (SESAR), Marine Geoscience Data System (MGDS), and USAP Data Center. Meta-Search provided on the portal through IEDA Data Browser http://www.iedadata.org/databrowser .</ns0:description>
+                    <ns0:repositoryContact>https://www.iedadata.org/contact/</ns0:repositoryContact>
+                    <ns0:repositoryContact>info@iedadata.org</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31302 Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL>https://www.iedadata.org/about/</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Databases</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Software applications</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>earth</ns0:keyword>
+                    <ns0:keyword>geosciences</ns0:keyword>
+                    <ns0:keyword>ocean</ns0:keyword>
+                    <ns0:keyword>polar sciences</ns0:keyword>
+                    <ns0:keyword>terrestrial</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Columbia University, Lamont-Doherty Earth Observatory</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">LDEO</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>JPN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.ldeo.columbia.edu/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.ldeo.columbia.edu/give-ldeo/contact-us</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">EarthChem</ns0:institutionName>
+                                <ns0:institutionCountry>JPN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.earthchem.org/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>RRID:SCR_002207</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_154721</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.earthchem.org/contact</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">EarthCube Council of Data Facilities</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">CDF</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.earthcube.org/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Interdisciplinary Earth Data Alliance</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">IEDA</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.iedadata.org/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>info@iedadata.org</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Marine Geoscience Data System</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">MGDS</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>JPN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.marine-geo.org/index.php</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>RRID:SCR_002164</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_154713</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.marine-geo.org/about/contact.php</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Science Foundation</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NSF</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>JPN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.nsf.gov/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>RRID:SCR_012938</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_inv_1005118</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.nsf.gov/help/contact.jsp</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>FORCE11 Joint Declaration of Data Citation Principles</ns0:policyName>
+                <ns0:policyURL>https://www.force11.org/datacitationprinciples</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>IEDA Data Publication Policy</ns0:policyName>
+                <ns0:policyURL>https://www.iedadata.org/help/data-publication/</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>NSF Data Management &amp; Sharing</ns0:policyName>
+                <ns0:policyURL>https://www.nsf.gov/sbe/STS/STSDATASHARING.pdf</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/licenses/by-nc-sa/3.0/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                    <ns0:api apiType="REST">https://www.iedadata.org/help/web-services/#rest</ns0:api>
+                    <ns0:api apiType="other">https://www.iedadata.org/help/web-services/#sec1</ns0:api>
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://www.iedadata.org/frequently-asked-questions/</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                    <ns0:certificate>WDS</ns0:certificate>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">DataCite Metadata Schema</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/datacite-metadata-schema</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks>is covered by Elsevier. IEDA is aiming for regular ICSU-WDS membership . The Letter of Agreement (LoA) is Pending (21.04.2017) 
+IEDA is a partnership between EarthChem and the Marine Geoscience Data System (MGDS).</ns0:remarks>
+        <ns0:entryDate>2014-01-08</ns0:entryDate>
+        <ns0:lastUpdate>2021-09-02</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

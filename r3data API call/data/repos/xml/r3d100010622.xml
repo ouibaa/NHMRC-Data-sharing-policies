@@ -1,0 +1,120 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010622</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Canadas National Aquatic Biological Specimen Bank and Database</ns0:repositoryName>
+                    <ns0:additionalName language="fra">BNSBA</ns0:additionalName>
+                    <ns0:additionalName language="fra">Base de donn&#233;es et Banque nationale de sp&#233;cimens biologiques aquatiques du Canada</ns0:additionalName>
+                    <ns0:additionalName language="eng">NABSB</ns0:additionalName>
+                <ns0:repositoryURL>http://www.ec.gc.ca/inre-nwri/default.asp?lang=En&amp;n=D488F7DE-1</ns0:repositoryURL>
+                <ns0:description language="eng">&gt;&gt;&gt; ----This page has been archived on the Web--- &lt;&lt;&lt;    Environment and Climate Change Canada collects biological samples from a number of lakes and rivers across Canada in support of federally mandated programs. Environment and Climate Change Canada has collected fish and invertebrates from the Great Lakes since 1977 in support of the Great Lakes Water Quality Agreement (GLWQA). More recently, samples have been collected nationally to support Canada's Chemicals Management Plan and the Clean Air Regulatory Agenda. Environment and Climate Change Canada also maintains a specimen bank of frozen tissues which is a requirement of the GLWQA and is an integral part of departmental monitoring and research programs. The National Aquatic Biological Specimen Bank (NABSB) is located in a dedicated facility at the Canada Centre for Inland Waters in Burlington, Ontario. The NABSB holds more than 37,000 samples of fish and invertebrates collected over the last 30+ years of environmental monitoring in Canada. Research conducted using samples from the NABSB has produced more than 60 scientific publications, reports and book chapters</ns0:description>
+                    <ns0:repositoryContact>https://www.canada.ca/en/environment-climate-change/corporate/contact.html</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                    <ns0:type>institutional</ns0:type>
+                <ns0:size updated="2014-02-24">52000 samples, 50 species</ns0:size>
+        <ns0:startDate>1977</ns0:startDate>
+        <ns0:endDate>2012</ns0:endDate>
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>fra</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">203 Zoology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20303 Animal Ecology, Biodiversity and Ecosystem Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20305 Biochemistry and Animal Physiology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">305 Biological Chemistry and Food Chemistry</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">30501 Biological and Biomimetic Chemistry</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31 Chemistry</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">318 Water Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL>https://www.ec.gc.ca/default.asp?lang=En&amp;n=BD3CE17D-1</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Archived data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>alewife</ns0:keyword>
+                    <ns0:keyword>aquatic invertebrates</ns0:keyword>
+                    <ns0:keyword>fish</ns0:keyword>
+                    <ns0:keyword>lake trout</ns0:keyword>
+                    <ns0:keyword>lake whitefish</ns0:keyword>
+                    <ns0:keyword>plankton</ns0:keyword>
+                    <ns0:keyword>rainbow smelt</ns0:keyword>
+                    <ns0:keyword>samples</ns0:keyword>
+                    <ns0:keyword>slimly sculpin</ns0:keyword>
+                    <ns0:keyword>walleye</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Canada Center for Inland Waters</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">CCIW</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.ec.gc.ca/scitech/default.asp?lang=En&amp;n=0B9A6436-1#nwri</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>NABSB@ec.gc.ca</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Environment and Climate Change Canada</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">ECCC</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="fra">Environnement et Changement climatique Canada</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.ec.gc.ca/default.asp?lang=En&amp;n=FD9B0E51-1</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>ec.enviroinfo.ec@canada.ca</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Water Research Institute</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="fra">INRE</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="fra">Institut National de Recherche sur les Eaux</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">NWRI</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.ec.gc.ca/inre-nwri/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Terms and conditions</ns0:policyName>
+                <ns0:policyURL>https://www.canada.ca/en/transparency/terms.html</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>restricted</ns0:databaseAccessType>
+                            <ns0:databaseAccessRestriction>registration</ns0:databaseAccessRestriction>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>other</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.canada.ca/en/transparency/terms.html</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://canada.ca/en/transparency/terms.html</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                <ns0:remarks>Archived content: Information identified as archived on the Web is for reference, research or recordkeeping purposes. It has not been altered or updated after the date of archiving. Web pages that are archived on the Web are not subject to the Government of Canada Web Standards. As per the Communications Policy of the Government of Canada, you can request alternate formats on the Contact Us page.      All information related to the NABSB is maintained within a secured relational database. All specimens received and/or collected are registered and assigned with successive and unique identification numbers. The database maintains all biological data (length, age, etc.) associated with each specimen number as well as data with regard to location, collection methods, storage and the results of all chemical analyses that have been performed on the specimen. We are continually working to improve the database to increase its functionality and access to the data within.</ns0:remarks>
+        <ns0:entryDate>2014-02-24</ns0:entryDate>
+        <ns0:lastUpdate>2019-11-13</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

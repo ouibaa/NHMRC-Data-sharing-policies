@@ -1,0 +1,110 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012093</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Cystic Fibrosis Mutation Database</ns0:repositoryName>
+                    <ns0:additionalName language="eng">CFMDB</ns0:additionalName>
+                    <ns0:additionalName language="eng">CFTR1</ns0:additionalName>
+                <ns0:repositoryURL>http://www.genet.sickkids.on.ca/cftr/app</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>RRID:SCR_000685</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:nif-0000-21105</ns0:repositoryIdentifier>
+                <ns0:description language="eng">The Cystic Fibrosis Mutation Database (CFTR1) was initiated by the Cystic Fibrosis Genetic Analysis Consortium in 1989 to increase and facilitate communications among CF researchers, and is maintained by the Cystic Fibrosis Centre at the Hospital for Sick Children in Toronto. The specific aim of the database is to provide up to date information about individual mutations in the CFTR gene. In a major upgrade in 2010, all known CFTR mutations and sequence variants have been converted to the standard nomenclature recommended by the Human Genome Variation Society.</ns0:description>
+                    <ns0:repositoryContact>cftr.admin@genet.sickkids.on.ca</ns0:repositoryContact>
+                    <ns0:repositoryContact>http://www.genet.sickkids.on.ca/cftr/Contact.html</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2017-09-12">2.019 mutations</ns0:size>
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">201 Basic Biological and Medical Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20105 General Genetics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">205 Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20503 Human Genetics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                <ns0:missionStatementURL>http://www.genet.sickkids.on.ca/cftr/ConsortiumBackgroundPage.html</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>CF</ns0:keyword>
+                    <ns0:keyword>CFMDB</ns0:keyword>
+                    <ns0:keyword>CFTR2</ns0:keyword>
+                    <ns0:keyword>disease</ns0:keyword>
+                    <ns0:keyword>dna sequence</ns0:keyword>
+                    <ns0:keyword>genetic variation</ns0:keyword>
+                    <ns0:keyword>genomics</ns0:keyword>
+                    <ns0:keyword>genotype</ns0:keyword>
+                    <ns0:keyword>mutation</ns0:keyword>
+                    <ns0:keyword>phenotype</ns0:keyword>
+                    <ns0:keyword>polymorphism</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">The Hospital for Sick Children, Cystic Fibrosis Centre</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">SickKids</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.sickkids.ca/Centres/Cystic-Fibrosis-Centre/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.sickkids.ca/AboutSickKids/Contact-Us/index.html</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">The Hospital for Sick Children, The Centre for Applied Genomics</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">SickKids</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">TCAG</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.tcag.ca/projects/databases.html</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Guidelines of Cystic Fibrosis Consortium</ns0:policyName>
+                <ns0:policyURL>http://www.genet.sickkids.on.ca/cftr/ConsortiumGuidelinesPage.html</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Notice and Disclaimer/Limitation of Liability of Database Use</ns0:policyName>
+                <ns0:policyURL>http://www.tcag.ca/projects/databaseDisclaimer.html</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>TCAG Facilities Terms and Conditions</ns0:policyName>
+                <ns0:policyURL>http://www.tcag.ca/facilities/terms.html</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>TCAG Facilities Terms and Conditions download</ns0:policyName>
+                <ns0:policyURL>http://www.tcag.ca/documents/terms-conditions_2016.pdf</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Terms and Conditions of Use</ns0:policyName>
+                <ns0:policyURL>http://www.sickkids.ca/AboutSickKids/terms-of-use-page.html</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www.tcag.ca/facilities/terms.html</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                <ns0:versioning />
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">Repository-Developed Metadata Schemas</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/repository-developed-metadata-schemas</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks />
+        <ns0:entryDate>2016-07-27</ns0:entryDate>
+        <ns0:lastUpdate>2017-09-12</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

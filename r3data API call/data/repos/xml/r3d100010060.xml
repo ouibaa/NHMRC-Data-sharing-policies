@@ -1,0 +1,109 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010060</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">OpenEI</ns0:repositoryName>
+                    <ns0:additionalName language="eng">Open Energy Information</ns0:additionalName>
+                    <ns0:additionalName language="eng">OpenEnergyInfo</ns0:additionalName>
+                <ns0:repositoryURL>https://openei.org/wiki/Main_Page</ns0:repositoryURL>
+                <ns0:description language="eng">The Open Energy Information (OpenEI.org) initiative is a free, open source knowledge-sharing platform created to facilitate access to data, models, tools, and information that accelerate the transition to clean energy systems through informed decisions. Sponsored by the Department of Energy, and developed by the National Renewable Energy Lab, in support of the Open Government Initiative, OpenEI strives to make energy-related data and information searchable, accessible, and useful to both people and machines</ns0:description>
+                    <ns0:repositoryContact>openeiweb@nrel.gov</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                    <ns0:type>institutional</ns0:type>
+                <ns0:size updated="2021-08-06">2.240 datasets</ns0:size>
+        <ns0:startDate>2009</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">32 Physics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">4 Engineering Sciences</ns0:subject>
+                <ns0:missionStatementURL>https://openei.org/wiki/OpenEI:About</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Audiovisual data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                            <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>energy</ns0:keyword>
+                    <ns0:keyword>energy data</ns0:keyword>
+                    <ns0:keyword>energy efficiency</ns0:keyword>
+                    <ns0:keyword>energy information</ns0:keyword>
+                    <ns0:keyword>geothermal energy</ns0:keyword>
+                    <ns0:keyword>oil and gas</ns0:keyword>
+                    <ns0:keyword>renewable energy</ns0:keyword>
+                    <ns0:keyword>solar energy</ns0:keyword>
+                    <ns0:keyword>water energy</ns0:keyword>
+                    <ns0:keyword>wind energy</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">National Renewable Energy Laboratory</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NREL</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.nrel.gov/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:036266993</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate>2009</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>openei.webmaster@nrel.gov</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">U.S.Department of Energy, Office of Energy Efficiency and Renewable Energy</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">DOE</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">EERE</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.energy.gov/eere/office-energy-efficiency-renewable-energy</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:02xznz413</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate>2009</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>OpenEI core content policies</ns0:policyName>
+                <ns0:policyURL>https://openei.org/wiki/OpenEI:Core_content_policies</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>The Open Definition</ns0:policyName>
+                <ns0:policyURL>https://opendefinition.org/</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                    <ns0:databaseLicense>
+                <ns0:databaseLicenseName>CC</ns0:databaseLicenseName>
+                <ns0:databaseLicenseURL>https://creativecommons.org/licenses/</ns0:databaseLicenseURL>
+            </ns0:databaseLicense>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/licenses/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>CC0</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/publicdomain/zero/1.0/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>core content policies</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>https://openei.org/wiki/OpenEI:Core_content_policies</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                        <ns0:versioning>yes</ns0:versioning>
+                    <ns0:api apiType="REST">https://openei.org/services/</ns0:api>
+                    <ns0:api apiType="SPARQL">https://openei.org/services/doc/sparql/</ns0:api>
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://openei.org/wiki/Help:Citations</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                    <ns0:syndication syndicationType="ATOM">https://en.openei.org/w/index.php?title=Special:RecentChanges&amp;feed=atom</ns0:syndication>
+                <ns0:remarks>NREL is a national laboratory of the U.S. Department of Energy, Office of Energy Effciency and Renewable Energy, operated by the Alliance for Sustainable Energy, LLC</ns0:remarks>
+        <ns0:entryDate>2012-10-02</ns0:entryDate>
+        <ns0:lastUpdate>2021-08-11</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

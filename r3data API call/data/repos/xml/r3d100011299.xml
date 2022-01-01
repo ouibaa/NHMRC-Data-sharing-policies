@@ -1,0 +1,115 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011299</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Plant and Fungal Carbohydrate Structure Database</ns0:repositoryName>
+                    <ns0:additionalName language="eng">PFCSDB</ns0:additionalName>
+                    <ns0:additionalName language="eng">Plant &amp; Fungal CSDB</ns0:additionalName>
+                <ns0:repositoryURL>http://csdb.glycoscience.ru/plant_fungal/</ns0:repositoryURL>
+                <ns0:description language="eng">&gt;&gt;&gt;!!!Bacterial (BCSDB) and Plant&amp;Fungal (PFCSDB) carbohydrate structure databases have been merged into a single database, CSDB!!!&lt;&lt;&lt;
+This database is aimed at provision of structural, bibliographic, taxonomic and related information on plant and fungal carbohydrate structures. The main source of data is a retrospective literature analysis. About 4000 records were imported from CCSD (Carbbank, University of Georgia, Athens, plus NMR data from corresponding publications; structures published before 1995) with subsequent manual curation and approval. 
+The scope is "plant and fungal carbohydrates" and is expected to cover nearly all structures of this class published until 2013. Plant and fungal means that a structure has been found in plants or fungi or obtained by modification of those found in these domains. Carohydrate means a structure composed of any residues linked by glycosidic, ester, amidic, ketal, phospho- or sulpho-diester bonds, in which at least one residue is a sugar or its derivative.</ns0:description>
+                    <ns0:repositoryContact>http://csdb.glycoscience.ru/plant_fungal/core/feedback.php</ns0:repositoryContact>
+                    <ns0:repositoryContact>http://csdb.glycoscience.ru/plant_fungal/index.html?help=email</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2019-12-09">7.968 compounds; 2.926 organisms; 2.827 publications</ns0:size>
+        <ns0:startDate>2013</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">201 Basic Biological and Medical Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">204 Microbiology, Virology and Immunology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                <ns0:missionStatementURL>http://csdb.glycoscience.ru/plant_fungal/index.html?help=about</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>NMR signals</ns0:keyword>
+                    <ns0:keyword>NMR simulation</ns0:keyword>
+                    <ns0:keyword>life sciences</ns0:keyword>
+                    <ns0:keyword>taxonomy</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">International Science &amp; Technology Center</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">ISTC</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="rus">&#1052;&#1053;&#1058;&#1062;</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="rus">&#1052;&#1077;&#1078;&#1076;&#1091;&#1085;&#1072;&#1088;&#1086;&#1076;&#1085;&#1099;&#1081; &#1085;&#1072;&#1091;&#1095;&#1085;&#1086;-&#1090;&#1077;&#1093;&#1085;&#1080;&#1095;&#1077;&#1089;&#1082;&#1080;&#1081; &#1094;&#1077;&#1085;&#1090;&#1088;</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>RUS</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.istc.int/en/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Russian Academy of Sciences, N.D. Zelinsky Institute of Organic Chemistry</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">ZIOC RAS</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="rus">&#1048;&#1054;&#1061; &#1056;&#1040;&#1053;</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="rus">&#1048;&#1085;&#1089;&#1090;&#1080;&#1090;&#1091;&#1090; &#1086;&#1088;&#1075;&#1072;&#1085;&#1080;&#1095;&#1077;&#1089;&#1082;&#1086;&#1081; &#1093;&#1080;&#1084;&#1080;&#1080; &#1080;&#1084;. &#1053;.&#1044;.&#1047;&#1077;&#1083;&#1080;&#1085;&#1089;&#1082;&#1086;&#1075;&#1086; &#1056;&#1086;&#1089;&#1089;&#1080;&#1081;&#1089;&#1082;&#1086;&#1081; &#1072;&#1082;&#1072;&#1076;&#1077;&#1084;&#1080;&#1080; &#1085;&#1072;&#1091;&#1082;</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>RUS</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://zioc.ru/?lang=en</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>SECRETARY@ioc.ac.ru</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Russian Foundation for Basic Research</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">RFBR</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="rus">&#1056;&#1086;&#1089;&#1089;&#1080;&#1081;&#1089;&#1082;&#1080;&#1081; &#1092;&#1086;&#1085;&#1076; &#1092;&#1091;&#1085;&#1076;&#1072;&#1084;&#1077;&#1085;&#1090;&#1072;&#1083;&#1100;&#1085;&#1099;&#1093; &#1080;&#1089;&#1089;&#1083;&#1077;&#1076;&#1086;&#1074;&#1072;&#1085;&#1080;&#1081;</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="rus">&#1056;&#1092;&#1092;&#1080;</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>RUS</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.rfbr.ru/rffi/eng</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">The President of the Russian Federation Grants Council</ns0:institutionName>
+                                <ns0:institutionCountry>RUS</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://grants.extech.ru/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Univerity of Georgia, Carbbank</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">CCSD Database</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://glycomics.uga.edu/?id=46</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate>1997</ns0:responsibilityEndDate>
+                            </ns0:institution>
+                        <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://toukach.ru/bcsdb.htm</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>open</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                <ns0:versioning>yes</ns0:versioning>
+                    <ns0:api apiType="SOAP">http://csdb.glycoscience.ru/plant_fungal/index.html?help=api</ns0:api>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>http://csdb.glycoscience.ru/help/credits.html#citations</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">RDF Data Cube Vocabulary</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/rdf-data-cube-vocabulary</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks>Plant and Fungal Carbohydrate Structure Database is covered by Thomson Reuters Data Citation Index. PFCSDB is one part of the Russian CSDB, the other part is Bacterial Carbohydrate Structure DataBase (BCSD).</ns0:remarks>
+        <ns0:entryDate>2014-11-27</ns0:entryDate>
+        <ns0:lastUpdate>2021-12-21</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

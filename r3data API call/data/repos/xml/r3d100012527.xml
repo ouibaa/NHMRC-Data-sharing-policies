@@ -1,0 +1,101 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012527</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="deu">Phonogrammarchiv</ns0:repositoryName>
+                    <ns0:additionalName language="deu">PhA</ns0:additionalName>
+                <ns0:repositoryURL>https://www.oeaw.ac.at/phonogrammarchiv/</ns0:repositoryURL>
+                <ns0:description language="eng">The Phonogrammarchiv is a multi-disciplinary research sound and video archive, covering holdings from all continents. Since its foundation in 1899 the Phonogrammarchiv has been building up its holdings by cooperating with Austrian scholars and archiving their collected material, or by fieldwork conducted by staff members on special topics exploring new fields of methods and contents. The main tasks comprise the production, annotation, cataloguing and long-term preservation of audio-visual field recordings, making the cultural heritage available for future generations and enabling the dissemination of the recordings as well as technical developments in the field of AV recording and storage. Thus the Phonogrammarchiv adds to infrastructural performance valuable to both the scholarly community and the public at large.</ns0:description>
+                    <ns0:repositoryContact>https://www.oeaw.ac.at/phonogrammarchiv/phonogrammarchiv/team/</ns0:repositoryContact>
+                    <ns0:repositoryContact>pha@oeaw.ac.at</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2018-07-20">75.500 items (total playing time: ca. 14.000 h, including ca. 1.700 h video recordings)</ns0:size>
+        <ns0:startDate>1899</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>deu</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">103 Fine Arts, Music, Theatre and Media Studies</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">104 Linguistics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">106 Non-European Languages and Cultures, Social and Cultural Anthropology, Jewish Studies and Religious Studies</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">10601 Social and Cultural Anthropology and Ethnology/Folklore</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11 Humanities</ns0:subject>
+                <ns0:missionStatementURL>https://www.oeaw.ac.at/en/phonogrammarchiv/phonogrammarchiv/mission-statement/</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Audiovisual data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>cultural anthropology</ns0:keyword>
+                    <ns0:keyword>dialectology</ns0:keyword>
+                    <ns0:keyword>endangered languages</ns0:keyword>
+                    <ns0:keyword>ethnomusicology</ns0:keyword>
+                    <ns0:keyword>lingustics</ns0:keyword>
+                    <ns0:keyword>musicology</ns0:keyword>
+                    <ns0:keyword>oral tradition</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Austrian Academy of Sciences</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="deu">&#214;AW</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="deu">&#214;sterreichische Akademie der Wissenschaften</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>AUT</ns0:institutionCountry>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.oeaw.ac.at/en/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:03anc3s24</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:SCR_000953</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_99930</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">CLARIN K(nowledge)-Centres</ns0:institutionName>
+                                <ns0:institutionCountry>EEC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.clarin.eu/content/knowledge-centres</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.clarin.eu/contact</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Rahmenbedingungen  zur  Unterst&#252;tzung  eines  phonographischen/videographischen  
+Forschungsprojektes  durch  das  Phonogra
+mmarchiv    (PhA)  der  &#214;sterreichischen  
+Akademie der Wissenschaften (&#214;AW)</ns0:policyName>
+                <ns0:policyURL>https://www.oeaw.ac.at/fileadmin/Institute/PHA/PDF/Rahmenbedingungen.pdf</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                    <ns0:databaseLicense>
+                <ns0:databaseLicenseName>Copyrights</ns0:databaseLicenseName>
+                <ns0:databaseLicenseURL>https://www.oeaw.ac.at/phonogrammarchiv/phonogrammarchiv/clarin-k-centre/</ns0:databaseLicenseURL>
+            </ns0:databaseLicense>
+                    <ns0:databaseLicense>
+                <ns0:databaseLicenseName>Public Domain</ns0:databaseLicenseName>
+                <ns0:databaseLicenseURL>https://www.oeaw.ac.at/phonogrammarchiv/phonogrammarchiv/clarin-k-centre/</ns0:databaseLicenseURL>
+            </ns0:databaseLicense>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Public Domain</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.oeaw.ac.at/phonogrammarchiv/phonogrammarchiv/clarin-k-centre/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>no</ns0:versioning>
+                            <ns0:pidSystem>other</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                    <ns0:aidSystem>none</ns0:aidSystem>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                    <ns0:certificate>other</ns0:certificate>
+                                <ns0:remarks>The Phonogrammarchiv is part of the Austrian CLARIN consortium. The Phonogrammarchiv has been officially recognized as aCLARIN K (Knowledge) Centre. And it's get an Clarin K-Centre Certificate . - Partner intitutions: https://www.oeaw.ac.at/en/phonogrammarchiv/phonogrammarchiv/partner-institutions-cooperations/</ns0:remarks>
+        <ns0:entryDate>2017-11-06</ns0:entryDate>
+        <ns0:lastUpdate>2021-01-29</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

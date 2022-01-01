@@ -1,0 +1,84 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100013646</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Brain Analysis Library of Spatial maps and Atlases</ns0:repositoryName>
+                    <ns0:additionalName language="eng">BALSA</ns0:additionalName>
+                <ns0:repositoryURL>https://balsa.wustl.edu</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>biodbcore-001835</ns0:repositoryIdentifier>
+                <ns0:description language="eng">Brain Analysis Library of Spatial maps and Atlases (BALSA) is a database for hosting and sharing neuroimaging and neuroanatomical datasets for human and primate species. BALSA houses curated, user-created Study datasets, extensively analyzed neuroimaging data associated with published figures and Reference datasets mapped to brain atlas surfaces and volumes in human and nonhuman primates as a general resource (e.g., published cortical parcellations).</ns0:description>
+                    <ns0:repositoryContact>HCP-Users@humanconnectome.org</ns0:repositoryContact>
+                    <ns0:repositoryContact>https://balsa.wustl.edu/about/help</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2016</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">12 Social and Behavioural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">206 Neurosciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20602 Cellular Neuroscience</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                <ns0:missionStatementURL>https://balsa.wustl.edu/about/index</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>biological imaging</ns0:keyword>
+                    <ns0:keyword>brain imaging</ns0:keyword>
+                    <ns0:keyword>magnetic resonance imaging</ns0:keyword>
+                    <ns0:keyword>primate</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">The BALSA Foundation</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.balsafoundation.org/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.balsafoundation.org/contact</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Washington University in St. Louis, BALSA Group</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://fuse.wustl.edu/balsa-group-washu/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Terms and Conditions for Uploading Data</ns0:policyName>
+                <ns0:policyURL>https://balsa.wustl.edu/terms/submission</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/licenses/by-nc-sa/4.0/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>Submitting Data to BALSA</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>https://balsa.wustl.edu/about/submission</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                        <ns0:versioning />
+                        <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">Repository-Developed Metadata Schemas</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/repository-developed-metadata-schemas</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks>is covered by Elsevier.</ns0:remarks>
+        <ns0:entryDate>2021-09-02</ns0:entryDate>
+        <ns0:lastUpdate>2021-09-25</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

@@ -1,0 +1,77 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100013224</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Broad GDAC Firehose</ns0:repositoryName>
+                    <ns0:additionalName language="eng">Genome Data Analysis Center</ns0:additionalName>
+                <ns0:repositoryURL>http://gdac.broadinstitute.org/</ns0:repositoryURL>
+                <ns0:description language="eng">Born of the desire to systematize analyses from The Cancer Genome Atlas pilot and scale their execution to the dozens of remaining diseases to be studied, GDAC Firehose now sits atop terabytes of analysis-ready TCGA data and reliably executes thousands of pipelines per month. More information: https://broadinstitute.atlassian.net/wiki/spaces/GDAC/</ns0:description>
+                    <ns0:repositoryContact>gdac@broadinstitute.org</ns0:repositoryContact>
+                        <ns0:size updated="2020-04-24">55 terabytes</ns0:size>
+        <ns0:startDate>2013</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">201 Basic Biological and Medical Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20105 General Genetics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20107 Bioinformatics and Theoretical Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">205 Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20503 Human Genetics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                <ns0:missionStatementURL>https://broadinstitute.atlassian.net/wiki/spaces/GDAC/pages/844334013/Mission+Statement</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Archived data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>cancer genomics data</ns0:keyword>
+                    <ns0:keyword>human cancer prevention</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Broad Institute</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.broadinstitute.org/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:05a0ya142</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Institutes of Health, National Cancer Institute, Center for Cancer Genomics, The Cancer Genome Atlas Program Office</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">CCG</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">NCI</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.cancer.gov/about-nci/organization/ccg/about/contact#4</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>tcga@mail.nih.gov</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Data Usage Policy</ns0:policyName>
+                <ns0:policyURL>https://broadinstitute.atlassian.net/wiki/spaces/GDAC/pages/844333156/Data+Usage+Policy</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Public Domain</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.cancer.gov/about-nci/organization/ccg/research/structural-genomics/tcga/using-tcga/citing-tcga</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                <ns0:versioning />
+                    <ns0:api apiType="REST">http://firebrowse.org/api-docs/</ns0:api>
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://www.cancer.gov/about-nci/organization/ccg/research/structural-genomics/tcga/using-tcga/citing-tcga</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>no</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks>Broad GDAC Firehose is covered by Clarivate Data Citation Index</ns0:remarks>
+        <ns0:entryDate>2020-02-05</ns0:entryDate>
+        <ns0:lastUpdate>2020-04-29</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

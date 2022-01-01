@@ -1,0 +1,119 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011302</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">The Polinsky Language Sciences Lab Dataverse</ns0:repositoryName>
+                <ns0:repositoryURL>https://dataverse.harvard.edu/dataverse/polinsky</ns0:repositoryURL>
+                <ns0:description language="eng">The Polinsky Language Sciences Lab at Harvard University is a linguistics lab that examines questions of language structure and its effect on the ways in which people use and process language in real time. We engage in linguistic and interdisciplinary research projects ourselves; offer linguistic research capabilities for undergraduate and graduate students, faculty, and visitors; and build relationships with the linguistic communities in which we do our research.
+We are interested in a broad range of issues pertaining to syntax, interfaces, and cross-linguistic variation. We place a particular emphasis on novel experimental evidence that facilitates the construction of linguistic theory. We have a strong cross-linguistic focus, drawing upon English, Russian, Chinese, Korean, Mayan languages, Basque, Austronesian languages, languages of the Caucasus, and others. We believe that challenging existing theories with data from as broad a range of languages as possible is a crucial component of the successful development of linguistic theory.
+We investigate both fluent speakers and heritage speakers&#8212;those who grew up hearing or speaking a particular language but who are now more fluent in a different, societally dominant language. Heritage languages, a novel field of linguistic inquiry, are important because they provide new insights into processes of linguistic development and attrition in general, thus increasing our understanding of the human capacity to maintain and acquire language. Understanding language use and processing in real time and how children acquire language helps us improve language study and pedagogy, which in turn improves communication across the globe. Although our lab does not specialize in language acquisition, we have conducted some studies of acquisition of lesser-studied languages and heritage languages, with the purpose of comparing heritage speakers to adults.</ns0:description>
+                            <ns0:type>disciplinary</ns0:type>
+                    <ns0:type>institutional</ns0:type>
+                <ns0:size updated="2018-12-06">16 datasets; 1.156 files</ns0:size>
+        <ns0:startDate>2013</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">104 Linguistics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11 Humanities</ns0:subject>
+                <ns0:missionStatementURL />
+                    <ns0:contentType contentTypeScheme="parse">Audiovisual data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>cross-linguistic</ns0:keyword>
+                    <ns0:keyword>fluent speakers</ns0:keyword>
+                    <ns0:keyword>heritage speakers</ns0:keyword>
+                    <ns0:keyword>social sciences</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Harvard Dataverse</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://dataverse.harvard.edu/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Harvard University, Polinsky Language Sciences Lab</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">CP</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://urs.iq.harvard.edu/polinsky-language-sciences-lab</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>kplaster@fas.harvard.edu</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">The Dataverse  Project</ns0:institutionName>
+                                <ns0:institutionCountry>AAA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://dataverse.org/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>support@dataverse.org</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Community-norms</ns0:policyName>
+                <ns0:policyURL>https://dataverse.org/best-practices/dataverse-community-norms</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Dataverse Guides</ns0:policyName>
+                <ns0:policyURL>http://guides.dataverse.org/en/latest/</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Harvard Dataverse General Terms of Use</ns0:policyName>
+                <ns0:policyURL>https://dataverse.org/best-practices/harvard-dataverse-general-terms-use</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Harvard Dataverse Policies</ns0:policyName>
+                <ns0:policyURL>https://dataverse.org/best-practices/harvard-dataverse-policies</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                    <ns0:databaseLicense>
+                <ns0:databaseLicenseName>CC0</ns0:databaseLicenseName>
+                <ns0:databaseLicenseURL>https://creativecommons.org/publicdomain/zero/1.0/legalcode</ns0:databaseLicenseURL>
+            </ns0:databaseLicense>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>closed</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>institutional membership</ns0:dataAccessRestriction>
+                                    <ns0:dataAccessRestriction>other</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://dataverse.org/best-practices/harvard-dataverse-general-terms-use</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>Data Deposit Terms</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>https://dataverse.org/best-practices/harvard-dataverse-general-terms-use</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                            <ns0:software>
+                <ns0:softwareName>DataVerse</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                    <ns0:api apiType="SWORD">http://guides.dataverse.org/en/latest/api/sword.html</ns0:api>
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                    <ns0:pidSystem>hdl</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://dataverse.org/best-practices/data-citation</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">DDI - Data Documentation Initiative</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/ddi-data-documentation-initiative</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks>Polinsky Language Sciences Lab is covered by Thomson Reuters Data Citation Index. And uses Data Documentation Initiative (DDI) metadata specification.</ns0:remarks>
+        <ns0:entryDate>2014-11-28</ns0:entryDate>
+        <ns0:lastUpdate>2021-08-24</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

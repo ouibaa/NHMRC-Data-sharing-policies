@@ -1,0 +1,159 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011098</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">OpenML</ns0:repositoryName>
+                    <ns0:additionalName language="eng">Open Machine Learning</ns0:additionalName>
+                <ns0:repositoryURL>http://www.openml.org/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>biodbcore-001316</ns0:repositoryIdentifier>
+                <ns0:description language="eng">OpenML is an open ecosystem for machine learning. By organizing all resources and results online, research becomes more efficient, useful and fun.
+OpenML is a platform to share detailed experimental results with the community at large and organize them for future reuse. Moreover, it will be directly integrated in today&#8217;s most popular data mining tools (for now: R, KNIME, RapidMiner and WEKA). Such an easy and free exchange of experiments has tremendous potential to speed up machine learning research, to engender larger, more detailed studies and to offer accurate advice to practitioners. Finally, it will also be a valuable resource for education in machine learning and data mining.</ns0:description>
+                    <ns0:repositoryContact>j.vanschoren@liacs.leidenuniv.nl</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2019-12-18">20.678 datasets and 110.990 tasks</ns0:size>
+        <ns0:startDate>2013</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">109 Education Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">12 Social and Behavioural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">4 Engineering Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">409 Computer Science</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">44 Computer Science, Electrical and System Engineering</ns0:subject>
+                <ns0:missionStatementURL>http://www.openml.org</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Configuration data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Databases</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Software applications</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Source code</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>algorithms</ns0:keyword>
+                    <ns0:keyword>datasets</ns0:keyword>
+                    <ns0:keyword>experimental methodology</ns0:keyword>
+                    <ns0:keyword>experiments</ns0:keyword>
+                    <ns0:keyword>machine learning</ns0:keyword>
+                    <ns0:keyword>meta-learning</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Eindhoven University of Technology</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="nld">TU/e</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="nld">Technische Universiteit Eindhoven</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>NLD</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.tue.nl/en/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:02c2kyt77</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:SCR_003354</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_151954</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.tue.nl/universiteit/contact/</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">European Commission</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">EC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>EEC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://ec.europa.eu/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:00k4n6c32</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://ec.europa.eu/contact/index_en.htm</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="nld">Katholieke Universiteit Leuven, Declaratieve Talen en Artificiele Intelligentie</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="nld">DTAI</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">Katholieke Universiteit Leuven,Declarative Languages and Artificial Intelligence</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>BEL</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://dtai.cs.kuleuven.be/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://dtai.cs.kuleuven.be/about/contact/</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Leiden University, Leiden Institute f&#252;r Advanced Computer Science, Data Mining Group</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">LIACS Data Mining Group</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="nld">Universiteit Leiden, Leiden Institute f&#252;r Advanced Computer Science, Data Mining Group</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>NLD</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://datamining.liacs.nl/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>j.vanschoren@liacs.leidenuniv.nl</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Netherlands Organisation for Scientific Research</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="nld">NWO</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="nld">Nederlandse Organisatie voor Wetenschappelijk Onderzoek</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>NLD</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.nwo.nl/en/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:04jsz6e67</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.nwo.nl/en/contact</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">PASCAL 2</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">PASCAL Network</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">Pattern Analysis, Statistical Modelling and Computational Learning</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>EEC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.k4all.org/project/pascal2/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>OpenML documentation</ns0:policyName>
+                <ns0:policyURL>https://docs.openml.org/</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Terms of Use</ns0:policyName>
+                <ns0:policyURL>https://docs.openml.org/terms/</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>other</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC0</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/choose/mark/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                    <ns0:api apiType="REST">https://docs.openml.org/#programming-apis</ns0:api>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://docs.openml.org/</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks>OpenML attributes data, flows, runs, tells other how to cite it</ns0:remarks>
+        <ns0:entryDate>2014-07-17</ns0:entryDate>
+        <ns0:lastUpdate>2021-11-17</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

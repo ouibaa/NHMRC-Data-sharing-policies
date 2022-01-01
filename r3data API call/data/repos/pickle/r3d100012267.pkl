@@ -1,0 +1,87 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012267</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Cross-national Equivalent File</ns0:repositoryName>
+                    <ns0:additionalName language="eng">CNEF</ns0:additionalName>
+                <ns0:repositoryURL>https://cnef.ehe.osu.edu/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>RRID:SCR_008935</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:nlx_151820</ns0:repositoryIdentifier>
+                <ns0:description language="eng">The Cross-National Equivalent File (CNEF) contains population panel data from Australia, Canada, Germany, Great Britain, Korea, Russia, Switzerland and the United States. Each of these countries undertakes a longitudinal household economic survey. The data are made equivalent, providing a reference dataset which cross-links each of the individual studies and allowing cross-national comparisons.</ns0:description>
+                    <ns0:repositoryContact>cnef@osu.edu</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">111 Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">112 Economics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">12 Social and Behavioural Sciences</ns0:subject>
+                <ns0:missionStatementURL>https://cnef.ehe.osu.edu/data/</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>economics</ns0:keyword>
+                    <ns0:keyword>economy</ns0:keyword>
+                    <ns0:keyword>population</ns0:keyword>
+                    <ns0:keyword>social statistics</ns0:keyword>
+                    <ns0:keyword>statistics</ns0:keyword>
+                    <ns0:keyword>survey</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">National Institutes of Health, National Institute for Aging</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NIA</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">NIH</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.nia.nih.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Ohio State University, College of Education and Human Ecology</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://ehe.osu.edu/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://ehe.osu.edu/human-sciences/directory/?id=lillard.13</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Access Procedures</ns0:policyName>
+                <ns0:policyURL>https://cnef.ehe.osu.edu/data/access-procedures/</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>feeRequired</ns0:dataAccessRestriction>
+                                    <ns0:dataAccessRestriction>institutional membership</ns0:dataAccessRestriction>
+                                    <ns0:dataAccessRestriction>other</ns0:dataAccessRestriction>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://cnef.ehe.osu.edu/files/2017/04/SOEP_CNEF_access_procedures.pdf</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                    <ns0:aidSystem>none</ns0:aidSystem>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                <ns0:remarks>Cross-national Equivalent File is covered by Thomson Reuters Data Citation Index. Prepared by Dean Lillard at the Department of Human Sciences at the Ohio State University in collaboration with: read more: https://cnef.ehe.osu.edu/</ns0:remarks>
+        <ns0:entryDate>2016-11-29</ns0:entryDate>
+        <ns0:lastUpdate>2017-11-21</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

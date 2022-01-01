@@ -1,0 +1,96 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011939</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Openresearchdata,  Platform Switzerland</ns0:repositoryName>
+                    <ns0:additionalName language="eng">ORD@CH</ns0:additionalName>
+                <ns0:repositoryURL>https://sis.id.ethz.ch/researchdatamanagement/service-ordch.html</ns0:repositoryURL>
+                <ns0:description language="eng">&lt;&lt;&lt; openresearchdata.ch has been discontinued !!! &gt;&gt;&gt; Openresearchdata.ch (ORD@CH) has been developed as a publication platform for open research data in Switzerland. It currently offers a metadata catalogue of the data available at the participating institutions (ETH Zurich Scientific IT Services, FORS Lausanne, Digital Humanities Lab at the University of Basel). In addition, metadata from other institutions is continuously added, with the goal to develop a comprehensive metadata infrastructure for open research data in Switzerland.
+The ORD@CH project is part of the program &#8222;Scientific information: access, processing and safeguarding&#8220;, initiated by the Rectors&#8217; Conference of Swiss Universities (Program SUC 2013-2016 P-2). The portal is currently hosted and developed by ETH Zurich Scientific IT Services.</ns0:description>
+                    <ns0:repositoryContact>info@openresearchdata.ch</ns0:repositoryContact>
+                            <ns0:type>institutional</ns0:type>
+                <ns0:size updated="2016-02-19">7.867 datasets</ns0:size>
+        <ns0:startDate>2015-05-01</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>deu</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>fra</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11 Humanities</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">111 Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">12 Social and Behavioural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                <ns0:missionStatementURL />
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Source code</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>Switzerland</ns0:keyword>
+                    <ns0:keyword>humanities</ns0:keyword>
+                    <ns0:keyword>life  sciences</ns0:keyword>
+                    <ns0:keyword>metadata</ns0:keyword>
+                    <ns0:keyword>social sciences</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">ETH Z&#252;rich Scientific  ID Scientific IT Services</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">ID SIS</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CHE</ns0:institutionCountry>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://sis.id.ethz.ch/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>brinn@ethz.ch</ns0:institutionContact>
+                                    <ns0:institutionContact>hluetcke@ethz.ch</ns0:institutionContact>
+                                    <ns0:institutionContact>https://www.ethz.ch/services/de/it-services.htmlsis-leitung.html</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">FORS</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Swiss Foundation for Research in Social Sciences</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CHE</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://forscenter.ch/en/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://forscenter.ch/en/contact/</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of Basel, Digital Humanities Lab</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Digital Humanities Lab</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CHE</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://dhlab.unibas.ch/#/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://dhlab.unibas.ch/#contact</ns0:institutionContact>
+                                    <ns0:institutionContact>sekretariat-dhlab@unibas.ch</ns0:institutionContact>
+                            </ns0:institution>
+                        <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>CKAN</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>no</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks>The ORD@CH project is part of the program &#8222;Scientific information: access, processing and safeguarding&#8220;, initiated by the Rectors&#8217; Conference of Swiss Universities (Program SUC 2013-2016 P-2), and runs from July 2014 to December 2015. From 2016 onwards, the platform is planned to be continued as a permanent metadata infrastructure for open research data in Switzerland. 
+The legal information on the conditions of use (licenses) is noted directly in the individual datasets. The conditions of use are defined by the authors or researchers individually for each dataset.</ns0:remarks>
+        <ns0:entryDate>2016-02-17</ns0:entryDate>
+        <ns0:lastUpdate>2018-09-17</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

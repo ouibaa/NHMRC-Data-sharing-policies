@@ -1,0 +1,126 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012040</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">CASRdb</ns0:repositoryName>
+                    <ns0:additionalName language="eng">Calcium Sensing Receptor Database</ns0:additionalName>
+                <ns0:repositoryURL>http://www.casrdb.mcgill.ca</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>RRID:SCR_007581</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:nif-0000-02638</ns0:repositoryIdentifier>
+                <ns0:description language="eng">The CASRdb site is dedicated to providing information on published mutations and polymorphisms of the calcium-sensing receptor (CASR).</ns0:description>
+                    <ns0:repositoryContact>info@cihr-irsc.gc.ca</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">201 Basic Biological and Medical Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20105 General Genetics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">205 Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20503 Human Genetics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                <ns0:missionStatementURL>http://www.mcgill.ca/about/intro/mission</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>human chromosome</ns0:keyword>
+                    <ns0:keyword>molecularbiology</ns0:keyword>
+                    <ns0:keyword>parathyroid hormone PTH</ns0:keyword>
+                    <ns0:keyword>protein coupled receptors</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Canadian Institutes of Health Research</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">CIHR</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="fra">IRSC</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="fra">Instituts de recherche en sant&#233; du Canada</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.cihr-irsc.gc.ca/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>info@cihr-irsc.gc.ca</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Government of Canada, Networks of Centres of Excellence of Canada</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="fra">Gouvernement du Canada, R&#233;seaux de centres d'excellence</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">NCE</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="fra">RCE</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.nce-rce.gc.ca/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Kidney Foundation of Canada</ns0:institutionName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.kidney.ca/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.kidney.ca/contact-us</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">McGill University</ns0:institutionName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.mcgill.ca/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>RRID:SCR_011388</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_60719</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.mcgill.ca/contact-us/</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Network of Applied Genetic Medicine</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="fra">RMGA</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="fra">R&#233;seau de m&#233;decine g&#233;n&#233;tique appliqu&#233;e</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.rmga.qc.ca/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Copyright Act of Canada</ns0:policyName>
+                <ns0:policyURL>http://laws-lois.justice.gc.ca/eng/acts/C-42/Index.html</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Policy on Intellectual Property</ns0:policyName>
+                <ns0:policyURL>https://www.mcgill.ca/research/files/research/policyonintellectualproperty.pdf</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.mcgill.ca/copyright/home</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>institutional membership</ns0:dataUploadRestriction>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                    <ns0:aidSystem>none</ns0:aidSystem>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                <ns0:remarks>CASRdb is regularly updated for new mutations and it also provides a mutation submission form to ensure up-to-date information.</ns0:remarks>
+        <ns0:entryDate>2016-06-21</ns0:entryDate>
+        <ns0:lastUpdate>2021-08-24</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

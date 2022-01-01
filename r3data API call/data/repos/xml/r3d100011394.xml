@@ -1,0 +1,111 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011394</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">B2SHARE</ns0:repositoryName>
+                <ns0:repositoryURL>https://b2share.eudat.eu/</ns0:repositoryURL>
+                <ns0:description language="eng">B2SHARE is a user-friendly, reliable and trustworthy way for researchers, scientific communities and citizen scientists to store and share small-scale research data from diverse contexts and disciplines. B2SHARE is able to add value to your research data via (domain tailored) metadata, and assigning citable Persistent Identifiers PIDs (Handles) to ensure long-lasting access and references. B2SHARE is one of the B2 services developed via EUDAT and long tail data deposits do not cost money. Special arrangements such as branding and special metadata elements can be made on request.</ns0:description>
+                    <ns0:repositoryContact>https://www.eudat.eu/support-request?service=B2SHARE</ns0:repositoryContact>
+                    <ns0:repositoryContact>info@eudat.eu</ns0:repositoryContact>
+                            <ns0:type>other</ns0:type>
+                <ns0:size updated="2017-01-16">435 records</ns0:size>
+        <ns0:startDate>2014</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">4 Engineering Sciences</ns0:subject>
+                <ns0:missionStatementURL>https://www.eudat.eu/what-eudat</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Audiovisual data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Networkbased data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>B2ACCESS</ns0:keyword>
+                    <ns0:keyword>B2DROP</ns0:keyword>
+                    <ns0:keyword>B2FIND</ns0:keyword>
+                    <ns0:keyword>B2HANDLE</ns0:keyword>
+                    <ns0:keyword>B2SAFE</ns0:keyword>
+                    <ns0:keyword>B2STAGE</ns0:keyword>
+                    <ns0:keyword>EUDAT</ns0:keyword>
+                    <ns0:keyword>FAIR</ns0:keyword>
+                    <ns0:keyword>cross-disciplinary</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">EUDAT</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">European Data Infrastructure</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>EEC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.eudat.eu/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.eudat.eu/contact</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">European Commission, Research and Innovation, FP7, Infrastructures</ns0:institutionName>
+                                <ns0:institutionCountry>EEC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://ec.europa.eu/research/fp7/index_en.cfm</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://cordis.europa.eu/project/rcn/100031_en.html</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Data Access and Reuse Policies</ns0:policyName>
+                <ns0:policyURL>https://www.eudat.eu/data-access-and-reuse-policies-darup</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Terms of Use for EUDAT B2SHARE Service</ns0:policyName>
+                <ns0:policyURL>https://b2share.eudat.eu/help/terms-of-use</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.eudat.eu/services/userdoc/license-selector</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.eudat.eu/services/userdoc/license-selector</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>Terms of Use for EUDAT B2SHARE Service</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>https://b2share.eudat.eu/help/terms-of-use</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                            <ns0:software>
+                <ns0:softwareName>other</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                    <ns0:api apiType="OAI-PMH">https://www.eudat.eu/services/userdoc/b2find-integration</ns0:api>
+                    <ns0:api apiType="REST">https://b2share.eudat.eu/help/api</ns0:api>
+                            <ns0:pidSystem>hdl</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">other</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/abcd-access-biological-collection-data</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks>B2SHARE features: integrated with the EUDAT collaborative data infrastructure, free upload and registration of stable research data, data assigned a permanent identifier, which can be retraced to the data owner, data owner defines access policy, community-specific metadata extensions and user interfaces, openly accessible and harvestable metadata, representational state transfer application programming interface (REST API) for integration with community sites, data integrity ensured by checksum during data ingest, professionally managed storage service.
+B2SHARE is based on Invenio.
+EUDAT B2SHARE on GitHub see: https://github.com/EUDAT-B2SHARE</ns0:remarks>
+        <ns0:entryDate>2014-12-16</ns0:entryDate>
+        <ns0:lastUpdate>2021-10-08</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

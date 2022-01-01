@@ -1,0 +1,106 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010970</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Indian Genetic Disease Database</ns0:repositoryName>
+                    <ns0:additionalName language="eng">IGDD</ns0:additionalName>
+                <ns0:repositoryURL>http://www.igdd.iicb.res.in/home.htm</ns0:repositoryURL>
+                <ns0:description language="eng">Indian Genetic Disease Database (IGDD) is an initiative of CSIR Indian Institute of Chemical Biology. It is supported by Council of Scientific and Industrial Research (CSIR) and Department of Biotechnology (DBT) of India. 
+The Indian people represent one-sixth of the world population and consists of a ethnically, geographically, and genetically diverse population. In some communities the ratio of genetic disorder is relatively high due to consanguineous marriage practiced in the community. This database has been created to keep track of mutations in the causal genes for genetic diseases common in India and help the physicians, geneticists, and other professionals retrieve and use the information for the benefit of the public. The database includes scientific information about these genetic diseases and disabilities, but also statistical information about these diseases in today's society. Data is categorized by body part affected and then by title of the disease.</ns0:description>
+                    <ns0:repositoryContact>igdd.iicb@gmail.com</ns0:repositoryContact>
+                    <ns0:repositoryContact>kunalray@gmail.com</ns0:repositoryContact>
+                    <ns0:repositoryContact>sandippaul@iicb.res.in</ns0:repositoryContact>
+                    <ns0:repositoryContact>sengupta.mainak@gmail.com</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                    <ns0:type>institutional</ns0:type>
+                <ns0:size updated="">http://www.igdd.iicb.res.in/statistics.htm</ns0:size>
+        <ns0:startDate>2012</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">205 Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20501 Epidemiology, Medical Biometry, Medical Informatics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20502 Public Health, Health Services Research, Social Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20503 Human Genetics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                <ns0:missionStatementURL>http://www.igdd.iicb.res.in/home.htm</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>India</ns0:keyword>
+                    <ns0:keyword>biology</ns0:keyword>
+                    <ns0:keyword>genetic disorders</ns0:keyword>
+                    <ns0:keyword>genetics</ns0:keyword>
+                    <ns0:keyword>medicine</ns0:keyword>
+                    <ns0:keyword>mutation statistics</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">CSIR-Indian Institute of Chemical Biology</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">CSIR-IICB</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>IND</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.iicb.res.in/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:021wm7p51</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:SCR_003203</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_149418</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate>1935</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Council of Scientific and Industrial Research, Indian Institute of Chemical Biology</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">CSIR IICB</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>IND</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.iicb.res.in/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:01kh0x418</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:SCR_011177</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_151744</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Government of India, Ministry of Science and Technology, Department of Biotechnology</ns0:institutionName>
+                                <ns0:institutionCountry>IND</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://dbtindia.gov.in/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:03tjsyq23</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Policy</ns0:policyName>
+                <ns0:policyURL>https://academic.oup.com/nar/article/39/suppl_1/D933/2505935</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>closed</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.csir.res.in/website-policy</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>Submission</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>http://www.igdd.iicb.res.in/submission.htm</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                        <ns0:versioning>yes</ns0:versioning>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks>IGDD provides linked informations from:  Indian Genome Variation Database, The Human Gene Mutation Database, Genes and Diseases, Online Mendelian Inheritance in Man, GeneCard, Protein Data Bank, Frequency of Inherited Disorders database, National Organization for Rare Disorders and The Catalogue for Transmission Genetics in Arabs</ns0:remarks>
+        <ns0:entryDate>2014-09-02</ns0:entryDate>
+        <ns0:lastUpdate>2021-07-01</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

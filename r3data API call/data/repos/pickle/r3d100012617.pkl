@@ -1,0 +1,124 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012617</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">LOAR</ns0:repositoryName>
+                    <ns0:additionalName language="eng">Library Open Access Repository</ns0:additionalName>
+                <ns0:repositoryURL>https://loar.kb.dk/</ns0:repositoryURL>
+                <ns0:description language="eng">Library Open Access Repository (LOAR) is an open data repository established in 2016 as a service for storing and providing access to Danish research data.
+The service has the following key goals: Make data accessible to review for publications. Enable researchers to meet requirements for Danish and European grants. Ensure data privacy and removal of data as appropriate. Enable reuse of data where appropriate
+Researchers who upload data are expected to share the data using Creative Commons licenses.</ns0:description>
+                    <ns0:repositoryContact>baj@kb.dk</ns0:repositoryContact>
+                    <ns0:repositoryContact>data-repo@kb.dk</ns0:repositoryContact>
+                    <ns0:repositoryContact>khg@kb.dk</ns0:repositoryContact>
+                            <ns0:type>other</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2016</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">102 History</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11 Humanities</ns0:subject>
+                <ns0:missionStatementURL>https://loar.kb.dk/kb/about.jsp</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Audiovisual data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>Ruben recordings</ns0:keyword>
+                    <ns0:keyword>cultural heritage</ns0:keyword>
+                    <ns0:keyword>military land use</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Aarhus University</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="dan">Aarhus Universitet</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>DNK</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://international.au.dk/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:01aj84f44</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:SCR_000948</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_156945</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Roskilde University</ns0:institutionName>
+                                <ns0:institutionCountry>DNK</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://ruc.dk/en</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:014axpa37</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:SCR_011499</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_158001</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">The Royal Danish Library</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="dan">Det Kgl. Bibliotek</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>DNK</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.kb.dk/en</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:03vvy0v27</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of Copenhagen</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="dan">K&#248;benhavns Universitet</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>DNK</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.ku.dk/english/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:035b05819</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:SCR_011627</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_26520</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Terms of service for end users of the Library Open Access Repository</ns0:policyName>
+                <ns0:policyURL>https://loar.kb.dk/assets/pdfs/LOAR_TermsofService_v3_KB.pdf</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.dk/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://loar.kb.dk/assets/pdfs/LOAR_License_V3_KB.pdf</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>Distribution License</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>https://loar.kb.dk/assets/pdfs/LOAR_License_V3_KB.pdf</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                            <ns0:software>
+                <ns0:softwareName>DSpace</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                            <ns0:pidSystem>hdl</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                    <ns0:syndication syndicationType="ATOM">https://loar.kb.dk/feed/atom_1.0/site</ns0:syndication>
+                    <ns0:syndication syndicationType="RSS">https://loar.kb.dk/feed/rss_2.0/site</ns0:syndication>
+                    <ns0:syndication syndicationType="RSS">https://loar.kb.dk/feed/rss_1.0/site</ns0:syndication>
+                <ns0:remarks />
+        <ns0:entryDate>2018-03-07</ns0:entryDate>
+        <ns0:lastUpdate>2021-12-15</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

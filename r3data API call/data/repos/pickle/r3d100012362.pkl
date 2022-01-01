@@ -1,0 +1,99 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012362</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">VIPERdb</ns0:repositoryName>
+                    <ns0:additionalName language="eng">Virus Particle Explorer database</ns0:additionalName>
+                <ns0:repositoryURL>http://viperdb.scripps.edu/index.php</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>RRID:SCR_007970</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:nif-0000-03630</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>biodbcore-001425</ns0:repositoryIdentifier>
+                <ns0:description language="eng">VIPERdb is a database for icosahedral virus capsid structures . The emphasis of the resource is on providing data from structural and computational analyses on these systems, as well as high quality renderings for visual exploration. In addition, all virus capsids are placed in a single icosahedral orientation convention, facilitating comparison between different structures. The web site includes powerful search utilities , links to other relevant databases, background information on virus capsid structure, and useful database interface tools.</ns0:description>
+                    <ns0:repositoryContact>http://viperdb.scripps.edu/contact.php</ns0:repositoryContact>
+                    <ns0:repositoryContact>reddyv@scripps.edu</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2017-05-10">574 viruses</ns0:size>
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">205 Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">205 Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20532 Biomedical Technology and Medical Physics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20532 Biomedical Technology and Medical Physics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                <ns0:missionStatementURL>http://viperdb.scripps.edu/main.php</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Software applications</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>COVID-19</ns0:keyword>
+                    <ns0:keyword>Phi-Psi diagrams</ns0:keyword>
+                    <ns0:keyword>computational biology</ns0:keyword>
+                    <ns0:keyword>icosahedral virus capsid structures</ns0:keyword>
+                    <ns0:keyword>macromolecular structure</ns0:keyword>
+                    <ns0:keyword>structural virology</ns0:keyword>
+                    <ns0:keyword>virus structure analysis</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">NIH Research Resource Center for the Development of Multiscale Modelling Tools for Structural Biology</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">MMTSB</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://mmtsb.org/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">The Scripps Research Institute</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">TSRI</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.scripps.edu/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Disclaimer and Copyright</ns0:policyName>
+                <ns0:policyURL>http://viperdb.scripps.edu/disclaimer.php</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>embargoed</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://viperdb.scripps.edu/disclaimer.php</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>MySQL</ns0:softwareName>
+            </ns0:software>
+                    <ns0:software>
+                <ns0:softwareName>other</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                    <ns0:api apiType="other">http://viperdb.scripps.edu/API2/</ns0:api>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>http://viperdb.scripps.edu/acknowledge.php</ns0:citationGuidelineURL>
+                    <ns0:aidSystem>none</ns0:aidSystem>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                <ns0:remarks>The site is being developed as part of the training, service and dissemination component of the NIH Research Resource: Multiscale Modeling Tools for Structural Biology (MMTSB).</ns0:remarks>
+        <ns0:entryDate>2017-05-09</ns0:entryDate>
+        <ns0:lastUpdate>2020-04-24</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

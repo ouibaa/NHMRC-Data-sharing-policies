@@ -1,0 +1,117 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010862</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Health and Retirement Study</ns0:repositoryName>
+                    <ns0:additionalName language="eng">HRS</ns0:additionalName>
+                <ns0:repositoryURL>https://hrsonline.isr.umich.edu/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>RRID:SCR_008930</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:nlx_151830</ns0:repositoryIdentifier>
+                <ns0:description language="eng">The Health and Retirement Study (HRS) is a longitudinal panel study that surveys a representative sample of more than 26,000 Americans over the age of 50 every two years. The study has collected information about income, work, assets, pension plans, health insurance, disability, physical health and functioning, cognitive functioning, genetic information and health care expenditures.</ns0:description>
+                    <ns0:repositoryContact>hrsquestions@umich.edu</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>1992</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>spa</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">111 Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11102 Empirical Social Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">112 Economics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11202 Economic and Social Policy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11206 Economic and Social History</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">12 Social and Behavioural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">205 Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20502 Public Health, Health Services Research, Social Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20503 Human Genetics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20524 Gerontology and Geriatric Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                <ns0:missionStatementURL>https://hrs.isr.umich.edu/about/how-to-use-this-site</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Archived data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>aging</ns0:keyword>
+                    <ns0:keyword>census data</ns0:keyword>
+                    <ns0:keyword>genetic information</ns0:keyword>
+                    <ns0:keyword>health</ns0:keyword>
+                    <ns0:keyword>labor supply</ns0:keyword>
+                    <ns0:keyword>longitudinal method</ns0:keyword>
+                    <ns0:keyword>retirement</ns0:keyword>
+                    <ns0:keyword>retirement age</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">National Institutes of Health, National Institute on Aging</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NIA</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.nia.nih.gov/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:049v75w11</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">United States, Social Security Administration</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.ssa.gov/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:04b7xxn32</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of Michigan, Institute for Social Research, Survey Research Center</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">ISR</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">SRC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.src.isr.umich.edu/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>HRS conditions of use</ns0:policyName>
+                <ns0:policyURL>https://hrs.isr.umich.edu/data-products/access-to-public-data/conditions-of-use?_ga=2.132295950.1405271219.1622638926-1748766418.1621951078</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>closed</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>other</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://hrsdata.isr.umich.edu/data-products/conditions-of-use?_ga=2.132016649.782420168.1623415909-1083684062.1623415909</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                <ns0:versioning>yes</ns0:versioning>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://hrs.isr.umich.edu/data-products/access-to-public-data/conditions-of-use?_ga=2.197815599.1405271219.1622638926-1748766418.1621951078</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">DDI - Data Documentation Initiative</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/ddi-data-documentation-initiative</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                            <ns0:syndication syndicationType="RSS">https://hrsonline.isr.umich.edu/modules/news/rss/hrs.xml</ns0:syndication>
+                <ns0:remarks />
+        <ns0:entryDate>2014-07-22</ns0:entryDate>
+        <ns0:lastUpdate>2021-06-11</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

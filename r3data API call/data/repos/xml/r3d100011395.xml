@@ -1,0 +1,135 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011395</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">EUDAT</ns0:repositoryName>
+                    <ns0:additionalName language="eng">European Data Infrastructure</ns0:additionalName>
+                <ns0:repositoryURL>https://www.eudat.eu/</ns0:repositoryURL>
+                <ns0:description language="eng">The EUDAT project aims to contribute to the production of a Collaborative Data Infrastructure (CDI). The project&#180;s target is to provide a pan-European solution to the challenge of data proliferation in Europe's scientific and research communities. 
+The EUDAT vision is to support a Collaborative Data Infrastructure which will allow researchers to share data within and between communities and enable them to carry out their research effectively. EUDAT aims to provide a solution that will be affordable, trustworthy, robust, persistent and easy to use.
+EUDAT comprises 26 European partners, including data centres, technology providers, research communities and funding agencies from 13 countries.
+B2FIND is the EUDAT metadata service allowing users to discover what kind of data is stored through the B2SAFE and B2SHARE services which collect a large number of datasets from various disciplines. EUDAT will also harvest metadata from communities that have stable metadata providers to create a comprehensive joint catalogue to help researchers find interesting data objects and collections.</ns0:description>
+                    <ns0:repositoryContact>https://www.eudat.eu/contact-support-request</ns0:repositoryContact>
+                    <ns0:repositoryContact>info@eudat.eu</ns0:repositoryContact>
+                            <ns0:type>other</ns0:type>
+                <ns0:size updated="2017-01-16">471.029 datasets in B2FIND</ns0:size>
+        <ns0:startDate>2014</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">4 Engineering Sciences</ns0:subject>
+                <ns0:missionStatementURL>https://www.eudat.eu/what-eudat</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Audiovisual data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Networkbased data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Software applications</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>B2ACCESS</ns0:keyword>
+                    <ns0:keyword>B2DROP</ns0:keyword>
+                    <ns0:keyword>B2FIND</ns0:keyword>
+                    <ns0:keyword>B2HANDLE</ns0:keyword>
+                    <ns0:keyword>B2SAFE</ns0:keyword>
+                    <ns0:keyword>B2SHARE</ns0:keyword>
+                    <ns0:keyword>B2STAGE</ns0:keyword>
+                    <ns0:keyword>FAIR</ns0:keyword>
+                    <ns0:keyword>academic</ns0:keyword>
+                    <ns0:keyword>business</ns0:keyword>
+                    <ns0:keyword>cross-disciplinary</ns0:keyword>
+                    <ns0:keyword>government</ns0:keyword>
+                    <ns0:keyword>personal</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">B2FIND Communities</ns0:institutionName>
+                                <ns0:institutionCountry>EEC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://b2find.eudat.eu/group</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.eudat.eu/support-request</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">EUDAT</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">European Data Infrastructure</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>EEC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.eudat.eu/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.eudat.eu/contact</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">EUDAT Consortium</ns0:institutionName>
+                                <ns0:institutionCountry>EEC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.eudat.eu/partners</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.eudat.eu/contact</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">European Commission, Research and Innovation, FP7, Infrastructures</ns0:institutionName>
+                                <ns0:institutionCountry>EEC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://ec.europa.eu/research/fp7/index_en.cfm</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://cordis.europa.eu/project/rcn/100031_en.html</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Data Access and Management</ns0:policyName>
+                <ns0:policyURL>https://www.eudat.eu/system/files/EUDAT-position-OA-DMP.pdf</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Data Access and Reuse Policies (DARUP)</ns0:policyName>
+                <ns0:policyURL>https://www.eudat.eu/data-access-and-reuse-policies-darup</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Policy</ns0:policyName>
+                <ns0:policyURL>https://eudat.eu/policy</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.eudat.eu/services/userdoc/license-selector</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.eudat.eu/data-access-and-reuse-policies-darup</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>CKAN</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                    <ns0:pidSystem>hdl</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                    <ns0:syndication syndicationType="RSS">https://www.eudat.eu/rss.xml</ns0:syndication>
+                <ns0:remarks>EUDAT is covered by Clarivate Data Citation Index. B2FIND is a simple, user-friendly metadata catalogue of research data collections stored in EUDAT data centres and other repositories http://b2find.eudat.eu/ and https://github.com/EUDAT-B2FIND/md-ingestion
+B2SHARE is a user-friendly, reliable and trustworthy way for researchers, scientific communities and citizen scientists to store and share small-scale research data from diverse contexts https://b2share.eudat.eu/
+B2DROP is a secure and trusted data exchange service for researchers and scientists to keep their research data synchronized and up-to-date and to exchange with other researchers https://b2drop.eudat.eu/login
+B2SAFE is a robust, safe and highly available service which allows community and departmental repositories to implement data management policies on their research data across multiple administrative domains in a trustworthy manner.
+B2STAGE is a reliable, efficient, light-weight and easy-to-use service to transfer research data sets between EUDAT storage resources and high-performance computing (HPC) workspaces.
+B2HANDLE is a distributed service, with the organisations hosting the service mirroring each other's Persistent Identifiers. This ensures the sustainability and reliability of PIDs in the EUDAT domain.
+B2ACCESS is an easy-to-use and secure Authentication and Authorization platform developed by EUDAT https://b2access.eudat.eu:8443/home/home</ns0:remarks>
+        <ns0:entryDate>2014-12-16</ns0:entryDate>
+        <ns0:lastUpdate>2021-10-08</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

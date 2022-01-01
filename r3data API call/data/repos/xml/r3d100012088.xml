@@ -1,0 +1,102 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012088</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Viral Bioinformatics Resource Center</ns0:repositoryName>
+                    <ns0:additionalName language="eng">VBRC</ns0:additionalName>
+                <ns0:repositoryURL>http://virology.uvic.ca/</ns0:repositoryURL>
+                <ns0:description language="eng">Databases of viral genomic information (genes, gene families, and genomes), and software to perform comparative genomics analyses</ns0:description>
+                    <ns0:repositoryContact>cupton@uvic.ca</ns0:repositoryContact>
+                    <ns0:repositoryContact>http://virology.uvic.ca/help/contact/</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2012</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">201 Basic Biological and Medical Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20105 General Genetics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">205 Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20503 Human Genetics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                <ns0:missionStatementURL>http://virology.uvic.ca/virology-ca-our-goals/</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Software applications</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>DNA</ns0:keyword>
+                    <ns0:keyword>bioinformatics</ns0:keyword>
+                    <ns0:keyword>disease control</ns0:keyword>
+                    <ns0:keyword>genetics</ns0:keyword>
+                    <ns0:keyword>genomics</ns0:keyword>
+                    <ns0:keyword>prevention</ns0:keyword>
+                    <ns0:keyword>viral genomic information</ns0:keyword>
+                    <ns0:keyword>virology</ns0:keyword>
+                    <ns0:keyword>virus orthologous clusters</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">National Institutes of Health, National Institute of Allergy and Infectious Diseases</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NIH, NIAID</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.niaid.nih.gov/Pages/default.aspx</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.niaid.nih.gov/LabsAndResources/resources/dmid/brc/Pages/default.aspx</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of Alabama at Birmingham, Microbiology Department</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">UAB Department of Microbiology</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.uab.edu/medicine/microbiology/research/virology</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.uab.edu/medicine/microbiology/contact</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of Victoria, Centre of Biomedical Research</ns0:institutionName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://cbr.uvic.ca/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://cbr.uvic.ca/about-us-mainmenu/contact</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Data Sharing and Release Guidelines</ns0:policyName>
+                <ns0:policyURL>https://www.niaid.nih.gov/LabsAndResources/resources/dmid/Pages/data.aspx</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>restricted</ns0:databaseAccessType>
+                            <ns0:databaseAccessRestriction>registration</ns0:databaseAccessRestriction>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://virology.uvic.ca/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                    <ns0:api apiType="other">http://webcache.googleusercontent.com/search?q=cache:peypskC7WDMJ:www3.nd.edu/~vector/SWG2006/Vectorbase_SWG_Meeting_Nov2006_Valentina.ppt+&amp;cd=6&amp;hl=de&amp;ct=clnk&amp;gl=de</ns0:api>
+                    <ns0:api apiType="other">http://virology.uvic.ca/help/tool-help/quick-start-pages/vocs-quick-start-page/</ns0:api>
+                        <ns0:citationGuidelineURL>http://virology.uvic.ca/</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks />
+        <ns0:entryDate>2016-07-27</ns0:entryDate>
+        <ns0:lastUpdate>2016-08-04</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

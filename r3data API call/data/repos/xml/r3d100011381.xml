@@ -1,0 +1,118 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011381</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">CERN Open Data</ns0:repositoryName>
+                <ns0:repositoryURL>http://opendata.cern.ch/</ns0:repositoryURL>
+                <ns0:description language="eng">The CERN Open Data portal is the access point to a growing range of data produced through the research performed at CERN. It disseminates the preserved output from various research activities, including accompanying software and documentation which is needed to understand and analyze the data being shared.</ns0:description>
+                    <ns0:repositoryContact>opendata-support@cern.ch</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                    <ns0:type>institutional</ns0:type>
+                <ns0:size updated="2021-12-23">9.356 datasets</ns0:size>
+        <ns0:startDate>2014</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">307 Condensed Matter Physics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">308 Optics, Quantum Optics and Physics of Atoms, Molecules and Plasmas</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">309 Particles, Nuclei and Fields</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">310 Statistical Physics, Soft Matter, Biological Physics, Nonlinear Dynamics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">32 Physics</ns0:subject>
+                <ns0:missionStatementURL>http://opendata.cern.ch/docs/about</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Archived data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Databases</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Software applications</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>LHC Large Hadron Collider</ns0:keyword>
+                    <ns0:keyword>basic constituents of matter</ns0:keyword>
+                    <ns0:keyword>detectors</ns0:keyword>
+                    <ns0:keyword>particle accelerators</ns0:keyword>
+                    <ns0:keyword>particle physics</ns0:keyword>
+                    <ns0:keyword>primary data</ns0:keyword>
+                    <ns0:keyword>universe</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">CERN Scientific Informations Service</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">CERN-GS-SIS</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>EEC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://scientific-info.cern/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>opendata-support@cern.ch</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">European Organization for Nuclear Research</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="fra">CERN</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="fra">Conseil Europeen pour la Recherche Nucleaire</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>EEC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://home.cern/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:01ggx4157</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>opendata-support@cern.ch</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">European Organization for Nuclear Research, Information Technology Department, Collaboration &amp; Information Services</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">CERN-IT-CIS</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>EEC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://information-technology.web.cern.ch/it-organisation/it-cis</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>opendata-support@cern.ch</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>CERN OpenData Terms of Use</ns0:policyName>
+                <ns0:policyURL>http://opendata.cern.ch/docs/terms-of-use</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                    <ns0:databaseLicense>
+                <ns0:databaseLicenseName>other</ns0:databaseLicenseName>
+                <ns0:databaseLicenseURL>http://opendata.cern.ch/docs/terms-of-use</ns0:databaseLicenseURL>
+            </ns0:databaseLicense>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC0</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://creativecommons.org/publicdomain/zero/1.0/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://opendata.cern.ch/docs/terms-of-use</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www.gnu.org/licenses/gpl-3.0.html</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>other</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://www.force11.org/datacitationprinciples</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>no</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks>Opendata CERN is covered by Thomson Reuters Data Citation Index. Opendata CERN uses invenio repository software. Databases: CMS - Compact Muon Solenoid; ALICE - A large ion collider experiment; ATLAS - A Toroidal LHC ApparatuS; LHCb - Large Hadron Collider beauty.
+The portal is a collaborative effort of the CERN groups IT-CIS and GS-SIS in collaboration with many researchers in the HEP community.</ns0:remarks>
+        <ns0:entryDate>2014-11-18</ns0:entryDate>
+        <ns0:lastUpdate>2021-12-23</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

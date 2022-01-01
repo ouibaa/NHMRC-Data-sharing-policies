@@ -1,0 +1,134 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012525</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Lund University Humanities Lab corpus server</ns0:repositoryName>
+                    <ns0:additionalName language="eng">Humanities Lab corpus server</ns0:additionalName>
+                <ns0:repositoryURL>https://corpora.humlab.lu.se/</ns0:repositoryURL>
+                <ns0:description language="eng">As a member of SWE-CLARIN, the Humanities Lab will provide tools and expertise related to language archiving, corpus and (meta)data management, with a continued emphasis on multimodal corpora, many of which contain Swedish resources, but also other (often endangered) languages, multilingual or learner corpora. As a CLARIN K-centre we provide advice on multimodal and sensor-based methods, including EEG, eye-tracking, articulography, virtual reality, motion capture, av-recording.
+Current work targets automatic data retrieval from multimodal data sets, as well as the linking of measurement data (e.g. EEG, fMRI) or geo-demographic data (GIS, GPS) to language data (audio, video, text, annotations). We also provide assistance with speech and language technology related matters to various projects.
+A primary resource in the Lab is The Humanities Lab corpus server, containing a varied set of multimodal language corpora with standardised metadata and linked layers of annotations and other resources.</ns0:description>
+                    <ns0:repositoryContact>corpman@humlab.lu.se</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2014</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">104 Linguistics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11 Humanities</ns0:subject>
+                <ns0:missionStatementURL>https://www.humlab.lu.se/facilities/corpus-server</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Audiovisual data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>EEG</ns0:keyword>
+                    <ns0:keyword>Swedish language</ns0:keyword>
+                    <ns0:keyword>articulography</ns0:keyword>
+                    <ns0:keyword>av-recording</ns0:keyword>
+                    <ns0:keyword>endangered languages</ns0:keyword>
+                    <ns0:keyword>eye-tracking</ns0:keyword>
+                    <ns0:keyword>motion capture</ns0:keyword>
+                    <ns0:keyword>multimodal corpora</ns0:keyword>
+                    <ns0:keyword>transcriptions</ns0:keyword>
+                    <ns0:keyword>virtual reality</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">CLARIN-ERIC</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">CLARIN - European Research Infrastructure for Language Resources and Technology</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>EEC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.clarin.eu/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.clarin.eu/contact</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Lund University, Lund University Humanities Lab</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Lundlab</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">SWE-HUMLAB</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>SWE</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.humlab.lu.se/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>Maja.Petersson@humlab.lu.se</ns0:institutionContact>
+                                    <ns0:institutionContact>sweclarin_lund@humlab.lu.se.</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">SWE-CLARIN</ns0:institutionName>
+                                <ns0:institutionCountry>SWE</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://sweclarin.se/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://sweclarin.se/swe/kontakt</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Corpus Server User Information</ns0:policyName>
+                <ns0:policyURL>https://www.humlab.lu.se/facilities/corpus-server/user-information</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>G&#201;ANT Data Protection Code of Conduct for Service Providers</ns0:policyName>
+                <ns0:policyURL>https://geant3plus.archive.geant.net/uri/dataprotection-code-of-conduct/v1/Pages/default.aspx</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Lund University Humanities Lab - User Guidelines</ns0:policyName>
+                <ns0:policyURL>https://www.humlab.lu.se/fileadmin/user_upload/humlab/typo3/About/documents/humlab_user_guidelines_OCT2018.pdf</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Policy documents</ns0:policyName>
+                <ns0:policyURL>https://www.humlab.lu.se/about/policy-documents/</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Research ethics</ns0:policyName>
+                <ns0:policyURL>https://www.researchethics.lu.se/</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>closed</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>embargoed</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>feeRequired</ns0:dataAccessRestriction>
+                                    <ns0:dataAccessRestriction>other</ns0:dataAccessRestriction>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.humlab.lu.se/facilities/corpus-server/general-information/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.humlab.lu.se/facilities/corpus-server/user-information/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>other</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                            <ns0:pidSystem>hdl</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://corpora.humlab.lu.se/ds/asv/?0</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                    <ns0:certificate>other</ns0:certificate>
+                                <ns0:remarks>Lund University Humanities Lab has been officially recognized as a CLARIN C Centre.</ns0:remarks>
+        <ns0:entryDate>2017-11-06</ns0:entryDate>
+        <ns0:lastUpdate>2021-07-19</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

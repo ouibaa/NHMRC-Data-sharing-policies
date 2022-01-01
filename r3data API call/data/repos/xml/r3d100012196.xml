@@ -1,0 +1,69 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012196</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">ibeetle</ns0:repositoryName>
+                    <ns0:additionalName language="eng">A database of Tribolium RNAi phenotypes</ns0:additionalName>
+                <ns0:repositoryURL>http://ibeetle-base.uni-goettingen.de/</ns0:repositoryURL>
+                <ns0:description language="eng">The iBeetle-Base stores gene related information for all genes of the official gene set (red box). Among others, RNA and protein sequences can be downloaded and links lead to the respective annotation in the genome browser. Further, the Drosophila orthologs are displayed including links to FlyBase. Wherever available, the phenotypic data gathered in the iBeetle screen is displayed below the gene information in separate sections for the pupal and larval screening parts (yellow box).</ns0:description>
+                    <ns0:repositoryContact>http://ibeetle-base.uni-goettingen.de/help/contact</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">203 Zoology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20306 Animal Genetics, Cell and Developmental Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                <ns0:missionStatementURL>http://ibeetle-base.uni-goettingen.de/help/about</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>Red Flour Beetle</ns0:keyword>
+                    <ns0:keyword>Tribolium Castaneum</ns0:keyword>
+                    <ns0:keyword>larvae</ns0:keyword>
+                    <ns0:keyword>metamorphosis</ns0:keyword>
+                    <ns0:keyword>morphological defects</ns0:keyword>
+                    <ns0:keyword>proteins</ns0:keyword>
+                    <ns0:keyword>pupation</ns0:keyword>
+                    <ns0:keyword>transcripts</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="deu">Georg-August Universit&#228;t G&#246;ttingen, Department of Evolutionary Developmental Genetics</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Georg-August-University , Department of Evolutionary Developmental Genetics</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.uni-goettingen.de/de/434385.html</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>gbucher1@uni-goettingen.de</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>ibeetle Help</ns0:policyName>
+                <ns0:policyURL>http://ibeetle-base.uni-goettingen.de/help/completeHelp</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://creativecommons.org/licenses/by/3.0/deed.en_US</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                <ns0:versioning />
+                    <ns0:api apiType="REST">http://ibeetle-base.uni-goettingen.de/ibp/index.html</ns0:api>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>http://ibeetle-base.uni-goettingen.de/help/about</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                <ns0:remarks />
+        <ns0:entryDate>2016-10-24</ns0:entryDate>
+        <ns0:lastUpdate>2017-12-23</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

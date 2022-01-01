@@ -1,0 +1,151 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010205</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">ChemSpider</ns0:repositoryName>
+                    <ns0:additionalName language="eng">Search and share chemistry</ns0:additionalName>
+                <ns0:repositoryURL>http://www.chemspider.com/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>RRID:SCR_006360</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:nlx_152101</ns0:repositoryIdentifier>
+                <ns0:description language="eng">ChemSpider is a free chemical structure database providing fast access to over 58 million structures, properties and associated information. By integrating and linking compounds from more than 400 data sources, ChemSpider enables researchers to discover the most comprehensive view of freely available chemical data from a single online search. It is owned by the Royal Society of Chemistry.
+ChemSpider builds on the collected sources by adding additional properties, related information and links back to original data sources. ChemSpider offers text and structure searching to find compounds of interest and provides unique services to improve this data by curation and annotation and to integrate it with users&#8217; applications.</ns0:description>
+                    <ns0:repositoryContact>chemspider@rsc.org</ns0:repositoryContact>
+                    <ns0:repositoryContact>http://www.chemspider.com/Contact.aspx</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2018-11-08">68 million chemical structures; 255 data sources</ns0:size>
+        <ns0:startDate>2008</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31 Chemistry</ns0:subject>
+                <ns0:missionStatementURL>http://www.chemspider.com/About.aspx</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Audiovisual data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Networkbased data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Software applications</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>analytical data</ns0:keyword>
+                    <ns0:keyword>chemical structures</ns0:keyword>
+                    <ns0:keyword>chemicals</ns0:keyword>
+                    <ns0:keyword>compounds</ns0:keyword>
+                    <ns0:keyword>data structure</ns0:keyword>
+                    <ns0:keyword>molecules</ns0:keyword>
+                    <ns0:keyword>reactions</ns0:keyword>
+                    <ns0:keyword>spectra</ns0:keyword>
+                    <ns0:keyword>synthetic chemistry</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Agilent Technologies</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>sponsoring</ns0:responsibilityType>
+                                <ns0:institutionType>commercial</ns0:institutionType>
+                <ns0:institutionURL>http://www.agilent.de/about/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Royal Society of Chemistry</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">RSC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.rsc.org/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>2009</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>chemspider@rsc.org</ns0:institutionContact>
+                                    <ns0:institutionContact>http://www.chemspider.com/Contact.aspx</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Syynthonix</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Elements of progresss</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>sponsoring</ns0:responsibilityType>
+                                <ns0:institutionType>commercial</ns0:institutionType>
+                <ns0:institutionURL>https://synthonix.com/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">ThermoFisher Scientific</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Thermo Scientific (formerly)</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>sponsoring</ns0:responsibilityType>
+                                <ns0:institutionType>commercial</ns0:institutionType>
+                <ns0:institutionURL>https://www.thermofisher.com/de/de/home.html</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Waters</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">The science of what's possible</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>sponsoring</ns0:responsibilityType>
+                                <ns0:institutionType>commercial</ns0:institutionType>
+                <ns0:institutionURL>http://www.waters.com/waters/home.htm?locale=de_DE</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">epam</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>sponsoring</ns0:responsibilityType>
+                                <ns0:institutionType>commercial</ns0:institutionType>
+                <ns0:institutionURL>https://www.epam.com/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Terms of Use</ns0:policyName>
+                <ns0:policyURL>http://www.rsc.org/help-legal/legal/terms-conditions/</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                    <ns0:databaseLicense>
+                <ns0:databaseLicenseName>Copyrights</ns0:databaseLicenseName>
+                <ns0:databaseLicenseURL>http://www.rsc.org/help-legal/legal/copyright-permissions/</ns0:databaseLicenseURL>
+            </ns0:databaseLicense>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/licenses/by/2.0/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www.rsc.org/help-legal/legal/copyright-permissions/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>How do I Deposit a Single Structure</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>http://www.chemspider.com/help_depositstructures.aspx</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                            <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                    <ns0:api apiType="other">http://www.chemspider.com/AboutServices.aspx</ns0:api>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>http://www.chemspider.com/FAQ.aspx</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                    <ns0:syndication syndicationType="RSS">http://feeds.feedburner.com/ChemspiderBlog</ns0:syndication>
+                <ns0:remarks>The IUPAC International Chemical Identifer (InChl, pronaunced INchee, is a textural identifier for chemical stubstances. The format and algorithms are none-proprietary and the software is freely availableunter the open source LGPL license.    ChemSpider was acquired by the Royal Society of Chemistry in May, 2009. Prior to the acquisition by RSC, ChemSpider was controlled by a private corporation, ChemZoo Inc. The system was first launched in March 2007 in a beta release form and transitioned to release in March 2008. ChemSpider has expanded the generic support of a chemistry database to include support of the Wikipedia chemical structure collection via their WiChempedia implementation. ChemSpider SyntheticPages is a freely available interactive database of synthetic chemistry. It contains practical and reliable organic, organometallic and inorganic chemical synthesis, reactions and procedures deposited by synthetic chemists. //  PAM Systems, Inc. (NYSE:EPAM), a leading provider of product  development and software engineering solutions known for its award-winning Central and Eastern European global delivery platform, announced that it has acquired GGA Software Services LLC, a US-based provider of scientific informatics services to global pharmaceutical, scientific instrumentation, medical device, scientific publishing and software, and early-stage life science companies.</ns0:remarks>
+        <ns0:entryDate>2013-02-11</ns0:entryDate>
+        <ns0:lastUpdate>2018-11-08</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

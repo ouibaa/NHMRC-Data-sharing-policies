@@ -1,0 +1,133 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012646</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Federated Research Data Repository</ns0:repositoryName>
+                    <ns0:additionalName language="fra">DFDR</ns0:additionalName>
+                    <ns0:additionalName language="fra">D&#233;p&#244;t f&#233;d&#233;r&#233; de donn&#233;es de recherche</ns0:additionalName>
+                    <ns0:additionalName language="eng">FRDR</ns0:additionalName>
+                <ns0:repositoryURL>https://www.frdr-dfdr.ca/repo/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.EnRBIa</ns0:repositoryIdentifier>
+                <ns0:description language="eng">The Federated Research Data Repository (FRDR) is a place for Canadian researchers to deposit and share research data and to facilitate discovery of research data in Canadian repositories.
+Le D&#233;p&#244;t f&#233;d&#233;r&#233; de donn&#233;es de recherche (DFDR) est une place o&#249; les chercheurs canadiens peuvent d&#233;poser et partager des donn&#233;es de recherche et faciliter la d&#233;couverte de donn&#233;es de recherche dans des d&#233;p&#244;ts canadiens.</ns0:description>
+                    <ns0:repositoryContact>support@frdr-dfdr.ca</ns0:repositoryContact>
+                            <ns0:type>other</ns0:type>
+                <ns0:size updated="2020-04-03">119.383 datasets</ns0:size>
+        <ns0:startDate>2017-11</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>fra</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">4 Engineering Sciences</ns0:subject>
+                <ns0:missionStatementURL>https://www.frdr-dfdr.ca/docs/en/about/</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Audiovisual data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Configuration data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>FAIR</ns0:keyword>
+                    <ns0:keyword>multidisciplinary</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Canadian Association of Research Libraries</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="fra">ABRC</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="fra">Association des biblioth&#232;ques de recherche du Canada</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">CARL</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.carl-abrc.ca/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:001tw8739</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate>2021-03-13</ns0:responsibilityEndDate>
+                                    <ns0:institutionContact>https://www.carl-abrc.ca/contact-us/</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Compute Canada</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="fra">Calcul Canada</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.computecanada.ca/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:03ty8yr27</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">New Digital Research Infrastructure Organization</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NDRIO</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="fra">NOIRN</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="fra">Nouvelle organisation d&#8217;infrastructure de recherche num&#233;rique</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://engagedri.ca/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>2021-04-01</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://engagedri.ca/contact</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Portage Network</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="fra">R&#233;seau Portage</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://portagenetwork.ca/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://portagenetwork.ca/contact-us/</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>FRDR Permitted Use of the Site and Services</ns0:policyName>
+                <ns0:policyURL>https://www.frdr-dfdr.ca/docs/en/terms_of_use/</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>University of Chicago Terms of Service</ns0:policyName>
+                <ns0:policyURL>https://www.globus.org/legal/terms</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>embargoed</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.globus.org/legal/terms</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>no</ns0:versioning>
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">DataCite Metadata Schema</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/datacite-metadata-schema</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                    <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">Dublin Core</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks>Federated Research Data Repository is covered by Clarivate Data Citation Index. 
+List of research data repositories currently included in the discovery results: https://www.frdr-dfdr.ca/discover/html/repository-list.html?lang=en</ns0:remarks>
+        <ns0:entryDate>2018-04-18</ns0:entryDate>
+        <ns0:lastUpdate>2021-05-27</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

@@ -1,0 +1,115 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011932</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Pathogen Portal</ns0:repositoryName>
+                    <ns0:additionalName language="eng">the Bioinformatics Resource Centers Portal</ns0:additionalName>
+                <ns0:repositoryURL>https://github.com/cidvbi/PathogenPortal/wiki</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>RRID:SCR_014603</ns0:repositoryIdentifier>
+                <ns0:description language="eng">Pathogen Portal is a repository linking to the Bioinformatics Resource Centers (BRCs) sponsored by the National Institute of Allergy and Infectious Diseases (NIAID) and maintained by The Virginia Bioinformatics Institute. The BRCs are providing web-based resources to scientific community conducting basic and applied research on organisms considered potential agents of biowarfare or bioterrorism or causing emerging or re-emerging diseases. 
+The Pathogen Portal supports and links to five Bioinformatics Resource Centers (BRCs). Each BRC specializes in a different group of pathogens, focusing on, but not limited to, pathogens causing (Re-)Emerging Infectious Diseases, and those in the NIAID Category A-C Priority Pathogen lists for biodefense research. The scope of the BRCs also includes Invertebrate Vectors of Human Disease.
+Pathogen Portal covers EuPathDB, IRD, PATRIC, VectorBase  and ViPR.</ns0:description>
+                    <ns0:repositoryContact>pathporthelp@vbi.vt.edu</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">201 Basic Biological and Medical Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20107 Bioinformatics and Theoretical Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">204 Microbiology, Virology and Immunology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                <ns0:missionStatementURL />
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Software applications</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                            <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>bacteria</ns0:keyword>
+                    <ns0:keyword>eukaryotic pathogen species</ns0:keyword>
+                    <ns0:keyword>genome</ns0:keyword>
+                    <ns0:keyword>host responses</ns0:keyword>
+                    <ns0:keyword>infectious diseases</ns0:keyword>
+                    <ns0:keyword>influenza virus</ns0:keyword>
+                    <ns0:keyword>viral families</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Genome Sequencing Centers for Infectious Diseases</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">GSCID</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://gcid.igs.umaryland.edu/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Institutes of Health,  National Institute of Allergy and Infectious Diseases</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NIAID</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">NIH</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.niaid.nih.gov/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:043z4tv69</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.niaid.nih.gov/global/contact-us</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Institutes of Health,  National Institute of Allergy and Infectious Diseases. Bioinformatics Resource Centers</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">BRCs</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.niaid.nih.gov/research/bioinformatics-resource-centers</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>alison.yao@nih.gov</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Virginia Tech, Virginia Biocomplexity Institute</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://biocomplexity.virginia.edu/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>NIAID/Division of Microbiology and Infectious Diseases (DMID) Data Sharing and Release Guidelines</ns0:policyName>
+                <ns0:policyURL>https://www.niaid.nih.gov/research/systems-biology-consortium-resources-data</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                    <ns0:databaseLicense>
+                <ns0:databaseLicenseName>other</ns0:databaseLicenseName>
+                <ns0:databaseLicenseURL>https://opensource.org/licenses/category</ns0:databaseLicenseURL>
+            </ns0:databaseLicense>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.niaid.nih.gov/research/systems-biology-consortium-resources-data</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                <ns0:remarks />
+        <ns0:entryDate>2016-02-10</ns0:entryDate>
+        <ns0:lastUpdate>2020-12-11</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

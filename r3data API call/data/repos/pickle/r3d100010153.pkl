@@ -1,0 +1,154 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010153</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">VegBank</ns0:repositoryName>
+                    <ns0:additionalName language="eng">The Vegetation Plot Archive Project</ns0:additionalName>
+                <ns0:repositoryURL>http://vegbank.org/vegbank/index.jsp</ns0:repositoryURL>
+                <ns0:description language="eng">VegBank is the vegetation plot database of the Ecological Society of America's Panel on Vegetation Classification. VegBank consists of three linked databases that contain  the actual plot records,  vegetation types recognized in the U.S. National Vegetation Classification and other vegetation types submitted by users, and  all plant taxa recognized by ITIS/USDA as well as all other plant taxa recorded in plot records. Vegetation records, community types and plant taxa may be submitted to VegBank and may be subsequently searched, viewed, annotated, revised, interpreted, downloaded, and cited. VegBank receives its data from the VegBank community of users.</ns0:description>
+                    <ns0:repositoryContact>help@vegbank.org</ns0:repositoryContact>
+                    <ns0:repositoryContact>http://vegbank.org/vegbank/general/contact.html</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2017-03-13">108.062 plots; 293.165 plant concepts;  26.433 community concepts</ns0:size>
+        <ns0:startDate>2003</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">202 Plant Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20201 Plant Systematics and Evolution</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20202 Plant Ecology and Ecosystem Analysis</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                <ns0:missionStatementURL>http://vegbank.org/vegbank/general/info.html</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Archived data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Software applications</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                            <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>biodiversity</ns0:keyword>
+                    <ns0:keyword>botany</ns0:keyword>
+                    <ns0:keyword>ecology</ns0:keyword>
+                    <ns0:keyword>plant communities</ns0:keyword>
+                    <ns0:keyword>plant taxa</ns0:keyword>
+                    <ns0:keyword>plot data</ns0:keyword>
+                    <ns0:keyword>vegetation mapping</ns0:keyword>
+                    <ns0:keyword>vegetation monitoring</ns0:keyword>
+                    <ns0:keyword>vegetation records</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Ecological Society of America, Panel on Vegetation Classification</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">esa Panel on Vegetation Classification</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://vegbank.org/vegdocs/panel/panel.html</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>2003</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://vegbank.org/vegbank/general/contact.html</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Center for Ecological Analysis and Synthesis</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NCEAS</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.nceas.ucsb.edu/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>2003</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">NatureServe</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>sponsoring</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.natureserve.org/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>2003</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">US Federal Geographic Data Committee</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">FGDC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.fgdc.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>2003</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">US Geological Survey</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">USGS</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.usgs.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>2003</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">US National Science Foundation</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NSF</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://nsf.gov/funding/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>2003</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Guidelines for Describing Associations and Alliances of the U.S. National Vegetation Classification</ns0:policyName>
+                <ns0:policyURL>http://vegbank.org/vegdocs/panel/standards.html</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Privacy policy</ns0:policyName>
+                <ns0:policyURL>http://vegbank.org/vegbank/forms/getHelp.jsp</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>VegBank Use Policy - Intellectual property rights and disclaimers</ns0:policyName>
+                <ns0:policyURL>http://vegbank.org/vegbank/general/terms.html</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://vegbank.org/vegbank/general/terms.html</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://vegbank.org/vegbank/general/terms.html</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>Intellectual property rights and disclaimers</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>http://vegbank.org/vegbank/general/terms.html</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                            <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>no</ns0:versioning>
+                    <ns0:api apiType="other">http://vegbank.org/vegdocs/vegbranch/vegbranch.html</ns0:api>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>http://vegbank.org/vegbank/general/cite.html</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">FGDC/CSDGM - Federal Geographic Data Committee Content Standard for Digital Geospatial Metadata</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/abcd-access-biological-collection-data</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks />
+        <ns0:entryDate>2012-10-25</ns0:entryDate>
+        <ns0:lastUpdate>2021-07-30</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

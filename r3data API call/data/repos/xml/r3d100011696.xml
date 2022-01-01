@@ -1,0 +1,124 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011696</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">biodiversity.aq</ns0:repositoryName>
+                    <ns0:additionalName language="eng">ANTABIF dataportal</ns0:additionalName>
+                    <ns0:additionalName language="eng">SCAR Antarctic Biodiversity Portal</ns0:additionalName>
+                <ns0:repositoryURL>https://www.biodiversity.aq/</ns0:repositoryURL>
+                <ns0:description language="eng">Antarctic marine and terrestrial biodiversity data is widely scattered, patchy and often not readily accessible. In many cases the data is in danger of being irretrievably lost. Biodiversity.aq establishes and supports a distributed system of interoperable databases, giving easy access through a single internet portal to a set of resources relevant to research, conservation and management pertaining to Antarctic biodiversity.
+biodiversity.aq provides access to both marine and terrestrial Antarctic biodiversity data.</ns0:description>
+                    <ns0:repositoryContact>https://www.biodiversity.aq/about/contacts/</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">202 Plant Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20202 Plant Ecology and Ecosystem Analysis</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">203 Zoology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20303 Animal Ecology, Biodiversity and Ecosystem Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31302 Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL>http://www.biodiversity.aq/index.html</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Audiovisual data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Databases</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>AFG</ns0:keyword>
+                    <ns0:keyword>ATLAS</ns0:keyword>
+                    <ns0:keyword>EBA</ns0:keyword>
+                    <ns0:keyword>IPT</ns0:keyword>
+                    <ns0:keyword>Princess Elisabeth Station</ns0:keyword>
+                    <ns0:keyword>SCAR-MarBIN</ns0:keyword>
+                    <ns0:keyword>biodiversity</ns0:keyword>
+                    <ns0:keyword>biogeographic</ns0:keyword>
+                    <ns0:keyword>limnetic</ns0:keyword>
+                    <ns0:keyword>mARS</ns0:keyword>
+                    <ns0:keyword>terrestrial</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Belgian Science Policy Office</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">BELSPO</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="nld">Federaal Wetenschapsbeleid</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="fra">Politique scientifique f&#233;d&#233;rale</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>BEL</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.belspo.be/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.belspo.be/belspo/organisation/contact_en.stm</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Scientific Committee on Antarctic Research</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">SCAR</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>GBR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.scar.org/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.scar.org/contact</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Sponsors</ns0:institutionName>
+                                <ns0:institutionCountry>AAA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.biodiversity.aq/sponsors.html</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Data Usage Agreement</ns0:policyName>
+                <ns0:policyURL>http://data.biodiversity.aq/pages/data_policy</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Ethics and Norms to Follow</ns0:policyName>
+                <ns0:policyURL>http://www.polarcommons.org/ethics-and-norms-of-data-sharing.html</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Global Biodiversity Information Facility</ns0:policyName>
+                <ns0:policyURL>http://www.gbif.org/</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>International Polar Year 2007-2008 Data Policy</ns0:policyName>
+                <ns0:policyURL>http://ipy.arcticportal.org/images/uploads/final_ipy_data_policy-1.pdf</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://creativecommons.org/licenses/by/3.0/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                <ns0:versioning />
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>http://data.biodiversity.aq/pages/data_policy</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                    <ns0:syndication syndicationType="RSS">http://ipt.biodiversity.aq/rss.do</ns0:syndication>
+                <ns0:remarks>We have now released an initial version of the ANTABIF Data Portal, which consolidates biodiversity data (taxonomy and occurrence) accessible through the SCAR-MarBIN (marine) or EBA's Antarctic Biodiversity (terrestrial and limnetic) websites.
+Blog: http://antarcticbiodiversity.blogspot.de/</ns0:remarks>
+        <ns0:entryDate>2016-02-17</ns0:entryDate>
+        <ns0:lastUpdate>2021-10-08</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

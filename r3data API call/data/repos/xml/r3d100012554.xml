@@ -1,0 +1,140 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012554</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">National River Flow Archive</ns0:repositoryName>
+                    <ns0:additionalName language="eng">NRFA</ns0:additionalName>
+                <ns0:repositoryURL>https://nrfa.ceh.ac.uk/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>FAIRsharing_DOI:10.25504/FAIRsharing.63pjQU</ns0:repositoryIdentifier>
+                <ns0:description language="eng">The National River Flow Archive is the primary archive of daily and peak river flows for the United Kingdom. The archive incorporates daily, monthly and flood peak data from over 1500 gauging stations. The NRFA holds a wide range of hydrological information to assist in the understanding and interpretation of measured river flows. In addition to time series of gauged river flow, the data centre maintains hydrometric information relating to the gauging stations and the catchments they command and data quantifying other parts of the hydrological cycle.</ns0:description>
+                    <ns0:repositoryContact>https://nrfa.ceh.ac.uk/nrfa-contact</ns0:repositoryContact>
+                    <ns0:repositoryContact>nrfa@ceh.ac.uk</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">318 Water Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL>http://nrfa.ceh.ac.uk/what-we-do</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>catchment maps</ns0:keyword>
+                    <ns0:keyword>hydrometric data</ns0:keyword>
+                    <ns0:keyword>rainfall statistics</ns0:keyword>
+                    <ns0:keyword>river flow statistics</ns0:keyword>
+                    <ns0:keyword>water resources</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Centre for Ecology &amp; Hydrology</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">CEH</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>GBR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.ceh.ac.uk/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Department for Infrastructure, Rivers Agency</ns0:institutionName>
+                                <ns0:institutionCountry>GBR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.infrastructure-ni.gov.uk/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">GOV.UK, Department for Environment Food &amp; Rural Affairs</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Defra</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>GBR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Hydrological Monitoring Programme</ns0:institutionName>
+                                <ns0:institutionCountry>GBR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://nrfa.ceh.ac.uk/nhmp</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Natural Environment Research Council</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NERC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>GBR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://nerc.ukri.org/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>RRID:SCR_012850</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_27406</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Natural Resources Wales</ns0:institutionName>
+                                <ns0:institutionCountry>GBR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://naturalresources.wales/?lang=en</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Scottish Environment Protection Agency</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">SEPA</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>GBR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.sepa.org.uk/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Data policy</ns0:policyName>
+                <ns0:policyURL>https://nerc.ukri.org/research/sites/data/policy/data-policy/</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>NRFA Data Terms and Conditions</ns0:policyName>
+                <ns0:policyURL>http://eidc.ceh.ac.uk/administration-folder/tools/ceh-standard-licence-texts/nrfa-data-terms-and-conditions-for-api-access-to-time-series-data-and-metadata/plain</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Terms and Conditions</ns0:policyName>
+                <ns0:policyURL>http://nrfa.ceh.ac.uk/costs-terms-and-conditions</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>feeRequired</ns0:dataAccessRestriction>
+                                    <ns0:dataAccessRestriction>other</ns0:dataAccessRestriction>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://eidc.ceh.ac.uk/administration-folder/tools/ceh-standard-licence-texts/nrfa-data-terms-and-conditions-for-api-access-to-time-series-data-and-metadata/plain</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks>The NRFA is a major component of CEH's Environmental Information Data Centre.</ns0:remarks>
+        <ns0:entryDate>2017-11-22</ns0:entryDate>
+        <ns0:lastUpdate>2021-11-16</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

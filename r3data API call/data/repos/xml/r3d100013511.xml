@@ -1,0 +1,84 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100013511</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="spa">Repositorio de Activos Digitales</ns0:repositoryName>
+                    <ns0:additionalName language="spa">Repositorio de Activos Digitales del Instituto Andaluz de Patrimonio Hist&#243;rico</ns0:additionalName>
+                <ns0:repositoryURL>https://repositorio.iaph.es/</ns0:repositoryURL>
+                <ns0:description language="spa">The REA-IAPH aims to manage and disseminate the graphic collection of the institution as well as the scientific production and technical documentation resulting from its projects and activities of research and innovation, documentation, intervention, communication and dissemination in the field of Cultural Heritage.</ns0:description>
+                    <ns0:repositoryContact>marial.loza@juntadeandalucia.es</ns0:repositoryContact>
+                            <ns0:type>institutional</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2017</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>spa</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">102 History</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11 Humanities</ns0:subject>
+                <ns0:missionStatementURL>https://repositorio.iaph.es/</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Databases</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>archeology</ns0:keyword>
+                    <ns0:keyword>conservation</ns0:keyword>
+                    <ns0:keyword>cultural heritage</ns0:keyword>
+                    <ns0:keyword>landscape</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="spa">Instituto Andaluz de Patrimonio Hist&#243;rico</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Andalusian Institute of Historical Heritage</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>ESP</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://repositorio.iaph.es/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:01p1xdv40</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>marial.loza@juntadedeandalucia.es</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Aviso legal</ns0:policyName>
+                <ns0:policyURL>https://www.juntadeandalucia.es/informacion/legal.html</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Politica Institutcional de Acceso Abierto del Instituto Andaluz de Patrimonio Historico</ns0:policyName>
+                <ns0:policyURL>https://repositorio.iaph.es/ayuda/Politica%20acceso%20abierto_%20IAPH_2020_aprobado.pdf</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Politicas de Funcionamiento del Repositorio de Activosdigatales del IAPH (ReA)</ns0:policyName>
+                <ns0:policyURL>https://repositorio.iaph.es/ayuda/politicas_ReA_2020_definitivo_202010.pdf</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                    <ns0:databaseLicense>
+                <ns0:databaseLicenseName>CC0</ns0:databaseLicenseName>
+                <ns0:databaseLicenseURL>https://creativecommons.org/choose/?lang=es</ns0:databaseLicenseURL>
+            </ns0:databaseLicense>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/choose/?lang=es</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>institutional membership</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>DSpace</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                            <ns0:pidSystem>hdl</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://repositorio.iaph.es/</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">Dublin Core</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks />
+        <ns0:entryDate>2021-02-25</ns0:entryDate>
+        <ns0:lastUpdate>2021-03-01</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

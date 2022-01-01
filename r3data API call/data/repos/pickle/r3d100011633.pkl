@@ -1,0 +1,137 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011633</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">IMAS Data Portal</ns0:repositoryName>
+                    <ns0:additionalName language="eng">Institute for Marine and Antarctic Studies Data Portal</ns0:additionalName>
+                <ns0:repositoryURL>https://data.imas.utas.edu.au/static/landing.html</ns0:repositoryURL>
+                <ns0:description language="eng">The Institute for Marine and Antarctic Studies (IMAS) pursues multidisciplinary and interdisciplinary work to advance understanding of temperate marine, Southern Ocean, and Antarctic environments.
+IMAS research is characterised as innovative, relevant, and globally distinctive. Education at IMAS delivers world class programs, resulting in highly trained graduates who serve the needs of academic institutions, industry, government, and the community. IMAS is naturally advantaged by its Southern Ocean location proximal to Antarctica, and hosts one of the world's largest critical masses of marine and Antarctic researchers.
+IMAS also operate facilities and host data sets of national and global interest and to the benefit of the community. The guiding framework of IMAS is that all data that are not commercial-in-confidence or restricted by legislation or agreement are owned by the University on behalf of the community or Commonwealth, are hosted by an organisation, and are shared with researchers for analysis and interpretation. IMAS is committed to the concept of Open Data.
+The IMAS Data Portal is an online interface showcasing the IMAS metadata catalogue and all available IMAS data. The portal aims to make IMAS data freely and openly available for the benefit of Australian marine and environmental science as a whole.</ns0:description>
+                    <ns0:repositoryContact>IMAS.DataManager@utas.edu.au</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31302 Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL>https://www.imas.utas.edu.au/imas/about</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Audiovisual data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Software applications</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>biological</ns0:keyword>
+                    <ns0:keyword>biosphere</ns0:keyword>
+                    <ns0:keyword>chemical</ns0:keyword>
+                    <ns0:keyword>chlorophyll</ns0:keyword>
+                    <ns0:keyword>ecology</ns0:keyword>
+                    <ns0:keyword>ocean temperature</ns0:keyword>
+                    <ns0:keyword>oceanography</ns0:keyword>
+                    <ns0:keyword>photosynthesis</ns0:keyword>
+                    <ns0:keyword>physical-water</ns0:keyword>
+                    <ns0:keyword>sea surface</ns0:keyword>
+                    <ns0:keyword>vegetation</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Australian National Data Service</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">ANDS</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>AUS</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.ands.org.au/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.ands.org.au/contact-us</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Integrated Marine Observing System</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">IMOS</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>AUS</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://imos.org.au/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://imos.org.au/contact-us/</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Collaborative Research Infrastructure Strategy</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NCRIS</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>AUS</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.education.gov.au/national-collaborative-research-infrastructure-strategy-ncris</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.education.gov.au/contact-department</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Tasmanian Partnership for Advanced Computing</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">TPAC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>AUS</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.tpac.org.au/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.tpac.org.au/contact/</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of Tasmania, Institute for Marine and Antarctic Studies</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">IMAS</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>AUS</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.imas.utas.edu.au/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.imas.utas.edu.au/imas/contact-us</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Data Management Guidelines</ns0:policyName>
+                <ns0:policyURL>https://www.imas.utas.edu.au/__data/assets/pdf_file/0003/782121/IMAS_Data_Management_Guidelines-2015.pdf</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>IMAS Data Management Policy</ns0:policyName>
+                <ns0:policyURL>https://www.imas.utas.edu.au/__data/assets/pdf_file/0009/782118/IMAS-Data-Management-Policy-2015.pdf</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/licenses/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>IMAS Data Submission Tool</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>https://data.imas.utas.edu.au/submit/media/guide/IMAS-DaST-UserGuide_EEEeyj3.pdf</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                            <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://help.aodn.org.au/user-guide-introduction/aodn-portal/data-use-acknowledgement/</ns0:citationGuidelineURL>
+                    <ns0:aidSystem>none</ns0:aidSystem>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">ISO 19115</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/iso-19115</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks>The IMOS (Integrated Marine Observing System) Data Portal User Guide  provides a set of instructions for navigating the portal features. The screenshots in this guide are taken from the IMOS portal, but the instructions are also applicable to the IMAS Data Portal and provide a useful framework for discovering IMAS data.</ns0:remarks>
+        <ns0:entryDate>2015-08-10</ns0:entryDate>
+        <ns0:lastUpdate>2020-01-31</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

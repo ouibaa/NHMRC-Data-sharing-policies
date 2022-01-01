@@ -1,0 +1,86 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012208</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Korean Labor &amp; Income Panel Study</ns0:repositoryName>
+                    <ns0:additionalName language="eng">KLIPS</ns0:additionalName>
+                <ns0:repositoryURL>https://www.kli.re.kr/klips_eng/index.do</ns0:repositoryURL>
+                <ns0:description language="eng">KLIPS (Korean Labor &amp; Income Panel Study) is a longitudinal survey of the labor market / income activities of households and individuals residing in urban areas. The 1st Wave of the KLIPS was launched by the KLI (Korea Labor Institute) in 1998, amid an unprecedented economic crisis and labor market turmoil.</ns0:description>
+                    <ns0:repositoryContact>klips@kli.re.kr</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>1998</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>kor</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">111 Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11102 Empirical Social Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">112 Economics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11202 Economic and Social Policy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11205 Statistics and Econometrics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">12 Social and Behavioural Sciences</ns0:subject>
+                <ns0:missionStatementURL>https://www.kli.re.kr/klips_eng/contents.do?key=254</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Archived data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>Cross-National Equivalent File - CNEF</ns0:keyword>
+                    <ns0:keyword>Korea</ns0:keyword>
+                    <ns0:keyword>census</ns0:keyword>
+                    <ns0:keyword>income</ns0:keyword>
+                    <ns0:keyword>labor</ns0:keyword>
+                    <ns0:keyword>microdata</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Korea Labor Institute</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">KLI</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>KOR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.kli.re.kr/kli_eng/index.do</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Ministry of Employment and Labor</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">MOEL</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>KOR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.moel.go.kr/english/main.jsp</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Users's guide</ns0:policyName>
+                <ns0:policyURL>https://www.kli.re.kr/klips_eng/selectBbsNttList.do?bbsNo=71&amp;key=257</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>institutional membership</ns0:dataAccessRestriction>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.kli.re.kr/klips_eng/index.do</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                <ns0:versioning />
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                <ns0:remarks>KLIPS is covered by Thomson Reuters Data Citation Index. KLIPS is part of the CNEF User Package, read more: https://cnef.ehe.osu.edu/data/</ns0:remarks>
+        <ns0:entryDate>2016-11-04</ns0:entryDate>
+        <ns0:lastUpdate>2019-01-18</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

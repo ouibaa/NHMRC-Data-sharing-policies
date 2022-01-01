@@ -1,0 +1,306 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012538</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">DataverseNO</ns0:repositoryName>
+                    <ns0:additionalName language="eng">HVL Open Research Data | Western Norway University of Applied Sciences</ns0:additionalName>
+                    <ns0:additionalName language="eng">INN Open Research Data | Inland Norway University of Applied Sciences</ns0:additionalName>
+                    <ns0:additionalName language="eng">NMBU Open Research Data | Norwegian University of Life Sciences (NMBU)</ns0:additionalName>
+                    <ns0:additionalName language="eng">NORD Open Research Data | Nord University</ns0:additionalName>
+                    <ns0:additionalName language="eng">NTNU Open Research Data | NTNU - Norwegian University of Science and Technology</ns0:additionalName>
+                    <ns0:additionalName language="eng">Repository for DataverseNO Partner Institutions</ns0:additionalName>
+                    <ns0:additionalName language="eng">UiA Open Research Data | University of Agder</ns0:additionalName>
+                    <ns0:additionalName language="eng">UiB Open Research Data | University of Bergen</ns0:additionalName>
+                    <ns0:additionalName language="eng">UiS Open Research Data | University of Stavanger</ns0:additionalName>
+                    <ns0:additionalName language="eng">UiT Open Research Data | UiT The Arctic University of Norway</ns0:additionalName>
+                    <ns0:additionalName language="eng">&#216;stfold University College Open Research Data | &#216;stfold University College</ns0:additionalName>
+                <ns0:repositoryURL>https://dataverse.no/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.5O9YTT</ns0:repositoryIdentifier>
+                <ns0:description language="eng">DataverseNO (https://dataverse.no) is a curated, FAIR-aligned national generic repository for open research data from all academic disciplines. DataverseNO commits to facilitate that published data remain accessible and (re)usable in a long-term perspective. The repository is owned and operated by UiT The Arctic University of Norway. DataverseNO accepts submissions from researchers primarily from Norwegian research institutions. Datasets in DataverseNO are grouped into institutional collections as well as special collections. The technical infrastructure of the repository is based on the open source application Dataverse (https://dataverse.org), which is developed by an international developer and user community led by Harvard University.</ns0:description>
+                    <ns0:repositoryContact>https://site.uit.no/dataverseno/support/</ns0:repositoryContact>
+                    <ns0:repositoryContact>researchdata@hjelp.uit.no</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                    <ns0:type>institutional</ns0:type>
+                    <ns0:type>other</ns0:type>
+                <ns0:size updated="2021-02-17">18 Dataverses; 1076 datasets</ns0:size>
+        <ns0:startDate>2017</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>nor</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">4 Engineering Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">44 Computer Science, Electrical and System Engineering</ns0:subject>
+                <ns0:missionStatementURL>https://site.uit.no/dataverseno/about/policy-framework/</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Archived data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Audiovisual data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Configuration data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Databases</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Software applications</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Source code</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>FAIR</ns0:keyword>
+                    <ns0:keyword>curated</ns0:keyword>
+                    <ns0:keyword>multi-disciplinary</ns0:keyword>
+                    <ns0:keyword>multi-institutional</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Inland Norway University of Applied Sciences</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="nno">H&#248;gskolen i Innlandet</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="nob">H&#248;gskolen i Innlandet</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>NOR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://eng.inn.no</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>Crossref Funder ID:501100004942</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>GRID:grid.477237.2</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>ROR:02dx4dc92</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate>2019</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>mahmood.khosrowjerdi@inn.no</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">NTNU - Norwegian University of Science and Technology</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="nno">Noregs teknisk-naturvitskaplege universitet (NTNU)</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="nob">Norges teknisk-naturvitenskapelige universitet (NTNU)</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>NOR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.ntnu.edu</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>Crossref Funder ID:501100006397</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>GRID:grid.412090.e</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>ISNI:0000000121587670</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>ROR:059dkdx38</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>Wikidata:Q706712</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate>2019</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>research-data@ntnu.no</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Nord University</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="nno">Nord universitet</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="nob">Nord universitet</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>NOR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.nord.no/en/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>GRID:grid.465487.c</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>ROR:030mwrt98</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>Wikidata:Q21079372</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate>2019</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>johanne.h.kobberstad@nord.no</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Norwegian University of Life Sciences (NMBU)</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="nno">NMBU - Noregs milj&#248;- og biovitskaplege universitet</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="nob">NMBU - Norges milj&#248;- og biovitenskapelige universitet</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>NOR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.nmbu.no/en</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>Crossref Funder ID:501100008119</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>GRID:grid.19477.3c</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>ISNI:000000040607975X</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>ROR:04a1mvv97</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>Wikidata:Q1725075</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate>2018</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>open-data@nmbu.no</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">UiT The Arctic University of Norway</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="nno">UiT Noregs arktiske universitet</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="nob">UiT Norges arktiske universitet</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>NOR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://en.uit.no/startsida</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>Crossref Funder ID:100007465</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>GRID:grid.10919.30</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>ISNI:0000000122595234</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>ROR:00wge5k78</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>Wikidata:Q279724</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate>2017</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>research-data@support.uit.no</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of Agder</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="nno">Universitetet i Agder</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="nob">Universitetet i Agder</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>NOR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.uia.no/en</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>GRID:grid.23048.3d</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>ISNI:0000000404176230</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>ROR:03x297z98</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>Wikidata:Q1470769</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate>2018</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>truls.lundgren@uia.no</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of Bergen</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="nno">Universitetet i Bergen</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="nob">Universitetet i Bergen</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>NOR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.uib.no/en</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>Crossref Funder ID:501100005036</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>GRID:grid.7914.b</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>ISNI:0000000419367443</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>ROR:03zga2b32</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>Wikidata:Q204457</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate>2019</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>research-data@uib.no</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of Stavanger</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="nno">Universitetet i Stavanger</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="nob">Universitetet i Stavanger</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>NOR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.uis.no/?lang=en_GB#Research</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>GRID:grid.18883.3a</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>ISNI:0000000122999255</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>ROR:02qte9q33</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>Wikidata:Q498401</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate>2020</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>linda.johnsen@uis.no</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Western Norway University of Applied Sciences</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="nno">H&#248;gskulen p&#229; Vestlandet</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>NOR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.hvl.no/en/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>GRID:grid.477239.c</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>ROR:05phns765</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate>2019</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>Vidar.Rongved@hvl.no</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">&#216;stfold University College</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="nno">H&#248;gskolen i &#216;stfold</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="nob">H&#248;gskolen i &#216;stfold</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>NOR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.hiof.no/english/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>GRID:grid.446040.2</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>ISNI:0000000119409648</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>ROR:04gf7fp41</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>Wikidata:Q616752</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate>2021</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>kristian.s.norsted@hiof.no</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>DataverseNO Policy Framework</ns0:policyName>
+                <ns0:policyURL>https://site.uit.no/dataverseno/about/policy-framework/</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                    <ns0:databaseLicense>
+                <ns0:databaseLicenseName>CC0</ns0:databaseLicenseName>
+                <ns0:databaseLicenseURL>https://creativecommons.org/share-your-work/public-domain/cc0/</ns0:databaseLicenseURL>
+            </ns0:databaseLicense>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>embargoed</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC0</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/share-your-work/public-domain/cc0/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>institutional membership</ns0:dataUploadRestriction>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                    <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>DataverseNO Deposit Agreement</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>https://site.uit.no/dataverseno/about/policy-framework/deposit-agreement/</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                            <ns0:software>
+                <ns0:softwareName>DataVerse</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                    <ns0:api apiType="OAI-PMH">https://dataverse.no/oai</ns0:api>
+                    <ns0:api apiType="OAI-PMH">https://www.openarchives.org/pmh/</ns0:api>
+                    <ns0:api apiType="REST">http://guides.dataverse.org/en/latest/api/native-api.html</ns0:api>
+                    <ns0:api apiType="SWORD">http://guides.dataverse.org/en/latest/api/sword.html</ns0:api>
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://dataverse.org/best-practices/data-citation</ns0:citationGuidelineURL>
+                    <ns0:aidSystem>ORCID</ns0:aidSystem>
+                    <ns0:aidSystem>other</ns0:aidSystem>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                    <ns0:certificate>other</ns0:certificate>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">DDI - Data Documentation Initiative</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/ddi-data-documentation-initiative</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                    <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">DataCite Metadata Schema</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/datacite-metadata-schema</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                    <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">Dublin Core</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                    <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">ISA-Tab</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/isa-tab</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                    <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">International Virtual Observatory Alliance Technical Specifications</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/international-virtual-observatory-alliance-technical-specifications</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                    <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">PROV</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/prov</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                            <ns0:syndication syndicationType="RSS">https://site.uit.no/dataverseno/feed/</ns0:syndication>
+                <ns0:remarks>Metadata from DataverseNO are harvested/indexed by several discovery services, including B2FIND (http://b2find.eudat.eu/), BASE (https://www.base-search.net), DataCite Search (https://search.datacite.org), Google Dataset Search (https://datasetsearch.research.google.com/), ExLibris Primo (https://www.exlibrisgroup.com/products/primo-discovery-service/).</ns0:remarks>
+        <ns0:entryDate>2017-11-10</ns0:entryDate>
+        <ns0:lastUpdate>2021-07-19</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

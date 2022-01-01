@@ -1,0 +1,160 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010431</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Pairfam</ns0:repositoryName>
+                    <ns0:additionalName language="eng">FDZ pairfam</ns0:additionalName>
+                    <ns0:additionalName language="eng">Forschungsdatenzentrum pairfam</ns0:additionalName>
+                    <ns0:additionalName language="eng">Panel Analysis of Intimate Relationships and Family Dynamics</ns0:additionalName>
+                <ns0:repositoryURL>https://www.pairfam.de/en/</ns0:repositoryURL>
+                <ns0:description language="eng">The 2008-launched German Family Panel pairfam (&#8220;Panel Analysis of Intimate Relationships and Family Dynamics&#8221;) is a multi-disciplinary, longitudinal study for researching partnership and family dynamics in Germany. The annually collected survey data from a nationwide random sample of more than 12,000 persons of the three birth cohorts 1971-73, 1981-83, 1991-93 and their partners, parents and children offers unique opportunities for the analysis of partner and generational relationships as they develop over the course of multiple life phases.</ns0:description>
+                    <ns0:repositoryContact>https://www.pairfam.de/en/links/contact/</ns0:repositoryContact>
+                    <ns0:repositoryContact>support@pairfam.de</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2019-10-23">sample of more than 12,000 persons of the three birth cohorts 1971-73, 1981-83, 1991-93 and their partners, parents and children</ns0:size>
+        <ns0:startDate>2008-05-01</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>deu</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">111 Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11102 Empirical Social Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">12 Social and Behavioural Sciences</ns0:subject>
+                <ns0:missionStatementURL>https://www.pairfam.de/en/study/concept-and-design/</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>child development</ns0:keyword>
+                    <ns0:keyword>empirical social research</ns0:keyword>
+                    <ns0:keyword>intergenerational relationships</ns0:keyword>
+                    <ns0:keyword>parenthood</ns0:keyword>
+                    <ns0:keyword>parenting</ns0:keyword>
+                    <ns0:keyword>partnership</ns0:keyword>
+                    <ns0:keyword>social embeddedness</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Chemnitz University of Technology</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="deu">Technische Universit&#228;t Chemnitz</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.tu-chemnitz.de/index.html.en</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:00a208s56</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.pairfam.de/en/links/contact/</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Friedrich Schiller University Jena</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="deu">Friedrich-Schiller-Universit&#228;t Jena</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.uni-jena.de/en/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:05qpz1x62</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.pairfam.de/en/links/contact/</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">German Research Foundation</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="deu">DFG</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="deu">Deutsche Forschungsgemeinschaft</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.dfg.de/en/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:018mejw64</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:SCR_012420</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_144062</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.pairfam.de/en/links/contact/</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">LMU Munich</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="deu">LMU</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="deu">Ludwig-Maximilians-Universit&#228;t M&#252;nchen</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.lmu.de/en/index.html</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:05591te55</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:SCR_011358</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_28705</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.pairfam.de/en/links/contact/</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of Bremen</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="deu">Universit&#228;t Bremen</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.uni-bremen.de/en/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:04ers2y35</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.pairfam.de/en/links/contact/</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of Cologne</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="deu">Universit&#228;t zu K&#246;ln</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.portal.uni-koeln.de/index.php?id=9441&amp;L=1</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:00rcxh774</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.pairfam.de/en/links/contact/</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Access to pairfam Data</ns0:policyName>
+                <ns0:policyURL>https://www.pairfam.de/en/data/data-access/</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Kriterien des RatSWD</ns0:policyName>
+                <ns0:policyURL>https://www.konsortswd.de/wp-content/uploads/RatSWD_FDZKriterien.PDF</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                    <ns0:databaseLicense>
+                <ns0:databaseLicenseName>Copyrights</ns0:databaseLicenseName>
+                <ns0:databaseLicenseURL>https://www.pairfam.de/en/links/legal-notes/</ns0:databaseLicenseURL>
+            </ns0:databaseLicense>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>other</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.pairfam.de/en/links/legal-notes/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://www.pairfam.de/en/data/citation/</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                    <ns0:certificate>RatSWD</ns0:certificate>
+                                <ns0:remarks>FDZ pairfam is a member of the RatSWD research data infrastructure.
+The pairfam data are archived and described in the GESIS data catalog: https://dbk.gesis.org/dbksearch/sdesc2.asp?no=5678&amp;ll=10&amp;af=&amp;nf=1&amp;db=d&amp;search=&amp;search2=&amp;notabs=1</ns0:remarks>
+        <ns0:entryDate>2013-07-11</ns0:entryDate>
+        <ns0:lastUpdate>2021-11-10</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

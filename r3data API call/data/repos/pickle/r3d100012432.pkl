@@ -1,0 +1,109 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012432</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">GabiPD</ns0:repositoryName>
+                    <ns0:additionalName language="eng">GABI Primary Database</ns0:additionalName>
+                    <ns0:additionalName language="deu">Genomanalyse im biologischen System Pflanze</ns0:additionalName>
+                    <ns0:additionalName language="eng">Genome Analysis of the Plant Biological System</ns0:additionalName>
+                <ns0:repositoryURL>https://www.gabipd.org/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>MIR:00000164</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>OMICS_03230</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:SCR_002755</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:nif-0000-02866</ns0:repositoryIdentifier>
+                <ns0:description language="eng">GABI, acronym for "Genomanalyse im biologischen System Pflanze", is the name of a large collaborative network of different plant genomic research projects. Plant data from different &#8216;omics&#8217; fronts representing more than 10 different model or crop species are integrated in GabiPD.</ns0:description>
+                    <ns0:repositoryContact>gabipd@gmail.com</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>deu</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">202 Plant Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20207 Plant Genetics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                <ns0:missionStatementURL>http://www.gabipd.org/information/about.shtml</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Databases</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>gene expression</ns0:keyword>
+                    <ns0:keyword>metabolomics</ns0:keyword>
+                    <ns0:keyword>molecular plant physiology,</ns0:keyword>
+                    <ns0:keyword>plant genomics</ns0:keyword>
+                    <ns0:keyword>proteomics</ns0:keyword>
+                    <ns0:keyword>proteomics</ns0:keyword>
+                    <ns0:keyword>transcriptomics</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="deu">Bundesministerium f&#252;r Bildung und Forschung</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="deu">BMFT</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">Federal Ministry of Education and Research</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.bmbf.de/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:04pz7b180</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:SCR_005066</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_143994</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="deu">Max-Planck-Institut f&#252;r Molekulare Pflanzenphysiologie</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="deu">MPI-MP</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">Max-Planck-Institute of Molecular Plant Physiology</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.mpimp-golm.mpg.de/2168/en</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:01fbde567</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:SCR_011368</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_56371</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Data submission and access to the data</ns0:policyName>
+                <ns0:policyURL>https://www.gabipd.org/information/about.shtml#submission</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>closed</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>embargoed</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC0</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.gabipd.org/registration/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.gabipd.org/imprint.shtml</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://www.gabipd.org/</ns0:citationGuidelineURL>
+                    <ns0:aidSystem>none</ns0:aidSystem>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                    <ns0:syndication syndicationType="RSS">https://www.gabipd.org/cgi-bin/News.pl.cgi?type=rss&amp;time=current</ns0:syndication>
+                <ns0:remarks />
+        <ns0:entryDate>2017-08-07</ns0:entryDate>
+        <ns0:lastUpdate>2021-08-25</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

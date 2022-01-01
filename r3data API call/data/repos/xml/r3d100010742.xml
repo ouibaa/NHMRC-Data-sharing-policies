@@ -1,0 +1,179 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010742</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">UCD Digital Library</ns0:repositoryName>
+                    <ns0:additionalName language="gle">An Leabharlann, An Col&#225;iste Ollscoile, Baile &#193;tha Cliath</ns0:additionalName>
+                    <ns0:additionalName language="eng">University College Dublin Digital Library</ns0:additionalName>
+                <ns0:repositoryURL>https://digital.ucd.ie/</ns0:repositoryURL>
+                <ns0:description language="eng">The UCD Digital Library is a platform for exploring cultural heritage, engaging with digital scholarship, and accessing research data. The UCD Digital Library allows you to search, browse and explore a growing collection of historical materials, photographs, art, interviews, letters, and other exciting content, that have been digitised and made freely available.</ns0:description>
+                    <ns0:repositoryContact>digital.library@ucd.ie</ns0:repositoryContact>
+                    <ns0:repositoryContact>https://digital.ucd.ie/contact/</ns0:repositoryContact>
+                            <ns0:type>other</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2012</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">109 Education Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11 Humanities</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">12 Social and Behavioural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31 Chemistry</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">4 Engineering Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">45 Construction Engineering and Architecture</ns0:subject>
+                <ns0:missionStatementURL>https://digital.ucd.ie/about/</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Archived data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Audiovisual data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Databases</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>multidisciplinary</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Andrew W. Mellon Foundation</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://mellon.org/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:04jsh2530</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Higher Education Authority</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="gle">AN t&#218;DAR&#193;S  um ARD-OIDEACHAS</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">HEA</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>IRL</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://hea.ie/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:0471xye93</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Forum for the Enhancement of Teaching and Learning in Higher Education</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NDLR</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">National Digital Learning Resources</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>IRL</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.teachingandlearning.ie/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:012ewnz96</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>info@teachingandlearning.ie</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University College Dublin, Library</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">UCD Dublin</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">UCD Library</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>IRL</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.ucd.ie/library/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>julia.barrett@ucd.ie</ns0:institutionContact>
+                                    <ns0:institutionContact>library@ucd.ie</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Wellcome Trust</ns0:institutionName>
+                                <ns0:institutionCountry>GBR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://wellcome.org/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:029chgv08</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>CoreTrustSeal Assessment</ns0:policyName>
+                <ns0:policyURL>https://www.coretrustseal.org/wp-content/uploads/2020/06/UCD_Digital_Library.pdf</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Terms of use</ns0:policyName>
+                <ns0:policyURL>https://digital.ucd.ie/terms/</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                    <ns0:databaseLicense>
+                <ns0:databaseLicenseName>CC</ns0:databaseLicenseName>
+                <ns0:databaseLicenseURL>https://creativecommons.org/licenses/by-sa/4.0/</ns0:databaseLicenseURL>
+            </ns0:databaseLicense>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>CC0</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.irishstatutebook.ie/eli/2019/act/19/enacted/en/html</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>Fedora</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                    <ns0:api apiType="OAI-PMH">http://libucd5.ucd.ie/oaiprovider/</ns0:api>
+                    <ns0:api apiType="REST">https://digital.ucd.ie/research/#services-api</ns0:api>
+                    <ns0:api apiType="other">https://digital.ucd.ie/research/#services-api</ns0:api>
+                            <ns0:pidSystem>ARK</ns0:pidSystem>
+                    <ns0:pidSystem>DOI</ns0:pidSystem>
+                    <ns0:pidSystem>hdl</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://digital.ucd.ie/terms/</ns0:citationGuidelineURL>
+                    <ns0:aidSystem>ORCID</ns0:aidSystem>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                    <ns0:certificate>other</ns0:certificate>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">DDI - Data Documentation Initiative</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/ddi-data-documentation-initiative</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                    <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">DataCite Metadata Schema</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/datacite-metadata-schema</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                    <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">Dublin Core</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks>UCD Digital Library&#160;is covered by Clarivate Data Citation Index.
+UCD Digital Library supports ORCID author identification. You can:
+    Listen to the recordings from 1979/80 of various people in Dublin as part of the Urban Folklore Project,Dublin
+    View photographs of iconic Georgian Dublin buildings from the slide collections in the School of Art History and Cultural Policy through the Georgian Dublin Civic and Domestic Collections
+    Have a look at the Papers of Michael Collins or the letters from Roger Casement to Captain Hans Boehm, during Casement's stay in Germany in 1915 in the Boehm/Casement Papers
+    Look at the Press Photographs of Eamon de Valera spanning the years 1919 - 1979
+    Explore the beautiful 18th century watercolours of Irish antiquities, done by or for Gabriel Beranger in the Beranger Watercolours. -
+    Check out what Dublin and Ireland looked like in past centuries in the Historic Maps Collection. -
+    Read the essays written by schoolchildren in 1937-38 on a wide range of local folk tradition and history in the Schools' Manuscript Collection - Carna &amp; Ballinasloe, Co. Galway. -
+    View photographs of chalices and other religious artefacts belonging to the Irish Franciscans in the collection Material Culture of the Mendicant Orders in Ireland. -
+    Delve into the original material taken from UCD Archives and UCD Special Collections relating to the events of Easter 1916 in the Towards 2016 research collection.
+and much more!</ns0:remarks>
+        <ns0:entryDate>2013-11-20</ns0:entryDate>
+        <ns0:lastUpdate>2021-12-22</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

@@ -1,0 +1,74 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100013018</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Alberta Geological Survey Open Data Portal</ns0:repositoryName>
+                    <ns0:additionalName language="eng">AGS Open Data Portal</ns0:additionalName>
+                <ns0:repositoryURL>https://geology-ags-aer.opendata.arcgis.com/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>biodbcore-001593</ns0:repositoryIdentifier>
+                <ns0:description language="eng">The Alberta Geological Survey (AGS) Open Data Portal features a subset of GIS data related to the geology of the province of Alberta and published by the AGS. The AGS delivers geoscience in several key areas; including surficial mapping, bedrock mapping, geological modelling, resource evaluation (hydrocarbons, minerals), groundwater, and geological hazards.</ns0:description>
+                    <ns0:repositoryContact>AGS-Info@aer.ca</ns0:repositoryContact>
+                            <ns0:type>other</ns0:type>
+                <ns0:size updated="2019-08-13">26 collections</ns0:size>
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">314 Geology and Palaeontology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">316 Geochemistry, Mineralogy and Crystallography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">318 Water Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL>https://ags.aer.ca/about-the-ags/what-we-do</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Audiovisual data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>Hydrogeology</ns0:keyword>
+                    <ns0:keyword>bedrock geology</ns0:keyword>
+                    <ns0:keyword>ninerals</ns0:keyword>
+                    <ns0:keyword>seismic</ns0:keyword>
+                    <ns0:keyword>surficial geology</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Alberta Geological Survey</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">AGS</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://ags.aer.ca/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ISNI:0000 0001 0742 7080</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:SCR_003402</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_157758</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                        <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>OGLC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://open.alberta.ca/licence</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                    <ns0:api apiType="REST">https://services2.arcgis.com/jQV6VMr2Loovu7GU/arcgis/rest/services/Industrial_Mineral_Occurrence_(v2_2016_Jun_17)/FeatureServer/0/query?outFields=*&amp;where=1%3D1</ns0:api>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://ags.aer.ca/copyright-legal-disclaimers.htm#credit</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">FGDC/CSDGM - Federal Geographic Data Committee Content Standard for Digital Geospatial Metadata</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/fgdccsdgm-federal-geographic-data-committee-content-standard-digital-ge</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks />
+        <ns0:entryDate>2019-03-28</ns0:entryDate>
+        <ns0:lastUpdate>2021-11-16</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

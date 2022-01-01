@@ -1,0 +1,159 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010138</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Australian Data Archive</ns0:repositoryName>
+                    <ns0:additionalName language="eng">ADA Dataverse</ns0:additionalName>
+                <ns0:repositoryURL>https://ada.edu.au/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>FAIRsharing_DOI:10.25504/FAIRsharing.sN8d9i</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:SCR_014706</ns0:repositoryIdentifier>
+                <ns0:description language="eng">The Australian Data Archive (ADA) provides a national service for the collection and preservation of digital research data and to make these data available for secondary analysis by academic researchers and other users. Data are stored in seven sub-archives: Social Science, Historical, Indigenous, Longitudinal, Qualitative, Crime &amp; Justice and International. Along with Australian data, ADA International is also a repository for studies by Australian researchers conducted in other countries, particularly throughout the Asia-Pacific region. The ADA International data catalogue includes links to studies from countries including New Zealand, Bangladesh, Cambodia, China, Indonesia, and several other countries.
+In 2017  the archive systems moved from the existing Nesstar platform to the new ADA Dataverse platform https://dataverse.ada.edu.au/</ns0:description>
+                    <ns0:repositoryContact>ada@anu.edu.au</ns0:repositoryContact>
+                            <ns0:type>other</ns0:type>
+                <ns0:size updated="2021-04-21">144 Dataverses; 1.577 Datasets; 12.601 files</ns0:size>
+        <ns0:startDate>2011</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">106 Non-European Languages and Cultures, Social and Cultural Anthropology, Jewish Studies and Religious Studies</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">10602 Asian Studies</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11 Humanities</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">111 Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11102 Empirical Social Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">112 Economics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11202 Economic and Social Policy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11205 Statistics and Econometrics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">113 Jurisprudence</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11305 Criminology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">12 Social and Behavioural Sciences</ns0:subject>
+                <ns0:missionStatementURL>https://ada.edu.au/about-ada/</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Audiovisual data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Software applications</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>aborigines</ns0:keyword>
+                    <ns0:keyword>ageing</ns0:keyword>
+                    <ns0:keyword>census</ns0:keyword>
+                    <ns0:keyword>colonial</ns0:keyword>
+                    <ns0:keyword>family</ns0:keyword>
+                    <ns0:keyword>geospatial visualisation</ns0:keyword>
+                    <ns0:keyword>household</ns0:keyword>
+                    <ns0:keyword>immigrants</ns0:keyword>
+                    <ns0:keyword>indigenous</ns0:keyword>
+                    <ns0:keyword>microdata</ns0:keyword>
+                    <ns0:keyword>population</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Australian National University</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">ANU</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>AUS</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.anu.edu.au/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:019wvm592</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:SCR_001086</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_23045</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate>1981</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>ada@anu.edu.au</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of Melbourne</ns0:institutionName>
+                                <ns0:institutionCountry>AUS</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.unimelb.edu.au/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:01ej9dk98</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of Queensland</ns0:institutionName>
+                                <ns0:institutionCountry>AUS</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.uq.edu.au/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of Technology Sydney</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">UTS</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>AUS</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.uts.edu.au/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of Western Australia</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">UWA</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>AUS</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.uwa.edu.au/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Accessing data from Australian Data Archive</ns0:policyName>
+                <ns0:policyURL>https://ada.edu.au/accessing-data/</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>closed</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>other</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://ada.edu.au/accessing-data/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>Depositing Data with the Australian Data Archive</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>https://ada.edu.au/depositing-data/</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                            <ns0:software>
+                <ns0:softwareName>DataVerse</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://ada.edu.au/accessing-data/</ns0:citationGuidelineURL>
+                    <ns0:aidSystem>ORCID</ns0:aidSystem>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                    <ns0:certificate>other</ns0:certificate>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">DDI - Data Documentation Initiative</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/ddi-data-documentation-initiative</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks>ADA is covered by Thomson Reuters Data Citation Index. 
+Australian Data Archive is a regular member of the ICSU World Data System - WDS.
+The archive is provided by a consortium of leading national Australian universities, managed by the Australian National University (ANU) and including nodes around Australia, at the University of Melbourne, University of Queensland, University of Technology Sydney and University of Western Australia. Includes Australian Social Science Data Archive.  ADA was established at the ANU in 1981 under the original title of the Social Science Data Archive, with a brief to provide a national service for the collection and preservation of computer readable data relating to social, political and economic affairs and to make these data available for further analysis.</ns0:remarks>
+        <ns0:entryDate>2013-06-25</ns0:entryDate>
+        <ns0:lastUpdate>2021-11-16</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

@@ -1,0 +1,94 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010417</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Rat Genome Database</ns0:repositoryName>
+                    <ns0:additionalName language="eng">RGD</ns0:additionalName>
+                <ns0:repositoryURL>https://rgd.mcw.edu</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.pfg82t</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:OMICS_01660</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:SCR_006444</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:nif-0000-00134</ns0:repositoryIdentifier>
+                <ns0:description language="eng">The Rat Genome Database is a collaborative effort between leading research institutions involved in rat genetic and genomic research. Its goal, as stated in RFA: HL-99-013 is the establishment of a Rat Genome Database, to collect, consolidate, and integrate data generated from ongoing rat genetic and genomic research efforts and make these data widely available to the scientific community. A secondary, but critical goal is to provide curation of mapped positions for quantitative trait loci, known mutations and other phenotypic data.</ns0:description>
+                    <ns0:repositoryContact>RGD.Data@mcw.edu</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>1999</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">203 Zoology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20306 Animal Genetics, Cell and Developmental Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                <ns0:missionStatementURL>https://rgd.mcw.edu/wg/about-us</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Audiovisual data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Networkbased data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Software applications</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>disease</ns0:keyword>
+                    <ns0:keyword>genomics</ns0:keyword>
+                    <ns0:keyword>pathway</ns0:keyword>
+                    <ns0:keyword>phenotype</ns0:keyword>
+                    <ns0:keyword>rat genetics</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Medical College of Wisconsin, Human and Molecular Genetics Center, Biomedical Informatics</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">HMGC, Biomedical Informatics</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.mcw.edu/Human-and-Molecular-Genetics-Center-HMGC/Biomedical-Informatics.htm</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>2000</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>mrdwinel@mcw.edu</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Institutes of Health, National Heart Lung and Blood Institute</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NHLBI</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">NIH</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.nhlbi.nih.gov</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>NIH Grants Policy Statement</ns0:policyName>
+                <ns0:policyURL>https://grants.nih.gov/policy/nihgps/index.htm</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Rat Nomenclature Guidelines</ns0:policyName>
+                <ns0:policyURL>https://rgd.mcw.edu/nomen/nomen.shtml</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Public Domain</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://rgd.mcw.edu/wg/grants</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                    <ns0:api apiType="FTP">ftp://ftp.rgd.mcw.edu/pub/</ns0:api>
+                    <ns0:api apiType="REST">https://rest.rgd.mcw.edu/rgdws/swagger-ui.html</ns0:api>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://rgd.mcw.edu/wg/citing-rgd</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                <ns0:remarks>is covered by Elsevier.</ns0:remarks>
+        <ns0:entryDate>2013-06-26</ns0:entryDate>
+        <ns0:lastUpdate>2021-09-03</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

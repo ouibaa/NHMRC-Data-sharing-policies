@@ -1,0 +1,194 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012567</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">SWE-CLARIN</ns0:repositoryName>
+                    <ns0:additionalName language="eng">https://sweclarin.se/eng/home</ns0:additionalName>
+                <ns0:repositoryURL>https://sweclarin.se/eng/home</ns0:repositoryURL>
+                <ns0:description language="eng">SWE-CLARIN is a national node in European Language and Technology Infrastructure (CLARIN) - an ESFRI initiative to build an infrastructure for e-science in the humanities and social sciences.
+SWE-CLARIN makes language-based materials available as research data using advanced processing tools and other resources. One basic idea is that the increasing amount of text and speech - contemporary and historical - as digital research material enables new forms of e-science and new ways to tackle old research issues.</ns0:description>
+                    <ns0:repositoryContact>https://sweclarin.se/eng/contact</ns0:repositoryContact>
+                    <ns0:repositoryContact>info (at) sweclarin.se</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>swe</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">104 Linguistics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11 Humanities</ns0:subject>
+                <ns0:missionStatementURL>https://sweclarin.se/eng/centers</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Audiovisual data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                            <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>CILTLab</ns0:keyword>
+                    <ns0:keyword>Computational Linguistics</ns0:keyword>
+                    <ns0:keyword>Computational Linguistics and Sign Language</ns0:keyword>
+                    <ns0:keyword>Language Council of Sweden</ns0:keyword>
+                    <ns0:keyword>National Archives</ns0:keyword>
+                    <ns0:keyword>Spr&#229;kbanken</ns0:keyword>
+                    <ns0:keyword>Swedish National Data Service (SND)</ns0:keyword>
+                    <ns0:keyword>Swedish language</ns0:keyword>
+                    <ns0:keyword>The Humanities Laboratory</ns0:keyword>
+                    <ns0:keyword>The Speech Group</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">CLARIN-ERIC</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">CLARIN -  European Research Infrastructure for Language Resources and Technology</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">Common Language Resources and Technology Infrastructure - European Research Infrastructure Consortium</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>EEC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.clarin.eu/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>clarin@clarin.eu</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="swe">Institutet f&#246;r Spr&#229;k och folkminnet, Spr&#229;kr&#229;det</ns0:institutionName>
+                                <ns0:institutionCountry>SWE</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.sprakochfolkminnen.se/swe-clarin</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>swe-clarin (at) sprakochfolkminnen.se</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">KTH School of Computer Science and Communication</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="swe">Kungliga Tekniska h&#246;gskolan, Skolan f&#246;r datavetenskap och kommunikation</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>SWE</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.speech.kth.se/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>davidh (at) csc.kth.se</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Link&#246;ping University, Department of Computer and Information Science, Human Centered Systems Division, NLPLAB</ns0:institutionName>
+                                <ns0:institutionCountry>SWE</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.ida.liu.se/divisions/hcs/nlplab/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.ida.liu.se/projects/sweclarin/</ns0:institutionContact>
+                                    <ns0:institutionContact>lars.ahrenberg (at) liu.se</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Lund University Humanities Lab</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="swe">Lunds Universitet, Humanistlaboratoriet</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>SWE</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://sweclarin.se/eng/centers/lund</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>johan.frid (at) ling.lu.se</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="swe">Riskarkivet</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Swedish National Archives</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>SWE</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://riksarkivet.se/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>Johanna.Berg (at) riksarkivet.se</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="swe">Spr&#229;kbanken</ns0:institutionName>
+                                <ns0:institutionCountry>SWE</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://spraakbanken.gu.se/eng/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>sb-info (at) svenska.gu.se</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Stockholm University, Department of Linguistics</ns0:institutionName>
+                                <ns0:institutionCountry>SWE</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.ling.su.se/english/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>mats.wiren (at) ling.su.se</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Swedish National Data Service</ns0:institutionName>
+                                <ns0:institutionCountry>SWE</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://snd.gu.se/en</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>daniel.knezevic (at) gu.se</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of Gothenburg</ns0:institutionName>
+                                <ns0:institutionCountry>SWE</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.gu.se/english</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="swe">Uppsala Universitet, Datorlingvistik</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Uppsala University, Computational Linguistics Group</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>SWE</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.lingfil.uu.se/research/computational-linguistics/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>joakim.nivre (at) lingfil.uu.se</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="swe">Vetenskapsr&#229;det</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Swedish Research Council</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>SWE</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.vr.se/inenglish.4.12fff4451215cbd83e4800015152.html</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>SWE-CLARIN Handbok</ns0:policyName>
+                <ns0:policyURL>https://sweclarin.se/swe/handbok</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>SWE-CLARIN kickoff</ns0:policyName>
+                <ns0:policyURL>https://sweclarin.se/sites/sweclarin.se/files/Swe-Clarin_Kick-off_m%C3%B6tesanteckningar_publika_20150205-06_0.pdf</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/licenses/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                <ns0:versioning />
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                    <ns0:syndication syndicationType="RSS">https://sweclarin.se/blog/feed</ns0:syndication>
+                <ns0:remarks />
+        <ns0:entryDate>2017-12-04</ns0:entryDate>
+        <ns0:lastUpdate>2018-03-23</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

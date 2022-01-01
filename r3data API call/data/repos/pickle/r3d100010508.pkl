@@ -1,0 +1,120 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010508</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">International Laser Ranging Service</ns0:repositoryName>
+                    <ns0:additionalName language="eng">ILRS</ns0:additionalName>
+                <ns0:repositoryURL>https://ilrs.cddis.eosdis.nasa.gov/</ns0:repositoryURL>
+                <ns0:description language="eng">The International Laser Ranging Service (ILRS) provides global satellite and lunar laser ranging data and their related products to support geodetic and geophysical research activities as well as IERS products important to the maintenance of an accurate International Terrestrial Reference Frame (ITRF). The service develops the necessary global standards/specifications and encourages international adherence to its conventions. The ILRS is one of the space geodetic services of the International Association of Geodesy (IAG).
+
+The ILRS collects, merges, archives and distributes Satellite Laser Ranging (SLR) and Lunar Laser Ranging (LLR) observation data sets of sufficient accuracy to satisfy the objectives of a wide range of scientific, engineering, and operational applications and experimentation.</ns0:description>
+                    <ns0:repositoryContact>https://ilrs.cddis.eosdis.nasa.gov/about/contact_ilrs/index.html</ns0:repositoryContact>
+                    <ns0:repositoryContact>ilrs-dc@lists.nasa.gov</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>1998</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">315 Geophysics and Geodesy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31502 Geodesy, Photogrammetry, Remote Sensing, Geoinformatics, Cartogaphy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL>https://ilrs.cddis.eosdis.nasa.gov/missions/mission_support/index.html</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Software applications</ns0:contentType>
+                            <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>earth's gravity field</ns0:keyword>
+                    <ns0:keyword>geodesy</ns0:keyword>
+                    <ns0:keyword>geophysics</ns0:keyword>
+                    <ns0:keyword>gravitation</ns0:keyword>
+                    <ns0:keyword>lunar laser ranging</ns0:keyword>
+                    <ns0:keyword>navigation</ns0:keyword>
+                    <ns0:keyword>polar motion</ns0:keyword>
+                    <ns0:keyword>remote sensing</ns0:keyword>
+                    <ns0:keyword>satellite</ns0:keyword>
+                    <ns0:keyword>space</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Goddard Space Flight Center</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.nasa.gov/goddard</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.nasa.gov/content/contact-goddard</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">ICSU World Data System</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">WDS</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>AAA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://icsu-wds.org/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">International Association of Geodesy</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">IAG</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>AAA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.iag-aig.org/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">International Association of Geodesy, Global Geodetic Observing System</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">GGOS</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>AAA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://176.28.21.212/en/about/ggos-infos/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://176.28.21.212/en/about/contact/</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Aeronautics and Space Administration</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NASA</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.nasa.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>ILS Terms of Reference</ns0:policyName>
+                <ns0:policyURL>https://ilrs.cddis.eosdis.nasa.gov/about/termsofref.html</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.nasa.gov/multimedia/guidelines/index.html</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                    <ns0:api apiType="FTP">ftp://edc.dgfi.tum.de/</ns0:api>
+                    <ns0:api apiType="FTP">ftp://cddis.gsfc.nasa.gov/</ns0:api>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://ilrs.cddis.eosdis.nasa.gov/about/cite.html</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                <ns0:remarks>ILRS is a network member of ICSU World Data System. ILRS includes 2 global data centers: CDDIS and EDC</ns0:remarks>
+        <ns0:entryDate>2013-10-09</ns0:entryDate>
+        <ns0:lastUpdate>2018-12-14</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

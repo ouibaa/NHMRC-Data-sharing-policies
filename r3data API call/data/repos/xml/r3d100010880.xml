@@ -1,0 +1,154 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010880</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">VectorBase</ns0:repositoryName>
+                    <ns0:additionalName language="eng">Bioinformatics Resource for Invertebrate Vectors of Human Pathogens</ns0:additionalName>
+                <ns0:repositoryURL>https://www.vectorbase.org/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.3etvdn</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>MIR:00000232</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>OMICS_03146</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:nif-0000-03624</ns0:repositoryIdentifier>
+                <ns0:description language="eng">VectorBase provides data on arthropod vectors of human pathogens. Sequence data, gene expression data, images, population data, and insecticide resistance data for arthropod vectors are available for download.  VectorBase also offers genome browser, gene expression and microarray repository,  and BLAST searches for all VectorBase genomes.  VectorBase Genomes include Aedes aegypti, Anopheles gambiae, Culex quinquefasciatus, Ixodes scapularis, Pediculus humanus, Rhodnius prolixus.  VectorBase is one the Bioinformatics Resource Centers (BRC) projects which is funded by National Institute of Allergy and Infectious Diseases (NAID).</ns0:description>
+                    <ns0:repositoryContact>info@vectorbase.org</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2005</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">201 Basic Biological and Medical Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20105 General Genetics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">204 Microbiology, Virology and Immunology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20403 Medical Microbiology, Molecular Infection Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                <ns0:missionStatementURL>https://www.vectorbase.org/about</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Archived data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Software applications</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Source code</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>Aedes aegypti</ns0:keyword>
+                    <ns0:keyword>Anopheles gambiae</ns0:keyword>
+                    <ns0:keyword>Culex quinquefasciatus</ns0:keyword>
+                    <ns0:keyword>FAIR</ns0:keyword>
+                    <ns0:keyword>Ixodes scapularis</ns0:keyword>
+                    <ns0:keyword>Pediculus humanus</ns0:keyword>
+                    <ns0:keyword>arthropod populations</ns0:keyword>
+                    <ns0:keyword>arthropod vectors</ns0:keyword>
+                    <ns0:keyword>arthropoda</ns0:keyword>
+                    <ns0:keyword>gene expression</ns0:keyword>
+                    <ns0:keyword>genomes</ns0:keyword>
+                    <ns0:keyword>invertebrates as carriers of disease</ns0:keyword>
+                    <ns0:keyword>pathogenic microorganisms</ns0:keyword>
+                    <ns0:keyword>vector control - biological control</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Bioinformatics Resource Centers</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">BRC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.niaid.nih.gov/research/bioinformatics-resource-centers</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>alison.yao@nih.gov</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">European Molecular Biology Laboratory, European Bioinformatics Institute</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">EMBL-EBI</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>EEC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.ebi.ac.uk/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Imperial College London</ns0:institutionName>
+                                <ns0:institutionCountry>GBR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.imperial.ac.uk/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Institutes of Health, National Institute of Allergy and Infectious Diseases</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NIAID</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.niaid.nih.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>yaoal@niaid.nih.gov</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of Notre Dame</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.nd.edu/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>frank@nd.edu</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Data submission and access</ns0:policyName>
+                <ns0:policyURL>https://www.vectorbase.org/data-policies</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>NIAID/DMID Data Sharing and Release Guidelines</ns0:policyName>
+                <ns0:policyURL>https://www.niaid.nih.gov/research/data-sharing-and-release-guidelines</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>NIH Sharing  Policies</ns0:policyName>
+                <ns0:policyURL>https://grants.nih.gov/policy/sharing.htm</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>embargoed</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Public Domain</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www.niaid.nih.gov/labsandresources/resources/dmid/brc/Pages/default.aspx</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://gnu.org/licenses/gpl.html</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>Data submission and access</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>https://www.vectorbase.org/data-policies</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                            <ns0:software>
+                <ns0:softwareName>other</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                    <ns0:api apiType="FTP">ftp://ftp.vectorbase.org/public_data/</ns0:api>
+                    <ns0:api apiType="REST">https://www.vectorbase.org/rest</ns0:api>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://www.vectorbase.org/faqs/how-cite-vectorbase</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">Repository-Developed Metadata Schemas</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/repository-developed-metadata-schemas</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                            <ns0:syndication syndicationType="RSS">https://www.vectorbase.org/justnews/feed</ns0:syndication>
+                <ns0:remarks>University of Notre Dame is one of four Bioinformatics Resource Centers (BRCs) awarded by NIAID to provide data, tools and services which can be accessed through publicly available sites.  Other repositories from BRCs are: EuPathDB, ViPR, IRD, PATRIC. At PathogenPortal http://www.pathogenportal.org/portal/portal/PathPort/Home  a search over all BRCs is possible. Vectorbase uses DMID  Metadata Standards GSCID/BRC http://www.niaid.nih.gov/labsandresources/resources/dmid/metadata/Pages/default.aspx</ns0:remarks>
+        <ns0:entryDate>2014-08-04</ns0:entryDate>
+        <ns0:lastUpdate>2019-02-13</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

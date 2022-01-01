@@ -1,0 +1,101 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100013198</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">National Data Archive: An Online Microdata Library</ns0:repositoryName>
+                <ns0:repositoryURL>http://www.microdata.gov.in/nada43/</ns0:repositoryURL>
+                <ns0:description language="eng">The National Data Archive has been disseminating microdata from surveys and censuses primarily under the Ministry of Statistics and Programme Implementation (MoSPI), Government of India. The archive is powered by the National Data Archive (NADA, ver. 4.3) software with DDI Metadata standard. It serves as a portal for researchers to browse, search, and download relevant datasets freely; even with related documentation (viz. survey methodology, sampling procedures, questionnaires, instructions, survey reports, classifications, code directories, etc). A few data files require the user to apply for approval to access with no charge. Currently, the archive holds more than 144 datasets of the National Sample Surveys (NSS), Annual Survey of Industries (ASI), and the Economic Census as available with the Ministry. However, efforts are being made to include metadata of surveys conducted by the State Governments and other government agencies.</ns0:description>
+                    <ns0:repositoryContact>adg.dsdd@mospi.gov.in</ns0:repositoryContact>
+                    <ns0:repositoryContact>http://microdata.gov.in/nada43/index.php/contact</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                    <ns0:type>institutional</ns0:type>
+                <ns0:size updated="2020-01-07">144 datasets catalogued</ns0:size>
+        <ns0:startDate>2019</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">111 Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11102 Empirical Social Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">112 Economics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">12 Social and Behavioural Sciences</ns0:subject>
+                <ns0:missionStatementURL>http://microdata.gov.in/nada43/index.php/home</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Databases</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>Annual Survey</ns0:keyword>
+                    <ns0:keyword>Economic Census</ns0:keyword>
+                    <ns0:keyword>Employment and unemployment</ns0:keyword>
+                    <ns0:keyword>Household consumption</ns0:keyword>
+                    <ns0:keyword>Industrial production</ns0:keyword>
+                    <ns0:keyword>Sample Survey</ns0:keyword>
+                    <ns0:keyword>Social consumption</ns0:keyword>
+                    <ns0:keyword>Statistical data</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Government of India, Ministry of Statistics and Programme Implementation</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Government of India, MoSPI</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>IND</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.mospi.nic.in/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.mospi.nic.in/support-queries</ns0:institutionContact>
+                                    <ns0:institutionContact>http://www.mospi.nic.in/telephone-directory?combine=&amp;entity_type=All&amp;first_cat=129&amp;cat=137&amp;cat2=All&amp;search_key_word=&amp;op=Go</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Guidelines for Statistical Data Dissemination (GSDD), February 2019</ns0:policyName>
+                <ns0:policyURL>http://www.microdata.gov.in/nada43/index.php/dissemination</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>National Policy on Dissemination of Statistical data</ns0:policyName>
+                <ns0:policyURL>http://www.microdata.gov.in/nada43/index.php/dissemination</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Policy Guidelines for using materials from published NSS reports</ns0:policyName>
+                <ns0:policyURL>http://www.microdata.gov.in/nada43/index.php/dissemination</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                    <ns0:databaseLicense>
+                <ns0:databaseLicenseName>Public Domain</ns0:databaseLicenseName>
+                <ns0:databaseLicenseURL>http://www.microdata.gov.in/nada43/index.php/catalog/central/about</ns0:databaseLicenseURL>
+            </ns0:databaseLicense>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>embargoed</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>feeRequired</ns0:dataAccessRestriction>
+                                    <ns0:dataAccessRestriction>other</ns0:dataAccessRestriction>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Public Domain</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www.microdata.gov.in/nada43/index.php/dissemination</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>other</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                    <ns0:aidSystem>none</ns0:aidSystem>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">DDI - Data Documentation Initiative</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/ddi-data-documentation-initiative</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks>The Archive follows NADA (ver. 4.3) with DDI. No Syndication and Citation guideline is enabled. Access to the datasets requires the user to apply for approval to access these datasets at a secure onsite facility.</ns0:remarks>
+        <ns0:entryDate>2019-12-26</ns0:entryDate>
+        <ns0:lastUpdate>2020-05-18</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

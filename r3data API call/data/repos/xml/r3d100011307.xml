@@ -1,0 +1,105 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011307</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Geological Data Center at Scripps Institution of Oceanography</ns0:repositoryName>
+                    <ns0:additionalName language="eng">GDC</ns0:additionalName>
+                    <ns0:additionalName language="eng">University of California San Diego, Scripps Institution of Oceanography, Geological Data Center</ns0:additionalName>
+                <ns0:repositoryURL>http://gdc.ucsd.edu</ns0:repositoryURL>
+                <ns0:description language="eng">The mission of the GDC is to curate and provide access to oceanographic data, especially from Scripps expeditions, making them accessible for scientific and educational use worldwide. Originally launched by Bill Menard, the GDC has been in operation for more than 40 years. While many historic physical artifacts are carefully preserved, the current emphasis is on digital archiving, in coordination with other national and international programs.</ns0:description>
+                    <ns0:repositoryContact>gdc@ucsd.edu</ns0:repositoryContact>
+                    <ns0:repositoryContact>http://gdc.ucsd.edu/index.php/contact-us/</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                    <ns0:type>institutional</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31302 Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">315 Geophysics and Geodesy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31501 Geophysics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL>http://gdc.ucsd.edu/index.php/about/mission/</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Archived data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>CTD</ns0:keyword>
+                    <ns0:keyword>bathymetry</ns0:keyword>
+                    <ns0:keyword>cruise reports</ns0:keyword>
+                    <ns0:keyword>expeditions</ns0:keyword>
+                    <ns0:keyword>gravity</ns0:keyword>
+                    <ns0:keyword>magnetics</ns0:keyword>
+                    <ns0:keyword>multibeam</ns0:keyword>
+                    <ns0:keyword>navigation</ns0:keyword>
+                    <ns0:keyword>physical sciences</ns0:keyword>
+                    <ns0:keyword>research vessels</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">National National Science Digital Library</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NSDL</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.nibib.nih.gov/content/national-science-digital-library-nsdl</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>RRID:SCR_008215</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nif-0000-21294</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Science Foundation</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NSF</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://nsf.gov/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>RRID:SCR_012938</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_inv_1005118</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of California San Diego, Scripps Institution of Oceanography</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">SIO</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">Scripps Institution of Oceanography</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://scripps.ucsd.edu/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://scripps.ucsd.edu/about/contact-us</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Division of Ocean Sciences (OCE) Sample and Data Policy</ns0:policyName>
+                <ns0:policyURL>https://www.nsf.gov/pubs/2017/nsf17037/nsf17037.jsp</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://scripps.ucsd.edu/ships/data-and-sample-distribution-policy</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>institutional membership</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                <ns0:remarks />
+        <ns0:entryDate>2014-12-08</ns0:entryDate>
+        <ns0:lastUpdate>2019-06-28</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

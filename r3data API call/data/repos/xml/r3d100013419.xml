@@ -1,0 +1,101 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100013419</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">ROCEEH Out of Africa Database</ns0:repositoryName>
+                    <ns0:additionalName language="eng">ROAD</ns0:additionalName>
+                    <ns0:additionalName language="eng">The Role of Culture in Early Expansions of Humans Out of Africa Database</ns0:additionalName>
+                <ns0:repositoryURL>https://www.roceeh.uni-tuebingen.de/roadweb/smarty_road_simple_search.php</ns0:repositoryURL>
+                <ns0:description language="eng">ROAD is spatio-temporal database targeting a systemic understanding of human activities and expansions 3 Ma &#8211; 20 ka in Africa and Eurasia. The database contains cultural, anthropological, environmental and geographical information about archaeological sites and assemblages. After registration, the database offers access through a SQL query tool, an interactive web map (called "Map Module") as well as "Summary Factsheets", which present information about single localities in a PDF file.</ns0:description>
+                    <ns0:repositoryContact>info@roceeh.net</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2021-02-04">&gt;2.000 sites; &gt;12.000 assemblages</ns0:size>
+        <ns0:startDate>2008</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">101 Ancient Cultures</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">10101 Prehistory</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11 Humanities</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">314 Geology and Palaeontology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">317 Geography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL>https://www.hadw-bw.de/en/research/research-center/roceeh</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Databases</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Databases</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>anthropology</ns0:keyword>
+                    <ns0:keyword>archaeology</ns0:keyword>
+                    <ns0:keyword>fauna</ns0:keyword>
+                    <ns0:keyword>human remains</ns0:keyword>
+                    <ns0:keyword>lithics</ns0:keyword>
+                    <ns0:keyword>organic tools</ns0:keyword>
+                    <ns0:keyword>plant remains</ns0:keyword>
+                    <ns0:keyword>symbolic artifacts</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Heidelberg Academy of Sciences and Humanities</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="deu">HAW</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="deu">Heidelberger Akademie der Wissenschaften</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.hadw-bw.de/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:02dvf9b44</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>hadw@hadw-bw.de</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Data-Use Policy</ns0:policyName>
+                <ns0:policyURL>https://www.roceeh.uni-tuebingen.de/roadweb/smarty_data_use_policy.php?asMsgWin=1</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>User Agreement</ns0:policyName>
+                <ns0:policyURL>https://www.roceeh.uni-tuebingen.de/roadweb/road_resources/ROAD_user_agreement.pdf</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                    <ns0:databaseLicense>
+                <ns0:databaseLicenseName>CC</ns0:databaseLicenseName>
+                <ns0:databaseLicenseURL>https://www.roceeh.uni-tuebingen.de/roadweb/smarty_data_use_policy.php?asMsgWin=1</ns0:databaseLicenseURL>
+            </ns0:databaseLicense>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/licenses/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.roceeh.uni-tuebingen.de/roadweb/smarty_data_use_policy.php?asMsgWin=1</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                <ns0:versioning />
+                        <ns0:citationGuidelineURL>https://www.roceeh.uni-tuebingen.de/roadweb/road_resources/ROAD_user_agreement.pdf</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">Dublin Core</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                    <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">ISO 19115</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/iso-19115</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks />
+        <ns0:entryDate>2020-09-29</ns0:entryDate>
+        <ns0:lastUpdate>2021-02-04</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

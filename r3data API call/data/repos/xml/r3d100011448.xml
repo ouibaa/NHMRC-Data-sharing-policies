@@ -1,0 +1,108 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011448</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Vienna Atomic Line Database</ns0:repositoryName>
+                    <ns0:additionalName language="eng">VALD</ns0:additionalName>
+                <ns0:repositoryURL>http://vald.astro.uu.se/</ns0:repositoryURL>
+                <ns0:description language="eng">The Vienna Atomic Line Database (VALD) is a collection of atomic and molecular transition parameters of astronomical interest. VALD offers tools for selecting subsets of lines for typical astrophysical applications: line identification, preparing for spectroscopic observations, chemical composition and radial velocity measurements, model atmosphere calculations etc.</ns0:description>
+                    <ns0:repositoryContact>http://vald.astro.uu.se/~vald/php/vald.php?docpage=contact.html</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>1995</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">308 Optics, Quantum Optics and Physics of Atoms, Molecules and Plasmas</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">30801 Optics, Quantum Optics, Atoms, Molecules, Plasmas</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">311 Astrophysics and Astronomy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">32 Physics</ns0:subject>
+                <ns0:missionStatementURL>http://www.astro.uu.se/valdwiki</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                            <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>absorption in stellar spectra</ns0:keyword>
+                    <ns0:keyword>atomic transitions</ns0:keyword>
+                    <ns0:keyword>spectral lines</ns0:keyword>
+                    <ns0:keyword>spectroscopy</ns0:keyword>
+                    <ns0:keyword>stellar atmospheres</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Institute of Astronomy of the Russian Academy of Sciences</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">INASAN</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="rus">&#1060;&#1077;&#1076;&#1077;&#1088;&#1072;&#1083;&#1100;&#1085;&#1086;&#1077; &#1075;&#1086;&#1089;&#1091;&#1076;&#1072;&#1088;&#1089;&#1090;&#1074;&#1077;&#1085;&#1085;&#1086;&#1077; &#1073;&#1102;&#1076;&#1078;&#1077;&#1090;&#1085;&#1086;&#1077; &#1091;&#1095;&#1088;&#1077;&#1078;&#1076;&#1077;&#1085;&#1080;&#1077; &#1085;&#1072;&#1091;&#1082;&#1080; &#1048;&#1085;&#1089;&#1090;&#1080;&#1090;&#1091;&#1090; &#1072;&#1089;&#1090;&#1088;&#1086;&#1085;&#1086;&#1084;&#1080;&#1080; &#1056;&#1086;&#1089;&#1089;&#1080;&#1081;&#1089;&#1082;&#1086;&#1081; &#1072;&#1082;&#1072;&#1076;&#1077;&#1084;&#1080;&#1080; &#1085;&#1072;&#1091;&#1082;</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>RUS</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.inasan.ru/en/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>admin@inasan.rssi.ru</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of Vienna</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="deu">Universit&#228;t Wien</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>AUT</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.univie.ac.at/en/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ISNI:0000000122861424</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>ROR:03prydq77</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:SCR_011741</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_52021</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.univie.ac.at/en/about-us/further-information/contact-services-a-z/</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Uppsala University</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="swe">Uppsala universitet</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>SWE</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.uu.se/en/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ISNI:0000000419369457</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>ROR:048a87296</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:SCR_011751</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_91052</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.uu.se/en/about-uu/contact/</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>About VALD</ns0:policyName>
+                <ns0:policyURL>http://vald.astro.uu.se/~vald/php/vald.php?docpage=about_vald.html</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>restricted</ns0:databaseAccessType>
+                            <ns0:databaseAccessRestriction>registration</ns0:databaseAccessRestriction>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://vald.astro.uu.se/~vald/php/vald.php?docpage=about_vald.html</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                    <ns0:api apiType="FTP">http://vald.astro.uu.se/</ns0:api>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>http://www.astro.uu.se/valdwiki/Acknowledgement</ns0:citationGuidelineURL>
+                    <ns0:aidSystem>none</ns0:aidSystem>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks>Mirror Servers: Uppsala: http://vald.astro.uu.se/~vald/php/vald.php 
+Vienna: http://vald.astro.univie.ac.at/~vald3/php/vald.php
+ Moscow: http://vald.inasan.ru/~vald3/php/vald.php</ns0:remarks>
+        <ns0:entryDate>2015-05-05</ns0:entryDate>
+        <ns0:lastUpdate>2019-12-06</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

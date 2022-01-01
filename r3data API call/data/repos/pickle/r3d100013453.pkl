@@ -1,0 +1,103 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100013453</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">CLARIN-IS</ns0:repositoryName>
+                    <ns0:additionalName language="isl">CLARIN &#225; &#205;slandi</ns0:additionalName>
+                <ns0:repositoryURL>https://clarin.is/</ns0:repositoryURL>
+                <ns0:description language="eng">Iceland joined CLARIN ERIC on February 1st, 2020, after having been an observer since November 2018. The Ministry of Education, Science and Culture assigned The &#193;rni Magn&#250;sson Institute for Icelandic Studies the role of leading partner in the Icelandic National Consortium and appointed Professor Emeritus Eir&#237;kur R&#246;gnvaldsson as National Coordinator. Most of the relevant institutions participate in the CLARIN-IS National Consortium.
+The &#193;rni Magn&#250;sson Institute has already established a Metadata Providing Centre (CLARIN C-Centre) which hosts metadata for Icelandic language resources and makes them available through the Virtual Language Observatory. The aim is to establish a Service Providing Centre (CLARIN B-Centre) which will provide both service and access to resources and knowledge.</ns0:description>
+                    <ns0:repositoryContact>clarin@clarin.is</ns0:repositoryContact>
+                    <ns0:repositoryContact>eirikur.rognvaldsson@arnastofnun.is</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2021-06-17">80 items</ns0:size>
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>isl</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">104 Linguistics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11 Humanities</ns0:subject>
+                <ns0:missionStatementURL>https://clarin.is/en/about/</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Archived data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Audiovisual data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>ISLC</ns0:keyword>
+                    <ns0:keyword>conversations</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">CLARIN-ERIC</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">CLARIN European Research Infrastructure Consortium</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">Common Language Resources and Technology Infrastructure</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>EEC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.clarin.eu/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">CLARIN-IS</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Common Language Resources and Technology Infrastructure National Consortium Iceland</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>ISL</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://clarin.is/en/participants/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of Iceland,  &#193;rni Magn&#250;sson Institute for Icelandic Studies</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">eirikur.rognvaldsson@gmail.com</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>ISL</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.arnastofnun.is/en/institute</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>CLARIN Agreement with the National Consortium of Iceland</ns0:policyName>
+                <ns0:policyURL>https://clarin.is/media/uploads/CE-2020-1638-CLARIN-Agreement-Iceland-01.02.2020-31.12.2022.pdf</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Terms of Service</ns0:policyName>
+                <ns0:policyURL>https://repository.clarin.is/repository/xmlui/page/terms-of-service</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>closed</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/licenses/by/4.0/legalcode</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                <ns0:versioning>yes</ns0:versioning>
+                    <ns0:api apiType="OAI-PMH">https://centres.clarin.eu/oai_pmh</ns0:api>
+                            <ns0:pidSystem>hdl</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">Dublin Core</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks>CLARIN ERIC is an ESFRI initiative, one of EU's ERICs &#8211; CLARIN stands for &#8220;Common Language Resources and Technology Infrastructure&#8221; and ERIC stands for &#8220;European Research Infrastructure Consortium&#8221;. CLARIN ERIC operates according to statutes that have been approved by the European Commission.</ns0:remarks>
+        <ns0:entryDate>2020-11-26</ns0:entryDate>
+        <ns0:lastUpdate>2021-06-23</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

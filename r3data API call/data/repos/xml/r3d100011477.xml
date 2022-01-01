@@ -1,0 +1,129 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011477</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="fra">RELMIN</ns0:repositoryName>
+                    <ns0:additionalName language="fra">Le statut l&#233;gal des minorit&#233;s religieuses dans l&#8217;espace euro-m&#233;diterran&#233;en (V&#232;me &#8211;XV&#232;me si&#232;cles)</ns0:additionalName>
+                    <ns0:additionalName language="eng">The legal status of religious minorities in the Euro-Mediterranean world (5th -15th centuries</ns0:additionalName>
+                <ns0:repositoryURL>http://telma.irht.cnrs.fr/outils/relmin/index/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>ISSN 2428-4661</ns0:repositoryIdentifier>
+                <ns0:description language="eng">RELMIN collects, studies and publishes legal texts defining the status of religious minorities in medieval Europe. The corpus of texts is rich and varied, spanning ten centuries over a broad geographical area; these texts, in Latin, Arabic, Greek, Hebrew and Aramaic (and also in Medieval Spanish, Portuguese, and other European vernaculars), are dispersed in libraries and archives across Europe. The texts are now gathered in the RELMIN Database in their original language, with translations and commentaries. They are made available to scholars, students and citizens at large. Access is unlimited, free and perennial. and to contribute to the work of compilation. RELMIN is is buil
+ding a digital database of legal, judicial and normative sources defining the status of religious
+minorities from the 5th to the 15th century.</ns0:description>
+                    <ns0:repositoryContact>nicolas.stefanni@univ-nantes.fr</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                    <ns0:type>other</ns0:type>
+                <ns0:size updated="2021-09-22">643 texts</ns0:size>
+        <ns0:startDate>2010</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>fra</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">106 Non-European Languages and Cultures, Social and Cultural Anthropology, Jewish Studies and Religious Studies</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">10604 Islamic Studies, Arabian Studies, Semitic Studies</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">10605 Religious Studies and Jewish Studies</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">107 Theology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11 Humanities</ns0:subject>
+                <ns0:missionStatementURL />
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>confession</ns0:keyword>
+                    <ns0:keyword>europenan law</ns0:keyword>
+                    <ns0:keyword>history</ns0:keyword>
+                    <ns0:keyword>history of religion minorities</ns0:keyword>
+                    <ns0:keyword>interreligious relations</ns0:keyword>
+                    <ns0:keyword>legal structures</ns0:keyword>
+                    <ns0:keyword>middle ages</ns0:keyword>
+                    <ns0:keyword>minorities</ns0:keyword>
+                    <ns0:keyword>religion</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">European Commission, Community Research and Development Information Service, Seventh Framework Programm</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="fra">CORDIS FP7</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>EEC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://cordis.europa.eu/project/id/249416/reporting/de</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>2010</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate>2015</ns0:responsibilityEndDate>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">European Research Council</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">ERC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>EEC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://erc.europa.eu/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:0472cxd90</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate>2010</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate>2015</ns0:responsibilityEndDate>
+                                    <ns0:institutionContact>https://erc.europa.eu/about-erc/contact-us</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="fra">Maison des Sciences de l&#8217;Homme Ange Gu&#233;pin</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="fra">MSH</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>FRA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://msh-ange-guepin.univ-nantes.fr/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>2010</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://msh-ange-guepin.univ-nantes.fr/contacts</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="fra">Telma</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="fra">Traitement &#233;lectronique des manuscrits et des archives</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>FRA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://telma.hypotheses.org/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>com.irht@cnrs-orleans.fr</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="fra">Universit&#233; de Nantes</ns0:institutionName>
+                                <ns0:institutionCountry>FRA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.univ-nantes.fr/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:03gnr7b55</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate>2010</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.univ-nantes.fr/tous-les-contacts</ns0:institutionContact>
+                            </ns0:institution>
+                        <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                    <ns0:databaseLicense>
+                <ns0:databaseLicenseName>Copyrights</ns0:databaseLicenseName>
+                <ns0:databaseLicenseURL>https://www.univ-nantes.fr/credits-et-aspects-legaux</ns0:databaseLicenseURL>
+            </ns0:databaseLicense>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.univ-nantes.fr/credits-et-aspects-legaux</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>other</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">Dublin Core</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks>Contributeurs: http://telma.irht.cnrs.fr/outils/relmin/contributeurs/</ns0:remarks>
+        <ns0:entryDate>2015-05-11</ns0:entryDate>
+        <ns0:lastUpdate>2021-09-22</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

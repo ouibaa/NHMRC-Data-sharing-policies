@@ -1,0 +1,174 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011561</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">PhysioNet</ns0:repositoryName>
+                <ns0:repositoryURL>http://physionet.org/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.bemzxg</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>OMICS_25293</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:SCR_007345</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:nif-0000-00250</ns0:repositoryIdentifier>
+                <ns0:description language="eng">Modern signal processing and machine learning methods have exciting potential to generate new knowledge that will impact both physiological understanding and clinical care. Access to data - particularly detailed clinical data - is often a bottleneck to progress. The overarching goal of PhysioNet is to accelerate research progress by freely providing rich archives of clinical and physiological data for analysis.</ns0:description>
+                    <ns0:repositoryContact>contact@physionet.org</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2015-03-20">The main PhysioNet server at MIT supplies about 4 terabytes of data (about 8 million hits) each month</ns0:size>
+        <ns0:startDate>1999</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">205 Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20502 Public Health, Health Services Research, Social Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">206 Neurosciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                <ns0:missionStatementURL>https://physionet.org/about/</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Archived data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Databases</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Software applications</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>MIMIC-III</ns0:keyword>
+                    <ns0:keyword>National Sleep Research Resource</ns0:keyword>
+                    <ns0:keyword>PWAVE</ns0:keyword>
+                    <ns0:keyword>aging</ns0:keyword>
+                    <ns0:keyword>biomedical signals</ns0:keyword>
+                    <ns0:keyword>cardiology</ns0:keyword>
+                    <ns0:keyword>eICU</ns0:keyword>
+                    <ns0:keyword>electrophysiology</ns0:keyword>
+                    <ns0:keyword>heart</ns0:keyword>
+                    <ns0:keyword>nervous system</ns0:keyword>
+                    <ns0:keyword>nonlinear dynamics</ns0:keyword>
+                    <ns0:keyword>physiological signals</ns0:keyword>
+                    <ns0:keyword>physiology</ns0:keyword>
+                    <ns0:keyword>sudden death</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Beth Israel Deaconess Medical Center</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">BIDMC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.bidmc.org/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.bidmc.org/contact-us</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Boston University</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">BU</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.bu.edu/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.bu.edu/info/about/contact-us/</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Harvard Medical School</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://hms.harvard.edu/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://hms.harvard.edu/contact-us</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">MIT Laboratory for Computational Physiology</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">MIT LCP</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://lcp.mit.edu/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">McGill University, Centre for Applied Mathematics in Bioscience and Medicine</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">CAMBAM</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.mcgill.ca/cambam/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>infocambam.med@mcgill.ca</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Institutes of Health, National Institute of Biomedical Imaging and Bioengineering</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NIBIB</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.nibib.nih.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>2007</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.nibib.nih.gov/contact-us</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Institutes of Health, National Institute of General Medical Sciences</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NIGMS</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.nigms.nih.gov/Pages/default.aspx</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>2007</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.nigms.nih.gov/Pages/ContactUs.aspx</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>PhysioNet Guidelines</ns0:policyName>
+                <ns0:policyURL>https://www.physionet.org/guidelines.shtml</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                    <ns0:databaseLicense>
+                <ns0:databaseLicenseName>ODC</ns0:databaseLicenseName>
+                <ns0:databaseLicenseURL>https://opendatacommons.org/licenses/pddl/1.0/</ns0:databaseLicenseURL>
+            </ns0:databaseLicense>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>closed</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>embargoed</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://physionet.org/about/licenses/physionet-restricted-health-data-license-150/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://physionet.org/content/eicu-crd/view-license/2.0/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.gnu.org/licenses/gpl.html</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>NIH Data Sharing Policy</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>https://grants.nih.gov/grants/policy/data_sharing/</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                            <ns0:software>
+                <ns0:softwareName>other</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                    <ns0:api apiType="FTP">https://physionet.org/physiotools/matlab/wfdb-app-matlab/</ns0:api>
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://physionet.org/about/#citation</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                    <ns0:syndication syndicationType="RSS">http://physionet.org/feed.xml</ns0:syndication>
+                <ns0:remarks>PhysioNet is covered by Thomson Reuters Data Citation Index. see also in re3data.org: PhysioBank. PhysioBank is the web-accessible public data archive and component of PhysioNet.</ns0:remarks>
+        <ns0:entryDate>2015-03-20</ns0:entryDate>
+        <ns0:lastUpdate>2019-09-19</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

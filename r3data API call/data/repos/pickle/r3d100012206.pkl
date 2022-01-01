@@ -1,0 +1,65 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012206</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">ICTWSS database</ns0:repositoryName>
+                    <ns0:additionalName language="eng">Database on Institutional Characteristics of Trade Unions, Wage Setting, State Intervention and Social Pacts in 51 countries between 1960 and 2014</ns0:additionalName>
+                <ns0:repositoryURL>http://uva-aias.net/en/ictwss</ns0:repositoryURL>
+                <ns0:description language="eng">The ICTWSS database covers four key elements of modern political economies: trade unionism, wage setting, state intervention and social pacts. The database contains annual data for all OECD and EU member states - Australia; Austria; Belgium; Bulgaria; Canada; Chile, Cyprus, the Czech Republic; Denmark; Estonia; Germany; Greece; Finland; France; Hungary; Iceland; Ireland; Israel, Italy; Japan; Korea, Latvia; Lithuania; Luxembourg; Malta; Mexico; the Netherlands; New Zealand; Norway; Poland; Portugal; Romania; Spain; Slovakia; Slovenia; Sweden; Switzerland; Turkey; the United Kingdom; and the United States &#8211; with some additional data for emerging economies Brazil; China; India; Indonesia; Russia; and South Africa; and it runs from 1960 till 2014.</ns0:description>
+                    <ns0:repositoryContact>Jelle.Visser@uva.nl</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">112 Economics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11202 Economic and Social Policy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">12 Social and Behavioural Sciences</ns0:subject>
+                <ns0:missionStatementURL>http://uva-aias.net/en/research</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>social pacts</ns0:keyword>
+                    <ns0:keyword>state intervention</ns0:keyword>
+                    <ns0:keyword>trade unions</ns0:keyword>
+                    <ns0:keyword>wage settings</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">University of Amsterdam, Amsterdam Institute for Advanced Labour Studies</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="nld">AIAS</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="nld">Universiteit van Amsterdam, Amsterdams Instituut voor ArbeidsStudies</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>NLD</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.uva-aias.net/nl/home</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>aias@uva.nl</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Codebook</ns0:policyName>
+                <ns0:policyURL>https://aias.s3-eu-central-1.amazonaws.com/website/uploads/1475058325774ICTWSS-Codebook_Version-5.1_20160926.pdf</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://uva-aias.net/en/ictwss</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                <ns0:versioning>yes</ns0:versioning>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>http://www.uva-aias.net/nl/ictwss</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                <ns0:remarks>ICTWSS database is covered by Thomson Reuters Data Citation Index.</ns0:remarks>
+        <ns0:entryDate>2016-11-04</ns0:entryDate>
+        <ns0:lastUpdate>2019-01-18</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

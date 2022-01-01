@@ -1,0 +1,114 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010197</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">The Cambridge Structural Database</ns0:repositoryName>
+                    <ns0:additionalName language="eng">CSD</ns0:additionalName>
+                    <ns0:additionalName language="eng">Cambridge Crystallographic Data Centre</ns0:additionalName>
+                <ns0:repositoryURL>https://www.ccdc.cam.ac.uk/solutions/csd-system/components/csd/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.vs7865</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:SCR_007310</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:nif-0000-00174</ns0:repositoryIdentifier>
+                <ns0:description language="eng">Established in 1965, the CSD is the world&#8217;s repository for small-molecule organic and metal-organic crystal structures. Containing the results of over one million x-ray and neutron diffraction analyses this unique database of accurate 3D structures has become an essential resource to scientists around the world. The CSD records bibliographic, chemical and crystallographic information for:organic molecules, metal-organic compounds whose 3D structures have been determined using X-ray diffraction, neutron diffraction. The CSD records results of: single crystal studies, powder diffraction studies which yield 3D atomic coordinate data for at least all non-H atoms. In some cases the CCDC is unable to obtain coordinates, and incomplete entries are archived to the CSD. 
+The CSD includes crystal structure data arising from: publications in the open literature and Private Communications to the CSD (via direct data deposition). 
+The CSD contains directly deposited data that are not available anywhere else, known as CSD Communications.</ns0:description>
+                    <ns0:repositoryContact>https://www.ccdc.cam.ac.uk/theccdcprofile/contactus/</ns0:repositoryContact>
+                    <ns0:repositoryContact>support@ccdc.cam.ac.uk</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2020-02-03">1.037.850  crystal structures</ns0:size>
+        <ns0:startDate>2012</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">301 Molecular Chemistry</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">303 Physical and Theoretical Chemistry</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">308 Optics, Quantum Optics and Physics of Atoms, Molecules and Plasmas</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">309 Particles, Nuclei and Fields</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31 Chemistry</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">32 Physics</ns0:subject>
+                <ns0:missionStatementURL>https://www.ccdc.cam.ac.uk/theccdcprofile/</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Audiovisual data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Software applications</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>chemistry</ns0:keyword>
+                    <ns0:keyword>crystallography</ns0:keyword>
+                    <ns0:keyword>metal-organic crystal structures</ns0:keyword>
+                    <ns0:keyword>neutron diffraction analyses</ns0:keyword>
+                    <ns0:keyword>organic crystal structures</ns0:keyword>
+                    <ns0:keyword>physics</ns0:keyword>
+                    <ns0:keyword>small molecule structures</ns0:keyword>
+                    <ns0:keyword>x-Rax diffraction analyses</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Cambridge Crystallographic Data Centre</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">CCDC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>GBR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.ccdc.cam.ac.uk/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:00zbfm828</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.ccdc.cam.ac.uk/theccdcprofile/contactus/</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Access Structure</ns0:policyName>
+                <ns0:policyURL>https://www.ccdc.cam.ac.uk/structures/</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>CCDC Terms &amp; Conditions</ns0:policyName>
+                <ns0:policyURL>https://www.ccdc.cam.ac.uk/termsandconditions/</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>embargoed</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>feeRequired</ns0:dataAccessRestriction>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.ccdc.cam.ac.uk/termsandconditions/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>Copyrights</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>https://services.ccdc.cam.ac.uk/structure_deposit/web_deposit_php/web_deposit_upload_file.php</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                            <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                    <ns0:api apiType="other">https://downloads.ccdc.cam.ac.uk/documentation/API/</ns0:api>
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://www.ccdc.cam.ac.uk/support-and-resources/Support/search?c=Product+Reference</ns0:citationGuidelineURL>
+                    <ns0:aidSystem>ORCID</ns0:aidSystem>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                    <ns0:certificate>other</ns0:certificate>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">DataCite Metadata Schema</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/datacite-metadata-schema</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks>Cambridge Structural Database is covered by Clarivate Data Citation Index. is covered by Elsevier. Access to WebCSD is available to those with an unlimited site licence for the Cambridge structural Database System. 
+Originating in the Department of Chemistry at the University of Cambridge, the CCDC is now a fully independent institution constituted as a non-profit company and a registered charity since 1989.</ns0:remarks>
+        <ns0:entryDate>2013-02-06</ns0:entryDate>
+        <ns0:lastUpdate>2021-09-03</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

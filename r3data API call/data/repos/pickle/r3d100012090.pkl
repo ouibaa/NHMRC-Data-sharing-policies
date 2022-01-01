@@ -1,0 +1,123 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012090</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Canadian Climate Data and Scenarios</ns0:repositoryName>
+                    <ns0:additionalName language="eng">CCDS</ns0:additionalName>
+                    <ns0:additionalName language="fra">DSCC</ns0:additionalName>
+                    <ns0:additionalName language="fra">Donn&#233;es et sc&#233;narios climatiques canadiens</ns0:additionalName>
+                <ns0:repositoryURL>https://climate-scenarios.canada.ca/?page=main</ns0:repositoryURL>
+                <ns0:description language="eng">The CCDS is an interface for distributing climate change information. The goals of CCDS are to: Support climate change impact and adaptation research in Canada and other countries; Support stakeholders requiring scenario information for decision making and policy development. Provide access to Canadian research on the development of scenarios and adaptation research.</ns0:description>
+                    <ns0:repositoryContact>enviroinfo@ec.gc.ca</ns0:repositoryContact>
+                    <ns0:repositoryContact>https://www.canada.ca/en/environment-climate-change/corporate/contact.html</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2005</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>fra</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31301 Atmospheric Science</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL>https://climate-scenarios.canada.ca/?page=important-information</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Databases</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>bioclimate profiles</ns0:keyword>
+                    <ns0:keyword>climate changes</ns0:keyword>
+                    <ns0:keyword>climate modelling</ns0:keyword>
+                    <ns0:keyword>precipitation</ns0:keyword>
+                    <ns0:keyword>rainfall</ns0:keyword>
+                    <ns0:keyword>snowfall</ns0:keyword>
+                    <ns0:keyword>temperature</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="fra">Canadian Centre for Climate Modelling and Analysis</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">CCCma</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.canada.ca/en/environment-climate-change/services/climate-change/science-research-data/modeling-projections-analysis/centre-modelling-analysis.html</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.canada.ca/en/environment-climate-change/corporate/contact.html</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Environment and Climate Change Canada</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="fra">Environnement et Changement climatique Canada</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.canada.ca/en/environment-climate-change.html</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:026ny0e17</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate>2005</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.canada.ca/en/environment-climate-change/corporate/contact.html</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Government of Canada</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Canada.ca</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="fra">Gouvernement du Canada</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.canada.ca/en.html</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:010q4q527</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.canada.ca/en/contact.html</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">WCRP's Working Group on Coupled Modelling, Coupled Model Intercomparison Project Phase 5</ns0:institutionName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.wcrp-climate.org/modelling-wgcm</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.wcrp-climate.org/contact-wcrp</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Canadian climate data and scenarios Important information</ns0:policyName>
+                <ns0:policyURL>https://climate-scenarios.canada.ca/?page=important-information</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Government of Canada Terms and conditions</ns0:policyName>
+                <ns0:policyURL>https://www.canada.ca/en/transparency/terms.html</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://laws-lois.justice.gc.ca/eng/acts/C-42/index.html</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>OGLC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://climate-modelling.canada.ca/data/license.shtml</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks />
+        <ns0:entryDate>2016-07-27</ns0:entryDate>
+        <ns0:lastUpdate>2021-10-08</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

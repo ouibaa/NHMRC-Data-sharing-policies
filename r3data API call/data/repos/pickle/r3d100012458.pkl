@@ -1,0 +1,119 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012458</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">GiardiaDB</ns0:repositoryName>
+                <ns0:repositoryURL>http://giardiadb.org/giardiadb/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.e7skwg</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>MIR:00000151</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>OMICS_03161</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:SCR_013377</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:nif-0000-02908</ns0:repositoryIdentifier>
+                <ns0:description language="eng">Giardia lamblia is a significant, environmentally transmitted, human pathogen and an amitochondriate protist. It is a major contributor to the enormous worldwide burden of human diarrheal diseases, yet the basic biology of this parasite is not well understood. No virulence factor has been identified. The Giardia lamblia genome contains only 12 million base pairs distributed onto five chromosomes. Its analysis promises to provide insights about the origins of nuclear genome organization, the metabolic pathways used by parasitic protists, and the cellular biology of host interaction and avoidance of host immune systems.
+
+Since the divergence of Giardia lamblia lies close to the transition between eukaryotes and prokaryotes in universal ribosomal RNA phylogenies, it is a valuable, if not unique, model for gaining basic insights into genetic innovations that led to formation of eukaryotic cells. In evolutionary terms, the divergence of this organism is at least twice as ancient as the common ancestor for yeast and man. A detailed study of its genome will provide insights into an early evolutionary stage of eukaryotic chromosome organization as well as other aspects of the prokaryotic / eukaryotic divergence.</ns0:description>
+                    <ns0:repositoryContact>http://giardiadb.org/giardiadb//contact.do</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2007</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">201 Basic Biological and Medical Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">204 Microbiology, Virology and Immunology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20403 Medical Microbiology, Molecular Infection Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                <ns0:missionStatementURL>http://giardiadb.org/giardiadb//showXmlDataContent.do?name=XmlQuestions.About</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>FAIR</ns0:keyword>
+                    <ns0:keyword>Giardia lamblia</ns0:keyword>
+                    <ns0:keyword>Trichomonas vaginalis</ns0:keyword>
+                    <ns0:keyword>diarrhea</ns0:keyword>
+                    <ns0:keyword>gene ontology</ns0:keyword>
+                    <ns0:keyword>genomics</ns0:keyword>
+                    <ns0:keyword>metabolic pathway</ns0:keyword>
+                    <ns0:keyword>parasites</ns0:keyword>
+                    <ns0:keyword>pathogene</ns0:keyword>
+                    <ns0:keyword>sequences</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">National Institutes of Health, National Institute of Allergy and Infectious Diseases, Bioinformatics Resource Centers</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">BRC</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">NIAID</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">NIH</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.niaid.nih.gov/research/bioinformatics-resource-centers</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of Georgia</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.uga.edu/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of Pennsylvania</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.upenn.edu/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>oharb@pcbi.upenn.edu</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>NIAID Data Sharing and Release Guidelines</ns0:policyName>
+                <ns0:policyURL>https://www.niaid.nih.gov/research/data-sharing-and-release-guidelines</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>NIH Genomic Data Sharing</ns0:policyName>
+                <ns0:policyURL>https://osp.od.nih.gov/scientific-sharing/genomic-data-sharing/</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>embargoed</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://giardiadb.org/giardiadb//showXmlDataContent.do?name=XmlQuestions.About</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>Data Submission and Release on EuPathDB Databases</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>http://giardiadb.org/EuPathDB_datasubm_SOP.pdf</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                            <ns0:software>
+                <ns0:softwareName>CKAN</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                    <ns0:api apiType="REST">https://eupathdb.org/eupathdb/serviceList.jsp</ns0:api>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>http://giardiadb.org/giardiadb//showXmlDataContent.do?name=XmlQuestions.About#citingproviders</ns0:citationGuidelineURL>
+                    <ns0:aidSystem>none</ns0:aidSystem>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">Repository-Developed Metadata Schemas</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/repository-developed-metadata-schemas</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks>GiardiaDB is a member of pathogen-databases that are housed under the NIAID-funded EuPathDB Bioinformatics Resource Center (BRC) umbrella.</ns0:remarks>
+        <ns0:entryDate>2017-09-05</ns0:entryDate>
+        <ns0:lastUpdate>2018-12-17</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

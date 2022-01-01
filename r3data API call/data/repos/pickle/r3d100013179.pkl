@@ -1,0 +1,106 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100013179</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">CERIC Data Portal</ns0:repositoryName>
+                    <ns0:additionalName language="eng">CERIC Metadata Catalogue</ns0:additionalName>
+                    <ns0:additionalName language="eng">Central European Research Infrastructure Consortium Data Portal</ns0:additionalName>
+                <ns0:repositoryURL>https://data.ceric-eric.eu</ns0:repositoryURL>
+                <ns0:description language="eng">CERIC Data Portal allows users to consult and manage data related to experiments carried out at CERIC (Central European Research Infrastructure Consortium) partner facilities. Data made available includes scientific datasets collected during experiments, experiment proposals, samples used and publications if any. Users can search for data based on related metadata (both their own data and other peoples' public data).</ns0:description>
+                    <ns0:repositoryContact>emiliano.coghetto@ceric-eric.eu</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11 Humanities</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">203 Zoology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20303 Animal Ecology, Biodiversity and Ecosystem Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31 Chemistry</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">314 Geology and Palaeontology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">318 Water Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">32 Physics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">4 Engineering Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">406 Materials Science</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">43 Materials Science and Engineering</ns0:subject>
+                <ns0:missionStatementURL>https://www.ceric-eric.eu/about-us/what-we-do/</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Archived data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                            <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>absorption</ns0:keyword>
+                    <ns0:keyword>diffraction</ns0:keyword>
+                    <ns0:keyword>emission</ns0:keyword>
+                    <ns0:keyword>hdf5</ns0:keyword>
+                    <ns0:keyword>imaging</ns0:keyword>
+                    <ns0:keyword>ion spectroscopy</ns0:keyword>
+                    <ns0:keyword>lithography</ns0:keyword>
+                    <ns0:keyword>nexus</ns0:keyword>
+                    <ns0:keyword>photoelectron emission</ns0:keyword>
+                    <ns0:keyword>photon</ns0:keyword>
+                    <ns0:keyword>reflection</ns0:keyword>
+                    <ns0:keyword>scattering</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Central European Research Infrastructure Consortium ERIC</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">CERIC</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">CERIC-ERIC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>EEC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.ceric-eric.eu/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ISNI:0000 0004 7397 1342</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>info@ceric-eric.eu</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Communication Guidelines &#8211; CERIC internal research projects</ns0:policyName>
+                <ns0:policyURL>https://www.ceric-eric.eu/wp-content/uploads/2018/10/Communication-_Guidelines_CERIC_internal_research_projects.pdf</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Information on Personal Dataprocessing</ns0:policyName>
+                <ns0:policyURL>https://www.ceric-eric.eu//wp-content/uploads/2018/07/Information_on_processing_of_personal_data_CERIC.pdf</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Privacy Policy</ns0:policyName>
+                <ns0:policyURL>https://www.ceric-eric.eu//wp-content/uploads/2018/07/COOKIE_POLICY_CERIC.pdf</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>restricted</ns0:databaseAccessType>
+                            <ns0:databaseAccessRestriction>registration</ns0:databaseAccessRestriction>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/licenses/by/4.0/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                <ns0:versioning />
+                    <ns0:api apiType="OAI-PMH">https://data.ceric-eric.eu/oai-pmh/oai2?</ns0:api>
+                        <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">DataCite Metadata Schema</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/datacite-metadata-schema</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                    <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">Dublin Core</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks />
+        <ns0:entryDate>2019-11-21</ns0:entryDate>
+        <ns0:lastUpdate>2020-02-07</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

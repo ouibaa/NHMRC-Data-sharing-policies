@@ -1,0 +1,82 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012321</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Carbohydrate-Active enZYmes Database</ns0:repositoryName>
+                    <ns0:additionalName language="eng">CAZy</ns0:additionalName>
+                <ns0:repositoryURL>http://www.cazy.org/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.ntyq70</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>OMICS_01677</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:SCR_012909</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>nif-0000-02642</ns0:repositoryIdentifier>
+                <ns0:description language="eng">CAZy is a specialist database dedicated to the display and analysis of genomic, structural and biochemical information on Carbohydrate-Active Enzymes (CAZymes).  CAZy data are accessible either by browsing sequence-based families or by browsing the content of genomes in carbohydrate-active enzymes. New genomes are added regularly shortly after they appear in the daily releases of GenBank. New families are created based on published evidence for the activity of at least one member of the family and all families are regularly updated, both in content and in description.</ns0:description>
+                    <ns0:repositoryContact>cazy@afmb.univ-mrs.fr</ns0:repositoryContact>
+                    <ns0:repositoryContact>http://www.afmb.univ-mrs.fr/Bernard-Henrissat?lang=fr</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>1998</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">201 Basic Biological and Medical Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20101 Biochemistry</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20107 Bioinformatics and Theoretical Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                <ns0:missionStatementURL>http://www.afmb.univ-mrs.fr/cazy-bioinformatic-platform</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Databases</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>CAZymes</ns0:keyword>
+                    <ns0:keyword>carbohydrate</ns0:keyword>
+                    <ns0:keyword>carbohydrate binding module</ns0:keyword>
+                    <ns0:keyword>carbohydrate esterase</ns0:keyword>
+                    <ns0:keyword>catalytic binding</ns0:keyword>
+                    <ns0:keyword>enzyme</ns0:keyword>
+                    <ns0:keyword>glycosidic bond</ns0:keyword>
+                    <ns0:keyword>glycosidic hydrolase</ns0:keyword>
+                    <ns0:keyword>glycosyl transferase</ns0:keyword>
+                    <ns0:keyword>polysaccharide lyase</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="fra">Universit&#233; d'Aix-Marseille, Laboratoire Architecture et Fonction des Macromol&#233;cules Biologiques</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">AFMB</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>FRA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.afmb.univ-mrs.fr/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.afmb.univ-mrs.fr/Bernard-Henrissat?lang=fr</ns0:institutionContact>
+                                    <ns0:institutionContact>http://www.afmb.univ-mrs.fr/adressfr</ns0:institutionContact>
+                            </ns0:institution>
+                        <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www.cazy.org/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www.afmb.univ-mrs.fr/mentions-legalen</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>MySQL</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                        <ns0:citationGuidelineURL>http://www.cazy.org/Citing-CAZy.html</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                <ns0:remarks />
+        <ns0:entryDate>2017-02-14</ns0:entryDate>
+        <ns0:lastUpdate>2019-01-25</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

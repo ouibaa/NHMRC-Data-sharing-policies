@@ -1,0 +1,98 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010144</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">World Data Centre for Meteorology, Obninsk</ns0:repositoryName>
+                    <ns0:additionalName language="eng">WDC -  Meteorology, Obninsk</ns0:additionalName>
+                <ns0:repositoryURL>http://meteo.ru/mcd/ewdcmet.html</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>biodbcore-001630</ns0:repositoryIdentifier>
+                <ns0:description language="eng">The World Data Centre for Meteorology is located in Obninsk in the All-Russian Research Institute of Hydrometeorological Information  World Data Centre (RIHMI-WDC). The task of the Centre is to collect and disseminate meteorological data and products worldwide and especially in Russia. The information basis of the Centre is updated on regular basis from various sources including the bilateral data exchange with the World Data Centre for Meteorology in Ashville, North Carolina, USA. The data holdings of WDC &#8211; Rockets, Satellites and Earth Rotation (WDC RSER) have  become, in December 2015, part of the collection of WDC &#8211; Meteorology, Obninsk</ns0:description>
+                    <ns0:repositoryContact>webmaster@meteo.ru</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>1998</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>rus</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">315 Geophysics and Geodesy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL>http://meteo.ru/mcd/ewdcmet.html</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>aerology</ns0:keyword>
+                    <ns0:keyword>air pollution</ns0:keyword>
+                    <ns0:keyword>airplane observation</ns0:keyword>
+                    <ns0:keyword>glaciology</ns0:keyword>
+                    <ns0:keyword>international polar year</ns0:keyword>
+                    <ns0:keyword>landWater pollution</ns0:keyword>
+                    <ns0:keyword>marine meteorology</ns0:keyword>
+                    <ns0:keyword>meteorological station catalog</ns0:keyword>
+                    <ns0:keyword>satellite observation</ns0:keyword>
+                    <ns0:keyword>ship meteorological data</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">All-Russian Research Institute of Hydrometeorological Information - World Data Center</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">RIHMI-WDC</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="rus">&#1042;&#1053;&#1048;&#1048;&#1043;&#1052;&#1048;-&#1052;&#1062;&#1044;</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="rus">&#1042;&#1089;&#1077;&#1088;&#1086;&#1089;&#1089;&#1080;&#1081;&#1089;&#1082;&#1086;&#1075;&#1086; &#1085;&#1072;&#1091;&#1095;&#1085;&#1086;-&#1080;&#1089;&#1089;&#1083;&#1077;&#1076;&#1086;&#1074;&#1072;&#1090;&#1077;&#1083;&#1100;&#1089;&#1082;&#1086;&#1075;&#1086; &#1080;&#1085;&#1089;&#1090;&#1080;&#1090;&#1091;&#1090;&#1072; &#1075;&#1080;&#1076;&#1088;&#1086;&#1084;&#1077;&#1090;&#1077;&#1086;&#1088;&#1086;&#1083;&#1086;&#1075;&#1080;&#1095;&#1077;&#1089;&#1082;&#1086;&#1081; &#1080;&#1085;&#1092;&#1086;&#1088;&#1084;&#1072;&#1094;&#1080;&#1080; - &#1052;&#1080;&#1088;&#1086;&#1074;&#1086;&#1081; &#1094;&#1077;&#1085;&#1090;&#1088; &#1076;&#1072;&#1085;&#1085;&#1099;&#1093;</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>RUS</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://meteo.ru/english/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:038s1hq41</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>webmaster@meteo.ru</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">World Data System, Russian-Ukrainian Segment</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="rus">&#1056;&#1086;&#1089;&#1089;&#1080;&#1081;&#1089;&#1082;&#1086;-&#1059;&#1082;&#1088;&#1072;&#1080;&#1085;&#1089;&#1082;&#1080;&#1081; &#1089;&#1077;&#1075;&#1084;&#1077;&#1085;&#1090; &#1052;&#1080;&#1088;&#1086;&#1074;&#1086;&#1081; &#1089;&#1080;&#1089;&#1090;&#1077;&#1084;&#1099; &#1076;&#1072;&#1085;&#1085;&#1099;&#1093;</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>RUS</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.wdcb.ru/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>sep@wdcb.ru</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Certification of WDS Members</ns0:policyName>
+                <ns0:policyURL>https://www.worlddatasystem.org/services/certification</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>World Data System Constitution &amp; Bylaws</ns0:policyName>
+                <ns0:policyURL>http://www.icsu-wds.org/organization/constitution_and_bylaws</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>other</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.worlddatasystem.org/services/data-sharing-principles</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                    <ns0:certificate>WDS</ns0:certificate>
+                                <ns0:remarks>In 2008 World Data Centers in Russia and Ukraine have united in the Russian-Ukrainian segment of the World Data System. WDCs provide a free access of scientific organizations and scientists to data of planetary geophysics and sustainable development. Details of the WDCs in Russia and Ukraine are given on their Web-sites.  Three WDCs in Russia carry out the activity, being a part of the All-Russian Research Institute of Hydrometeorological Information - World Data Center (RIHMI-WDC). All these Centers are situated in Obninsk: WDC for Meteorology WDC for Oceanography WDC for Rockets, Satellites and Rotation of the Earth (since 2015 included in WDC Meteorology).</ns0:remarks>
+        <ns0:entryDate>2013-09-03</ns0:entryDate>
+        <ns0:lastUpdate>2021-11-16</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

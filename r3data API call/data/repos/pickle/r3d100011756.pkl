@@ -1,0 +1,97 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011756</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Meteoritical bulletin database</ns0:repositoryName>
+                <ns0:repositoryURL>https://www.lpi.usra.edu/meteor/</ns0:repositoryURL>
+                <ns0:description language="eng">The primary function of this database is to provide authoritative information about meteorite names. The correct spelling, complete with punctuation and diacritical marks, of all known meteorites recognized by the Meteoritical Society may be found in this compilation. Official abbreviations for many meteorites are documented here as well. The database also contains status information for meteorites with provisional names, and listings for specimens of doubtful origin and pseudometeorites.
+A seconday purpose of this database is to provide an interface to map services for the display of geographic information about meteorites. Two are currently implemented here. If the user has installed the free NASA program World Wind, links are provided for each meteorite to zoom the program to the find location. The database also provides links to the Google Maps service for the display of find locations.</ns0:description>
+                    <ns0:repositoryContact>https://meteoritical.org/contact</ns0:repositoryContact>
+                    <ns0:repositoryContact>jgrossman@nasa.gov</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2021-11-29">64.474 valid meteorite names; 6.859 provisional names; 12.900 full-text writeups</ns0:size>
+        <ns0:startDate>2005-04-23</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">311 Astrophysics and Astronomy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">32 Physics</ns0:subject>
+                <ns0:missionStatementURL>https://www.lpi.usra.edu/meteor/about.php</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Databases</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>astronomy</ns0:keyword>
+                    <ns0:keyword>meteorites</ns0:keyword>
+                    <ns0:keyword>planetary science</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Lunar and Planetary Institute</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">LPI</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.lpi.usra.edu/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:01r4eh644</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>webmaster@lpi.usra.edu</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">The Meteoritical Society</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">International Society for Meteorites and Planetary Science</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>AAA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://meteoritical.org/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://meteoritical.org/contact</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Conflict of Interest Policy</ns0:policyName>
+                <ns0:policyURL>https://meteoritical.org/society/governance/conflict-interest-policy</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Constitution and Bylaws</ns0:policyName>
+                <ns0:policyURL>https://meteoritical.org/society/governance/constitution-and-bylaws</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Guidelines for meteorite nomenclature</ns0:policyName>
+                <ns0:policyURL>https://www.lpi.usra.edu/meteor/docs/nc-guidelines-2015-february.htm</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://meteoritical.org/society/governance/position-statements</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>Requesting Names</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>https://www.lpi.usra.edu/meteor/FAQ.php</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                            <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                    <ns0:aidSystem>none</ns0:aidSystem>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                    <ns0:syndication syndicationType="RSS">https://www.lpi.usra.edu/meteor/meteorite-rss.php</ns0:syndication>
+                <ns0:remarks>The Meteoritical Bulletin is published as a Supplement to "Meteoritics and Planetary Science".
+All photographs listed in the Meteoritical Bulletin Database are given as links to publically accessible images on other websites. Links to images in the 'Encyclopedia of Meteorites' http://www.encyclopedia-of-meteorites.com/ are updated each night.</ns0:remarks>
+        <ns0:entryDate>2016-01-27</ns0:entryDate>
+        <ns0:lastUpdate>2021-11-29</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

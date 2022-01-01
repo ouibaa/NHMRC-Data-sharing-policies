@@ -1,0 +1,147 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010655</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">OpenTopography</ns0:repositoryName>
+                    <ns0:additionalName language="eng">A Portal to High-Resolution Topography Data and Tools</ns0:additionalName>
+                <ns0:repositoryURL>http://www.opentopography.org/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.88wme4</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:SCR_002204</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:nlx_154717</ns0:repositoryIdentifier>
+                <ns0:description language="eng">OpenTopography facilitates community access to high-resolution, Earth science-oriented, topography data, and related tools and resources.
+The OpenTopography Facility is based at the San Diego Supercomputer Center at the University of California, San Diego and is operated in collaboration with colleagues in the School of Earth and Space Exploration at Arizona State University.  Core operational support for OpenTopography comes from the National Science Foundation Earth Sciences: Instrumentation and Facilities Program (EAR/IF) and the Office of Cyberinfrastructure.  In addition, we receive funding from the NSF and NASA to support various OpenTopography related research and development activities.</ns0:description>
+                    <ns0:repositoryContact>info@opentopography.org</ns0:repositoryContact>
+                            <ns0:type>institutional</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2009</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">314 Geology and Palaeontology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">315 Geophysics and Geodesy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31501 Geophysics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">317 Geography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31701 Physical Geography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL>http://www.opentopography.org/about</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Software applications</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>Digital Elevation Models</ns0:keyword>
+                    <ns0:keyword>lidar data</ns0:keyword>
+                    <ns0:keyword>satellite data</ns0:keyword>
+                    <ns0:keyword>topography data</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Arizona State University, School of Earth and Space Exploration</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">SESE, ASU</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://sese.asu.edu/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://sese.asu.edu/about/contact</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">EarthCube Council of Data Facilities</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">CDF</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://earthcube.org/group/council-data-facilities</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Science Foundation</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NSF</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.nsf.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">UNAVCO</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.unavco.org</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.unavco.org/contact/contact.html</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of California San Diego, San Diego Supercomputer Center</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">UCSD, SDSC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.sdsc.edu/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.opentopography.org/contact</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Citation Policy</ns0:policyName>
+                <ns0:policyURL>http://www.opentopography.org/citations</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Data Hosting Policy</ns0:policyName>
+                <ns0:policyURL>http://www.opentopography.org/about/data_hosting</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>other</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www.opentopography.org/usageterms</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>Public Domain</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www.opentopography.org/usageterms</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>Data Submission Process</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>http://www.opentopography.org/about/data_submission</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                            <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                    <ns0:api apiType="REST">http://www.opentopography.org/developers#SRTM</ns0:api>
+                    <ns0:api apiType="SPARQL">http://opentopo.sdsc.edu/d2rq/snorql</ns0:api>
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                <ns0:citationGuidelineURL>http://www.opentopography.org/citations</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">ISO 19115</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/iso-19115</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                            <ns0:syndication syndicationType="RSS">http://www.opentopography.org/blog.xml</ns0:syndication>
+                    <ns0:syndication syndicationType="RSS">http://www.opentopography.org/news.xml</ns0:syndication>
+                <ns0:remarks>The OpenTopography Facility is based at the San Diego Supercomputer Center at the University of California, San Diego and is operated in collaboration with colleagues in the School of Earth and Space Exploration at Arizona State University and at UNAVCO.
+Core operational support for OpenTopography comes from the National Science Foundation Earth Sciences: Instrumentation and Facilities Program (EAR/IF). OpenTopography was initially developed as a proof of concept cyberinfrastructure in the Earth sciences project as part of the NSF Information and Technology Research (ITR) program-funded Geoscience Network (GEON) project. 
+As an NSF-EAR-funded data facility, OpenTopography&#8217;s primary emphasis is on Earth science-related, research-grade, topography and bathymetry data. The scope of data that falls within this domain is not specifically defined, and data priorities are dictated by feedback from the OpenTopography user community, as well as our Advisory Committee.
+OpenTopography is covered by Thomson Reuters Data Citation Index.</ns0:remarks>
+        <ns0:entryDate>2014-03-12</ns0:entryDate>
+        <ns0:lastUpdate>2021-11-09</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

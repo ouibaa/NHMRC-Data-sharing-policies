@@ -1,0 +1,83 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012721</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">TopFIND</ns0:repositoryName>
+                    <ns0:additionalName language="eng">Termini oriented protein Function Inferred Database</ns0:additionalName>
+                <ns0:repositoryURL>http://clipserve.clip.ubc.ca/topfind/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.rkpmhn</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>OMICS_10578</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:SCR_008918</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:nlx_151607</ns0:repositoryIdentifier>
+                <ns0:description language="eng">TopFIND is a protein-centric database for the annotation of protein termini currently in its third version. Non-canonical protein termini can be the result of multiple different biological processes, including pre-translational processes such as alternative splicing and alternative translation initiation or post-translational protein processing by proteases that cleave proteases as part of protein maturation or as a regulatory modification. Accordingly, protein termini evidence in TopFIND is inferred from other databases such as ENSEMBL transcripts, TISdb for alternative translation initiation, MEROPS for protein cleavage by proteases, and UniProt for canonical and protein isoform start sites.</ns0:description>
+                    <ns0:repositoryContact>topfind.clip@gmail.com</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2018-07-06">More than 290.000 N- and C-termini;  more than 33.000 cleavages listed</ns0:size>
+        <ns0:startDate>2011</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">201 Basic Biological and Medical Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20103 Cell Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20104 Structural Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20105 General Genetics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20107 Bioinformatics and Theoretical Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                <ns0:missionStatementURL>http://clipserve.clip.ubc.ca/topfind/about</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>bioinformatics</ns0:keyword>
+                    <ns0:keyword>polypeptide chain</ns0:keyword>
+                    <ns0:keyword>protease</ns0:keyword>
+                    <ns0:keyword>proteins</ns0:keyword>
+                    <ns0:keyword>proteomics</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">University of British Columbia</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">UBC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.ubc.ca/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>License &amp; Disclaimer</ns0:policyName>
+                <ns0:policyURL>http://clipserve.clip.ubc.ca/topfind/license</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/licenses/by-nd/3.0/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>Data contribution</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>http://clipserve.clip.ubc.ca/topfind/downloads/TopFIND%20%E2%80%93%20HowTo%20contribute%20your%20data.pdf</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                            <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                    <ns0:api apiType="other">http://clipserve.clip.ubc.ca/topfind/api</ns0:api>
+                        <ns0:citationGuidelineURL>http://clipserve.clip.ubc.ca/topfind/about</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">Repository-Developed Metadata Schemas</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/repository-developed-metadata-schemas</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks />
+        <ns0:entryDate>2018-07-04</ns0:entryDate>
+        <ns0:lastUpdate>2018-08-16</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

@@ -1,0 +1,108 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012242</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Worldwide Governance Indicators Project</ns0:repositoryName>
+                    <ns0:additionalName language="eng">WGI Project</ns0:additionalName>
+                <ns0:repositoryURL>http://info.worldbank.org/governance/wgi/#home</ns0:repositoryURL>
+                <ns0:description language="eng">The Worldwide Governance Indicators, reporting estimates of six dimensions of governance for over 200 countries based on close to 40 data sources produced by over 30 organizations worldwide between 1996 and 2019, have become widely used among policymakers and academics. The six dimensions of governance: Voice and Accountability - Political Stability and Absence of Violence - Government Effectiveness - Regulatory Quality - Rule of Law - Control of Corruption.</ns0:description>
+                    <ns0:repositoryContact>akraay@worldbank.org</ns0:repositoryContact>
+                    <ns0:repositoryContact>daniel@kaufmanndata.net</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">111 Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11104 Political Science</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">112 Economics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">12 Social and Behavioural Sciences</ns0:subject>
+                <ns0:missionStatementURL>http://info.worldbank.org/governance/wgi/#home</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Archived data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>anticorruption measures</ns0:keyword>
+                    <ns0:keyword>economics</ns0:keyword>
+                    <ns0:keyword>governance indicators</ns0:keyword>
+                    <ns0:keyword>mathematics</ns0:keyword>
+                    <ns0:keyword>national governance</ns0:keyword>
+                    <ns0:keyword>political corruption</ns0:keyword>
+                    <ns0:keyword>statistics</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Brookings Institution</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.brookings.edu/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:04aj4sh46</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Natural Resource Governance Institute</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NRGI</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://resourcegovernance.org/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:02egwd952</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://resourcegovernance.org/about-us/contact-us</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">World Bank Group</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.worldbank.org/en/about</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:02md09461</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>akraay@worldbank.org</ns0:institutionContact>
+                                    <ns0:institutionContact>mmastruzzi@worldbank.org</ns0:institutionContact>
+                                    <ns0:institutionContact>research@worldbank.org</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>The World Bank  Legal</ns0:policyName>
+                <ns0:policyURL>https://www.worldbank.org/en/about/legal</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>The World Bank Terms and Conditions</ns0:policyName>
+                <ns0:policyURL>https://www.worldbank.org/en/about/legal/terms-and-conditions</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>The World Bank Terms of Use for Datasets</ns0:policyName>
+                <ns0:policyURL>https://www.worldbank.org/en/about/legal/terms-of-use-for-datasets</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.worldbank.org/en/about/legal/terms-of-use-for-datasets</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://openknowledge.worldbank.org/terms-of-use</ns0:citationGuidelineURL>
+                    <ns0:aidSystem>none</ns0:aidSystem>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                <ns0:remarks>Worldwide Governance Indicators Project is covered by Thomson Reuters Data Citation Index.</ns0:remarks>
+        <ns0:entryDate>2016-11-24</ns0:entryDate>
+        <ns0:lastUpdate>2021-02-12</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

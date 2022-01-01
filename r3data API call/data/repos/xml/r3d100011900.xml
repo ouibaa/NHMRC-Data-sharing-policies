@@ -1,0 +1,105 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011900</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="deu">Forschungsdatenzentrum PIAAC bei GESIS</ns0:repositoryName>
+                    <ns0:additionalName language="deu">FDZ PIAAC</ns0:additionalName>
+                    <ns0:additionalName language="eng">RDC PIAAC</ns0:additionalName>
+                    <ns0:additionalName language="eng">Research Data Center PIAAC at GESIS</ns0:additionalName>
+                <ns0:repositoryURL>https://www.gesis.org/en/piaac/rdc/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>doi:10.4232/1.12660</ns0:repositoryIdentifier>
+                <ns0:description language="eng">The Research Data Centre PIAAC grants scientifically interested users access to the German and international data of the Programme for the Assessment of Adult Competencies (PIAAC).
+The first wave of PIAAC was conducted in 2011 and 2012, initiated by the OECD. The survey was based on a representative population sample. First, a computer assisted interview was conducted, which was followed by a competency assessment, usually performed on the computer.</ns0:description>
+                    <ns0:repositoryContact>info@gesis.org</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>deu</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">111 Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">12 Social and Behavioural Sciences</ns0:subject>
+                <ns0:missionStatementURL>https://www.gesis.org/en/piaac/piaac-home/</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>Problem Solving in Technology Rich Environments</ns0:keyword>
+                    <ns0:keyword>competencies in later life - CiLL</ns0:keyword>
+                    <ns0:keyword>literacy</ns0:keyword>
+                    <ns0:keyword>numeracy</ns0:keyword>
+                    <ns0:keyword>reading components</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">GESIS &#8211; Leibniz Institute for the Social Sciences</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="deu">GESIS - Leibniz-Institut f&#252;r Sozialwissenschaften</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.gesis.org/home/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:018afyw53</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Programme for the International Assessment of Adult Competencies</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">OECD Survey of Adult Skills</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">PIAAC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>AAA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.oecd.org/skills/piaac/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.oecd.org/skills/piaac/piaaccontactinformation.htm</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Erkl&#228;rung zum Datenschutz und zur absoluten Vertraulichkeit 
+Ihrer Angaben bei pers&#246;nlichen Interviews</ns0:policyName>
+                <ns0:policyURL>https://www.gesis.org/fileadmin/piaac/download/Datenschutzblatt_PIAAC_2011.pdf</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Kriterien des RatSWD</ns0:policyName>
+                <ns0:policyURL>https://www.ratswd.de/download/publikationen_rat/RatSWD_FDZKriterien.PDF</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                    <ns0:databaseLicense>
+                <ns0:databaseLicenseName>CC0</ns0:databaseLicenseName>
+                <ns0:databaseLicenseURL>https://creativecommons.org/publicdomain/zero/1.0/deed.de</ns0:databaseLicenseURL>
+            </ns0:databaseLicense>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>other</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.gesis.org/fileadmin/piaac/download/Datenschutzblatt_PIAAC_2011.pdf</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.gesis.org/forschung/forschungsdatenmanagement/datenschutz-und-datensicherheit/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>institutional membership</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                <ns0:versioning>no</ns0:versioning>
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://www.gesis.org/en/services/finding-and-accessing-data/data-archive-service/citation-of-research-data</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                    <ns0:certificate>RatSWD</ns0:certificate>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">DDI - Data Documentation Initiative</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/ddi-data-documentation-initiative</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks>In addition to the primarily collected PIAAC data, there are additional para data available that will be provided to the scientific community. In Germany, PIAAC was also transferred into a panel, in which the respondents are surveyed over three consecutive years. Additionally, the national supplement study &#8220;Competencies in Later Life&#8221; (Cill) examines PIAAC among 66- to 80-year-olds. For the study on the relationship between skills and labor market prospects of low-skilled workers in Germany, additional data on 26- to 55-year-olds was collected. Both studies offer further potential for analyses.</ns0:remarks>
+        <ns0:entryDate>2015-12-22</ns0:entryDate>
+        <ns0:lastUpdate>2021-11-10</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

@@ -1,0 +1,145 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011729</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">European-Mediterranean Seismological Centre</ns0:repositoryName>
+                    <ns0:additionalName language="fra">CSEM</ns0:additionalName>
+                    <ns0:additionalName language="fra">Centre Sismologique Euro-M&#233;diterran&#233;en</ns0:additionalName>
+                    <ns0:additionalName language="eng">EMSC</ns0:additionalName>
+                <ns0:repositoryURL>https://www.emsc-csem.org/#2</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>ISSN 2495-9324</ns0:repositoryIdentifier>
+                <ns0:description language="eng">EMSC collects real time parametric data (source parmaters and phase pickings) provided by 65 seismological networks of the Euro-Med region. These data are provided to the EMSC either by email or via QWIDS (Quake Watch Information Distribution System, developped by ISTI). The collected data are automatically archived in a database, made available via an autoDRM, and displayed on the web site. The collected data are automatically merged to produce automatic locations which are sent to several seismological institutes in order to perform quick moment tensors determination.</ns0:description>
+                    <ns0:repositoryContact>contact@emsc-csem.org</ns0:repositoryContact>
+                    <ns0:repositoryContact>https://www.emsc-csem.org/about/?d=4</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">315 Geophysics and Geodesy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">316 Geochemistry, Mineralogy and Crystallography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">317 Geography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL>https://www.emsc-csem.org/Earthquake/seismicity/real_time.php</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Archived data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>Citizen Seismology</ns0:keyword>
+                    <ns0:keyword>EPOS</ns0:keyword>
+                    <ns0:keyword>IMPROVER</ns0:keyword>
+                    <ns0:keyword>MARsite</ns0:keyword>
+                    <ns0:keyword>NERA</ns0:keyword>
+                    <ns0:keyword>REAKT</ns0:keyword>
+                    <ns0:keyword>Seismic Portal</ns0:keyword>
+                    <ns0:keyword>Sigma</ns0:keyword>
+                    <ns0:keyword>Verce</ns0:keyword>
+                    <ns0:keyword>earthquake</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Digital Element</ns0:institutionName>
+                                <ns0:institutionCountry>AAA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>commercial</ns0:institutionType>
+                <ns0:institutionURL>https://www.digitalelement.com/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.digitalelement.com/contact-us/</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">European-Mediterranean Seismological Centre</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="fra">CSEM</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="fra">Centre Sismologique Euro-M&#233;diterran&#233;en</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">EMSC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>EEC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.emsc-csem.org/#2</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:034j4s684</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>contact[at]emsc-csem.org</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">GeoSIG</ns0:institutionName>
+                                <ns0:institutionCountry>CHE</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.geosig.com/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="fra">Minist&#232;re de l'Environnement, de l&#201;nergie et de la Mer</ns0:institutionName>
+                                <ns0:institutionCountry>FRA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.ecologique-solidaire.gouv.fr/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="fra">&#201;lectricit&#233; de France SA</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="fra">EDF</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>FRA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.edf.fr/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:03wb8xz10</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://particulier.edf.fr/fr/accueil/aide-et-contact/contact/contacter-edf.html</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Internal rules of the EMSC</ns0:policyName>
+                <ns0:policyURL>https://www.emsc-csem.org/Files/docs/about/internal_rules_2004.pdf</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Statutes of the EMSC</ns0:policyName>
+                <ns0:policyURL>https://www.emsc-csem.org/Files/docs/about/statutes_2008.pdf</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.emsc-csem.org/policy.php</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.emsc-csem.org/Earthquake/seismicity/real_time.php#principle</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>other</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://www.emsc-csem.org/policy.php</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>no</ns0:qualityManagement>
+                                    <ns0:syndication syndicationType="RSS">https://www.emsc-csem.org/service/rss/</ns0:syndication>
+                <ns0:remarks>EMSC Members: https://www.emsc-csem.org/about/?d=1#members</ns0:remarks>
+        <ns0:entryDate>2016-03-14</ns0:entryDate>
+        <ns0:lastUpdate>2021-09-03</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

@@ -1,0 +1,82 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012704</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Arquivo.pt - the Portuguese web-archive</ns0:repositoryName>
+                    <ns0:additionalName language="por">Arquivo.pt - pesquise p&#225;ginas do passado</ns0:additionalName>
+                <ns0:repositoryURL>https://arquivo.pt/</ns0:repositoryURL>
+                <ns0:description language="eng">Arquivo.pt is a research infrastructure that preserves millions of files collected from the web since 1996 and provides a public search service over this information. It contains information in several languages. Periodically it collects and stores information published on the web. Then, it processes the collect data to make it searchable, providing a &#8220;Google-like&#8221; service that enables searching the past web (English user interface available at https://arquivo.pt/?l=en).  This preservation workflow is performed through a large-scale distributed information system and can also accessed through API (https://arquivo.pt/api).</ns0:description>
+                    <ns0:repositoryContact>contacto@arquivo.pt</ns0:repositoryContact>
+                    <ns0:repositoryContact>https://sobre.arquivo.pt/pt/contacto/</ns0:repositoryContact>
+                            <ns0:type>other</ns0:type>
+                <ns0:size updated="2019-02-07">10 billion files;  collected from 27 million websites</ns0:size>
+        <ns0:startDate>2007</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>por</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">102 History</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">104 Linguistics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11 Humanities</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">111 Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">12 Social and Behavioural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">4 Engineering Sciences</ns0:subject>
+                <ns0:missionStatementURL>https://sobre.arquivo.pt/en/</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Archived data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Audiovisual data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Networkbased data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                            <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>multidisciplinary</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="pol">FCT - Funda&#231;&#227;o para a Ci&#234;ncia e a Teconlogia</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Foundation for Science and Technology</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>PRT</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.fccn.pt/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:00snfqn58</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate>2007</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Terms and Conditions</ns0:policyName>
+                <ns0:policyURL>https://sobre.arquivo.pt/en/about/terms-and-conditions/</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                    <ns0:databaseLicense>
+                <ns0:databaseLicenseName>other</ns0:databaseLicenseName>
+                <ns0:databaseLicenseURL>https://sobre.arquivo.pt/en/about/terms-and-conditions/</ns0:databaseLicenseURL>
+            </ns0:databaseLicense>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://sobre.arquivo.pt/en/about/terms-and-conditions/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>CKAN</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                    <ns0:api apiType="REST">https://arquivo.pt/api</ns0:api>
+                        <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                    <ns0:syndication syndicationType="RSS">https://sobre.arquivo.pt/en/feed/</ns0:syndication>
+                    <ns0:syndication syndicationType="RSS">https://sobre.arquivo.pt/rsslatest.xml</ns0:syndication>
+                <ns0:remarks>GitHub: https://github.com/arquivo/</ns0:remarks>
+        <ns0:entryDate>2018-06-14</ns0:entryDate>
+        <ns0:lastUpdate>2021-04-20</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

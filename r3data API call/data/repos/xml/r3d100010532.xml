@@ -1,0 +1,144 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010532</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">OceanDataPortal</ns0:repositoryName>
+                    <ns0:additionalName language="eng">IODE Ocean Data Portal</ns0:additionalName>
+                    <ns0:additionalName language="eng">ODP</ns0:additionalName>
+                    <ns0:additionalName language="eng">Seamless access to ocean data</ns0:additionalName>
+                <ns0:repositoryURL>http://www.oceandataportal.net/portal/portal/odp-theme/home</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>biodbcore-001498</ns0:repositoryIdentifier>
+                <ns0:description language="eng">The programme "International Oceanographic Data and Information Exchange" (IODE) of the "Intergovernmental Oceanographic Commission" (IOC) of UNESCO was established in 1961. Its purpose is to enhance marine research, exploitation and development, by facilitating the exchange of oceanographic data and information between participating Member States, and by meeting the needs of users for data and information products.</ns0:description>
+                            <ns0:type>disciplinary</ns0:type>
+                    <ns0:type>institutional</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2008</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>fra</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>jpn</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>kor</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>por</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>rus</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>spa</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31302 Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">314 Geology and Palaeontology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL>https://www.iode.org/index.php?option=com_content&amp;view=article&amp;id=385&amp;Itemid=344</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Archived data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Databases</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Source code</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>geology</ns0:keyword>
+                    <ns0:keyword>hydrography</ns0:keyword>
+                    <ns0:keyword>marine</ns0:keyword>
+                    <ns0:keyword>marine data</ns0:keyword>
+                    <ns0:keyword>ocean climate</ns0:keyword>
+                    <ns0:keyword>oceanography</ns0:keyword>
+                    <ns0:keyword>salinity</ns0:keyword>
+                    <ns0:keyword>temperature</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">IOC Committee on International Oceanographic Data and Information Exchange</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">IODE</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>AAA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.iode.org/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Intergovernmental Oceanographic Commission of UNESCO</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">IOC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>AAA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://ioc.unesco.org/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:01qk7v094</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>p.pissierssens@unesco.org</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Joint Commission for Oceanography and Marine Meteorology</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">JCOMM</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://web.archive.org/web/20170115143015/http://jcomm.info/index.php?option=com_content&amp;view=featured&amp;Itemid=100001</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate>2020</ns0:responsibilityEndDate>
+                                    <ns0:institutionContact>https://community.wmo.int/jcomm-services-legacy</ns0:institutionContact>
+                                    <ns0:institutionContact>https://scor-int.org/cb-org/jcomm/</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Centers for Environmental Information</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NCEI</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.ncei.noaa.gov/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:04r0wrp59</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.ncei.noaa.gov/contact</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>IOC Oceanographic Data Exchange Policy</ns0:policyName>
+                <ns0:policyURL>https://www.jodc.go.jp/ioc_policy.htm</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>IOC/IODE Policy and Strategy</ns0:policyName>
+                <ns0:policyURL>https://www.iode.org/index.php?option=com_content&amp;view=article&amp;id=52&amp;Itemid=100044</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.iode.org/index.php?option=com_content&amp;view=article&amp;id=51&amp;Itemid=95</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>IOC Oceanographic Data Exchange Policy</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>https://www.iode.org/index.php?option=com_content&amp;view=article&amp;id=51&amp;Itemid=95</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                            <ns0:software>
+                <ns0:softwareName>other</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">ISO 19115</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/iso-19115</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                            <ns0:syndication syndicationType="RSS">http://www.oceandataportal.net/portal/portal/odp-theme/services/feeds</ns0:syndication>
+                <ns0:remarks>Community:  http://www.oceandataportal.net/portal/portal/odp-theme/providers.
+IODE is a ICSU World Data System Network member.</ns0:remarks>
+        <ns0:entryDate>2013-10-06</ns0:entryDate>
+        <ns0:lastUpdate>2021-12-14</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

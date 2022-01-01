@@ -1,0 +1,98 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011489</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Experimental Nuclear Reaction Data</ns0:repositoryName>
+                    <ns0:additionalName language="eng">EXFOR</ns0:additionalName>
+                <ns0:repositoryURL>https://www-nds.iaea.org/exfor/exfor.htm</ns0:repositoryURL>
+                <ns0:description language="eng">The EXFOR library contains an extensive compilation of experimental nuclear reaction data. Neutron reactions have been compiled systematically since the discovery of the neutron, while charged particle and photon reactions have been covered less extensively.</ns0:description>
+                    <ns0:repositoryContact>V.Zerkin@iaea.org</ns0:repositoryContact>
+                    <ns0:repositoryContact>n.otsuka@iaea.org</ns0:repositoryContact>
+                    <ns0:repositoryContact>pritychenko@bnl.gov</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2015-04-14">20.766 experiments</ns0:size>
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">308 Optics, Quantum Optics and Physics of Atoms, Molecules and Plasmas</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">32 Physics</ns0:subject>
+                <ns0:missionStatementURL>https://www-nds.iaea.org/nrdc/about/about-exfor.html</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Archived data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Audiovisual data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>gamma spectrum</ns0:keyword>
+                    <ns0:keyword>nuclear data</ns0:keyword>
+                    <ns0:keyword>reaction data</ns0:keyword>
+                    <ns0:keyword>spectroscopy</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Brookhaven National Laboratory, Nuclear Science &amp; Technology Department, National Nuclear Data Center</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">BNL, NST, NNDC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.nndc.bnl.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.nndc.bnl.gov/about/nndc.html#contacts</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">International Atomic Energy Agency, International Network of Nuclear Reaction Data Centres</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">IAEA, NRDC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>AUT</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www-nds.iaea.org/nrdc/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>nds.contact-point@iaea.org</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Disclaimer</ns0:policyName>
+                <ns0:policyURL>https://www-nds.iaea.org/disclaimer.html</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www-nds.iaea.org/copyright.html</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://www-nds.iaea.org/nrdc/about/citation-exfor.html</ns0:citationGuidelineURL>
+                    <ns0:aidSystem>none</ns0:aidSystem>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>no</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">Repository-Developed Metadata Schemas</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/repository-developed-metadata-schemas</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks>Links to EXFOR Services:
+NNDC (USA):	http://www.nndc.bnl.gov/exfor/
+NEADB (France):	http://www.oecd-nea.org/janisweb/search/exfor/
+NDS (Austria):	http://www-nds.iaea.org/exfor/
+JAEA (Japan):	http://spes.jaea.go.jp/
+JCPRG (Japan):	http://www.jcprg.org/exfor/
+CDFE (Russia):	http://cdfe.sinp.msu.ru/exfor/
+The repository is accessible via various URLs.</ns0:remarks>
+        <ns0:entryDate>2015-04-15</ns0:entryDate>
+        <ns0:lastUpdate>2018-08-15</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

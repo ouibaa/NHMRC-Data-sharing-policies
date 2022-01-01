@@ -1,0 +1,112 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011125</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Science3D</ns0:repositoryName>
+                    <ns0:additionalName language="eng">Open Access tomography database</ns0:additionalName>
+                    <ns0:additionalName language="eng">Science 3D</ns0:additionalName>
+                <ns0:repositoryURL>https://www.science3d.org/</ns0:repositoryURL>
+                <ns0:description language="eng">----&lt;&lt;&lt;&lt;   This repository is no longer available. This record is out-dated !!!!!    &gt;&gt;&gt;&gt;&gt; -----     Science3D is an Open Access project to archive and curate scientific data and make them available to everyone interested in scientific endeavours. Science3D focusses mainly on 3D tomography data from biological samples, simply because theses object make it comparably easy to understand the concepts and techniques.
+The data come primarily from the imaging beamlines of the Helmholtz Center Geesthacht (HZG), which make use of the uniquely bright and coherent X-rays of the Petra3 synchrotron. Petra3 - like many other photon and neutron sources in Europe and World-wide - is a fantastic instrument to investigate the microscopic detail of matter and organisms. The experiments at photon science beamlines hence provide unique insights into all kind of scientific fields, ranging from medical applications to plasma physics. The success of these experiments demands enormous efforts of the scientists and quite some investments</ns0:description>
+                    <ns0:repositoryContact>https://www.science3d.org/Imprint</ns0:repositoryContact>
+                    <ns0:repositoryContact>science3d@desy.de</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2014</ns0:startDate>
+        <ns0:endDate>2018</ns0:endDate>
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">205 Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20531 Radiation Oncology and Radiobiology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">308 Optics, Quantum Optics and Physics of Atoms, Molecules and Plasmas</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">32 Physics</ns0:subject>
+                <ns0:missionStatementURL>https://www.science3d.org/</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Audiovisual data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>3D model</ns0:keyword>
+                    <ns0:keyword>DORIS</ns0:keyword>
+                    <ns0:keyword>PETRA 3</ns0:keyword>
+                    <ns0:keyword>synchrotron</ns0:keyword>
+                    <ns0:keyword>tomography</ns0:keyword>
+                    <ns0:keyword>x-ray</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="deu">Deutsches Elektronen-Synchrotron</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="deu">DESY</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.desy.de/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:01js2sh04</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">European Commission, Community Research and Development Information Service, Seventh Framework Programme</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">FP7</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>EEC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://ec.europa.eu/growth/sectors/space/research/fp7_en</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="deu">Helmholtz-Zentrum hereon GmbH</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="deu">hereon</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.hereon.de/index.php.en</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:03qjp1d79</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">PaNdata ODI</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Photon and Neutron data Open Data Infrastructure</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>EEC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://pan-data.eu/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://pan-data.eu/Contact</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Impressum</ns0:policyName>
+                <ns0:policyURL>http://www.desy.de/impressum/index_ger.html</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Open Science in the Helmholtz Association</ns0:policyName>
+                <ns0:policyURL>http://os.helmholtz.de/open-science-in-the-helmholtz-association/</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                                    <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                <ns0:remarks />
+        <ns0:entryDate>2014-09-23</ns0:entryDate>
+        <ns0:lastUpdate>2021-04-14</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

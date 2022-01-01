@@ -1,0 +1,98 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011823</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Dallas Heart Study</ns0:repositoryName>
+                    <ns0:additionalName language="eng">DHS</ns0:additionalName>
+                    <ns0:additionalName language="eng">DHS cohort</ns0:additionalName>
+                <ns0:repositoryURL>https://www.utsouthwestern.edu/research/translational-medicine/doing-research/dallas-heart/</ns0:repositoryURL>
+                <ns0:description language="eng">The Dallas Heart Study (DHS) is a multi-ethnic, population-based probability sample of Dallas County designed to define the social and the biological variables contributingto ethnic differences in cardiovascular health at the community level and to support hypothesis-driven research aimed at determining the underlying mechanisms contributing to differences in cardiovascular risk. The initial data collection from the population was performed in three sequential stages over a two year period(2000-2002) and included the collection of detailed socioeconomic, biomarker and imaging data from each participant. The underlying assumption of the study is that successful identification of new risk factors for cardiovascular disease will require the availability of an exquisitely phenotyped, multiethnic population in close proximity to the Center.</ns0:description>
+                    <ns0:repositoryContact>dallasheartstudy@utsouthwestern.edu</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2001</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">205 Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20512 Cardiology, Angiology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                <ns0:missionStatementURL>https://www.utsouthwestern.edu/edumedia/edufiles/research/center_translational_medicine/dallas_heart_study/dhs-study-overview.pdf</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>DXA</ns0:keyword>
+                    <ns0:keyword>Dallas county</ns0:keyword>
+                    <ns0:keyword>EKG</ns0:keyword>
+                    <ns0:keyword>MDCT</ns0:keyword>
+                    <ns0:keyword>MRI</ns0:keyword>
+                    <ns0:keyword>accelerometer placement</ns0:keyword>
+                    <ns0:keyword>acoustic cardiogram</ns0:keyword>
+                    <ns0:keyword>ankle-brachial index</ns0:keyword>
+                    <ns0:keyword>anthropometrics</ns0:keyword>
+                    <ns0:keyword>blood collection</ns0:keyword>
+                    <ns0:keyword>blood pressure</ns0:keyword>
+                    <ns0:keyword>cognitive screening test</ns0:keyword>
+                    <ns0:keyword>medications</ns0:keyword>
+                    <ns0:keyword>urine collection</ns0:keyword>
+                    <ns0:keyword>walk test</ns0:keyword>
+                    <ns0:keyword>weight</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Donald W. Reynolds Foundation</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://philanthropynewsdigest.org/news/donald-w.-reynolds-foundation-prepares-to-close-its-doors</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate>2017</ns0:responsibilityEndDate>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">UT Soutwestern, Medical Center</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Donald W. Reynolds Cardiovascular Clinical Research Center</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.utsouthwestern.edu/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.utsouthwestern.edu/about-us/contact-us.html</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Join a Research Study</ns0:policyName>
+                <ns0:policyURL>https://www.utsouthwestern.edu/research/translational-medicine/participate-clinical-trial/</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Research Ethics</ns0:policyName>
+                <ns0:policyURL>https://www.utsouthwestern.edu/research/translational-medicine/doing-research/berd/research-ethics.html</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>THE DALLAS HEART STUDY</ns0:policyName>
+                <ns0:policyURL>https://www.utsouthwestern.edu/edumedia/edufiles/research/center_translational_medicine/dallas_heart_study/dhs-study-overview.pdf</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>other</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.utsouthwestern.edu/research/translational-medicine/doing-research/dallas-heart/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://www.utsouthwestern.edu/research/translational-medicine/about/citing-support.html</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                <ns0:remarks>DHS is covered by Thomson Reuters Data Citation Index.</ns0:remarks>
+        <ns0:entryDate>2016-03-04</ns0:entryDate>
+        <ns0:lastUpdate>2019-01-09</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

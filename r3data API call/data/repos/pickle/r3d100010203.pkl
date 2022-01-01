@@ -1,0 +1,138 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010203</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">IAU Minor Planet Center</ns0:repositoryName>
+                    <ns0:additionalName language="eng">MPC</ns0:additionalName>
+                <ns0:repositoryURL>https://www.minorplanetcenter.net/</ns0:repositoryURL>
+                <ns0:description language="eng">The MPC is responsible for the designation of minor bodies in the solar system: minor planets; comets, in conjunction with the Central Bureau for Astronomical Telegrams (CBAT); and natural satellites (also in conjunction with CBAT). The MPC is also responsible for the efficient collection, computation, checking and dissemination of astrometric observations and orbits for minor planets and comets</ns0:description>
+                    <ns0:repositoryContact>https://www.minorplanetcenter.net/contact</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                    <ns0:type>institutional</ns0:type>
+                <ns0:size updated="2018-11-08">19.060 near-earth objects; 789.069 minor planets; 4.026 comets; 199.7 million observations,</ns0:size>
+        <ns0:startDate>1995</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">311 Astrophysics and Astronomy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">32 Physics</ns0:subject>
+                <ns0:missionStatementURL>https://www.minorplanetcenter.net/iau/mpc.html</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>asteroids</ns0:keyword>
+                    <ns0:keyword>centaur objects</ns0:keyword>
+                    <ns0:keyword>comets</ns0:keyword>
+                    <ns0:keyword>near-earth objects</ns0:keyword>
+                    <ns0:keyword>transneptunian objects</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Harvard-Smithsonian Center for Astrophysics, Smithsonian Astrophysical Observatory</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">SAO</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.cfa.harvard.edu/sao/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:04mh52z70</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate>1995</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.cfa.harvard.edu/about/contact</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">IAU Minor Planet Center</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">MPC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.minorplanetcenter.net/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>1995</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.minorplanetcenter.net/contact</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">International Astronomical Union</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">IAU</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>AAA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.iau.org/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:05nex2951</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate>1995</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.iau.org/administration/secretariat/</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">International Astronomical Union , Central Bureau for Astronomical Telegrams</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">IAU, CBAT</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>AAA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.cbat.eps.harvard.edu/index.html</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>1995</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Aeronautics and Space Administration, Center for Near Earth Object Studies</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">CNEOS</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://cneos.jpl.nasa.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>1995</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://cneos.jpl.nasa.gov/contact/</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Tamkin Foundation</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Tamkin Computer Network</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.minorplanetcenter.net/iau/Ack/TamkinFoundation.html</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:02r88m968</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate>1998</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>World-wide web policy</ns0:policyName>
+                <ns0:policyURL>https://www.minorplanetcenter.net/iau/WWWPolicy.html</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>feeRequired</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.minorplanetcenter.net/iau/WWWPolicy.html</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>MPC submission information</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>https://www.minorplanetcenter.net/iau/info/TechInfo.html</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                            <ns0:software>
+                <ns0:softwareName>other</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                    <ns0:api apiType="FTP">https://www.minorplanetcenter.net/iau/MPC_Documentation.html</ns0:api>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>http://www.minorplanetcenter.net/iau/info/Astrometry.html#cit</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                    <ns0:syndication syndicationType="RSS">https://minorplanetcenter.net/iau/rss/mpc_feeds.html</ns0:syndication>
+                <ns0:remarks>The Minor Planet Center (MPC) operates at the Smithsonian Astrophysical Observatory (SAO), under the auspices of Division III of the International Astronomical Union (IAU). The Minor Planet Center derives its operating budget from a five-year NASA grant</ns0:remarks>
+        <ns0:entryDate>2013-02-07</ns0:entryDate>
+        <ns0:lastUpdate>2021-09-02</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

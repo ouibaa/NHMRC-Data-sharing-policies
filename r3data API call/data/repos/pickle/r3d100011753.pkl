@@ -1,0 +1,80 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011753</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="por">Junar</ns0:repositoryName>
+                    <ns0:additionalName language="eng">Junar Open Data Platform</ns0:additionalName>
+                <ns0:repositoryURL>https://junar.com/?lang=en</ns0:repositoryURL>
+                <ns0:description language="eng">Junar provides a cloud-based open data platform that enables innovative organizations worldwide to quickly, easily and affordably make their data accessible to all. In just a few weeks, your initial datasets can be published, providing greater transparency, encouraging collaboration and citizen engagement, and freeing up precious staff resources.</ns0:description>
+                    <ns0:repositoryContact>contact@junar.com</ns0:repositoryContact>
+                            <ns0:type>other</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2010</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>por</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>spa</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">4 Engineering Sciences</ns0:subject>
+                <ns0:missionStatementURL>http://junar-cdn-brandings.s3.amazonaws.com/reference-material/Product-sheet-Open-Data-Portal-N0515.pdf</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>Open Data Dashboard</ns0:keyword>
+                    <ns0:keyword>Software - as - a - Service SaaS</ns0:keyword>
+                    <ns0:keyword>big data</ns0:keyword>
+                    <ns0:keyword>cloud-based data management system</ns0:keyword>
+                    <ns0:keyword>economics</ns0:keyword>
+                    <ns0:keyword>government</ns0:keyword>
+                    <ns0:keyword>open data</ns0:keyword>
+                    <ns0:keyword>software</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="por">JUNAR</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>commercial</ns0:institutionType>
+                <ns0:institutionURL>https://www.junar.com/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>2010</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>contact@Junar.com</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>TERMS OF SERVICE</ns0:policyName>
+                <ns0:policyURL>https://junar.com/terms-of-service/?lang=en</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>restricted</ns0:databaseAccessType>
+                            <ns0:databaseAccessRestriction>feeRequired</ns0:databaseAccessRestriction>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>other</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>ODC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://opendatacommons.org/licenses/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                    <ns0:api apiType="REST">http://junardemo.opendata.junar.com/developers/</ns0:api>
+                    <ns0:api apiType="SOAP">http://junar-cdn-brandings.s3.amazonaws.com/reference-material/Product-sheet-Open-Data-Portal-N0515.pdf</ns0:api>
+                    <ns0:api apiType="other">https://github.com/Junar/junar-uploader#ourtool</ns0:api>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks />
+        <ns0:entryDate>2016-02-03</ns0:entryDate>
+        <ns0:lastUpdate>2021-11-15</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

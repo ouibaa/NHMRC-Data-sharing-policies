@@ -1,0 +1,125 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011848</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Romani Morpho-Syntax Database</ns0:repositoryName>
+                    <ns0:additionalName language="eng">RMS</ns0:additionalName>
+                <ns0:repositoryURL>https://romani.humanities.manchester.ac.uk//rms/</ns0:repositoryURL>
+                <ns0:description language="eng">The Manchester Romani Project is part of an international network of scholarly projects devoted to research on Romani language and linguistics, coordinated in partnership with Dieter Halwachs (Institute of Linguistics, Graz University and Romani-Projekt Graz), and Peter Bakker (Institute of Linguistics, Aarhus University).
+The project explores the linguistic features of the dialects of the Romani language, and their distribution in geographical space. An interactive web application is being designed, which will allow users to search and locate on a map different dialectal variants, and to explore how variants cluster in particular regions. Examples sentences and words with sound files will also be made available, to give impressions of dialectal variation within Romani. From the distribution of linguistic forms among the dialects it will be possible to make infeences about social-historical contacts among the Romani communities, and about migration patterns.</ns0:description>
+                    <ns0:repositoryContact>romani@manchester.ac.uk</ns0:repositoryContact>
+                    <ns0:repositoryContact>yaron.matras@manchester.ac.uk</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2016-04-18">The database contains altogether over 5.500 fields with information on forms, or analytical questions of this kind, covering all areas of structure, with the exception of phonetics</ns0:size>
+        <ns0:startDate>1998</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">104 Linguistics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">10402 Individual Linguistics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">10403 Typology, Non-European Languages, Historical Linguistics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11 Humanities</ns0:subject>
+                <ns0:missionStatementURL>http://romani.humanities.manchester.ac.uk/atmanchester/projects/rmsdatabase.shtml</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Audiovisual data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>Romani dialects</ns0:keyword>
+                    <ns0:keyword>corpora</ns0:keyword>
+                    <ns0:keyword>ethnology</ns0:keyword>
+                    <ns0:keyword>grammar</ns0:keyword>
+                    <ns0:keyword>history</ns0:keyword>
+                    <ns0:keyword>linguistics</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Open Society Institute</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Open Society Foundations</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>GBR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.opensocietyfoundations.org/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:00qnfvz68</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.opensocietyfoundations.org/contact</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">UK Research and Innovation, Economic and Social Research Council</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">UKRI, ESRC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>GBR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://esrc.ukri.org/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:03n0ht308</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate>2005-05-31</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate>2008-05-31</ns0:responsibilityEndDate>
+                                    <ns0:institutionContact>https://esrc.ukri.org/contact-us/</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">UK Research and Innovation,, Arts and Humanities Research Council</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">AHRB</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">Arts and Humanities Research Board</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">UKRI, AHRC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>GBR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://ahrc.ukri.org/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:0505m1554</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://ahrc.ukri.org/about/contact/</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of Manchester, School of Arts, Languages and Cultures</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">ALC</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">School of Arts, Languages and Cultures</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>GBR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.alc.manchester.ac.uk/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.manchester.ac.uk/connect/contact-us/</ns0:institutionContact>
+                                    <ns0:institutionContact>romani@manchester.ac.uk</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">[romani] Project</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">University of Manchester, Romani Linguistics and Romani Language Projects</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>GBR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://romani.humanities.manchester.ac.uk//</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>romani@manchester.ac.uk</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>RMS Help</ns0:policyName>
+                <ns0:policyURL>https://romani.humanities.manchester.ac.uk//rms/help</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.manchester.ac.uk/copyright/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>institutional membership</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>other</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://romani.humanities.manchester.ac.uk//downloads/2/RMS_screenshot03.jpg</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks>The RMS project is part of a network of international scholarly research projects in Romani linguistics, which include Romlex, the ROMANI-Projekt Graz, and Rombase. --- RMS is covered by Thomson Reuters Data Citation Index.</ns0:remarks>
+        <ns0:entryDate>2016-04-15</ns0:entryDate>
+        <ns0:lastUpdate>2020-12-09</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

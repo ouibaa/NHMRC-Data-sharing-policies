@@ -1,0 +1,127 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011596</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">PhenoGen Informatics</ns0:repositoryName>
+                <ns0:repositoryURL>https://phenogen.org/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>RRID:nlx_153879</ns0:repositoryIdentifier>
+                <ns0:description language="eng">The PhenoGen website shares experimental data with a worldwide community of investigators and provides a flexible, integrated, multi-resolution repository of neuroscience transcriptomic genetic data for collaborative research on genomic disorders.</ns0:description>
+                    <ns0:repositoryContact>https://phenogen.org/web/common/contact.jsp</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2011</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">201 Basic Biological and Medical Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20105 General Genetics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                <ns0:missionStatementURL />
+                    <ns0:contentType contentTypeScheme="parse">Archived data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Databases</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>Quantitative Trait Locus QTL</ns0:keyword>
+                    <ns0:keyword>alcohol consumption</ns0:keyword>
+                    <ns0:keyword>behavioral neuroadaptations</ns0:keyword>
+                    <ns0:keyword>brain neurocircuitries</ns0:keyword>
+                    <ns0:keyword>cellular neuroadaptations</ns0:keyword>
+                    <ns0:keyword>chromosome</ns0:keyword>
+                    <ns0:keyword>ethanol</ns0:keyword>
+                    <ns0:keyword>molecular neuroadaptations</ns0:keyword>
+                    <ns0:keyword>mouse</ns0:keyword>
+                    <ns0:keyword>rat</ns0:keyword>
+                    <ns0:keyword>transcriptome</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Branbury Fund Inc.</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">TGCi</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.tgci.com/contact-us</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Integrative Neuroscience Initiative on Alcoholism</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">INIA</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://inia-west.org/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:00bame609</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://inia-west.org/#!contact/component_20591</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Institute on Alcohol Abuse and Alcoholism</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NIAAA</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.niaaa.nih.gov/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:02jzrsm59</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.niaaa.nih.gov/about-niaaa/contact-us</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of Colorado</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">CU</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.cu.edu/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:00jc20583</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.cu.edu/contact-office-president</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>PhenoGen Informatics</ns0:policyName>
+                <ns0:policyURL>https://phenogen.org/web/common/PhenoGen.pdf</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>PhenoGen Website Overview</ns0:policyName>
+                <ns0:policyURL>https://phenogen.org/helpdocs/PhenoGen_Overview_Left.htm#CSHID=Phenogen_Overview.htm</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>other</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.ucdenver.edu/legal</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.ucdenver.edu/legal</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                <ns0:versioning>yes</ns0:versioning>
+                        <ns0:citationGuidelineURL>https://phenogen.org/web/common/citation.jsp</ns0:citationGuidelineURL>
+                    <ns0:aidSystem>none</ns0:aidSystem>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks>github: https://github.com/TabakoffLab/PhenogenCloud</ns0:remarks>
+        <ns0:entryDate>2015-06-02</ns0:entryDate>
+        <ns0:lastUpdate>2021-10-08</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

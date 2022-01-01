@@ -1,0 +1,101 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011298</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Nuclear Receptor Signaling Atlas</ns0:repositoryName>
+                    <ns0:additionalName language="eng">NURSA Hub</ns0:additionalName>
+                <ns0:repositoryURL>http://www.nursa.org/nursa/index.jsf</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.vszknv</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:SCR_003287</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:nif-0000-03208</ns0:repositoryIdentifier>
+                <ns0:description language="eng">&gt;&gt;&gt; !!! the repository is offline !!! &lt;&lt;&lt; 
+More information see: https://dknet.org/about/NURSA_Archive
+All NURSA-biocurated transcriptomic datasets have been preserved for data mining in SPP through an enhanced and expanded version of Transcriptomine named Ominer. To access these datasets, dkNET provides users with the information of 527 transcriptomic datasets that contain data related to nuclear receptors and nuclear receptor coregulators in the NURSA Datasets table view and redirects users to the current SPP dataset page. Once users find the specific dataset of research interest, users can download the dataset by clicking DOI and then clicking the Download Dataset button at the Signaling Pathways Project webpage.  See https://www.re3data.org/repository/r3d100013650</ns0:description>
+                    <ns0:repositoryContact>support@nursa.org</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2002</ns0:startDate>
+        <ns0:endDate>2019</ns0:endDate>
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">201 Basic Biological and Medical Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">205 Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                <ns0:missionStatementURL />
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>house mouse</ns0:keyword>
+                    <ns0:keyword>human</ns0:keyword>
+                    <ns0:keyword>life sciences</ns0:keyword>
+                    <ns0:keyword>molecules</ns0:keyword>
+                    <ns0:keyword>norway rat</ns0:keyword>
+                    <ns0:keyword>nuclear receptor signaling</ns0:keyword>
+                    <ns0:keyword>reagents</ns0:keyword>
+                    <ns0:keyword>transcriptomine</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Baylor College of Medicine</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">BCM</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.bcm.edu/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>berto@bcm.edu</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Institutes of Health, Eunice Kennedy Shriver National Institute of Child Health and Development</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NICHD</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">NIH</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.nichd.nih.gov/Pages/index.aspx</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Institutes of Health, National Institute of Diabetes, Digestive and Kidney Diseases</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NIDDK</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">NIH</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.niddk.nih.gov/Pages/default.aspx</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>margolisr@mail.nih.gov</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>NIH Funding Opportunities and Notices</ns0:policyName>
+                <ns0:policyURL>http://grants.nih.gov/grants/guide/index.html</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>closed</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/licenses/by/3.0/us/legalcode</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                <ns0:versioning>yes</ns0:versioning>
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks>description: NURSA began in 2002 with the objective to accrue, develop and communicate information about the nuclear receptor superfamily. Over the last ten years, NURSA has developed a website that has developed into a comprehensive source of information about nuclear receptors, and their co-regulators, ligands, and downstream targets. Through a series of integrated 'omics-scale and informatic approaches projects, NURSA has fostered a systems biology understanding of nuclear receptor function, physiology and regulation of target gene networks in vivo.
+Nuclear Receptor Signaling Atlas is covered by Thomson Reuters Data Citation Index.</ns0:remarks>
+        <ns0:entryDate>2014-11-26</ns0:entryDate>
+        <ns0:lastUpdate>2021-11-09</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

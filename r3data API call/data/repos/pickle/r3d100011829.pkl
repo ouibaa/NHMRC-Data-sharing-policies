@@ -1,0 +1,151 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011829</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Gazel</ns0:repositoryName>
+                    <ns0:additionalName language="eng">The Gazel cohort</ns0:additionalName>
+                <ns0:repositoryURL>https://www.gazel.inserm.fr/en/gazel-cohort</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>RRID:SCR_008962</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:nlx_151989</ns0:repositoryIdentifier>
+                <ns0:description language="eng">GAZEL is an open epidemiologic laboratory. Like major scientific instruments (telescopes or particle accelerators, for example, or genotyping laboratories equipped with sequencers), GAZEL was not constructed to answer a specific question. Instead it was designed to help analyze a wide range of scientific problems and is accessible to the community of researchers specializing in epidemiology.
+In accordance with its purpose as a scientific research platform, the GAZEL cohort is permanently open to epidemiologic research teams. Today, more than 50 projects on very diversified themes have been set up in GAZEL by some 20 teams, French, belonging to different bodies, and foreign (Germany, Belgium, Canada, Great Britain, Sweden, Finland, and USA).</ns0:description>
+                    <ns0:repositoryContact>gazel@inserm.fr</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>fra</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">205 Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20501 Epidemiology, Medical Biometry, Medical Informatics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20502 Public Health, Health Services Research, Social Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                <ns0:missionStatementURL />
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>Lifepath</ns0:keyword>
+                    <ns0:keyword>ageing</ns0:keyword>
+                    <ns0:keyword>biosamples</ns0:keyword>
+                    <ns0:keyword>cancer</ns0:keyword>
+                    <ns0:keyword>causes of death</ns0:keyword>
+                    <ns0:keyword>healthcare</ns0:keyword>
+                    <ns0:keyword>heart disease</ns0:keyword>
+                    <ns0:keyword>lifestyle</ns0:keyword>
+                    <ns0:keyword>morbidity</ns0:keyword>
+                    <ns0:keyword>womens health</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="fra">Caisse Centrale d&#8217;Activit&#233;s Sociales du Personnel des Industries Electriques et Gazi&#232;res</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="fra">CCAS</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>FRA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.ccas.fr/application_ccasfrv4.php</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="fra">Caisse d&#8217;assurance maladie des industries &#233;lectriques et gazi&#232;res</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="fra">Camieg</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>FRA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.camieg.fr/mentions-legales/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="fra">ENGIE</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">formerly: GDF SUEZ</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>FRA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>sponsoring</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.engie.fr/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="fra">Electricit&#233; de France</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="fra">EDF</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>FRA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>sponsoring</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.edf.fr/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:03wb8xz10</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="fra">Institut national de la sant&#233; et de la recherche m&#233;dicale</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="fra">Inserm</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">National Institute of Health and Medical Research</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>FRA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.inserm.fr/en</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:02vjkv261</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:SCR_011404</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_88851</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="fra">L'Assurance maladie</ns0:institutionName>
+                                <ns0:institutionCountry>FRA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.ameli.fr/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:03am7sg53</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Charte de la Cohorte Gazel</ns0:policyName>
+                <ns0:policyURL>http://www.gazel.inserm.fr/images/constances/REGLEMENTGAZEL.pdf</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Confidentiality</ns0:policyName>
+                <ns0:policyURL>https://www.gazel.inserm.fr/en/confidentiality</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Projects</ns0:policyName>
+                <ns0:policyURL>https://www.gazel.inserm.fr/index.php/en/projects</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>embargoed</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>other</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www.gazel.inserm.fr/images/constances/REGLEMENTGAZEL.pdf</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>Charte de la Cohorte Gazel</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>http://www.gazel.inserm.fr/images/constances/REGLEMENTGAZEL.pdf</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                            <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>http://www.gazel.inserm.fr/images/constances/REGLEMENTGAZEL.pdf</ns0:citationGuidelineURL>
+                    <ns0:aidSystem>none</ns0:aidSystem>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks>Gazel is covered by Thomson Reuters Data Citation Index.
+The GAZEL cohort, set up in 1989 by Inserm Unit 88 (subsequently Unit 687), in cooperation with several departments of &#233;lectricit&#233; de France-Gaz de France (EDF-GDF). EDF-GDF was a public utility firm in France involved in production, transmission and distribution of energy. GAZEL initially included 20 624 volunteers working at EDF-GDF (15 010 men and 5614 women), aged from 35 to 50 years.</ns0:remarks>
+        <ns0:entryDate>2016-04-18</ns0:entryDate>
+        <ns0:lastUpdate>2020-07-09</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

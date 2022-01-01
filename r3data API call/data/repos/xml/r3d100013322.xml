@@ -1,0 +1,103 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100013322</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="spa">Portal de Datos Abiertos UNAM, Colecciones Universitarias</ns0:repositoryName>
+                    <ns0:additionalName language="eng">UNAM Open Data Portal</ns0:additionalName>
+                <ns0:repositoryURL>https://datosabiertos.unam.mx/</ns0:repositoryURL>
+                <ns0:description language="eng">The UNAM opens the door to share millions of open data for the benefit of education and research. With this portal (www.datosabiertos.unam.mx) the university shares records of digital collections, academic research projects, repositories and publications to generate new knowledge. This way, it works as an online access point to search university collections authorized for their use, reuse and free redistribution by anyone, without copyright restrictions, patents or other control mechanisms, as long as the Terms of Free Use for UNAM Open Data are respected. 
+The UNAM Open Data Portal contains data, digital objects and geospatial layers of biological collections, artistic work, music, veterinary medicine, university projects, among others. It allows databases to be consulted and downloaded in open and structured formats. One of the most outstanding collections is the National Herbarium of Mexico (MEXU), with almost two million records and high resolution images of plants around the world, mainly collected in Mexico. MEXU is the largest herbarium in the country and in Latin America; it&#8217;s among one of the ten most active herbariums in the world.</ns0:description>
+                    <ns0:repositoryContact>joaquin@dgru.unam.mx</ns0:repositoryContact>
+                            <ns0:type>institutional</ns0:type>
+                <ns0:size updated="2020-05-04">1.914.332 records; 57 collections;
+Over a million digital objects such as images and hi-resolution images, audio and PDF documents.</ns0:size>
+        <ns0:startDate>2016-03-09</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>spa</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">103 Fine Arts, Music, Theatre and Media Studies</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">10301 Art History</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">10302 Musicology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11 Humanities</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">112 Economics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">12 Social and Behavioural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">202 Plant Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">203 Zoology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                <ns0:missionStatementURL>https://dgru.unam.mx/index.php/portal-de-datos-abiertos-unam-colecciones-universitarias-2/</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Databases</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>multidisciplinary</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="spa">Direcci&#243;n General de Repositorios Universitarios</ns0:institutionName>
+                                <ns0:institutionCountry>MEX</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://dgru.unam.mx/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>tilam@dgru.unam.mx</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Autonomous University of Mexico</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="spa">UNAM</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="spa">Universidad Nacional Aut&#243;noma de  M&#233;xico</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>MEX</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL />
+                                    <ns0:institutionIdentifier>ROR:01tmp8f25</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:SCR_004360</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_151584</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Terms of Free Use of UNAM Open Data</ns0:policyName>
+                <ns0:policyURL>https://datosabiertos.unam.mx/informacion/termsoffree.html</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Upload DataBase Policies: Lineamientos para la integraci&#243;n y publicaci&#243;n de las colecciones universitarias digitales en el Portal de Datos Abiertos UNAM, Colecciones Universitarias</ns0:policyName>
+                <ns0:policyURL>https://dgru.unam.mx/wp-content/uploads/2019/10/D.Li_.Ga_CCUD_2015_09_24_Integracion_Publicacion_Colecciones_PDA_UNAM.pdf</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://datosabiertos.unam.mx/informacion/termsoffree.html</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>Upload DataBase Policies: Lineamientos para la integraci&#243;n y publicaci&#243;n de las colecciones universitarias digitales en el Portal de Datos Abiertos UNAM, Colecciones Universitarias</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>https://dgru.unam.mx/wp-content/uploads/2019/10/D.Li_.Ga_CCUD_2015_09_24_Integracion_Publicacion_Colecciones_PDA_UNAM.pdf</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                        <ns0:versioning>no</ns0:versioning>
+                    <ns0:api apiType="REST">https://datosabiertos.unam.mx/api/ada/</ns0:api>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://datosabiertos.unam.mx/informacion/termsoffree.html</ns0:citationGuidelineURL>
+                    <ns0:aidSystem>none</ns0:aidSystem>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">Darwin Core</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/darwin-core</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                    <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">Dublin Core</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks>Institutional identifier: Each record has a unique identifier built with three main elements: institution code, collection code (dataset) and register number (catalogue number). This identifier is also included in the URL assigned to each record.
+All collections published at the UNAM open data portal have a metadata scheme with differente international standards reference. Most of their dictionaries can be consulted in spanish in the following page: https://dgru.unam.mx/index.php/portal-de-datos-abiertos-unam-colecciones-universitarias-2/</ns0:remarks>
+        <ns0:entryDate>2020-05-01</ns0:entryDate>
+        <ns0:lastUpdate>2020-05-08</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

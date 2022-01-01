@@ -1,0 +1,81 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012521</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">HunCLARIN</ns0:repositoryName>
+                <ns0:repositoryURL>http://clarin.hu/content/hunclarin-tagjai</ns0:repositoryURL>
+                <ns0:description language="eng">HunCLARIN is a strategic research infrastructure of Hungary&#8217;s leading knowledge centres involved in R&amp;D in speech- and language processing. It contains linguistic resources and tools that form the basis of research. The infrastructure has obtained an &#8220;SKI&#8221; qualification (Strategic Research Infrastructure) in 2010, and has been significantly expanded since. Currently comprising 36 members, the infrastructure includes several general- and specific-purpose text corpora, different language processing tools and analysers, linguistic databases as well as ontologies. RIL HAS was a co-founder of the European CLARIN project, which aims at supporting humanities and social sciences research with the help of language technology and by making digital linguistic resources more easily available. In accordance with these goals HunClarin makes the research infrastructures developed by the respective centres directly accessible for researchers through a common network entry point. A general goal of the infrastructure is to realise the interoperability of the collected research infrastructures and to enable comparing the performance of the respective alternatives and to coordinate different foci in R&amp;D. The coordinator and contact person of the infrastructure is Tam&#225;s V&#225;radi, RIL HAS.</ns0:description>
+                    <ns0:repositoryContact>info@clarin.hu</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>hun</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">104 Linguistics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11 Humanities</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">4 Engineering Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">409 Computer Science</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">40904 Artificial Intelligence, Image and Language Processing</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">44 Computer Science, Electrical and System Engineering</ns0:subject>
+                <ns0:missionStatementURL>http://corpus.nytud.hu/hunclarin/</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Audiovisual data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Databases</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Software applications</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>Hungarian language</ns0:keyword>
+                    <ns0:keyword>Hunghlish</ns0:keyword>
+                    <ns0:keyword>morphology</ns0:keyword>
+                    <ns0:keyword>natural language processing</ns0:keyword>
+                    <ns0:keyword>speech technology</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">CLARIN-ERIC</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Common Language Resources and Technology Infrastructure - European Research Infrastructure Consortium</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>EEC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.clarin.eu/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">HAS RIL</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Hungarian Academy of Sciences, Research Institute for Linguistics</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="hun">Magyar Tudom&#225;nyos Akad&#233;mia, Nyelvtudom&#225;nyi Int&#233;zet</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>HUN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.nytud.hu/eng/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.nytud.hu/contact_eng.html</ns0:institutionContact>
+                                    <ns0:institutionContact>varadi.tamas[kukac]nytud.mta.hu</ns0:institutionContact>
+                            </ns0:institution>
+                        <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.gnu.org/licenses/lgpl-3.0.de.html</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>institutional membership</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                <ns0:versioning />
+                    <ns0:api apiType="FTP">ftp://ftp.mokk.bme.hu/</ns0:api>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                <ns0:remarks>members: http://clarin.hu/content/hunclarin-tagjai</ns0:remarks>
+        <ns0:entryDate>2017-11-03</ns0:entryDate>
+        <ns0:lastUpdate>2019-02-05</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

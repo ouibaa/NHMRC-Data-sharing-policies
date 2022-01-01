@@ -1,0 +1,116 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012108</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">mdw Repository</ns0:repositoryName>
+                <ns0:repositoryURL>https://repo.mdw.ac.at</ns0:repositoryURL>
+                <ns0:description language="eng">mdw Repository provides researchers with a robust infrastructure for research data management and ensures accessibility of research data during and after completion of research projects, thus, providing a quality boost to contemporary and future research.</ns0:description>
+                    <ns0:repositoryContact>bodnar@mdw.ac.at</ns0:repositoryContact>
+                    <ns0:repositoryContact>repo@mdw.ac.at.</ns0:repositoryContact>
+                    <ns0:repositoryContact>staudinger@mdw.ac.at</ns0:repositoryContact>
+                    <ns0:repositoryContact>szepe@mdw.ac.at</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                    <ns0:type>institutional</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>deu</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">103 Fine Arts, Music, Theatre and Media Studies</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">10302 Musicology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11 Humanities</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">4 Engineering Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">402 Mechanics and Constructive Mechanical Engineering</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">40204 Acoustics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">41 Mechanical and industrial Engineering</ns0:subject>
+                <ns0:missionStatementURL>https://repo.mdw.ac.at/</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Audiovisual data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Databases</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>arts</ns0:keyword>
+                    <ns0:keyword>film</ns0:keyword>
+                    <ns0:keyword>music</ns0:keyword>
+                    <ns0:keyword>performing arts</ns0:keyword>
+                    <ns0:keyword>theatre</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">University of Music and Performing Arts Vienna</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="deu">Universit&#228;t f&#252;r Musik und darstellende Kunst Wien</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="deu">mdw</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>AUT</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.mdw.ac.at/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.mdw.ac.at/230</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Accesssibility levels</ns0:policyName>
+                <ns0:policyURL>https://repo.mdw.ac.at/services/accessibility_levels.html</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Conditions of Data Use</ns0:policyName>
+                <ns0:policyURL>https://repo.mdw.ac.at/services/conditions_of_data_use.html</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>institutional membership</ns0:dataAccessRestriction>
+                                    <ns0:dataAccessRestriction>other</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/licenses/by-nc/4.0/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://rightsstatements.org/page/1.0/?language=en#rights-statements-for-in-copyright-objects</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://repo.mdw.ac.at/services/accessibility_levels.html</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>institutional membership</ns0:dataUploadRestriction>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>Depositors agreement</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>https://repo.mdw.ac.at/services/depositors_agreement.html</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                            <ns0:software>
+                <ns0:softwareName>other</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                    <ns0:api apiType="OAI-PMH">https://repo.mdw.ac.at/documentation/user/oai.html</ns0:api>
+                    <ns0:api apiType="SPARQL">https://repo.mdw.ac.at/</ns0:api>
+                            <ns0:pidSystem>URN</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://repo.mdw.ac.at/services/conditions_of_data_use.html</ns0:citationGuidelineURL>
+                    <ns0:aidSystem>AuthorClaim</ns0:aidSystem>
+                    <ns0:aidSystem>ORCID</ns0:aidSystem>
+                    <ns0:aidSystem>ResearcherID</ns0:aidSystem>
+                    <ns0:aidSystem>other</ns0:aidSystem>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">Dublin Core</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                    <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">OAI-ORE - Open Archives Initiative Object Reuse and Exchange</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/oai-ore-open-archives-initiative-object-reuse-and-exchange</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks />
+        <ns0:entryDate>2016-08-04</ns0:entryDate>
+        <ns0:lastUpdate>2019-01-29</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

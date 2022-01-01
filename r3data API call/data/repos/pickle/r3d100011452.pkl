@@ -1,0 +1,76 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011452</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Archives of programs and data for physics</ns0:repositoryName>
+                    <ns0:additionalName language="eng">Archives for physics</ns0:additionalName>
+                <ns0:repositoryURL>http://www.sci.muni.cz/~physics/info.htm</ns0:repositoryURL>
+                <ns0:description language="eng">&gt;&gt;&gt;!!!&lt;&lt;&lt; 2018-01-18: no data nor programs can be found &gt;&gt;&gt;!!!&lt;&lt;&lt;  These archives contain public domain programs for calculations in physics and other programs that we suppose about will help during work with computer. Physical constants and experimental or theoretical data as cross sections, rate constants, swarm parameters, etc., that are necessary for physical calculations are stored here, too. Programs are mainly dedicated to computers compatible with PC IBM. If programs do not use graphic units it is possible to use them on other computers, too. It is necessary to reprogram the graphic parts of programs in the other cases.</ns0:description>
+                    <ns0:repositoryContact>trunec@sci.muni.cz</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate />
+        <ns0:endDate>2018-01-18</ns0:endDate>
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">308 Optics, Quantum Optics and Physics of Atoms, Molecules and Plasmas</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">32 Physics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">4 Engineering Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">409 Computer Science</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">44 Computer Science, Electrical and System Engineering</ns0:subject>
+                <ns0:missionStatementURL />
+                    <ns0:contentType contentTypeScheme="parse">Archived data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Configuration data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Software applications</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>data processing</ns0:keyword>
+                    <ns0:keyword>education</ns0:keyword>
+                    <ns0:keyword>numerical methods</ns0:keyword>
+                    <ns0:keyword>plasmaphysics</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Masaryk University, Department of Physical Electronics</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="ces">Masarykova univerzita, &#218;stav fyzik&#225;ln&#237; elektroniky</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CZE</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.muni.cz/o-univerzite/fakulty-a-pracoviste/prirodovedecka-fakulta/312030-ustav-fyzikalni-elektroniky</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.muni.cz/en/people/1597-david-trunec</ns0:institutionContact>
+                                    <ns0:institutionContact>trunec@sci.muni.cz</ns0:institutionContact>
+                            </ns0:institution>
+                        <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www.sci.muni.cz/~physics/info.htm</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>Public Domain</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www.sci.muni.cz/~physics/info.htm</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>http://www.sci.muni.cz/~physics/archives.htm</ns0:citationGuidelineURL>
+                    <ns0:aidSystem>none</ns0:aidSystem>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                <ns0:remarks />
+        <ns0:entryDate>2015-05-11</ns0:entryDate>
+        <ns0:lastUpdate>2018-01-18</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

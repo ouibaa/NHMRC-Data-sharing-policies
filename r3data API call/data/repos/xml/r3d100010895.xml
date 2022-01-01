@@ -1,0 +1,85 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010895</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Journal of Cell Biology - JCB DataViewer</ns0:repositoryName>
+                <ns0:repositoryURL>https://rupress.org/jcb/pages/history</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>RID:nlx_156057</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:SCR_002633</ns0:repositoryIdentifier>
+                <ns0:description language="eng">&gt;&gt;&gt;!!!&lt;&lt;&lt;   Data originally published in the JCB DataViewer has been moved BioStudies. Please note that while the majority of data were moved, some authors opted to remove their data completely.    &gt;&gt;&gt;!!!&lt;&lt;&lt;   Migrated data can be found at https://www.ebi.ac.uk/biostudies/JCB/studies. Screen data are available in the Image Data Resource repository. http://idr.openmicroscopy.org/webclient/?experimenter=-1   &gt;&gt;&gt;!!!&lt;&lt;&lt;     The DataViewer was decommissioned in 2018 as the journal evolved to an all-encompassing archive policy towards original source data and as new data repositories that go beyond archiving data and allow investigators to make new connections between datasets, potentially driving discovery, emerged. JCB authors are encouraged to make available all datasets included in the manuscript from the date of online publication either in a publicly available database or as supplemental materials hosted on the journal website. We recommend that our authors store and share their data in appropriate publicly available databases based on data type and/or community standard. &gt;&gt;&gt;!!!&lt;&lt;&lt;</ns0:description>
+                            <ns0:type>other</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2008</ns0:startDate>
+        <ns0:endDate>2018</ns0:endDate>
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">201 Basic Biological and Medical Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20103 Cell Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">205 Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20504 Physiology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20509 Pharmacology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">206 Neurosciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                <ns0:missionStatementURL />
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>biochemistry</ns0:keyword>
+                    <ns0:keyword>cell culture</ns0:keyword>
+                    <ns0:keyword>cell cycle</ns0:keyword>
+                    <ns0:keyword>developmental biology</ns0:keyword>
+                    <ns0:keyword>developmental cytology</ns0:keyword>
+                    <ns0:keyword>embryology</ns0:keyword>
+                    <ns0:keyword>histology</ns0:keyword>
+                    <ns0:keyword>imaging systems in biology</ns0:keyword>
+                    <ns0:keyword>imaging systems in medicine</ns0:keyword>
+                    <ns0:keyword>microscopes</ns0:keyword>
+                    <ns0:keyword>microscopy</ns0:keyword>
+                    <ns0:keyword>molecular biology</ns0:keyword>
+                    <ns0:keyword>neurobiology</ns0:keyword>
+                    <ns0:keyword>resolution (optics)</ns0:keyword>
+                    <ns0:keyword>ultrastructure (biology)</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Glencoe Software</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>commercial</ns0:institutionType>
+                <ns0:institutionURL>https://www.glencoesoftware.com/index.html</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>support@glencoesoftware.com</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Rockefeller University Press</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">JBC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>commercial</ns0:institutionType>
+                <ns0:institutionURL>https://rupress.org/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://rupress.org/pages/contact-us</ns0:institutionContact>
+                            </ns0:institution>
+                        <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www.creativecommons.org/licenses/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                                            <ns0:software>
+                <ns0:softwareName>other</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>no</ns0:versioning>
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                    <ns0:syndication syndicationType="RSS">http://jcb.rupress.org/rss/current.xml</ns0:syndication>
+                <ns0:remarks>The JCB DataViewer was an image hosting and presentation platform for original image datasets associated with articles published in The Journal of Cell Biology, a peer-reviewed journal from the Rockefeller University Press.</ns0:remarks>
+        <ns0:entryDate>2014-08-16</ns0:entryDate>
+        <ns0:lastUpdate>2021-05-26</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

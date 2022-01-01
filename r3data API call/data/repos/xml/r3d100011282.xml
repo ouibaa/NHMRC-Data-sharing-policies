@@ -1,0 +1,124 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011282</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">The Health Improvement Network</ns0:repositoryName>
+                    <ns0:additionalName language="eng">THIN</ns0:additionalName>
+                <ns0:repositoryURL>https://www.the-health-improvement-network.com/</ns0:repositoryURL>
+                <ns0:description language="eng">THIN is a medical data collection scheme that collects anonymised patient data from its members through the healthcare software Vision. The UK Primary Care database contains longitudinal patient records for approximately 6% of the UK Population. The anonymised data collection, which goes back to 1994, is nationally representative of the UK population.</ns0:description>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2014-11-24">587 practices covered; 12.000.000 patients; 3.600.000 active patients</ns0:size>
+        <ns0:startDate>2002-11</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">111 Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">12 Social and Behavioural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">205 Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20502 Public Health, Health Services Research, Social Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                <ns0:missionStatementURL>https://www.the-health-improvement-network.co.uk/#what-is-thin</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>demographics</ns0:keyword>
+                    <ns0:keyword>diagnoses</ns0:keyword>
+                    <ns0:keyword>health service evaluation</ns0:keyword>
+                    <ns0:keyword>life sciences</ns0:keyword>
+                    <ns0:keyword>medical studies</ns0:keyword>
+                    <ns0:keyword>patient data</ns0:keyword>
+                    <ns0:keyword>practice data</ns0:keyword>
+                    <ns0:keyword>prescribing</ns0:keyword>
+                    <ns0:keyword>socioeconomics</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Cegedim RX</ns0:institutionName>
+                                <ns0:institutionCountry>GBR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>commercial</ns0:institutionType>
+                <ns0:institutionURL>https://www.cegedimrx.co.uk/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>info@cegedimrx.co.uk</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">European Network of Centres for Pharmacoepidemiology and Pharmacovigilance</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">ENCePP</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>EEC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.encepp.eu/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.encepp.eu/encepp/viewResource.htm?id=10237</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">IQVIA</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">The Human Data Science Company</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">formerly:  CSD Medical Research UK</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">formerly: IMS Health Ltd</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>GBR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>commercial</ns0:institutionType>
+                <ns0:institutionURL>https://www.iqvia.com/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>2017</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.iqvia.com/contact/general</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">UK National Health Service</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NHS</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>GBR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.nhs.uk/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.nhs.uk/contact-us/</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>European Network of Centres for Pharmacoepidemiology and Pharmacovigilance - ENCePP Guide on Methodological Standards</ns0:policyName>
+                <ns0:policyURL>http://www.encepp.eu/standards_and_guidances/methodologicalGuide.shtml</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Legal Notices</ns0:policyName>
+                <ns0:policyURL>https://www.cegedimrx.co.uk/privacy-policy</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>closed</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>feeRequired</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://csdmruk.cegedim.com/our-data/accessing-the-data.shtml</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>other</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks>The Health Improvement Network - THIN is covered by Thomson Reuters Data Citation Index. 
+Additional Information Services (AIS) is the division of THIN which obtains anonymised hard copy information for medical studies.
+AIS liases with THIN data contributors on behalf of researchers to obtain documents which add valuable information to studies. This information can be in the form of anonymised questionnaires completed by the GP or patient, copies of patient-related correspondence, a specified intervention (e.g. a laboratory test to confirm diagnosis) or death certificates.
+All documentation is depersonalised by the practice and checked by AIS to ensure anonymisation is complete before the information is supplied to the researcher.
+All studies have ethical approval by NHS Multicentre Research Ethics Committees (MREC) before AIS requests are made to practices.</ns0:remarks>
+        <ns0:entryDate>2014-11-24</ns0:entryDate>
+        <ns0:lastUpdate>2021-05-20</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

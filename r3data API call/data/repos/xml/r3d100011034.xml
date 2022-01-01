@@ -1,0 +1,83 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011034</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">International Forestry Resources and Institutions</ns0:repositoryName>
+                    <ns0:additionalName language="eng">IFRI</ns0:additionalName>
+                <ns0:repositoryURL>http://www.ifriresearch.net/resources/data/</ns0:repositoryURL>
+                <ns0:description language="eng">The IFRI research network examines how governance arrangements affect forests and the people who depend on them. It is comprised of 14 Collaborating Research Centers located around the globe. Researchers use a common data collection method to ensure that sites can be compared across space and time. The IFRI database contains information about biodiversity, livelihoods, institutions, and forest carbon for over 250 sites in 15 countries between 1992 and the present.</ns0:description>
+                    <ns0:repositoryContact>http://www.ifriresearch.net/contact-us/</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                    <ns0:type>institutional</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>1992</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">202 Plant Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20202 Plant Ecology and Ecosystem Analysis</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">207 Agriculture, Forestry, Horticulture and Veterinary Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20708 Agricultural Economics and Sociology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20710 Basic Forest Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">23 Agriculture, Forestry, Horticulture and Veterinary Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">317 Geography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL>http://www.ifriresearch.net/about-us/</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>biodiversity</ns0:keyword>
+                    <ns0:keyword>ecology</ns0:keyword>
+                    <ns0:keyword>ecosystem</ns0:keyword>
+                    <ns0:keyword>forest cabon</ns0:keyword>
+                    <ns0:keyword>forests and forestry</ns0:keyword>
+                    <ns0:keyword>resource management</ns0:keyword>
+                    <ns0:keyword>sociology</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">University of Michigan, School of Natural Resources and Environment</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">SNRE</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://seas.umich.edu/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>2006</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>arunagra@umich.edu</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Data policy</ns0:policyName>
+                <ns0:policyURL>http://www.ifriresearch.net/resources/data/</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www.ifriresearch.net/resources/data/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>http://www.ifriresearch.net/resources/data/</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>no</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks>http://www.ifriresearch.net/about-us/funders/</ns0:remarks>
+        <ns0:entryDate>2014-09-02</ns0:entryDate>
+        <ns0:lastUpdate>2019-03-11</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

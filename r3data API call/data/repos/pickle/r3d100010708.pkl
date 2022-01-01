@@ -1,0 +1,102 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010708</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">CEPDB</ns0:repositoryName>
+                    <ns0:additionalName language="eng">The Harvard Clean Energy Project Database</ns0:additionalName>
+                <ns0:repositoryURL>https://www.matter.toronto.edu/basic-content-page/open-software-data</ns0:repositoryURL>
+                <ns0:description language="eng">-----&lt;&lt;&lt;&lt;&lt;   The repository is no longer available. This record is out-dated.  The Matter lab provides the archived database version of 2012 and 2013 at https://www.matter.toronto.edu/basic-content-page/data-download. Data linked from the World Community Grid - The Clean Energy Project  see at https://www.worldcommunitygrid.org/research/cep1/overview.do and on  fighshare https://figshare.com/articles/dataset/moldata_csv/9640427   &gt;&gt;&gt;&gt;&gt;-----    The Clean Energy Project Database (CEPDB) is a massive reference database for organic semiconductors with a particular emphasis on photovoltaic applications. It was created to store and provide access to data from computational as well as experimental studies, on both known and virtual compounds. It is a free and open resource designed to support researchers in the field of organic electronics in their scientific pursuits.
+The CEPDB was established as part of the Harvard Clean Energy Project (CEP), a virtual high-throughput screening initiative to identify promising new candidates for the next generation of carbon-based solar cell materials.</ns0:description>
+                    <ns0:repositoryContact>alan@aspuru.com</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2013-08-20">over 400 TB data</ns0:size>
+        <ns0:startDate>2008</ns0:startDate>
+        <ns0:endDate>2018</ns0:endDate>
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31 Chemistry</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">312 Mathematics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">33 Mathematics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">4 Engineering Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">408 Electrical Engineering</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">44 Computer Science, Electrical and System Engineering</ns0:subject>
+                <ns0:missionStatementURL>https://www.worldcommunitygrid.org/research/cep1/overview.do</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>chemistry</ns0:keyword>
+                    <ns0:keyword>energy</ns0:keyword>
+                    <ns0:keyword>organic photovoltaic (OPV)</ns0:keyword>
+                    <ns0:keyword>organic solar cells</ns0:keyword>
+                    <ns0:keyword>photosyntetics</ns0:keyword>
+                    <ns0:keyword>quantum computation</ns0:keyword>
+                    <ns0:keyword>quantum information</ns0:keyword>
+                    <ns0:keyword>renewable energy materials</ns0:keyword>
+                    <ns0:keyword>solar engergy</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Harvard Clean Energy Project</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">CEP</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>GBR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL />
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">The Matter Lab, Aspuru-Guzik Research Group</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Aspuru-Guzik group</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>GBR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://matter.toronto.edu/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://matter.toronto.edu/about-us/</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">World Community Grid - The Clean Energy Project</ns0:institutionName>
+                                <ns0:institutionCountry>AAA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>sponsoring</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.worldcommunitygrid.org/research/cep1/overview.do</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.worldcommunitygrid.org/research/cep2/overview.do</ns0:institutionContact>
+                            </ns0:institution>
+                        <ns0:databaseAccess>
+            <ns0:databaseAccessType>restricted</ns0:databaseAccessType>
+                            <ns0:databaseAccessRestriction>registration</ns0:databaseAccessRestriction>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>closed</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/licenses/by-sa/3.0/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks />
+        <ns0:entryDate>2013-08-19</ns0:entryDate>
+        <ns0:lastUpdate>2021-07-12</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

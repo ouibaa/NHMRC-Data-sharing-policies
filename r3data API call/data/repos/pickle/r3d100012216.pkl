@@ -1,0 +1,91 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012216</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Cornell Activity Datasets: CAD-60 &amp; CAD-120</ns0:repositoryName>
+                <ns0:repositoryURL>http://pr.cs.cornell.edu/humanactivities/data.php</ns0:repositoryURL>
+                <ns0:description language="eng">&gt;&gt;&gt;!!!&lt;&lt;&lt; The repository is no longer available. &gt;&gt;&gt;!!!&lt;&lt;&lt; 
+The CAD-60 and CAD-120 data sets comprise of RGB-D video sequences of humans performing activities which are recording using the Microsoft Kinect sensor.
+Being able to detect human activities is important for making personal assistant robots useful in performing assistive tasks. Our CAD dataset comprises twelve different activities (composed of several sub-activities) performed by four people in different environments, such as a kitchen, a living room, and office, etc. Tested on robots reactively responding to the detected activities.</ns0:description>
+                    <ns0:repositoryContact>asaxena@cs.cornell.edu</ns0:repositoryContact>
+                    <ns0:repositoryContact>hema@ cs.cornell.edu</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2011</ns0:startDate>
+        <ns0:endDate>2021-12-97</ns0:endDate>
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">201 Basic Biological and Medical Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20107 Bioinformatics and Theoretical Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20108 Anatomy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">4 Engineering Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">407 Systems Engineering</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">40701 Automation, Control Systems, Robotics, Mechatronics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">44 Computer Science, Electrical and System Engineering</ns0:subject>
+                <ns0:missionStatementURL>http://pr.cs.cornell.edu/humanactivities/</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Audiovisual data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Configuration data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Software applications</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Source code</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>3D human action recognition</ns0:keyword>
+                    <ns0:keyword>RGBD sensor</ns0:keyword>
+                    <ns0:keyword>artificial intelligence</ns0:keyword>
+                    <ns0:keyword>human activity detection</ns0:keyword>
+                    <ns0:keyword>humans performing activities</ns0:keyword>
+                    <ns0:keyword>maximum entropy Markov model (MEMM),</ns0:keyword>
+                    <ns0:keyword>robotics</ns0:keyword>
+                    <ns0:keyword>skeleton viszualization</ns0:keyword>
+                    <ns0:keyword>supervised learning</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Alfred  P.  Sloan Foundation</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Sloan Research Fellowship</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://sloan.org/fellowships</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://sloan.org/about/contact</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Cornell University, Computer Science Department, Robot Learning Lab</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://pr.cs.cornell.edu/index.php</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.cs.cornell.edu/information/contactus</ns0:institutionContact>
+                            </ns0:institution>
+                        <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www.cornell.edu/copyright.cfm</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>http://pr.cs.cornell.edu/humanactivities/data/README_CAD60.txt</ns0:citationGuidelineURL>
+                    <ns0:aidSystem>none</ns0:aidSystem>
+                <ns0:enhancedPublication>no</ns0:enhancedPublication>
+        <ns0:qualityManagement>no</ns0:qualityManagement>
+                                <ns0:remarks />
+        <ns0:entryDate>2016-11-10</ns0:entryDate>
+        <ns0:lastUpdate>2021-12-07</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

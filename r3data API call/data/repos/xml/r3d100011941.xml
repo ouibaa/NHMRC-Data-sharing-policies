@@ -1,0 +1,171 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011941</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Center of Estonian Language Resources</ns0:repositoryName>
+                    <ns0:additionalName language="eng">CELR META-SHARE</ns0:additionalName>
+                    <ns0:additionalName language="est">Eesti Keeleressursside Keskus</ns0:additionalName>
+                <ns0:repositoryURL>https://keeleressursid.ee/en/resources</ns0:repositoryURL>
+                <ns0:description language="eng">The goal of the Center of Estonian Language Resources (CELR) is to create and manage an infrastructure to make the Estonian language digital resources (dictionaries, corpora &#8211; both text and speech &#8211;, various language databases) and language technology tools (software) available to everyone working with digital language materials. CELR coordinates and organises the documentation and archiving of the resources as well as develops language technology standards and draws up necessary legal contracts and licences for different types of users (public, academic, commercial, etc.). In addition to collecting language resources, a system will be launched for introducing the resources to, informing and educating the potential users.
+The main users of CELR are researchers from Estonian R&amp;D institutions and Social Sciences and Humanities researchers all over the world via the CLARIN ERIC network of similar centers in Europe.
+Access to data is provided through different sites:  
+Public Repository https://entu.keeleressursid.ee/public-document , 
+Language resources https://keeleressursid.ee/en/resources/corpora, 
+and MetaShare CELR https://metashare.ut.ee/</ns0:description>
+                    <ns0:repositoryContact>info@keeleressursid.ee</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                    <ns0:type>institutional</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>est</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">104 Linguistics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11 Humanities</ns0:subject>
+                <ns0:missionStatementURL />
+                    <ns0:contentType contentTypeScheme="parse">Audiovisual data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Software applications</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>Estonian</ns0:keyword>
+                    <ns0:keyword>corpora</ns0:keyword>
+                    <ns0:keyword>transcripts</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">CLARIN-ERIC</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Common Language Resources and Technology Infrastructure - European Research Infrastructure Consortium</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>EEC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.clarin.eu/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Center of Estonian Language Resources</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">CELR</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="est">EKRK</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="est">Eesti Keeleressursside Keskus</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>EST</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://keeleressursid.ee/en/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Institute of the Estonian Language</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="est">Eesti Keele Instituut</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>EST</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://en.eki.ee/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:041dzw371</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">META-NORD</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Baltic and Nordic Parts of the European Open Linguistic Infrastructure</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>EEC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.meta-net.eu/projects/meta-nord/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Tallinn University of Technology, Institute of Cybernetics</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="est">TT&#220; k&#252;berneetika instituut</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">TUT, Institute of Cybernetics</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="est">Tallinna Technika&#220;likool, K&#252;berneetika instituut</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>EST</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://old.taltech.ee/instituut/kuberneetika-instituut</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://old.taltech.ee/instituut/kuberneetika-instituut/kontakt-321/</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of Tartu</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="est">Tartu &#220;likool</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>EST</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.ut.ee/en</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:03z77qz90</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.ut.ee/en/contact</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Metashare User manual</ns0:policyName>
+                <ns0:policyURL>https://metashare.ut.ee/site_media/documentation.pdf</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Terms and conditions - Keeleressursside arhiveerimine ja haldamine</ns0:policyName>
+                <ns0:policyURL>https://keeleressursid.ee/et/teenused/keeleressursside-arhiveerimine-ja-haldamine</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>User rights application form - Kasutaja&#245;iguste taotlusvorm</ns0:policyName>
+                <ns0:policyURL>http://kasutajataotlus.keeleressursid.ee/#/</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>institutional membership</ns0:dataAccessRestriction>
+                                    <ns0:dataAccessRestriction>other</ns0:dataAccessRestriction>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>BSD</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://opensource.org/licenses/BSD-3-Clause</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/licenses/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>RL</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://opensource.org/licenses/MS-RL</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www.gnu.org/licenses/lgpl-3.0.de.html</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://keeleressursid.ee/et/teenused/ligipaasu-tagamine</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.clarin.eu/content/licenses-and-clarin-categories#aca</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>institutional membership</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                    <ns0:pidSystem>hdl</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                    <ns0:certificate>CLARIN certificate B</ns0:certificate>
+                    <ns0:certificate>other</ns0:certificate>
+                                <ns0:remarks />
+        <ns0:entryDate>2016-02-19</ns0:entryDate>
+        <ns0:lastUpdate>2020-12-11</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

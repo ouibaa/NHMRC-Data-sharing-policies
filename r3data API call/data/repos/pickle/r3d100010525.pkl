@@ -1,0 +1,93 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010525</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">NASA/IPAC Extragalactic Database</ns0:repositoryName>
+                    <ns0:additionalName language="eng">NED</ns0:additionalName>
+                <ns0:repositoryURL>http://ned.ipac.caltech.edu/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.b952rv</ns0:repositoryIdentifier>
+                <ns0:description language="eng">NED is a comprehensive database of multiwavelength data for extragalactic objects, providing a systematic, ongoing fusion of information integrated from hundreds of large sky surveys and tens of thousands of research publications. The contents and services span the entire observed spectrum from gamma rays through radio frequencies. As new observations are published, they are cross- identified or statistically associated with previous data and integrated into a unified database to simplify queries and retrieval. Seamless connectivity is also provided to data in NASA astrophysics mission archives (IRSA, HEASARC, MAST), to the astrophysics literature via ADS, and to other data centers around the world.</ns0:description>
+                    <ns0:repositoryContact>info@ipac.caltech.edu</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2018-11-21">Sources and objects: Unprocessed Catalog Sources (not crossmatched) 	1,614,141 Distinct Objects 666,777,866 Multiwavelength Cross-IDs 773,017,742 Object Associations 	1,413,568.
+Distinct references: Distinct References 113,173 Publication Abstracts 	87,347 Object Links to references 45,303,161.
+Data: Photometric Data Points 	4,980,374,077 Diameters 	608,833,152 Redshifts 	11,324,496 Objects with Redshifts 	7,731,370 Redshift-Independent Distances 269,110 Objects with Redshift-Independent Distances  146,412 Detailed Classifications  502,105 Objects with Detailed Classifications 	229,792 Detailed Object Notes 	76,142 Images 	2,529,660 Spectra 645,455.</ns0:size>
+        <ns0:startDate>1983</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">311 Astrophysics and Astronomy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">32 Physics</ns0:subject>
+                <ns0:missionStatementURL>http://ned.ipac.caltech.edu/docs/NEDCurrentBrochure.pdf</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Archived data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Databases</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Software applications</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>astronomy</ns0:keyword>
+                    <ns0:keyword>astrophysics</ns0:keyword>
+                    <ns0:keyword>digitized Sky Survey DSS</ns0:keyword>
+                    <ns0:keyword>extragalactic objects</ns0:keyword>
+                    <ns0:keyword>glaxies</ns0:keyword>
+                    <ns0:keyword>measurement</ns0:keyword>
+                    <ns0:keyword>object classification</ns0:keyword>
+                    <ns0:keyword>photometry</ns0:keyword>
+                    <ns0:keyword>physics</ns0:keyword>
+                    <ns0:keyword>redshift data</ns0:keyword>
+                    <ns0:keyword>spectroscopy</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">California Institute of Technology,  Jet Propulsion Laboratory,  Infrared Processing and Analysis Center</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">IPAC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.ipac.caltech.edu/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.ipac.caltech.edu/page/contact</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">NASA</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">National Aeronautics and Space Administration</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.nasa.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.nasa.gov/about/contact/index.html</ns0:institutionContact>
+                            </ns0:institution>
+                        <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.ipac.caltech.edu/page/image-use-policy</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>other</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>http://ned.ipac.caltech.edu/help/faq6.html#6c</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks>is covered by Elsevier. NED's data and references are being continually updated, with revised versions being put on-line every 4-6 months.
+NED contains "Level 5" a knowledgebase for extragalactic astronomy and cosmology</ns0:remarks>
+        <ns0:entryDate>2013-11-05</ns0:entryDate>
+        <ns0:lastUpdate>2021-09-02</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

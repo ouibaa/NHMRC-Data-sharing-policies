@@ -1,0 +1,99 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011793</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">ASTER Volcano Archive</ns0:repositoryName>
+                    <ns0:additionalName language="eng">AVA</ns0:additionalName>
+                <ns0:repositoryURL>https://ava.jpl.nasa.gov/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>biodbcore-001299</ns0:repositoryIdentifier>
+                <ns0:description language="eng">The ASTER Volcano Archive (AVA) is the worlds largest specialty archive of volcano data. For 1,549 recently active volcanos listed by the Smithsonian Global Volcanism Program, the AVA has collected the entirety of high-resolution multispectral ASTER data and made it available to the public. Also included are digital elevation maps, NOAA ash advisories, alteration zone imagery, and thermal anomaly reports. LANDSAT7 data are also being processed.</ns0:description>
+                    <ns0:repositoryContact>ava@jpl.nasa.gov</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2021-10-18">195.450 granules; 25.519 NOAA reports; 1.216 digital elevation maps; 6.338 thermal anomaly detections</ns0:size>
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">311 Astrophysics and Astronomy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">315 Geophysics and Geodesy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31502 Geodesy, Photogrammetry, Remote Sensing, Geoinformatics, Cartogaphy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">32 Physics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL>https://ava.jpl.nasa.gov/pages/about/about.html</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>LANDSAT7</ns0:keyword>
+                    <ns0:keyword>SO2 emissions</ns0:keyword>
+                    <ns0:keyword>infrared imagery</ns0:keyword>
+                    <ns0:keyword>lava flow</ns0:keyword>
+                    <ns0:keyword>volcano ash</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">California Institute of Technology</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Caltech</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.caltech.edu/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:05dxps055</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.caltech.edu/contact</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Jet Propulsion Laboratory</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">JPL</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.jpl.nasa.gov/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:027k65916</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.jpl.nasa.gov/contact_JPL.php</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Aeronautics and Space Administration</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NASA</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.nasa.gov/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:027ka1x80</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.nasa.gov/about/contact/index.html</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>JPL Image use policy</ns0:policyName>
+                <ns0:policyURL>https://www.jpl.nasa.gov/jpl-image-use-policy</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.jpl.nasa.gov/jpl-image-use-policy</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                <ns0:versioning />
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks>The ASTER Volcano Archive (AVA) was created by members of the ASTER Joint Science Team under a series of proposals to the NASA Science of Terra and Aqua Program. All AVA Team members are also ex-officio members of the ASTER Geology Working Group, and Science Team Associates.</ns0:remarks>
+        <ns0:entryDate>2015-07-20</ns0:entryDate>
+        <ns0:lastUpdate>2021-11-16</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

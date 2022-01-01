@@ -1,0 +1,91 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011028</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">ETH Travel Data Archive</ns0:repositoryName>
+                    <ns0:additionalName language="eng">ETHTDA</ns0:additionalName>
+                <ns0:repositoryURL>http://archiv.ivt.ethz.ch/vpl/publications/ethtda/index_EN.html</ns0:repositoryURL>
+                <ns0:description language="eng">!!! The documents are stored in the ETH Web archive and are no longer maintained !!!
+The ETHTDA archives and documents the data set collected by the IVT, ETH Z&#252;rich in the course of its research. The majority of the about 40 surveys are designed and conducted by its staff. Some further data sets are included after careful cleaning and further documentation.</ns0:description>
+                            <ns0:type>other</ns0:type>
+                <ns0:size updated="2014-09-17">40 surveys</ns0:size>
+        <ns0:startDate>2001</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">317 Geography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">4 Engineering Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">407 Systems Engineering</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">40704 Traffic and Transport Systems, Logistics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">410 Construction Engineering and Architecture</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">41002 Urbanism, Spatial Planning, Transportation and Infrastructure Planning, Landscape Planning</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">44 Computer Science, Electrical and System Engineering</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">45 Construction Engineering and Architecture</ns0:subject>
+                <ns0:missionStatementURL>https://www.ethz.ch/content/specialinterest/baug/institute-ivt/institute-ivt/en/institut/vpl/reisedaten-forschungsdaten.html</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Software applications</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>civil engineering - planning</ns0:keyword>
+                    <ns0:keyword>geography - network analysis</ns0:keyword>
+                    <ns0:keyword>planning - forecasting</ns0:keyword>
+                    <ns0:keyword>transport theory - statistical methods</ns0:keyword>
+                    <ns0:keyword>transportation</ns0:keyword>
+                    <ns0:keyword>transportation - models</ns0:keyword>
+                    <ns0:keyword>transportation - social aspects</ns0:keyword>
+                    <ns0:keyword>transportation and state - econometric models</ns0:keyword>
+                    <ns0:keyword>transportation and state - planning</ns0:keyword>
+                    <ns0:keyword>transportation engineering</ns0:keyword>
+                    <ns0:keyword>transportation surveys</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Swiss Federal Institute of Technology Zurich, Institute of Transport Planning and Systems</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="deu">ETH IVT</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="deu">Eidgen&#246;ssische Technische Hochschule Z&#252;rich, Institut f&#252;r Verkehrsplanung und Transportsysteme</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CHE</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.ivt.ethz.ch/en/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>User Guide Nesstar</ns0:policyName>
+                <ns0:policyURL>http://www.nesstar.com/help/4.0/webview/index.html</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>closed</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.ethz.ch/en/footer/copyright.html</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>Nesstar</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">DDI - Data Documentation Initiative</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/ddi-data-documentation-initiative</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks>Data Documentation Initiative metadata standard; DDI Compliant archiving of datasets</ns0:remarks>
+        <ns0:entryDate>2014-09-17</ns0:entryDate>
+        <ns0:lastUpdate>2019-02-05</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

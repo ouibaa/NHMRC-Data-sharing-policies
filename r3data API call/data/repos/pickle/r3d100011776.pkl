@@ -1,0 +1,107 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011776</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Swedish Meteorological and Hydrological Institute  open data</ns0:repositoryName>
+                    <ns0:additionalName language="eng">SMHI  open data</ns0:additionalName>
+                    <ns0:additionalName language="swe">SMHI &#214;ppna data</ns0:additionalName>
+                <ns0:repositoryURL>https://www.smhi.se/data/utforskaren-oppna-data/</ns0:repositoryURL>
+                <ns0:description language="eng">SMHI's observation stations collect large quantities of data, including temperature, precipitation, wind, air pressure, lightning, solar radiation and ozone. Satellites and radar installations are also important sources. Data is presented continuously on smhi.se and used in SMHI's various weather services.
+In the Explorer SMHI&#8217;s data ( http://opendata-catalog.smhi.se/explore/ ) you find data available with open access (in Swedish). Information in English on Oceanographic observations, Model data (HIROMB BS01), Machine to machine &#8211; feeds, and Conditions of use.</ns0:description>
+                    <ns0:repositoryContact>http://www.smhi.se/en/contact</ns0:repositoryContact>
+                    <ns0:repositoryContact>smhi@smhi.se</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                    <ns0:type>institutional</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>swe</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">317 Geography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">318 Water Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31801 Hydrogeology, Hydrology, Limnology, Urban Water Management, Water Chemistry, Integrated Water Resources Management</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL>http://www.smhi.se/en/about-smhi/what-we-do/observations-and-data-air-lakes-waterways-and-seas-1.83759</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Archived data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Databases</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>Arome</ns0:keyword>
+                    <ns0:keyword>Besan</ns0:keyword>
+                    <ns0:keyword>HIRLAM</ns0:keyword>
+                    <ns0:keyword>HIROMB BS01</ns0:keyword>
+                    <ns0:keyword>climatology</ns0:keyword>
+                    <ns0:keyword>hydrology</ns0:keyword>
+                    <ns0:keyword>meteorology</ns0:keyword>
+                    <ns0:keyword>oceanography</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Swedish Meteorological and Hydrological Institute</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">SMHI</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="swe">Sveriges meteorologiska och hydrologiska institut</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>SWE</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.smhi.se/en</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Conditions of use</ns0:policyName>
+                <ns0:policyURL>http://www.smhi.se/en/services/open-data/conditions-of-use-1.33347</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Mer och mer &#246;ppna data</ns0:policyName>
+                <ns0:policyURL>http://www.smhi.se/omsmhi/policys/datapolicy/mer-och-mer-oppna-data-1.8138</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Villkor f&#246;r anv&#228;ndning</ns0:policyName>
+                <ns0:policyURL>https://www.smhi.se/data/oppna-data/villkor-for-anvandning-1.30622</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>code of conduct of SMHI</ns0:policyName>
+                <ns0:policyURL>http://www.smhi.se/polopoly_fs/1.98502!/Menu/general/extGroup/attachmentColHold/mainCol1/file/The%20Code%20of%20Conduct%20of%20SMHI.pdf</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/licenses/by/4.0/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www.smhi.se/en/services/open-data/conditions-of-use-1.33347</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>institutional membership</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                    <ns0:api apiType="REST">http://opendata.smhi.se/apidocs/</ns0:api>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">ISO 19115</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/iso-19115</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                            <ns0:syndication syndicationType="ATOM">http://opendata-download-grid-archive.smhi.se/feed/2</ns0:syndication>
+                <ns0:remarks />
+        <ns0:entryDate>2016-03-07</ns0:entryDate>
+        <ns0:lastUpdate>2021-12-15</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

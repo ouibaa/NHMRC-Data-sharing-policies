@@ -1,0 +1,110 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010800</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">NOAA's Integrated Coral Observing Network</ns0:repositoryName>
+                    <ns0:additionalName language="eng">ICON</ns0:additionalName>
+                <ns0:repositoryURL>http://ecoforecast.coral.noaa.gov/</ns0:repositoryURL>
+                <ns0:description language="eng">This site provides a central location for integrated near real-time or recent data relating to coral reefs, and also provides ecological forecasts  (through artificial intelligence technology) as to the occurrence of specified environmental conditions, as prescribed by modelers, oceanographers and marine biologists.</ns0:description>
+                    <ns0:repositoryContact>https://ecoforecast.coral.noaa.gov/help?sid=0&amp;station=HCBZ1&amp;page=station-home</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                <ns0:missionStatementURL>https://ecoforecast.coral.noaa.gov/index/0/HCBZ1/station-sources</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Networkbased data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>coral health</ns0:keyword>
+                    <ns0:keyword>coral monitoring</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">National Oceanic and Atmospheric Administration, Coral Health and Monitoring Program</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NOAA, CHAMP</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.coral.noaa.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Oceanic and Atmospheric Administration, Coral Reef Conservation Program</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NOAA, Coral Reef</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://coralreef.noaa.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Oceanic and Atmospheric Administration, Office of Oceanic and Atmospheric Research, Atlantic Oceanographic &amp; Meteorological Laboratory</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NOAA, AOML</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.aoml.noaa.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Oceanic and Atmospheric Administration, Office of the Chief Information Officer and High-Performance Computing and Communications Office</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NOAA, OCIO/HPCC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.cio.noaa.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Policies and Disclaimers</ns0:policyName>
+                <ns0:policyURL>https://www.fisheries.noaa.gov/website-policies-and-disclaimers#linking-policy-disclaimer</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Policy on the Information Quality Act</ns0:policyName>
+                <ns0:policyURL>https://www.cio.noaa.gov/services_programs/info_quality.html</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www.ngdc.noaa.gov/ngdcinfo/privacy.html#copyright</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>Public Domain</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://mers#linking-policy-disclaimer</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www.cio.noaa.gov/services_programs/info_quality.html</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>no</ns0:versioning>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>no</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">FGDC/CSDGM - Federal Geographic Data Committee Content Standard for Digital Geospatial Metadata</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/fgdccsdgm-federal-geographic-data-committee-content-standard-digital-ge</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks>The ICON Program is another Coral Health and Monitoring Program (CHAMP) Project, supported by NOAA's Coral Reef Conservation Program , the High-Performance Computing and Communications Office, and operating at the Atlantic Oceanographic and Meteorological Laboratory</ns0:remarks>
+        <ns0:entryDate>2014-07-23</ns0:entryDate>
+        <ns0:lastUpdate>2018-11-23</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

@@ -1,0 +1,164 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011847</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">REasons for Geographic and Racial Differences in Stroke Study</ns0:repositoryName>
+                    <ns0:additionalName language="eng">REGARDS</ns0:additionalName>
+                <ns0:repositoryURL>https://www.uab.edu/soph/regardsstudy/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>RRID:SCR_007228</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:nif-0000-01878</ns0:repositoryIdentifier>
+                <ns0:description language="eng">REGARDS is an observational study of risk factors for stroke in adults 45 years or older.  30,239 participants were recruited between January 2003 and October 2007.  They completed a telephone interview followed by an in-home physical exam.  Measurements included traditional risk factors such as blood pressure and cholesterol levels, and an echocardiogram of the heart.  At six month intervals, participants are contacted by phone to ask about stroke symptoms, hospitalizations and general health status.  The study is ongoing and will follow participants for many years.</ns0:description>
+                    <ns0:repositoryContact>https://www.uab.edu/soph/regardsstudy/participants</ns0:repositoryContact>
+                    <ns0:repositoryContact>regards@uab.edu</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2016-04-19">30.239 participants</ns0:size>
+        <ns0:startDate>2003</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">205 Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20502 Public Health, Health Services Research, Social Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">206 Neurosciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                <ns0:missionStatementURL>https://www.uab.edu/soph/regardsstudy/about</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>brain</ns0:keyword>
+                    <ns0:keyword>etiology</ns0:keyword>
+                    <ns0:keyword>geographic differences</ns0:keyword>
+                    <ns0:keyword>racial differences</ns0:keyword>
+                    <ns0:keyword>risk factors</ns0:keyword>
+                    <ns0:keyword>stroke</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Examination Management Services, Inc</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">EMSI</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.emsinet.com/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Institute for Neurological Disorders and Stroke</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NINDS</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.ninds.nih.gov/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>"ROR"</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.ninds.nih.gov/Contact-Us</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Institutes of Health</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NIH</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.nih.gov/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:01cwqze88</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.nih.gov/about-nih/contact-us</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of Alabama Institutional Review Board for Human Use</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">UAB IRB</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.uab.edu/research/home/irb</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.uab.edu/research/home/about/contact-us</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of Alabama School of Public Health</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">UAB School of Public Health</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.uab.edu/soph/home/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>Regards@uab.edu</ns0:institutionContact>
+                                    <ns0:institutionContact>pajohn@uab.edu</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of Arkansas for Medical Sciences</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">UAMS</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.uams.edu/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:00xcryt71</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of Vermont</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.uvm.edu/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:0155zta11</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>elaine.cornell@uvm.edu</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Wake Forest University, School of Medicine</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Wake Forest School of Medicine</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://school.wakehealth.edu/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Coded Private Information or Specimens Use in Research, Guidance</ns0:policyName>
+                <ns0:policyURL>https://www.hhs.gov/ohrp/regulations-and-policy/guidance/research-involving-coded-private-information/index.html</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Digital Mass Communications and Content Policy</ns0:policyName>
+                <ns0:policyURL>https://www.uab.edu/policies/content/Pages/UAB-IT-POL-0000404.html</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>NIH Data Sharing Policy</ns0:policyName>
+                <ns0:policyURL>https://grants.nih.gov/grants/policy/data_sharing/</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>PUBLICATIONS and PRESENTATIONS (P&amp;P) Policies and Procedures</ns0:policyName>
+                <ns0:policyURL>https://www.uab.edu/soph/regardsstudy/images/documents/REGARDS_Combined_Publications__Presentations_Policies_and_Procedures_Version_41_April_2010_without_appendices_email_update.pdf</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>closed</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>other</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.uab.edu/soph/regardsstudy/images/documents/REGARDS_Combined_Publications__Presentations_Policies_and_Procedures_Version_41_April_2010_without_appendices_email_update.pdf</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                        <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks>Partners:  https://www.uab.edu/soph/regardsstudy/about. __ REGARDS iss covered by Thomson Reuters Data Citation Index.</ns0:remarks>
+        <ns0:entryDate>2016-04-18</ns0:entryDate>
+        <ns0:lastUpdate>2020-12-09</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

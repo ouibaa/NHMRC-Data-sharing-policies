@@ -1,0 +1,129 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011545</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="deu">Deutsches BioBanken-Register</ns0:repositoryName>
+                    <ns0:additionalName language="eng">German Biobank Registry</ns0:additionalName>
+                <ns0:repositoryURL>http://www.biobanken.de/en-gb/home.aspx</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>RRID:SCR_004991</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:nlx_143997</ns0:repositoryIdentifier>
+                <ns0:description language="eng">Biobanks are a key prerequisite for modern medical research. By linking samples and clinical data they make it possible to clarify the causes and the course of diseases. The German Biobank Registry pools the medically relevant biobanks in Germany. The German Biobank Registry provides an overview of the medical biobanks in Germany; increases the international visibility of German biobanks; facilitates the networking of biobanks; promotes an exchange of information and samples between research teams; supports the use of existing resources; provides information for investments in biobanks and promotes transparency and trust in research where human samples are used. Searching for samples in all biobanks is possible at the project portal (P2B2) https://p2b2.fraunhofer.de/ after registration.</ns0:description>
+                    <ns0:repositoryContact>http://www.biobanken.de/home/impressum.aspx</ns0:repositoryContact>
+                    <ns0:repositoryContact>info@biobanken.de</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2019-12-18">130 biobanks</ns0:size>
+        <ns0:startDate>2012</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>deu</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">201 Basic Biological and Medical Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">205 Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                <ns0:missionStatementURL>http://www.biobanken.de/en-gb/aboutus.aspx</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Databases</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>bioinformatics</ns0:keyword>
+                    <ns0:keyword>biotechnology</ns0:keyword>
+                    <ns0:keyword>clinical research</ns0:keyword>
+                    <ns0:keyword>diagnostics</ns0:keyword>
+                    <ns0:keyword>diseases</ns0:keyword>
+                    <ns0:keyword>health</ns0:keyword>
+                    <ns0:keyword>human samples with associated data</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="deu">Bundesministerium f&#252;r Bildung und Forschung</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="deu">BMBF</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">German Federal Ministry of Education and Research</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.bmbf.de/en/index.html</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:04pz7b180</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:SCR_005066</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_143994</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="deu">Fraunhofer-Institut f&#252;r Biomedizinische Technik</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="deu">Fraunhofer IBMT</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.ibmt.fraunhofer.de/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:05tpsgh61</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:SCR_011236</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_158601</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate>2014</ns0:responsibilityEndDate>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="deu">Fraunhofer-Institut f&#252;r Zelltherapie und Immunologie</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="deu">Fraunhofer IZI</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">Fraunhofer Institute for Cell Therapy and Immunology</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.izi.fraunhofer.de/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:04x45f476</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate>2014</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>p2b2@izi-bb.fraunhofer.de</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="deu">TMF &#8211; Technologie- und Methodenplattform f&#252;r die vernetzte medizinische Forschung e.V.</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="deu">TMF</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">Technology, Methods, and Infrastructure for Networked Medical Research</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.tmf-ev.de/EnglishSite/Home.aspx</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>RRID:SCR_004993</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_143998</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.tmf-ev.de/EnglishSite/AboutUs/Contact.aspx</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Datenschutz</ns0:policyName>
+                <ns0:policyURL>http://www.biobanken.de/home/datenschutz.aspx</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Rechtliche Grundlagen einer EU-weiten Biomaterialbank-Kooperation</ns0:policyName>
+                <ns0:policyURL>http://up.biobanken.de/Portals/0/Dokumentation/BMB-EUCoop%20-%20%20Mustertexte%20v1.0_Auszug_S23_bis_33.pdf</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://up.biobanken.de/Portals/0/Dokumentation/BMB-EUCoop%20-%20%20Mustertexte%20v1.0_Auszug_S23_bis_33.pdf</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>no</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks>see also: https://www.tmf-ev.de/BiobankenRegister_Alt/Register.aspx</ns0:remarks>
+        <ns0:entryDate>2015-01-29</ns0:entryDate>
+        <ns0:lastUpdate>2019-12-18</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

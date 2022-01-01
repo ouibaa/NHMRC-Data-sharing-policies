@@ -1,0 +1,118 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012284</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">CARMEN</ns0:repositoryName>
+                    <ns0:additionalName language="eng">Code analysis, repository  &amp; modelling for e-neuroscience</ns0:additionalName>
+                <ns0:repositoryURL>http://www.carmen.org.uk/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>RRID:SCR_002795</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:nif-0000-00442</ns0:repositoryIdentifier>
+                <ns0:description language="eng">&gt;&gt;&gt;   !!!!!    The Portal is no longer available.   !!!!    &gt;&gt;&gt;   The CARMEN pilot project seeks to create a virtual laboratory for
+experimental neurophysiology, enabling the sharing and collaborative
+exploitation of data, analysis code and expertise.  This study by the DCC
+contributes to an understanding of the data curation requirements of the
+eScience community, through its extended observation of the CARMEN
+neurophysiology community&#8217;s specification and selection of solutions for the
+organisation, access and curation of digital research output.</ns0:description>
+                    <ns0:repositoryContact>http://www.carmen.org.uk/?page_id=94</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2006-10-01</ns0:startDate>
+        <ns0:endDate>2014</ns0:endDate>
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">205 Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20504 Physiology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">206 Neurosciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                <ns0:missionStatementURL>http://www.carmen.org.uk/?page_id=251</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Software applications</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>Central Nervous System CNS</ns0:keyword>
+                    <ns0:keyword>electrophysiology</ns0:keyword>
+                    <ns0:keyword>neural activity</ns0:keyword>
+                    <ns0:keyword>neuroinformatics</ns0:keyword>
+                    <ns0:keyword>neurophysiology</ns0:keyword>
+                    <ns0:keyword>virtual laboratory</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Biotechnology and Biological Sciences Research Council</ns0:institutionName>
+                                <ns0:institutionCountry>GBR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.bbsrc.ac.uk/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.bbsrc.ac.uk/about/contact/</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Engineering and Physical Sciences Research Council</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">EPSRC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>GBR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.epsrc.ac.uk/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.epsrc.ac.uk/about/contactus/</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Newcastle University,  School of Medical Education</ns0:institutionName>
+                                <ns0:institutionCountry>GBR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.ncl.ac.uk/sme/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>alastair.knowles@ncl.ac.uk</ns0:institutionContact>
+                                    <ns0:institutionContact>c.d.ingram@ncl.ac.uk</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of York, Department of Computer Science</ns0:institutionName>
+                                <ns0:institutionCountry>GBR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.cs.york.ac.uk/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.cs.york.ac.uk/contactus/</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Use policy</ns0:policyName>
+                <ns0:policyURL>https://www.york.ac.uk/media/it-services/docs/policy/policies/ylaup.pdf</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>restricted</ns0:databaseAccessType>
+                            <ns0:databaseAccessRestriction>registration</ns0:databaseAccessRestriction>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>institutional membership</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.york.ac.uk/media/it-services/docs/policy/policies/ylaup.pdf</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>institutional membership</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                    <ns0:api apiType="other">http://www.carmen.org.uk/?page_id=338</ns0:api>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks>Collaboration: http://www.carmen.org.uk/wp-content/uploads/2014/09/carmen-factsheet.pdf</ns0:remarks>
+        <ns0:entryDate>2016-12-07</ns0:entryDate>
+        <ns0:lastUpdate>2018-08-07</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

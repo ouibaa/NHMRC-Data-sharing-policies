@@ -1,0 +1,123 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010853</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Pig Expression Data Explorer</ns0:repositoryName>
+                    <ns0:additionalName language="eng">PEDE</ns0:additionalName>
+                <ns0:repositoryURL>http://pede.dna.affrc.go.jp/</ns0:repositoryURL>
+                <ns0:description language="eng">The Pig Expression Data Explorer (PEDE) database system stores full-length cDNA libraries of swine data accesible via keyword and ID searches. Data is publically available, and may specifically interest genetic researchers interested in disease sucsceptibly, and major and minor porcine specific antigens.</ns0:description>
+                    <ns0:repositoryContact>animal@dna.affrc.go.jp</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2003</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">201 Basic Biological and Medical Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">203 Zoology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20306 Animal Genetics, Cell and Developmental Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">207 Agriculture, Forestry, Horticulture and Veterinary Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20708 Agricultural Economics and Sociology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20711 Animal Husbandry, Breeding and Hygiene</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">23 Agriculture, Forestry, Horticulture and Veterinary Medicine</ns0:subject>
+                <ns0:missionStatementURL>http://pede.dna.affrc.go.jp/aim/disclaimer.html</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Audiovisual data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>DNA data banks</ns0:keyword>
+                    <ns0:keyword>amino acids</ns0:keyword>
+                    <ns0:keyword>animals</ns0:keyword>
+                    <ns0:keyword>antigens</ns0:keyword>
+                    <ns0:keyword>biodiversity</ns0:keyword>
+                    <ns0:keyword>birds</ns0:keyword>
+                    <ns0:keyword>data libraries</ns0:keyword>
+                    <ns0:keyword>gene expression</ns0:keyword>
+                    <ns0:keyword>gene libraries</ns0:keyword>
+                    <ns0:keyword>humanities</ns0:keyword>
+                    <ns0:keyword>life sciences</ns0:keyword>
+                    <ns0:keyword>physical sciences</ns0:keyword>
+                    <ns0:keyword>pork</ns0:keyword>
+                    <ns0:keyword>pork industry and trade</ns0:keyword>
+                    <ns0:keyword>sound</ns0:keyword>
+                    <ns0:keyword>sound recordings</ns0:keyword>
+                    <ns0:keyword>video recordings</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Animal Genome Research Program</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">AGP</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>JPN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://animal.dna.affrc.go.jp/agp/index.html</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">JATAFF Institute</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Japan Institute for Techno-innovation in Agriculture, Forestry and Fisheries - Institute</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">STAFF Institute</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="jpn">&#20844;&#30410;&#31038;&#22243;&#27861;&#20154;&#36786;&#26519;&#27700;&#29987;&#12539;&#39135;&#21697;&#29987;&#26989;&#25216;&#34899;&#25391;&#33288;&#21332;&#20250;</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>JPN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.jataff.or.jp/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Agriculture and Food Research Organization</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NARO</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="jpn">&#36786;&#30740;&#27231;&#27083;</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>JPN</ns0:institutionCountry>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.naro.go.jp/english/index.html</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:023v4bd62</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate>2016</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Institute of Agrobiological Sciences</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NIAS</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>JPN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.nias.affrc.go.jp/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:01786mp71</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:SCR_011420</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_156713</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate>2016</ns0:responsibilityEndDate>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>NIAS charter</ns0:policyName>
+                <ns0:policyURL>http://www.naro.affrc.go.jp/archive/nias/eng/charter/index.html</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Public Domain</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://pede.dna.affrc.go.jp/aim/disclaimer.html</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www.naro.affrc.go.jp/archive/nias/eng/intel/index.html</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                <ns0:versioning>yes</ns0:versioning>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://pede.dna.affrc.go.jp/aim/disclaimer.html</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                <ns0:remarks>PEDE is provided as one of the resources in the Animal Genome Database, which is provided in coorperation with the NIAS DNA bank.</ns0:remarks>
+        <ns0:entryDate>2014-07-15</ns0:entryDate>
+        <ns0:lastUpdate>2021-05-28</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

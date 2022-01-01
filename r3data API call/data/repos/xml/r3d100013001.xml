@@ -1,0 +1,71 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100013001</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">York Region Open Data</ns0:repositoryName>
+                <ns0:repositoryURL>https://insights-york.opendata.arcgis.com/</ns0:repositoryURL>
+                <ns0:description language="eng">Access to the York Region open data catalogue. Explore, combine, and download open data from York Region.</ns0:description>
+                    <ns0:repositoryContact>open.data@york.ca</ns0:repositoryContact>
+                            <ns0:type>other</ns0:type>
+                <ns0:size updated="2019-06-03">188 datasets</ns0:size>
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">4 Engineering Sciences</ns0:subject>
+                <ns0:missionStatementURL>https://www.york.ca/wps/portal/yorkhome/yorkregion/yr/statisticsanddata/opendata/opendata/!ut/p/a1/tZFdT8IwGIV_CxdcLn3Xbqy7rFPZRhgmaNx2Q8q-GLIPRiXir7egMRKDiKm9at-cPjnnPShGIYprvi0LLsqm5qv9Ox7MPDb0XHcE_sSgDjCYMB9bFOjIkoJICuDEYXDu_yOKUZzUohULFO26WdLUIqtFH3ZN9yQfG1GK58Ng0VTZ-7jLCumuDxshbUpBsuF1mnLB-9C0WX182_PbpExRlANOMUmwZlMDa8aAzLU5pqClYGdpkhPL1jnyfxEYd2NnXEgsFwutrPMGhd-soPDTwJcbisrleh0zGXmf80Wg8F8yH7Yqc2BsDFzdAR_cCQXv1rozr6mrg2OeEYzwh-CHZiNZvXVyVVMdTS_c_RmgpRiIsWqgqRqoOrL311J8DxydSeCQ3BBg2HPoFfFpEIBqh0QxkKlumamOzC5vua0eKkrMVUGF7S3Ndvt6n1fVLAg0PqdAjgYR6_XeAI8hMF8!/dl5/d5/L2dBISEvZ0FBIS9nQSEh/#.XPTozPXgqUk</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>multidisciplinary</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">York Region</ns0:institutionName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.york.ca</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Accessibility</ns0:policyName>
+                <ns0:policyURL>https://www.york.ca/wps/portal/yorkhome/yorkregion/yr/accessibility/!ut/p/a1/rZFLU8IwFIV_jctObh4lYRmr0hYBZ9CRdsOE0kKUPiiREX-9Ad2wQESTXe6cfDnnHpSiCUortdULZXRdqdX-nnamkexFYdiHeMREABJGMiZcgOhzK0isAE4cCefeP6MUpVllGrNEya6dZnVl8spcwa5uX-1lY7R5OwyWdZl_jdt8Yd1dgcqyfLPRM73SZrfnNJmeoyTvkm6BC-ZlmBYe44x4inHqzflMFX6HYcy6KP5FMNIOgsHCYpVZeroqajQ5_tJq9Mt6nUobYe_73aDJvzIctmF9EcI6IQ4ghnAkILrjD_6NCDEE_hlBn3wLfmgksZXxk9HHGI0v3OUZIHcMJMQ10HcNdB05-mspcQQBlhbYo7cUJIkCcU1jMRyCa4fUMVC6blm6jiwvb7kpn0pB_dX2vhhHnpoJoH6z_XgsynI6HB4PPgGORfLu/dl5/d5/L2dBISEvZ0FBIS9nQSEh/#.XPTpEfXgqUk</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Open Data</ns0:policyName>
+                <ns0:policyURL>https://www.york.ca/wps/portal/yorkhome/yorkregion/yr/statisticsanddata/opendata/opendata/!ut/p/a1/tZFdT8IwGIV_CxdcLn3Xbqy7rFPZRhgmaNx2Q8q-GLIPRiXir7egMRKDiKm9at-cPjnnPShGIYprvi0LLsqm5qv9Ox7MPDb0XHcE_sSgDjCYMB9bFOjIkoJICuDEYXDu_yOKUZzUohULFO26WdLUIqtFH3ZN9yQfG1GK58Ng0VTZ-7jLCumuDxshbUpBsuF1mnLB-9C0WX182_PbpExRlANOMUmwZlMDa8aAzLU5pqClYGdpkhPL1jnyfxEYd2NnXEgsFwutrPMGhd-soPDTwJcbisrleh0zGXmf80Wg8F8yH7Yqc2BsDFzdAR_cCQXv1rozr6mrg2OeEYzwh-CHZiNZvXVyVVMdTS_c_RmgpRiIsWqgqRqoOrL311J8DxydSeCQ3BBg2HPoFfFpEIBqh0QxkKlumamOzC5vua0eKkrMVUGF7S3Ndvt6n1fVLAg0PqdAjgYR6_XeAI8hMF8!/dl5/d5/L2dBISEvZ0FBIS9nQSEh/#.XPTozPXgqUk</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                    <ns0:databaseLicense>
+                <ns0:databaseLicenseName>other</ns0:databaseLicenseName>
+                <ns0:databaseLicenseURL>https://www.york.ca/wps/portal/yorkhome/yorkregion/yr/privacyanddisclaimer/websitetermsofuse/disclaimerstermsofuseandcopyrights/!ut/p/a1/rVFdb4IwFP01PpJeqEB5rLgJGHGbW1ReTK0VG-UjUDXu16_OJWbZnLrQt3t67sk596AETVCSs51MmZJFzjbHOXFmIe2FQdCHaNgmPlAY0shyCZC-qwlTTYALj8K1_TFKUMJzVaoVmh6qGS9yJXLVgkNRrfVQK6m2n8CqyMQJrkSq3bWgrOSO8QPLFwtZ8w2TmahasBfzWiqhRJXVxXJb66Xzd32G9RovykMl05Wqjy5KLhdoipnLTY-7BnEwNtqOiQ1GXM_wsGDOXHBn7nEU3XAWqxr4g1TLMrUyZL4s0OQ3w2jywzCa3GB43EGJibt79ny6ofZjWW0nMH2IIBgSCB_dJ7tLAhN8-wqhb30R_uhxqot2L0YemWh05w2vCLoNC1pW04J204JNRw7_W0oUgm9SLdjDDxioFfqkgyMSx9C0Q9ywIG26Zdp0ZHp_y2X2lhFsb1JirF8IYLvcvb8us2wWxwabfwMGH1Ur5i0!/dl5/d5/L2dBISEvZ0FBIS9nQSEh/#.XPToXfXgqUk</ns0:databaseLicenseURL>
+            </ns0:databaseLicense>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>OGLC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://ago-item-storage.s3.us-east-1.amazonaws.com/78cc02388af248c0b7a30eda6adfade0/Open_Data_Licence.pdf?X-Amz-Security-Token=AgoJb3JpZ2luX2VjENP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIFy9CfXKqIpUvE79qw3ZUme8W%2F6LQ8n4eFXZ7PDVe9GSAiEA0EtEx%2BmQgzkiydAeKqkJ%2FdYoxVHRCLiMbKZd3R%2Bfz1Yq2gMIfBAAGgw2MDQ3NTgxMDI2NjUiDMxEEQ3kv9HBvba1dCq3Azep1sAUZRkbbbomTstgMejMfVj%2FMSo6ilvZBmzFR%2FcYSLTEj3jMVDO4uN4bhwqlXGkjmeJ6dXohHGu0fw41PO3nUm2%2FMhx%2FYwDJMDey4FSENTGEejbPXjedAJKtTXoz%2FubDnv3SSEgRM1ZUvfIFYZ4L071%2BHO%2BiOthdVSiDtestS4gG2m0Ybs6sPjNt9VpkF1nHBXg8X3b1FAXkv7NHDbfRW24Aw%2BAHlzpiTadnXCXqPjxy8OLm16si00tnuqIkU6dwRzriUnqoXNLV8YhOtx%2BXrsyFkDkW4q5uiGIxE9r2s%2FnI2fKLBhFeEwxq%2FjjzW8662sPU4rdbeoCxAG6tJMOSpw49UBE2hJxILPuhdPpAYIym1UokVxpQSjBDgV1RHLSGVY7npMfuccnZkY7I5HVMxM2so8Mnwbh6JiAbYMGpJy%2BV2B8A7sXt9WYUIy8pIIuE2Eud8BeNALCnNOw1JoYKDv8rYgZWxAQRNNA8b4Y0hlTTEIuNYqx6nK7GWfXpzXGXpjmqxOqjOZ0JWuOOuUeBvK%2FC41HBNNFeTHFr6Kh6yXeTWo8ZUdt6rrkCbyHjPD6W1xUlze8w87zP5AU6tAHTn%2FOwD6sPpnQl1WlnABIEpDqhWVgPuognx1qhl%2Fl6ucFEJlda7LRybJsu13MNm77LC%2Be5l8W2n%2Bj7HY0HEQaJkmxDbeAsO1uj6v%2F3ZIPl1FB5Z3lhFpNo%2F%2FXHuqUb63LOr3MZ%2B0peU9ZL69Vcm9rfRxASs3ffOvwpINQZo4GeZN2z4GIk%2FeYvIk9Lvefb7AwqNDEkXrwSwWJDKTvkdYpG2SZFZb2HcokFonA6fr0UjcGFAi4%3D&amp;X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Date=20190321T194808Z&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Expires=300&amp;X-Amz-Credential=ASIAYZTTEKKE7EQMHQJG%2F20190321%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Signature=985c9f9be09b13f046042dcd778712833a4f09c94edbdd53000e19e05b47f0f6</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>institutional membership</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                <ns0:versioning />
+                    <ns0:api apiType="REST">https://services1.arcgis.com/GzvOwaQBbX7KLiuG/ArcGIS/rest/services</ns0:api>
+                        <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">FGDC/CSDGM - Federal Geographic Data Committee Content Standard for Digital Geospatial Metadata</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/fgdccsdgm-federal-geographic-data-committee-content-standard-digital-ge</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks />
+        <ns0:entryDate>2019-03-21</ns0:entryDate>
+        <ns0:lastUpdate>2019-06-05</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

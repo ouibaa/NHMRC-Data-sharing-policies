@@ -1,0 +1,110 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011245</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">University of Southampton Institutional Research Repository</ns0:repositoryName>
+                    <ns0:additionalName language="eng">ePrints Soton</ns0:additionalName>
+                <ns0:repositoryURL>https://eprints.soton.ac.uk/</ns0:repositoryURL>
+                <ns0:description language="eng">ePrints Soton is the University's Research Repository. It contains journal articles, books, PhD theses, conference papers, data, reports, working papers, art exhibitions and more. Where possible, journal articles, conference proceedings and research data made open access.</ns0:description>
+                    <ns0:repositoryContact>eprints@soton.ac.uk</ns0:repositoryContact>
+                            <ns0:type>institutional</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">4 Engineering Sciences</ns0:subject>
+                <ns0:missionStatementURL />
+                    <ns0:contentType contentTypeScheme="parse">Archived data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>multidisciplinary</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">University of Southampton</ns0:institutionName>
+                                <ns0:institutionCountry>GBR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.southampton.ac.uk/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>RRID:SCR_008086</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_56990</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.southampton.ac.uk/contact.page</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>General Information and Regulations</ns0:policyName>
+                <ns0:policyURL>https://www.southampton.ac.uk/calendar/sectioniv/index.page</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Open Access &amp; Institutional Repository: Policies and Information for Depositors/Authors</ns0:policyName>
+                <ns0:policyURL>http://library.soton.ac.uk/openaccess/policies</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>University Ethics policy</ns0:policyName>
+                <ns0:policyURL>https://www.southampton.ac.uk/about/governance/policies/ethics.page</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>University policy on open access</ns0:policyName>
+                <ns0:policyURL>http://www.calendar.soton.ac.uk/sectionIV/open-access.html</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>embargoed</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/licenses/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://library.soton.ac.uk/openaccess/copyright</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>institutional membership</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>Deposit agreement</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>http://library.soton.ac.uk/openaccess/deposit-agreement</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                            <ns0:software>
+                <ns0:softwareName>EPrints</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                    <ns0:api apiType="OAI-PMH">https://eprints.soton.ac.uk/cgi/oai2</ns0:api>
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://library.soton.ac.uk/researchdata/datacitation</ns0:citationGuidelineURL>
+                    <ns0:aidSystem>none</ns0:aidSystem>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">DDI - Data Documentation Initiative</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/ddi-data-documentation-initiative</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                    <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">Dublin Core</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                            <ns0:syndication syndicationType="ATOM">https://eprints.soton.ac.uk/cgi/latest_tool?output=Atom</ns0:syndication>
+                    <ns0:syndication syndicationType="RSS">https://eprints.soton.ac.uk/cgi/latest_tool?output=RSS</ns0:syndication>
+                    <ns0:syndication syndicationType="RSS">https://eprints.soton.ac.uk/cgi/latest_tool?output=RSS2</ns0:syndication>
+                <ns0:remarks>University of Southampton Institutional Research Repository is covered by Thomson Reuters Data Citation Index. University of Southampton Institutional Research Repository uses Altmetric metrics.
+ePrints is no longer available to login or deposit outputs, although you can still use ePrints for searching.
+All research outputs must now be deposited in Pure, the University's research information system - https://www.southampton.ac.uk/research/researcher-support/pure.page All records deposited in Pure with the status 'public' will appear in ePrints.</ns0:remarks>
+        <ns0:entryDate>2014-11-18</ns0:entryDate>
+        <ns0:lastUpdate>2019-10-02</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

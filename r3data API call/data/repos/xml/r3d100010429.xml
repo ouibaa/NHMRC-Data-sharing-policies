@@ -1,0 +1,142 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010429</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="deu">Forschungsdatenzentrum des Deutschen Zentrum f&#252;r Altersfragen</ns0:repositoryName>
+                    <ns0:additionalName language="deu">FDZ-DZA</ns0:additionalName>
+                    <ns0:additionalName language="eng">Research Data Centre of the DZA</ns0:additionalName>
+                <ns0:repositoryURL>https://www.dza.de/en/research/fdz</ns0:repositoryURL>
+                <ns0:description language="eng">The FDZ-DZA (Forschungsdatenzentrum DZA) is a facility of the German Centre of Gerontology (Deutsches Zentrum f&#252;r Altersfragen, DZA) and has received accreditation as research data center DZA by the German Data Forum (RatSWD). Its main task is to make data of the German Ageing Survey DEAS and the German Survey on Volunteering (FWS) accessible to researchers by providing user-friendly Scientific Use Files (SUF), documentation of the contents and instruments as well support for scholars using the data.</ns0:description>
+                    <ns0:repositoryContact>heribert.engstler@dza.de</ns0:repositoryContact>
+                    <ns0:repositoryContact>https://www.dza.de/en/research/translate-to-english-forschungsdatenzentrum/contact-and-support</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                    <ns0:type>institutional</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>deu</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">111 Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11102 Empirical Social Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">112 Economics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11202 Economic and Social Policy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">12 Social and Behavioural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">205 Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20502 Public Health, Health Services Research, Social Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                <ns0:missionStatementURL>https://www.dza.de/en/about-us/about-the-dza</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>Deutscher Alterssurvey - DEAS</ns0:keyword>
+                    <ns0:keyword>Deutscher Freiwilligensurvey - FWS</ns0:keyword>
+                    <ns0:keyword>PREFER I-Studie - Personal Resources of Elderly People with Multimorbidity: Fortification of Effective Health Behaviour</ns0:keyword>
+                    <ns0:keyword>ageing</ns0:keyword>
+                    <ns0:keyword>behavioural aging research</ns0:keyword>
+                    <ns0:keyword>census</ns0:keyword>
+                    <ns0:keyword>economy of old age</ns0:keyword>
+                    <ns0:keyword>family</ns0:keyword>
+                    <ns0:keyword>gerontology</ns0:keyword>
+                    <ns0:keyword>health</ns0:keyword>
+                    <ns0:keyword>microdata</ns0:keyword>
+                    <ns0:keyword>retirement</ns0:keyword>
+                    <ns0:keyword>social care</ns0:keyword>
+                    <ns0:keyword>social relations</ns0:keyword>
+                    <ns0:keyword>social research</ns0:keyword>
+                    <ns0:keyword>societal participation</ns0:keyword>
+                    <ns0:keyword>volunteering</ns0:keyword>
+                    <ns0:keyword>work</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Arbeitsgemeinschaft der Ressortforschungseinrichtungen</ns0:institutionName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.ressortforschung.de/de/home/index.htm</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Federal Ministry for Family Affairs, Senior Citizens, Women and Youth</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="deu">BMFSFJ</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="deu">Bundesministerium f&#252;r Familie, Senioren,
+Frauen und Jugend</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.bmfsfj.de/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:056ja1h98</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">German Centre of Gerontology</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="deu">DZA</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="deu">Deutsches Zentrum f&#252;r Altersfragen</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.dza.de/en/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:00we5be91</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>fdz@dza.de</ns0:institutionContact>
+                                    <ns0:institutionContact>https://www.dza.de/en/contact-information</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">German Data Forum</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="deu">Rat f&#252;r Sozial- und WirtschaftsDaten</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="deu">RatSWD</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.konsortswd.de/datenzentren/alle-datenzentren/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:059ze4t74</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Access to Data</ns0:policyName>
+                <ns0:policyURL>https://www.dza.de/en/research/fdz/access-to-data</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>RatSWD and Research Data Infrastructure: Status Quo and Quality Management</ns0:policyName>
+                <ns0:policyURL>https://www.konsortswd.de/wp-content/uploads/RatSWD_Output1.6_QualityMgmt.pdf</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>other</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.dza.de/en/research/fdz/access-to-data</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://www.dza.de/en/research/fdz/access-to-data</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                    <ns0:certificate>RatSWD</ns0:certificate>
+                                <ns0:remarks>DZA is covered by Thomson Reuters Data Citation Index. dza is a certified member of the RatSWD - research data - infrastructure; dza is a member of 'Arbeitsgemeinschaft der Ressortforschungseinrichtungen' and is consulting BMFSFJ</ns0:remarks>
+        <ns0:entryDate>2013-07-09</ns0:entryDate>
+        <ns0:lastUpdate>2021-09-15</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

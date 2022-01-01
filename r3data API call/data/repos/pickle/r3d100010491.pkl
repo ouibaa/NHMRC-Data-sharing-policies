@@ -1,0 +1,167 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010491</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Social Data Network</ns0:repositoryName>
+                    <ns0:additionalName language="eng">Greek Social Data Bank (earlier name)</ns0:additionalName>
+                    <ns0:additionalName language="eng">SO.DA.NET</ns0:additionalName>
+                    <ns0:additionalName language="eng">SoDaNet</ns0:additionalName>
+                    <ns0:additionalName language="eng">The Greek research infrastructure for social sciences</ns0:additionalName>
+                <ns0:repositoryURL>http://sodanet.gr/en/</ns0:repositoryURL>
+                <ns0:description language="eng">So.Da.Net network, following the Social Data Bank (SDB) of the National Centre for Social Research (EKKE) that pre-existed, in a time frame of five years has been linked and closely collaborated with the european data archives. EKKE through SDB has participated to the European Consortium of Social Science Data Archives (CESSDA ERIC) since 2000. The national research network Sodanet_GR has been formed in 2012 and is consisted of the following 7 organisations: 
+1) National Centre for Social Research (EKKE) &#8211; Social Data Bank
+2) University of the Aegean &#8211; Department of Sociology
+3) National &amp; Kapodistrian University of Athens &#8211; Department of Political Science &amp; Public Administration
+4) Panteion University &#8211; Department of Political Science &amp; History
+5) University of Peloponnese &#8211; Department of Social &amp; Educational Policy
+6) Democritus University of Trace &#8211; Department of Social Administration &amp; Political Science
+7) University of Crete &#8211; Department of Sociology  .
+ The So.Da.Net network is the Greek research infrastructure for the social sciences. 
+So.Da.Net supports multidisciplinary research and promotes the acquisition, exchange, processing as well as dissemination of data deriving from and related to social science research.</ns0:description>
+                    <ns0:repositoryContact>http://sodanet.gr/en/contact</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2012</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>ell</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">111 Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11102 Empirical Social Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">12 Social and Behavioural Sciences</ns0:subject>
+                <ns0:missionStatementURL>http://sodanet.gr/en/what-is-sodanet</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>census data</ns0:keyword>
+                    <ns0:keyword>microdata</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Consortium of European Social Science Data Archives European Research Infrastructure Consortium</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">CESSDA  ERIC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>EEC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.cessda.eu/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>cessda@cessda.eu</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Democritus University of Thrace, Department of Social Administration &amp; Political Science</ns0:institutionName>
+                                <ns0:institutionCountry>GRC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://socadm.duth.gr/en/the-department/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>papanastasiou.stefanos@gmail.com</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National &amp; Kapodistrian University of Athens, Department of Political Science  and Public Administration</ns0:institutionName>
+                                <ns0:institutionCountry>GRC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://en.pspa.uoa.gr/the-department/profile.html</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>itsirbas@pspa.uoa.gr</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Centre for Social Research</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="ell">EKKE</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="ell">Ethniko Kentro Koinonikon Erevnon</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>GRC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.ekke.gr/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>cfredzu@ekke.gr</ns0:institutionContact>
+                                    <ns0:institutionContact>http://www.ekke.gr/main.php?id=309</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Panteion University, Department of Political Science and History</ns0:institutionName>
+                                <ns0:institutionCountry>GRC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://polhist.panteion.gr/index.php/en/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>vasi-geo@otenet.gr</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of Aegean, Department of Sociology</ns0:institutionName>
+                                <ns0:institutionCountry>GRC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.soc.aegean.gr/index.php/en-m-aggliki-glossa</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>socd15070@soc.aegean.gr</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of Crete, School of Social Sciences , Department of Sociology</ns0:institutionName>
+                                <ns0:institutionCountry>GRC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://sociology.soc.uoc.gr/sociology_en/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>chr.maipa@gmail.com</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of Peleponnese, Department of Social &amp; Education Policy</ns0:institutionName>
+                                <ns0:institutionCountry>GRC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://dsep.uop.gr/index.php?option=com_content&amp;view=frontpage&amp;Itemid=1&amp;lang=en</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>gfragoul@yahoo.gr</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>CESSDA Data Access Policy</ns0:policyName>
+                <ns0:policyURL>https://www.cessda.eu/content/download/963/8608/file/CESSDA%20Data%20Access%20Policy.pdf</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Social Policy</ns0:policyName>
+                <ns0:policyURL>http://www.ekke.gr/main.php?id=302</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>restricted</ns0:databaseAccessType>
+                            <ns0:databaseAccessRestriction>registration</ns0:databaseAccessRestriction>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>other</ns0:dataAccessRestriction>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://sodanet.gr/en/sodanet-services/user-registration</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>Nesstar</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">DDI - Data Documentation Initiative</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/ddi-data-documentation-initiative</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks />
+        <ns0:entryDate>2013-08-21</ns0:entryDate>
+        <ns0:lastUpdate>2019-08-07</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

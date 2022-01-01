@@ -1,0 +1,123 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012763</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">OpenStreetMap</ns0:repositoryName>
+                    <ns0:additionalName language="eng">OSM</ns0:additionalName>
+                    <ns0:additionalName language="eng">Planet.osm</ns0:additionalName>
+                <ns0:repositoryURL>https://planet.openstreetmap.org/</ns0:repositoryURL>
+                <ns0:description language="eng">OpenStreetMap (https://www.openstreetmap.org/export#map=6/51.324/10.426) is built by a community of mappers that contribute and maintain data about roads, trails, caf&#233;s, railway stations, and much more, all over the world.  Planet.osm is the OpenStreetMap data in one file.</ns0:description>
+                    <ns0:repositoryContact>data@openstreetmap.org</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2018-07-01">over 940 GB uncompressed</ns0:size>
+        <ns0:startDate>2006</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">317 Geography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL>https://wiki.openstreetmap.org/wiki/Planet.osm</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Archived data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>crowdsourcing</ns0:keyword>
+                    <ns0:keyword>geodata</ns0:keyword>
+                    <ns0:keyword>topography</ns0:keyword>
+                    <ns0:keyword>vector</ns0:keyword>
+                    <ns0:keyword>vgi</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Bytemark</ns0:institutionName>
+                                <ns0:institutionCountry>GBR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.bytemark.co.uk/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Imperial College London</ns0:institutionName>
+                                <ns0:institutionCountry>GBR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.imperial.ac.uk/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">OpenStreetMap Foundation</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">OSMF</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>AAA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://wiki.osmfoundation.org/wiki/Main_Page</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>data@osmfoundation.org.</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University College London, The Bartlett</ns0:institutionName>
+                                <ns0:institutionCountry>GBR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.ucl.ac.uk/bartlett/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Acceptable Use Policy</ns0:policyName>
+                <ns0:policyURL>https://wiki.openstreetmap.org/wiki/Acceptable_Use_Policy</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Copyright and License</ns0:policyName>
+                <ns0:policyURL>https://www.openstreetmap.org/copyright/en</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>OpenStreetMap Foundation Licence</ns0:policyName>
+                <ns0:policyURL>https://wiki.osmfoundation.org/wiki/Licence</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>OpenStreetMap Foundation Policies and other Documents</ns0:policyName>
+                <ns0:policyURL>https://wiki.osmfoundation.org/wiki/Policies_and_other_Documents</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/licenses/by-sa/2.0/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.openstreetmap.org/copyright</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>ODC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.opendatacommons.org/licenses/odbl/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>other</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                    <ns0:api apiType="REST">https://wiki.openstreetmap.org/wiki/API_v0.6</ns0:api>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://www.openstreetmap.org/copyright</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>no</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                <ns0:remarks>OpenStreetMap (OSM) is a collaborative project to create a free editable map of the world. organisations support OpenStreetMap: https://hardware.openstreetmap.org/thanks/
+Planet.osm mirrors: https://wiki.openstreetmap.org/wiki/Planet.osm#Planet.osm_mirrors
+OpenStreetMap datasets: https://archive.org/details/osmdata http://openstreetmapdata.com/data
+There are also files called Extracts which contain OpenStreetMap Data for individual continents, countries, and metropolitan areas: BBBike https://download.bbbike.org/osm/, Geofabrik http://download.geofabrik.de/</ns0:remarks>
+        <ns0:entryDate>2018-07-18</ns0:entryDate>
+        <ns0:lastUpdate>2021-08-25</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

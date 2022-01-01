@@ -1,0 +1,81 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012005</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">IDEADB</ns0:repositoryName>
+                    <ns0:additionalName language="eng">Innsbruck Dissociative Electron Attachment Database</ns0:additionalName>
+                <ns0:repositoryURL>http://ideadb.uibk.ac.at</ns0:repositoryURL>
+                <ns0:description language="eng">The Innsbruck Dissociative Electron Attachment (DEA) DataBase node holds relative cross sections for dissociative electron attachment processes of the form: AB + e&#8211; &#8211;&gt; A&#8211; + B, where AB is a molecule. It hence supports querying by various identifiers for molecules and atoms, such as chemical names, stoichiometric formulae, InChI (-keys) and CAS registry numbers. These identifiers are searched both in products and reactants of the processes. It then returns XSAMS files describing the processes found including numeric values for the relative cross sections of the processes. Alternatively, cross sections can be exported as plain ASCII files.</ns0:description>
+                    <ns0:repositoryContact>support@vamdc.org</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2019-01-11">about 340 data sets</ns0:size>
+        <ns0:startDate>2012</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">308 Optics, Quantum Optics and Physics of Atoms, Molecules and Plasmas</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">30801 Optics, Quantum Optics, Atoms, Molecules, Plasmas</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">311 Astrophysics and Astronomy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">32 Physics</ns0:subject>
+                <ns0:missionStatementURL />
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>Desethylamiodarons</ns0:keyword>
+                    <ns0:keyword>dissociative electron attachment</ns0:keyword>
+                    <ns0:keyword>molecular physics</ns0:keyword>
+                    <ns0:keyword>molecules</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">University of Innsbruck, Institute for Ion Physics and Applied Physics</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="deu">Universit&#228;t Innsbruck, Institut f&#252;r Ionenphysik undAngewandte Physik</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>AUT</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.uibk.ac.at/ionen-angewandte-physik/index.html.en</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>2012</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://ideadb.uibk.ac.at/contact/</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Virtual Atomic and Molecular Data Centre consortium</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">VAMDC Consortium</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>EEC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://vamdc.eu/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>support@vamdc.org</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>General disclaimer</ns0:policyName>
+                <ns0:policyURL>http://portal.vamdc.org/vamdc_portal/queryTree.seam</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://ideadb.uibk.ac.at</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>open</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://portal.vamdc.eu/vamdc_portal/citation.seam</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                <ns0:remarks>The Virtual Atomic and Molecular Data Centre (VAMDC)is an EU-FP7 e-infrastructure project devoted to building a common electronic infrastructure for the exchange and distribution of atomic and molecular data. This database is part of a collaboration that has a created the RADAM portal at [http://radamdb.mbnresearch.com/].</ns0:remarks>
+        <ns0:entryDate>2016-05-23</ns0:entryDate>
+        <ns0:lastUpdate>2021-08-25</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

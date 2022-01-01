@@ -1,0 +1,125 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011830</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="deu">Studie zur Gesundheit von Kindern und Jugendlichen in Deutschland</ns0:repositoryName>
+                    <ns0:additionalName language="eng">German Health Interview and Examination Survey for Children and Adolescents</ns0:additionalName>
+                    <ns0:additionalName language="deu">KiGGS</ns0:additionalName>
+                <ns0:repositoryURL>https://www.kiggs-studie.de/english/home.html</ns0:repositoryURL>
+                <ns0:description language="eng">KiGGS is a long-term study conducted by the Robert Koch Institute (RKI) on the health of children and adolescents in Germany. The study repeatedly supplies data, representative of the country as a whole, on the health of under 18-year-olds. In addition, the children and adolescents of the first KiGGS study are repeatedly invited, and they continue to be monitored right into their adulthood.</ns0:description>
+                    <ns0:repositoryContact>https://www.kiggs-studie.de/english/metamenu/contact.html</ns0:repositoryContact>
+                    <ns0:repositoryContact>kiggs@rki.de</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2017-07-26">17.641 study participants</ns0:size>
+        <ns0:startDate>2003</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>deu</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">205 Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20520 Pediatric and Adolescent Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                <ns0:missionStatementURL>https://www.kiggs-studie.de/english/survey.html</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>accidents</ns0:keyword>
+                    <ns0:keyword>accute and chronic illness</ns0:keyword>
+                    <ns0:keyword>adiposity</ns0:keyword>
+                    <ns0:keyword>complaints</ns0:keyword>
+                    <ns0:keyword>disability</ns0:keyword>
+                    <ns0:keyword>drug usage</ns0:keyword>
+                    <ns0:keyword>eating disorders</ns0:keyword>
+                    <ns0:keyword>health awareness</ns0:keyword>
+                    <ns0:keyword>health care</ns0:keyword>
+                    <ns0:keyword>health risks</ns0:keyword>
+                    <ns0:keyword>leisure activities</ns0:keyword>
+                    <ns0:keyword>living conditions</ns0:keyword>
+                    <ns0:keyword>mental health</ns0:keyword>
+                    <ns0:keyword>nutrition</ns0:keyword>
+                    <ns0:keyword>physical health</ns0:keyword>
+                    <ns0:keyword>physical wellbeing</ns0:keyword>
+                    <ns0:keyword>social and migrant status</ns0:keyword>
+                    <ns0:keyword>social net</ns0:keyword>
+                    <ns0:keyword>soical contact</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="deu">Bundesministerium f&#252;r Bildung und Forschung</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="deu">BMBF</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">German Federal Ministry for Research and Education</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.bmbf.de/en/index.html</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:04pz7b180</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.bmbf.de/en/contact.php</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="deu">Bundesministerium f&#252;r Gesundheit</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="deu">BMG</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">German Federal Ministry of Health</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.bundesgesundheitsministerium.de/en/en.html</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:05vp4ka74</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:SCR_005247</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_158558</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.bundesgesundheitsministerium.de/service/kontakt.html</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="deu">Robert Koch-Institut</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="deu">RKI</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.rki.de/EN/Content/Institute/institute_node.html</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:01k5qnb77</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:SCR_011500</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_157722</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.rki.de/EN/Service/Contact/Contact_node.html</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Guidelines and Recommendations</ns0:policyName>
+                <ns0:policyURL>https://www.dgepi.de/assets/Leitlinien-und-Empfehlungen/cec55ccaaa/Recommendations-for-good-Epidemiologic-Practice.pdf</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Public Use Files pertaining to Robert Koch Institute</ns0:policyName>
+                <ns0:policyURL>https://www.rki.de/EN/Content/Health_Monitoring/Public_Use_Files/public_use_file_node.html</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>restricted</ns0:databaseAccessType>
+                            <ns0:databaseAccessRestriction>other</ns0:databaseAccessRestriction>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>other</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.kiggs-studie.de/english/metamenu/imprint.html</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                    <ns0:aidSystem>none</ns0:aidSystem>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks>KiGGS is covered by Thomson Reuters Data Citation Index. See also: https://bmcpublichealth.biomedcentral.com/articles/10.1186/1471-2458-8-196 . Results of the  KiGGS baseline study (only in German) : https://www.kiggs-studie.de/english/results/kiggs-baseline-study.html. There are 3 parts: Baseline study, KiGGS wave 1 and KiGGs wave 2.</ns0:remarks>
+        <ns0:entryDate>2016-03-16</ns0:entryDate>
+        <ns0:lastUpdate>2020-10-28</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

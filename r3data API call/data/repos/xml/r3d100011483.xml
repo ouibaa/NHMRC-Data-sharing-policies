@@ -1,0 +1,104 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011483</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">ASTER j-spacesystems</ns0:repositoryName>
+                    <ns0:additionalName language="eng">Advanced Spaceborne Thermal Emission and Reflection Radiometer Ground Data Systems</ns0:additionalName>
+                <ns0:repositoryURL>http://www.jspacesystems.or.jp/en_project_aster/</ns0:repositoryURL>
+                <ns0:description language="eng">!!! We will terminate ASTER Products Distribution Service in March 2016 although we have been providing ASTER Products since November 20, 2000. !!!
+ASTER (Advanced Spaceborne Thermal Emission and Reflection radiometer) is the high efficiency optical imager which covers a wide spectral region from the visible to the thermal infra-red by 14 spectral bands. ASTER acquires data which can be used in various fields in earth science. ASTER was launched from Vandenberg Air Force Base in California, USA in 1999 aboard the Terra, which is the first satellite of the EOS Project. The purpose of ASTER project is to make contributions to extend the understanding of local and regional phenomena on the Earth surface and its atmosphere. The followings are ASTER related information, which includes ASTER instrument, ASTER Ground Data System, ASTER Science Activities, ASTER Data Distribution and so on. ASTER Search provides services to search and order ASTER data products on the website.</ns0:description>
+                    <ns0:repositoryContact>https://ssl.jspacesystems.or.jp/en/contact/index.php</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2000</ns0:startDate>
+        <ns0:endDate>2016</ns0:endDate>
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>jpn</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">311 Astrophysics and Astronomy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">315 Geophysics and Geodesy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">32 Physics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL>http://www.jspacesystems.or.jp/en/about/message/index.html</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>TERRA</ns0:keyword>
+                    <ns0:keyword>agriculture, forestry,ranching</ns0:keyword>
+                    <ns0:keyword>atmosphere</ns0:keyword>
+                    <ns0:keyword>coastal resources</ns0:keyword>
+                    <ns0:keyword>earth sciences</ns0:keyword>
+                    <ns0:keyword>environment</ns0:keyword>
+                    <ns0:keyword>geological features</ns0:keyword>
+                    <ns0:keyword>map creation</ns0:keyword>
+                    <ns0:keyword>mission</ns0:keyword>
+                    <ns0:keyword>sea areas</ns0:keyword>
+                    <ns0:keyword>snow &amp; ice</ns0:keyword>
+                    <ns0:keyword>space sciences</ns0:keyword>
+                    <ns0:keyword>water areas</ns0:keyword>
+                    <ns0:keyword>water resources</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Japan Ministry of Economy Trade and Industry</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">METI</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>JPN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.meti.go.jp/english/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.meti.go.jp/honsho/comment_form/comments_send.htm</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Japan Space Systems, ASTER Project</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">J-spacesystems ASTER Project</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>JPN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.jspacesystems.or.jp/en_/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.jspacesystems.or.jp/en/contact/index.php</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Aeronautics and Space Administration, Jet Propulsion Laboratory, Advanced Spaceborne Thermal Emission and Reflection Radiometer</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NASA JPL ASTER</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://asterweb.jpl.nasa.gov/index.asp</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://science.jpl.nasa.gov/people/Tan/</ns0:institutionContact>
+                            </ns0:institution>
+                        <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>feeRequired</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www.jspacesystems.or.jp/en/terms/index.html</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                <ns0:versioning>yes</ns0:versioning>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks>!!! We will terminate ASTER Products Distribution Service in March 2016 although we have been providing ASTER Products since November 20, 2000. !!! ASTER is a cooperative effort between NASA and Japan's Ministry of Economy Trade and Industry (METI), with the collaboration of scientific and industry organizations in both countries. The ASTER instrument provides the next generation in remote sensing imaging capabilities when compared to the older Landsat Thematic Mapper and Japan's JERS-1 OPS scanner. ASTER captures high spatial resolution data in 14 bands, from the visible to the thermal infrared wavelengths, and provides stereo viewing capability for digital elevation model creation. As the "zoom lens" for Terra, ASTER data are used by other Terra and space-borne instruments for validation and calibration. The ASTER Project consists of two parts, each having a Japanese and a U.S. component. Mission operations are split between Japan Space Systems (J-spacesystems) and the Jet Propulsion Laboratory (JPL) in the U.S. J-spacesystems oversees monitoring instrument performance and health, developing the daily schedule command sequence, processing Level 0 data to Level 1, and providing higher level data processing, archiving, and distribution. The JPL ASTER project provides scheduling support for U.S. investigators, calibration and validation of the instrument and data products, coordinating the U.S. Science Team, and maintaining the science algorithms. The joint Japan/U.S. ASTER Science Team has about 40 scientists and researchers.</ns0:remarks>
+        <ns0:entryDate>2015-07-20</ns0:entryDate>
+        <ns0:lastUpdate>2021-05-20</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

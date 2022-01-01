@@ -1,0 +1,105 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010064</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Ecological Archives</ns0:repositoryName>
+                    <ns0:additionalName language="eng">esa's ecological archives</ns0:additionalName>
+                <ns0:repositoryURL>http://esapubs.org/archive/</ns0:repositoryURL>
+                <ns0:description language="eng">&gt;&gt;&gt;!!!&lt;&lt;&lt;   Ecological Archives through the end of 2015 will be hosted on FigShare once the transition to publishing with Wiley is completed. Thereafter, supplemental material may be hosted on Wiley Online, and/or data deposited with FigShare, Dryad, and other repositories. &gt;&gt;&gt;!!!&lt;&lt;&lt;   Ecological Archives publishes materials that are supplemental to articles that appear in the ESA journals (Ecology, Ecological Applications, Ecological Monographs, Ecosphere, Ecosystem Health and Sustainability and Bulletin of the Ecological Society of America), as well as peer-reviewed data papers with abstracts published in the printed journals. Three kinds of publications appear in Ecological Archives: appendices, supplements, and data papers.</ns0:description>
+                    <ns0:repositoryContact>esa_journals@cornell.edu</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>1982</ns0:startDate>
+        <ns0:endDate>2015</ns0:endDate>
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">23 Agriculture, Forestry, Horticulture and Veterinary Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">301 Molecular Chemistry</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">30102 Organic Molecular Chemistry</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31 Chemistry</ns0:subject>
+                <ns0:missionStatementURL>http://esapubs.org/archive/</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Archived data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Audiovisual data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>biotechnology</ns0:keyword>
+                    <ns0:keyword>ecological restoration</ns0:keyword>
+                    <ns0:keyword>ecosystem management</ns0:keyword>
+                    <ns0:keyword>global climate change</ns0:keyword>
+                    <ns0:keyword>habitat alteration and destruction</ns0:keyword>
+                    <ns0:keyword>natural resource management</ns0:keyword>
+                    <ns0:keyword>ozone depletion</ns0:keyword>
+                    <ns0:keyword>species extinction</ns0:keyword>
+                    <ns0:keyword>sustainable ecological systems</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">DataONE</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Data Observation Network for Earth</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.dataone.org</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>2012-07-23</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>support@dataone.org</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Ecological Society of America</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">esa</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.esa.org/esa/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>1982</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>esa_journals@cornell.edu</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Instructions for Authors</ns0:policyName>
+                <ns0:policyURL>http://esapubs.org/archive/instruct_d.htm</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                    <ns0:databaseLicense>
+                <ns0:databaseLicenseName>CC</ns0:databaseLicenseName>
+                <ns0:databaseLicenseURL>http://esapubs.org/archive/copyright.htm</ns0:databaseLicenseURL>
+            </ns0:databaseLicense>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://creativecommons.org/licenses/by/4.0/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>Instructions for Authors</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>http://esapubs.org/archive/instruct_d.htm</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                            <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                            <ns0:pidSystem>URN</ns0:pidSystem>
+                <ns0:citationGuidelineURL>http://esapubs.org/archive/instruct_d.htm</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">EML - Ecological Metadata Language</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/eml-ecological-metadata-language</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks>In addition, all authors are encouraged to register their data at DRYAD at http://datadryad.org or another appropriate Data Registry.</ns0:remarks>
+        <ns0:entryDate>2012-08-20</ns0:entryDate>
+        <ns0:lastUpdate>2018-04-03</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

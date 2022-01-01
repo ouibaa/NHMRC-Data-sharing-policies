@@ -1,0 +1,93 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012151</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Grouplens Datasets</ns0:repositoryName>
+                <ns0:repositoryURL>https://grouplens.org/datasets/</ns0:repositoryURL>
+                <ns0:description language="eng">GroupLens is a research lab in the Department of Computer Science and Engineering at the University of Minnesota, Twin Cities specializing in recommender systems, online communities, mobile and ubiquitous technologies, digital libraries, and local geographic information systems.</ns0:description>
+                    <ns0:repositoryContact>grouplens-info@cs.umn.edu</ns0:repositoryContact>
+                    <ns0:repositoryContact>https://grouplens.org/about/contact-us/</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                    <ns0:type>institutional</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">110 Psychology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">111 Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11101 Sociological Theory</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">12 Social and Behavioural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">4 Engineering Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">44 Computer Science, Electrical and System Engineering</ns0:subject>
+                <ns0:missionStatementURL>https://grouplens.org/about/what-is-grouplens/</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Databases</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Source code</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>Book-Crossing</ns0:keyword>
+                    <ns0:keyword>EachMovie</ns0:keyword>
+                    <ns0:keyword>HetRec 2011</ns0:keyword>
+                    <ns0:keyword>Jester</ns0:keyword>
+                    <ns0:keyword>Movielens</ns0:keyword>
+                    <ns0:keyword>WikiLens</ns0:keyword>
+                    <ns0:keyword>hetrec2011-movielens-2k</ns0:keyword>
+                    <ns0:keyword>ml-100K</ns0:keyword>
+                    <ns0:keyword>ml-1m</ns0:keyword>
+                    <ns0:keyword>movie recommender</ns0:keyword>
+                    <ns0:keyword>recommender system</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">National Science Foundation</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NSF</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.nsf.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of Minnesota, Department of Computer Science and Engineering</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.cs.umn.edu/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>FURTHER INFORMATION ABOUT THE GROUPLENS RESEARCH PROJECT ml-100K</ns0:policyName>
+                <ns0:policyURL>http://files.grouplens.org/datasets/movielens/ml-100k-README.txt</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>FURTHER INFORMATION ABOUT THE GROUPLENS RESEARCH PROJECT ml-1m</ns0:policyName>
+                <ns0:policyURL>http://files.grouplens.org/datasets/movielens/ml-1m-README.txt</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>MovieLens + IMDb/Rotten Tomatoes (hetrec2011-movielens-2k)</ns0:policyName>
+                <ns0:policyURL>http://files.grouplens.org/datasets/hetrec2011/hetrec2011-movielens-readme.txt</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://files.grouplens.org/datasets/movielens/ml-20m-README.html</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>institutional membership</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                <ns0:versioning />
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>http://files.grouplens.org/datasets/movielens/ml-100k-README.txt</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                    <ns0:syndication syndicationType="RSS">http://grouplens.org/feed/</ns0:syndication>
+                <ns0:remarks>GroupLens is covered by Thomson Reuters Data Citation Index.</ns0:remarks>
+        <ns0:entryDate>2016-09-12</ns0:entryDate>
+        <ns0:lastUpdate>2021-09-09</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

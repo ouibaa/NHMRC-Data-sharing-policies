@@ -1,0 +1,79 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010593</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">HealthData.gov</ns0:repositoryName>
+                <ns0:repositoryURL>https://healthdata.gov/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.kcpnmb</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:SCR_004386</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:nlx_143714</ns0:repositoryIdentifier>
+                <ns0:description language="eng">This site is dedicated to making high value health data more accessible to entrepreneurs, researchers, and policy makers in the hopes of better health outcomes for all. In a recent article, Todd Park, United States Chief Technology Officer, captured the essence of what the Health Data Initiative is all about and why our efforts here are so important.</ns0:description>
+                    <ns0:repositoryContact>healthdata@hhs.gov</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2021-12-21">4.178 results</ns0:size>
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">205 Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20502 Public Health, Health Services Research, Social Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                <ns0:missionStatementURL>https://www.cambiagrove.com/data-resource/healthdatagov</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                            <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>Medicare</ns0:keyword>
+                    <ns0:keyword>community health</ns0:keyword>
+                    <ns0:keyword>health data</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">U.S. Department of Health and Human Services</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">HHS.gov</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.hhs.gov/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>RRID:SCR_009983</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_inv_1005043</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>HHS Privacy Policy Notice</ns0:policyName>
+                <ns0:policyURL>https://www.hhs.gov/web/policies-and-standards/hhs-web-policies/privacy/index.html</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Laws &amp; Regulations</ns0:policyName>
+                <ns0:policyURL>https://www.hhs.gov/regulations/index.html</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Public Domain</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.hhs.gov/open/publicaccess/index.html</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.hhs.gov/disclaimer.html</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                    <ns0:api apiType="other">https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/access-right-health-apps-apis/index.html</ns0:api>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                <ns0:remarks>HealthData.gov makes data from following agencies accessible: Centers for Medicare &amp; Medicaid Services, Centers for Disease Control and Prevention, State of Illinois, New York State, U.S. Food and Drug Administration, Department of Health &amp; Human Services , Administration for Children and Families , State of Hawaii, State of Maryland, Substance Abuse &amp; Mental Health Services Administration, National Library of Medicine, State of Missouri, Health Resources and Services Administration, Agency for Healthcare Research and Quality, National Institutes of Health, State of Colorado, Administration for Community Living, State of Oklahoma, State of Washington, State of Oregon, National Cancer Institute, National Institute on Drug Abuse, Indian Health Service, New York State Department of Health</ns0:remarks>
+        <ns0:entryDate>2014-01-24</ns0:entryDate>
+        <ns0:lastUpdate>2021-12-21</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

@@ -1,0 +1,166 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100000023</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">The Cell Image Library</ns0:repositoryName>
+                    <ns0:additionalName language="eng">CIL</ns0:additionalName>
+                    <ns0:additionalName language="eng">The Cell</ns0:additionalName>
+                <ns0:repositoryURL>http://www.cellimagelibrary.org/home</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.8t18te</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>OMICS_05631</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:SCR_003510</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:nif-0000-37639</ns0:repositoryIdentifier>
+                <ns0:description language="eng">This library is a public and easily accessible resource database of images, videos, and animations of cells, capturing a wide diversity of organisms, cell types, and cellular processes. The Cell Image Library has been merged with "Cell Centered Database" in 2017. The purpose of the database is to advance research on cellular activity, with the ultimate goal of improving human health.</ns0:description>
+                    <ns0:repositoryContact>dorloff@ncmir.ucsd.edu</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2018-08-10">over 10,000 unique datasets and 20 TB of data</ns0:size>
+        <ns0:startDate>2010</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">201 Basic Biological and Medical Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20103 Cell Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">202 Plant Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20206 Plant Cell and Developmental Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">203 Zoology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20306 Animal Genetics, Cell and Developmental Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">205 Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">206 Neurosciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                <ns0:missionStatementURL>http://www.cellimagelibrary.org/pages/about</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Audiovisual data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>Cell Biology</ns0:keyword>
+                    <ns0:keyword>DNA</ns0:keyword>
+                    <ns0:keyword>RNA</ns0:keyword>
+                    <ns0:keyword>biochemistry</ns0:keyword>
+                    <ns0:keyword>chromosome</ns0:keyword>
+                    <ns0:keyword>endosome</ns0:keyword>
+                    <ns0:keyword>metabolism</ns0:keyword>
+                    <ns0:keyword>microscopy data</ns0:keyword>
+                    <ns0:keyword>plasma</ns0:keyword>
+                    <ns0:keyword>vacuole</ns0:keyword>
+                    <ns0:keyword>virus</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">American Society for Cell Biology</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">ASCB</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://ascb.org/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://ascb.org/contact/</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Center for Microscopy and Imaging Research</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NCMIR</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://ncmir.ucsd.edu/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>dorloff@ncmir.ucsd.edu</ns0:institutionContact>
+                                    <ns0:institutionContact>https://ncmir.ucsd.edu/about/contact-2</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Institute of General Medical Sciences</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NIGMS</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.nigms.nih.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.nigms.nih.gov/Pages/ContactUs.aspx</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">U.S. National Institutes of Health</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NIH</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.nih.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.nih.gov/about-nih/contact-us</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of California at Berkeley, Department of Molecular and Cell Biology</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">MCB</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">Molecular and Cell Biology</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://mcb.berkeley.edu/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://mcb.berkeley.edu/about-the-department/contact</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of Utah, Department of Biochemistry</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Department of Biochemistry</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://medicine.utah.edu/biochemistry/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://biochem.web.utah.edu/iwasa/contact.html</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Licensing Policy</ns0:policyName>
+                <ns0:policyURL>http://www.cellimagelibrary.org/pages/license</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/licenses/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www.cellimagelibrary.org/pages/license</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>Public Domain</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www.cellimagelibrary.org/pages/license</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www.cellimagelibrary.org/pages/license</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>Submission Policy</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>http://www.cellimagelibrary.org/pages/contribute</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                            <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>no</ns0:versioning>
+                        <ns0:citationGuidelineURL>http://www.cellimagelibrary.org/pages/help#citing_the_library</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">other</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/abcd-access-biological-collection-data</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks>is covered by Elsevier. The Cell is covered by Thomson Reuters Data Citation Index. We are accumulating images of all cell types from all organisms, including intracellular structures and movies or animations demonstrating functions. This ambitious project obviously is multiyear and relies upon the cell biology community to populate the library. The Cell: An Image Library&#8482; aims to be as useful to the researcher and the public as are the sequence databases for nucleic acids and proteins. Toward that end, the images and videos will be annotated by professionals with broad disciplinary expertise. Raw data as well as data with limited processing will be the most valuable. Please join us in this effort by allowing us to include your image collections and videos in this open access library, and by sharing your raw data. Our team of professional annotators will work with your valuable data to assure its accuracy before presenting it to the scientific and lay communities. Their annotations will provide useful information about the images to allow researchers to explore data generated by biologists.</ns0:remarks>
+        <ns0:entryDate>2012-08-26</ns0:entryDate>
+        <ns0:lastUpdate>2021-09-02</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

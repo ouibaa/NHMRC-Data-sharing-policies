@@ -1,0 +1,152 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010368</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">FORS DARIS</ns0:repositoryName>
+                    <ns0:additionalName language="eng">FORS Data and Research Information Services</ns0:additionalName>
+                <ns0:repositoryURL>https://forscenter.ch/data-services/</ns0:repositoryURL>
+                <ns0:description language="eng">FORS is the Swiss Centre of Expertise in the Social Sciences. FORS implements large-scale national and international surveys, offers data and research information services to researchers and academic institutions, and conducts methodological and thematic research. DARIS is its resource centre for research and teaching in the social sciences and archives, disseminates and promotes quantitative and qualitative data . It maintains a comprehensive and up-to-date inventory of social science research projects in Switzerland. In addition, our data service makes available a wide range of datasets for secondary analysis.
+Databases at DARIS are: FORSbase, COMPASS</ns0:description>
+                    <ns0:repositoryContact>https://forscenter.ch/staff/nicolas-pekari/</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2009</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>deu</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>fra</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">111 Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">112 Economics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">113 Jurisprudence</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">12 Social and Behavioural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                <ns0:missionStatementURL>https://forscenter.ch/data-services/data-collection/</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Audiovisual data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Databases</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>microdata</ns0:keyword>
+                    <ns0:keyword>qualtitative data</ns0:keyword>
+                    <ns0:keyword>social science research in Switzerland</ns0:keyword>
+                    <ns0:keyword>statistics</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Consortium of European Social Science Data Archives  European Research Infrastructure</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">CESSDA ERIC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>EEC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.cessda.eu/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">FORS</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">swiss foundation for research in social sciences</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CHE</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://forscenter.ch/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://forscenter.ch/about-fors/staff/</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Swiss Academy of Humanities and Social Sciences</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="fra">Acad&#233;mie suisse des sciences humaines et sociales</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="ita">Accademia svizzera di scienze umane e sociali</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="deu">SAGW</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="deu">Schweizerische Akademie der Geistes- und Sozialwissenschaften</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CHE</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.sagw.ch/sagw.html</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="fra">Universit&#233; de Lausanne</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="fra">UNIL</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="deu">Universit&#228;t Lausanne</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CHE</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.unil.ch/central/home.html</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Archival Acquisition Policy DARIS</ns0:policyName>
+                <ns0:policyURL>https://forscenter.ch/wp-content/uploads/2018/10/collections-policy.pdf</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>CESSDA Data Access Policy</ns0:policyName>
+                <ns0:policyURL>https://www.cessda.eu/content/download/963/8608/file/CESSDA%20Data%20Access%20Policy.pdf</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>FORS user contract</ns0:policyName>
+                <ns0:policyURL>https://forsbase.unil.ch/media/general_documentation/en/User_contract_E.pdf</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Implementation of the CoreTrustSeal</ns0:policyName>
+                <ns0:policyURL>https://www.coretrustseal.org/wp-content/uploads/2018/03/DARIS.pdf</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Open Access to data and publications of FORS</ns0:policyName>
+                <ns0:policyURL>https://forscenter.ch/wp-content/uploads/2018/10/openaccess_guidelinesfors.pdf</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Policy on Archiving Qualitative Data</ns0:policyName>
+                <ns0:policyURL>https://forscenter.ch/wp-content/uploads/2018/10/fors-policy-and-procedures-on-qualitative-data_20_04_2016.pdf</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://forsbase.unil.ch/media/general_documentation/en/User_contract_E.pdf</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://forscenter.ch/wp-content/uploads/2018/10/openaccess_guidelinesfors.pdf</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.admin.ch/opc/en/classified-compilation/19920153/index.html</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>Deposit contract FORS</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>https://forscenter.ch/wp-content/uploads/2018/10/deposit-contract_fors_e.pdf</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                            <ns0:software>
+                <ns0:softwareName>Fedora</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://forscenter.ch/wp-content/uploads/2018/10/openaccess_guidelinesfors.pdf</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                    <ns0:certificate>other</ns0:certificate>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">DDI - Data Documentation Initiative</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/ddi-data-documentation-initiative</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks>https://forsbase.unil.ch/</ns0:remarks>
+        <ns0:entryDate>2013-03-13</ns0:entryDate>
+        <ns0:lastUpdate>2021-09-07</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

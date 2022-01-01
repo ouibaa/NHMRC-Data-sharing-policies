@@ -1,0 +1,108 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010108</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">National Forestry Database</ns0:repositoryName>
+                    <ns0:additionalName language="fra">BDNF</ns0:additionalName>
+                    <ns0:additionalName language="fra">Base de donn&#233;es nationale sur les forets</ns0:additionalName>
+                    <ns0:additionalName language="eng">NFD</ns0:additionalName>
+                <ns0:repositoryURL>http://nfdp.ccfm.org/</ns0:repositoryURL>
+                <ns0:description language="eng">The National Forestry Database is used to compile national statistics. Most of the data are provided by the provincial or territorial resource management organizations. Federal land data are provided by the responsible federal departments and compiled by the CFS.</ns0:description>
+                    <ns0:repositoryContact>http://nfdp.ccfm.org/en/contact.php</ns0:repositoryContact>
+                    <ns0:repositoryContact>nrcan.nfd-bdnf.rncan@canada.ca</ns0:repositoryContact>
+                            <ns0:type>other</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2008</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>fra</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">202 Plant Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20202 Plant Ecology and Ecosystem Analysis</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">203 Zoology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20303 Animal Ecology, Biodiversity and Ecosystem Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">207 Agriculture, Forestry, Horticulture and Veterinary Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20709 Inventory Control and Use of Forest Resources</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20710 Basic Forest Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">23 Agriculture, Forestry, Horticulture and Veterinary Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">23 Agriculture, Forestry, Horticulture and Veterinary Medicine</ns0:subject>
+                <ns0:missionStatementURL>http://nfdp.ccfm.org/en/about.php</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>forest fires</ns0:keyword>
+                    <ns0:keyword>forest inventory</ns0:keyword>
+                    <ns0:keyword>forest products</ns0:keyword>
+                    <ns0:keyword>pest control</ns0:keyword>
+                    <ns0:keyword>silviculture</ns0:keyword>
+                    <ns0:keyword>wood supply</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Canadian Council of Forest Ministers</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="fra">Conseil canadien des ministres des forets</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.ccfm.org/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>2008</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Canadian Forest Service</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">CFS</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="fra">SCF</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="fra">Service canadien des forets</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.nrcan.gc.ca/forests</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>2008</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://contact-contactez.nrcan-rncan.gc.ca/index.cfm?lang=eng&amp;sid=7&amp;context=simply-science</ns0:institutionContact>
+                                    <ns0:institutionContact>michael.vasseur@nrcan-rncan.gc.ca</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Terms and Conditions</ns0:policyName>
+                <ns0:policyURL>http://nfdp.ccfm.org/en/terms.php</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                    <ns0:databaseLicense>
+                <ns0:databaseLicenseName>Copyrights</ns0:databaseLicenseName>
+                <ns0:databaseLicenseURL>http://nfdp.ccfm.org/en/terms.php</ns0:databaseLicenseURL>
+            </ns0:databaseLicense>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://nfdp.ccfm.org/en/terms.php</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://laws-lois.justice.gc.ca/eng/acts/c-42/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>no</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">FGDC/CSDGM - Federal Geographic Data Committee Content Standard for Digital Geospatial Metadata</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/fgdccsdgm-federal-geographic-data-committee-content-standard-digital-ge</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks>The Program is a partnership between the federal government and provincial and territorial governments. The Canadian Forest Service (CFS) at Natural Resources Canada, which developed and maintains the database, has responsibility for disseminating national forestry statistics</ns0:remarks>
+        <ns0:entryDate>2012-10-09</ns0:entryDate>
+        <ns0:lastUpdate>2018-12-11</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

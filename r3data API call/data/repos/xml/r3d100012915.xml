@@ -1,0 +1,116 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012915</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Data and Specimen Hub</ns0:repositoryName>
+                    <ns0:additionalName language="eng">DASH</ns0:additionalName>
+                    <ns0:additionalName language="eng">NICHD DASH</ns0:additionalName>
+                <ns0:repositoryURL>https://dash.nichd.nih.gov/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>FAIRsharing_DOI:10.25504/FAIRsharing.dYSI4O</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:SCR_016314</ns0:repositoryIdentifier>
+                <ns0:description language="eng">The Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD) Data and Specimen Hub (DASH) is a centralized resource that allows researchers to share and access de-identified data from studies funded by NICHD. DASH also serves as a portal for requesting biospecimens from selected DASH studies.</ns0:description>
+                    <ns0:repositoryContact>SupportDASH@mail.nih.gov</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                    <ns0:type>institutional</ns0:type>
+                <ns0:size updated="2020-07-22">9,395 results</ns0:size>
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">111 Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">12 Social and Behavioural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">204 Microbiology, Virology and Immunology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20405 Immunology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">205 Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20502 Public Health, Health Services Research, Social Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20503 Human Genetics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20509 Pharmacology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20520 Pediatric and Adolescent Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20521 Gynaecology and Obstetrics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20522 Reproductive Medicine/Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                <ns0:missionStatementURL>https://dash.nichd.nih.gov/Resource/Tutorial#overview</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Archived data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Databases</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>HIV/AIDS</ns0:keyword>
+                    <ns0:keyword>biomedical science</ns0:keyword>
+                    <ns0:keyword>biospecimens</ns0:keyword>
+                    <ns0:keyword>clinical studies</ns0:keyword>
+                    <ns0:keyword>critical care medicine</ns0:keyword>
+                    <ns0:keyword>data governance</ns0:keyword>
+                    <ns0:keyword>data management</ns0:keyword>
+                    <ns0:keyword>data submission, annotation, and curation</ns0:keyword>
+                    <ns0:keyword>demographics</ns0:keyword>
+                    <ns0:keyword>drug</ns0:keyword>
+                    <ns0:keyword>environmental samples</ns0:keyword>
+                    <ns0:keyword>medical trials</ns0:keyword>
+                    <ns0:keyword>musculoskeletal medicine</ns0:keyword>
+                    <ns0:keyword>obstetrics</ns0:keyword>
+                    <ns0:keyword>reproductive health</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">National Institutes of Health</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NIH</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.nih.gov/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:01cwqze88</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:SCR_011417</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_inv_1005116</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Institutes of Health, Eunice Kennedy Shriver National Institute of Child Health and Human Development</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NICHD</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.nichd.nih.gov/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:04byxyr05</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:SCR_011429</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_inv_1005104</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>NICHD Data and Specimen Hub &#8211; Policy and Procedures</ns0:policyName>
+                <ns0:policyURL>https://dash.nichd.nih.gov/resource/policies</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>other</ns0:dataAccessRestriction>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://dash.nichd.nih.gov/resource/DASHUserAgreement</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>Submit Studies</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>https://dash.nichd.nih.gov/resource/submission</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                            <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                        <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks />
+        <ns0:entryDate>2018-12-05</ns0:entryDate>
+        <ns0:lastUpdate>2021-11-16</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

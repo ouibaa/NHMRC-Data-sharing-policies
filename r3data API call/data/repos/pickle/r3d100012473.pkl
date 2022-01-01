@@ -1,0 +1,87 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012473</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Map collection Charles University Faculty of Science</ns0:repositoryName>
+                    <ns0:additionalName language="ces">Digit&#225;lni mapov&#225; sbirka</ns0:additionalName>
+                    <ns0:additionalName language="ces">Mapov&#225; sb&#237;rka P&#345;&#237;rodov&#283;deck&#233; fakulty UK</ns0:additionalName>
+                <ns0:repositoryURL>https://www.natur.cuni.cz/geography/map-collection?set_language=en</ns0:repositoryURL>
+                <ns0:description language="eng">The Map Collection at the Faculty of Science CU (formerly the State Map Collection) belongs to one of the most extensive university map collections in Central and East Europe. The map collection is digitized as part of the Czech Ministry of Culture's project NAKI.</ns0:description>
+                    <ns0:repositoryContact>mapcol@natur.cuni.cz</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                    <ns0:type>institutional</ns0:type>
+                <ns0:size updated="2017-09-22">60.364 datasets; 130.000 map sheets; around 3.000 atlases;  60 globes</ns0:size>
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>ces</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>deu</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>spa</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">102 History</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11 Humanities</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">315 Geophysics and Geodesy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31502 Geodesy, Photogrammetry, Remote Sensing, Geoinformatics, Cartogaphy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL>https://www.natur.cuni.cz/geography/map-collection/catalogue-of-the-map-collection-1</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>Czech cartographers</ns0:keyword>
+                    <ns0:keyword>Czech maps</ns0:keyword>
+                    <ns0:keyword>history of cartography</ns0:keyword>
+                    <ns0:keyword>military maps</ns0:keyword>
+                    <ns0:keyword>scientific maps</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Charles University, Faculty of Science</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="ces">Univerzita Karlova, P&#345;&#237;rodov&#283;deck&#225; fakulta</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CZE</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.natur.cuni.cz/eng</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>dekan@natur.cuni.cz</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>DSA Assessment</ns0:policyName>
+                <ns0:policyURL>https://assessment.datasealofapproval.org/assessment_184/seal/html/</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://assessment.datasealofapproval.org/assessment_184/seal/pdf/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>Submission agreement</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>https://knihovna.cuni.cz/wp-content/uploads/SKMBT_C55014112512590.pdf</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                        <ns0:versioning>no</ns0:versioning>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                    <ns0:certificate>DSA</ns0:certificate>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">Dublin Core</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                    <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">ISO 19115</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/iso-19115</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks>The Map Collection is part of Digit&#225;ln&#237; univerzitn&#237; repozit&#225;r. The Map Collection has undergone DRAMBORA self-audit and SPOT analysis.</ns0:remarks>
+        <ns0:entryDate>2017-09-21</ns0:entryDate>
+        <ns0:lastUpdate>2017-09-27</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

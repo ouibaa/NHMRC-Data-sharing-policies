@@ -1,0 +1,108 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011270</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Computational and Information Systems Laboratory Research Data Archive</ns0:repositoryName>
+                    <ns0:additionalName language="eng">CISL RDA</ns0:additionalName>
+                <ns0:repositoryURL>https://rda.ucar.edu/</ns0:repositoryURL>
+                <ns0:description language="eng">This repository record is no longer valid.
+&gt;&gt;&gt;!!!&lt;&lt;&lt; 2018-08-09: Please refer to the record that is titled "Research Data Archive at NCAR"   instead https://www.re3data.org/repository/r3d100010050 . &gt;&gt;&gt;!!!&lt;&lt;&lt;</ns0:description>
+                    <ns0:repositoryContact>rdahelp@ucar.edu</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2014-12-02">640 datasets</ns0:size>
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31301 Atmospheric Science</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31302 Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">315 Geophysics and Geodesy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL>https://rda.ucar.edu/#!about</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Software applications</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>agriculture</ns0:keyword>
+                    <ns0:keyword>biosphere</ns0:keyword>
+                    <ns0:keyword>climate indicators</ns0:keyword>
+                    <ns0:keyword>cryosphere</ns0:keyword>
+                    <ns0:keyword>hydrosphere</ns0:keyword>
+                    <ns0:keyword>land surface</ns0:keyword>
+                    <ns0:keyword>paleoclimate</ns0:keyword>
+                    <ns0:keyword>physical sciences</ns0:keyword>
+                    <ns0:keyword>solid earth</ns0:keyword>
+                    <ns0:keyword>spectral/engineering</ns0:keyword>
+                    <ns0:keyword>sun-earth interactions</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">National Center for Atmospheric Research, Computational and Information Systems Laboratory Data Support Section</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NCAR, CISL DSS</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www2.cisl.ucar.edu/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://staff.ucar.edu/browse/orgs/DSS</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Science Foundation</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NSF</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>sponsoring</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.nsf.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>info@nsf.gov</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Notification of Copyright Infringement</ns0:policyName>
+                <ns0:policyURL>https://www2.ucar.edu/notification-copyright-infringement-digital-millennium-copyright-act</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Terms of Use</ns0:policyName>
+                <ns0:policyURL>https://www2.ucar.edu/terms-of-use</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www2.ucar.edu/terms-of-use</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>Terms of use - Contributed content</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>https://www2.ucar.edu/terms-of-use</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                            <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>no</ns0:versioning>
+                    <ns0:api apiType="OAI-PMH">https://rda.ucar.edu/cgi-bin/oai</ns0:api>
+                    <ns0:api apiType="REST">https://rda.ucar.edu/geoportal/openSearchDescription</ns0:api>
+                    <ns0:api apiType="REST">https://rda.ucar.edu/#!cgi-bin/myrequest</ns0:api>
+                    <ns0:api apiType="other">https://rda.ucar.edu/#!apps_api_desc</ns0:api>
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://rda.ucar.edu/#!data-citation/FAQs</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                    <ns0:syndication syndicationType="ATOM">http://ncarrda.blogspot.com/feeds/posts/default</ns0:syndication>
+                <ns0:remarks>description: The CISL Research Data Archive (RDA), managed by NCAR's Data Support Section (DSS), contains a large and diverse collection of meteorological and oceanographic observations, operational and reanalysis model outputs, and remote sensing datasets to support atmospheric and geosciences research, along with ancillary datasets, such as topography/bathymetry, vegetation, and land use.
+Computational and Information Systems Laboratory Research Data Archive is covered by Thomson Reuters Data Citation Index</ns0:remarks>
+        <ns0:entryDate>2014-11-19</ns0:entryDate>
+        <ns0:lastUpdate>2021-10-14</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

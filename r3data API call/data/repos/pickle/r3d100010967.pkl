@@ -1,0 +1,110 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010967</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Indian National Centre for Ocean Information  Services</ns0:repositoryName>
+                    <ns0:additionalName language="eng">ESSO - INCOIS</ns0:additionalName>
+                    <ns0:additionalName language="eng">ESSO - Indian National Centre for Ocean Information  Services</ns0:additionalName>
+                    <ns0:additionalName language="eng">INCOIS</ns0:additionalName>
+                    <ns0:additionalName language="eng">formerly:  Ocean Date and Information System</ns0:additionalName>
+                    <ns0:additionalName language="eng">formerly: ODIS</ns0:additionalName>
+                    <ns0:additionalName language="hin">&#2312;&#2319;&#2360;&#2319;&#2360;&#2323; -&#2349;&#2366;&#2352;&#2340;&#2368;&#2351; &#2352;&#2366;&#2359;&#2381;&#2335;&#2381;&#2352;&#2368;&#2351; &#2350;&#2361;&#2366;&#2360;&#2366;&#2327;&#2352; &#2360;&#2370;&#2330;&#2344;&#2366; &#2360;&#2375;&#2357;&#2366; &#2325;&#2375;&#2344;&#2381;&#2342;&#2381;&#2352;</ns0:additionalName>
+                <ns0:repositoryURL>https://odis.incois.gov.in/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>ROR:04xbqmj23</ns0:repositoryIdentifier>
+                <ns0:description language="eng">The Ocean Date and Information System provides information on physical, chemical, biological and geological parameters of ocean and coasts on spatial and temporal domains that is vital for both research and operational oceanography. In-situ and remote sensing data are included. The Ocean Information Bank is supported by the data received from Ocean Observing Systems in the Indian Ocean (both the in-situ platforms and satellites) as well as by a chain of Marine Data Centres. Ocean and coastal measurements are available.  Data products are accessible through various portals on the site and are largely available by data type (in situ or remote sensing) and then by parameter.</ns0:description>
+                    <ns0:repositoryContact>https://odis.incois.gov.in/portal/datainfo/dicontact.jsp</ns0:repositoryContact>
+                    <ns0:repositoryContact>uday@incois.gov.in</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                    <ns0:type>other</ns0:type>
+                <ns0:size updated="2021-07-22">about 1,5 TB</ns0:size>
+        <ns0:startDate>2012</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>hin</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31302 Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">315 Geophysics and Geodesy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31502 Geodesy, Photogrammetry, Remote Sensing, Geoinformatics, Cartogaphy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL>https://odis.incois.gov.in/portal/mission</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Databases</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>buoys</ns0:keyword>
+                    <ns0:keyword>chlorophyll--remote sensing</ns0:keyword>
+                    <ns0:keyword>marine biology</ns0:keyword>
+                    <ns0:keyword>marine geophysics</ns0:keyword>
+                    <ns0:keyword>ocean</ns0:keyword>
+                    <ns0:keyword>ocean temperature</ns0:keyword>
+                    <ns0:keyword>oceanographic buoys</ns0:keyword>
+                    <ns0:keyword>remote sensing</ns0:keyword>
+                    <ns0:keyword>salinity</ns0:keyword>
+                    <ns0:keyword>tide-gages</ns0:keyword>
+                    <ns0:keyword>water</ns0:keyword>
+                    <ns0:keyword>water current meters</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">ESSO - Indian National Centre for Ocean Information Services</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">ESSO-INCOIS</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">Earth System Science Organization -  Indian National Centre for Ocean Information Services</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">INCOIS</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>IND</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://incois.gov.in/portal/index.jsp</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:04xbqmj23</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate>1999</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>pattabhi@incois.gov.in</ns0:institutionContact>
+                                    <ns0:institutionContact>uday@incois.gov.in</ns0:institutionContact>
+                                    <ns0:institutionContact>webmaster@incois.gov.in</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>QC Manuals</ns0:policyName>
+                <ns0:policyURL>https://odis.incois.gov.in/portal/datainfo/qcmanuals.jsp</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Quality policy</ns0:policyName>
+                <ns0:policyURL>https://odis.incois.gov.in/portal/qualitypolicy.jsp</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>restricted</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                    <ns0:databaseLicense>
+                <ns0:databaseLicenseName>Public Domain</ns0:databaseLicenseName>
+                <ns0:databaseLicenseURL>https://incois.gov.in/tropflux/data_access.jsp</ns0:databaseLicenseURL>
+            </ns0:databaseLicense>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>other</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Public Domain</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://incois.gov.in/portal/datainfo/drform.jsp</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>other</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>no</ns0:versioning>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                    <ns0:aidSystem>none</ns0:aidSystem>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                    <ns0:certificate>other</ns0:certificate>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">ISO 19115</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/iso-19115</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                            <ns0:syndication syndicationType="RSS">https://incois.gov.in/rss/highwavealert</ns0:syndication>
+                <ns0:remarks>INCOIS has been designated as the National Oceanographic Data Centre by the International Oceanographic Data Exchange Programme (IODE) of International Oceanographic Commission (IOC). Further, INCOIS serves as the National Argo Data Centre, Regional Argo Data Centre, and also the regional data centre and clearing house for the Indian Ocean region for the IOGOOS Programme.</ns0:remarks>
+        <ns0:entryDate>2014-09-01</ns0:entryDate>
+        <ns0:lastUpdate>2021-07-22</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

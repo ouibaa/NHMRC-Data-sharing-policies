@@ -1,0 +1,113 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010962</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Alaska Ocean Observing System</ns0:repositoryName>
+                    <ns0:additionalName language="eng">AOOS</ns0:additionalName>
+                <ns0:repositoryURL>https://aoos.org/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>RRID:SCR_010481</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:nlx_157756</ns0:repositoryIdentifier>
+                <ns0:description language="eng">Alaska Ocean Observing System (AOOS) provides ocean and coastal observations data.  The AOOS is governed by  the Integrated Ocean Observing System (IOOS) which is a partnership among federal, regional, academic and private sector groups.
+The Ocean Data Explorer  contains scientific and management information including real-time sensor feeds, operational oceanographic and atmospheric models, satellite observations and GIS data sets that describe the biological, chemical and physical characteristics of Alaska and its surrounding waters. This map offers many new updated features that build upon the existing data system.</ns0:description>
+                    <ns0:repositoryContact>https://aoos.org/contact/</ns0:repositoryContact>
+                    <ns0:repositoryContact>information@aoos.org</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                    <ns0:type>institutional</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2004</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">202 Plant Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20202 Plant Ecology and Ecosystem Analysis</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">203 Zoology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20303 Animal Ecology, Biodiversity and Ecosystem Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31302 Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL>https://aoos.org/about/what-we-do/</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Databases</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>Alaska</ns0:keyword>
+                    <ns0:keyword>Cook inlet</ns0:keyword>
+                    <ns0:keyword>Prince William sound</ns0:keyword>
+                    <ns0:keyword>arctic</ns0:keyword>
+                    <ns0:keyword>coastal ecology</ns0:keyword>
+                    <ns0:keyword>gulf of Alaksa</ns0:keyword>
+                    <ns0:keyword>historic sea ice atlas</ns0:keyword>
+                    <ns0:keyword>industry arctic data</ns0:keyword>
+                    <ns0:keyword>marine ecology</ns0:keyword>
+                    <ns0:keyword>oceanography</ns0:keyword>
+                    <ns0:keyword>seabird</ns0:keyword>
+                    <ns0:keyword>sensor map</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Alaska Ocean Observing System</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">AOOS</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.aoos.org/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.aoos.org/contact-us/</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Integrated Ocean Observing System</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">IOOS</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://ioos.noaa.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>IOOS certification criteria</ns0:policyName>
+                <ns0:policyURL>http://www.ioosassociation.org/sites/nfra/files/documents/ioos_documents/national/IOOS-Certification-Criteria_4-25-12.pdf</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Public Domain</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://dev.aoos.org/wp-content/uploads/2011/04/DMAC-Terms-of-Reference12.doc</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">Darwin Core</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/darwin-core</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                    <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">FGDC/CSDGM - Federal Geographic Data Committee Content Standard for Digital Geospatial Metadata</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/fgdccsdgm-federal-geographic-data-committee-content-standard-digital-ge</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                    <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">ISO 19115</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/iso-19115</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                            <ns0:syndication syndicationType="RSS">http://feeds.feedburner.com/aoos</ns0:syndication>
+                <ns0:remarks>The Portal https://portal.aoos.org/ includes the following data: Arctic Data Integration Portal https://portal.aoos.org/old/arctic.php,  Bering Sea Data Integration Portal https://bering-sea.portal.aoos.org/, and Gulf of Alaska Data Portal https://gulf-of-alaska.portal.aoos.org/#</ns0:remarks>
+        <ns0:entryDate>2014-08-28</ns0:entryDate>
+        <ns0:lastUpdate>2021-09-08</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

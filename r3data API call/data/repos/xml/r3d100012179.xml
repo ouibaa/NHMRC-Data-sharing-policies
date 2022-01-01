@@ -1,0 +1,91 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012179</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Ag-Analytics.org</ns0:repositoryName>
+                <ns0:repositoryURL>https://www.ag-analytics.org</ns0:repositoryURL>
+                <ns0:description language="eng">Ag-Analytics is an online open source database of various economic and environmental data. It automates the collection, formatting, and processing of several different commonly used datasets, such as the National Agricultural Statistics Service (NASS), the Agricultural Marketing Service (AMS), Risk Management agency (RMA),  the PRISM weather database, and the U.S. Commodity Futures Trading Commission (CFTC). All the data have been cleaned and well-documented to save users the inconvenience of scraping and cleaning the data themselves.</ns0:description>
+                    <ns0:repositoryContact>support@analytics.ag</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">112 Economics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11205 Statistics and Econometrics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">12 Social and Behavioural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">23 Agriculture, Forestry, Horticulture and Veterinary Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">317 Geography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL>https://www.ag-analytics.org/AgRiskManagement/About</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>CO2 Calculator</ns0:keyword>
+                    <ns0:keyword>Crop Insurance</ns0:keyword>
+                    <ns0:keyword>Crop Yield</ns0:keyword>
+                    <ns0:keyword>Grape Cost</ns0:keyword>
+                    <ns0:keyword>Spot Price</ns0:keyword>
+                    <ns0:keyword>agricultural and development finance</ns0:keyword>
+                    <ns0:keyword>agriculture</ns0:keyword>
+                    <ns0:keyword>census</ns0:keyword>
+                    <ns0:keyword>climate change</ns0:keyword>
+                    <ns0:keyword>economics</ns0:keyword>
+                    <ns0:keyword>finance</ns0:keyword>
+                    <ns0:keyword>financial analytics</ns0:keyword>
+                    <ns0:keyword>insurance data</ns0:keyword>
+                    <ns0:keyword>market shocks</ns0:keyword>
+                    <ns0:keyword>weather</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Cornell University, Charles H. Dyson School of Applied Economics and Management</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Cornell University, Dyson School</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://dyson.cornell.edu/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.cornell.edu/contact/</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Ag-Analytics.Org Terms of Use and Copyright Notice</ns0:policyName>
+                <ns0:policyURL>https://www.ag-analytics.org/AgRiskManagement/Documents/Terms_Copyright.pdf</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Summary of Terms</ns0:policyName>
+                <ns0:policyURL>https://www.ag-analytics.org/AgRiskManagement/Terms</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.ag-analytics.org</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.ag-analytics.org/AgRiskManagement/Documents/Terms_Copyright.pdf</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                <ns0:versioning />
+                    <ns0:api apiType="REST">https://www.ag-analytics.org/AgRiskManagement/APIdocs</ns0:api>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://www.ag-analytics.org/AgRiskManagement/Documents/Terms_Copyright.pdf</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks>Ag-Analytics GitHub repository: https://github.com/woodardjoshua/Ag-Analytics</ns0:remarks>
+        <ns0:entryDate>2016-10-07</ns0:entryDate>
+        <ns0:lastUpdate>2021-08-25</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

@@ -1,0 +1,113 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100000046</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">European Environment Agency, Datasets</ns0:repositoryName>
+                    <ns0:additionalName language="eng">EEA</ns0:additionalName>
+                <ns0:repositoryURL>https://www.eea.europa.eu/data-and-maps</ns0:repositoryURL>
+                <ns0:description language="eng">The European Environment Agency (EEA) is an agency of the European Union. Our task is to provide sound, independent information on the environment. We are a major information source for those involved in developing, adopting, implementing and evaluating environmental policy, and also the general public. Currently, the EEA has 33 member countries.
+EEA's mandate is: To help the Community and member countries make informed decisions about improving the environment, integrating environmental considerations into economic policies and moving towards sustainability
+To coordinate the European environment information and observation network (Eionet)</ns0:description>
+                            <ns0:type>disciplinary</ns0:type>
+                    <ns0:type>institutional</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>1996</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>ces</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>dan</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>deu</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>ell</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>est</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>fin</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>fra</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>hun</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>isl</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>ita</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>lav</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>lit</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>mlt</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>nor</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>pol</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>por</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>ron</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>slk</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>slv</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>spa</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>swe</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>tur</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">318 Water Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL>https://www.eea.europa.eu/about-us/what</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Archived data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>Air pollution</ns0:keyword>
+                    <ns0:keyword>Air quality</ns0:keyword>
+                    <ns0:keyword>Biodiversity</ns0:keyword>
+                    <ns0:keyword>Climate change</ns0:keyword>
+                    <ns0:keyword>Coasts and seas</ns0:keyword>
+                    <ns0:keyword>Energy</ns0:keyword>
+                    <ns0:keyword>Green economy</ns0:keyword>
+                    <ns0:keyword>Industry</ns0:keyword>
+                    <ns0:keyword>Land use</ns0:keyword>
+                    <ns0:keyword>Natural resources</ns0:keyword>
+                    <ns0:keyword>Policy instruments</ns0:keyword>
+                    <ns0:keyword>Soil</ns0:keyword>
+                    <ns0:keyword>Urban environment</ns0:keyword>
+                    <ns0:keyword>environmental data</ns0:keyword>
+                    <ns0:keyword>environmental policy</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">The European Environment Agency</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">EEA</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>EEC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.eea.europa.eu/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:02k4b9v70</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.eea.europa.eu/contact-us</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Specific privacy statement</ns0:policyName>
+                <ns0:policyURL>https://www.eea.europa.eu/about-us/what/public-events/competitions/imaginair/imaginair-competition-rules/specific-privacy-statement</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                    <ns0:databaseLicense>
+                <ns0:databaseLicenseName>CC</ns0:databaseLicenseName>
+                <ns0:databaseLicenseURL>https://creativecommons.org/licenses/</ns0:databaseLicenseURL>
+            </ns0:databaseLicense>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/licenses/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.eea.europa.eu/legal/copyright</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>other</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>no</ns0:versioning>
+                            <ns0:pidSystem>other</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                    <ns0:syndication syndicationType="RSS">https://www.eea.europa.eu/subscription/news-feeds</ns0:syndication>
+                <ns0:remarks>The EEA now has 32 member countries and six cooperating countries</ns0:remarks>
+        <ns0:entryDate>2013-01-17</ns0:entryDate>
+        <ns0:lastUpdate>2021-04-13</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

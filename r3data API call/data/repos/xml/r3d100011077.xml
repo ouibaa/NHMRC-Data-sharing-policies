@@ -1,0 +1,145 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011077</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Inspire-HEP</ns0:repositoryName>
+                    <ns0:additionalName language="eng">Inspire-High Energy Physics</ns0:additionalName>
+                <ns0:repositoryURL>http://inspirehep.net/?ln=en</ns0:repositoryURL>
+                <ns0:description language="eng">CERN, DESY, Fermilab and SLAC have built the next-generation High Energy Physics (HEP) information system, INSPIRE. It combines the successful SPIRES database content, curated at DESY, Fermilab and SLAC, with the Invenio digital library technology developed at CERN. INSPIRE is run by a collaboration of CERN, DESY, Fermilab, IHEP, and SLAC, and interacts closely with HEP publishers, arXiv.org, NASA-ADS, PDG, HEPDATA and other information resources.
+INSPIRE represents a natural evolution of scholarly communication, built on successful community-based information systems, and provides a vision for information management in other fields of science.</ns0:description>
+                    <ns0:repositoryContact>feedback@inspirehep.net</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                    <ns0:type>institutional</ns0:type>
+                <ns0:size updated="2020-08-20">1,385,753 records</ns0:size>
+        <ns0:startDate>2012</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">309 Particles, Nuclei and Fields</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">32 Physics</ns0:subject>
+                <ns0:missionStatementURL />
+                    <ns0:contentType contentTypeScheme="parse">Archived data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Databases</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Software applications</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>accelerator physics</ns0:keyword>
+                    <ns0:keyword>astrophysics</ns0:keyword>
+                    <ns0:keyword>experiments</ns0:keyword>
+                    <ns0:keyword>gravitation and cosmology</ns0:keyword>
+                    <ns0:keyword>high energy physics</ns0:keyword>
+                    <ns0:keyword>nuclear physics</ns0:keyword>
+                    <ns0:keyword>particle physics</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="fra">CERN</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="fra">Conseil Europeen pour la Recherche Nucleaire</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">European Organization for Nuclear Research</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>EEC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://home.cern/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:01ggx4157</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://home.cern/contact</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Chinese Academy of Sciences, Institute of High Energy Physics</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">IHEP</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">Institute of High Energy Physics</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="zho">&#39640;&#33021;&#29289;&#29702;&#30740;&#31350;&#25152;&#20013;&#22283;&#38498;&#22763;</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CHN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://english.ihep.cas.cn/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:03v8tnc06</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://english.ihep.cas.cn/doc/1946.html</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="deu">DESY</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="deu">Deutsches Elektronen-Synchrotron</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.desy.de/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:01js2sh04</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.desy.de/contact/index_eng.html</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Fermilab</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Fermi National Accelerator Laboratory</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.fnal.gov/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:020hgte69</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.fnal.gov/pub/contact/index.html</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">SLAC</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">National Accelerator Laboratory</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www6.slac.stanford.edu/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:05gzmn429</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www6.slac.stanford.edu/about/contact-slac</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>INSPIRE Terms of Use</ns0:policyName>
+                <ns0:policyURL>http://inspirehep.net/info/general/terms-of-use</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                    <ns0:databaseLicense>
+                <ns0:databaseLicenseName>other</ns0:databaseLicenseName>
+                <ns0:databaseLicenseURL>http://inspirehep.net/info/general/terms-of-use</ns0:databaseLicenseURL>
+            </ns0:databaseLicense>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC0</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/choose/zero/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://inspirehep.net/info/general/terms-of-use</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>other</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                    <ns0:api apiType="OAI-PMH">http://old.inspirehep.net/info/hep/api?ln=de</ns0:api>
+                    <ns0:api apiType="other">https://inspirehep.net/info/hep/api</ns0:api>
+                            <ns0:pidSystem>ARK</ns0:pidSystem>
+                    <ns0:pidSystem>DOI</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                    <ns0:aidSystem>ORCID</ns0:aidSystem>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                    <ns0:syndication syndicationType="RSS">https://blog.inspirehep.net/2012/09/new-rss-feeds/</ns0:syndication>
+                <ns0:remarks>Inspire-HEP superseded Spires_HEP (Stanford Physics Information Retrieval System)</ns0:remarks>
+        <ns0:entryDate>2014-06-05</ns0:entryDate>
+        <ns0:lastUpdate>2020-08-20</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

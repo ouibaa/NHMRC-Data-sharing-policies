@@ -1,0 +1,142 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012834</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Deep Carbon Observatory Data Portal</ns0:repositoryName>
+                    <ns0:additionalName language="eng">DCO Data Portal</ns0:additionalName>
+                    <ns0:additionalName language="eng">DCO-VIVO</ns0:additionalName>
+                <ns0:repositoryURL>https://info.deepcarbon.net/vivo/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>biodbcore-001654</ns0:repositoryIdentifier>
+                <ns0:description language="eng">The Deep Carbon Observatory (DCO) is a global community of multi-disciplinary scientists unlocking the inner secrets of Earth through investigations into life, energy, and the fundamentally unique chemistry of carbon. Deep Carbon Observatory Digital Object Registry (&#8220;DCO-VIVO&#8221;) is a centrally-managed digital object identification, object registration and metadata management service for the DCO. Digital object registration includes DCO-ID generation based on the global Handle System infrastructure and metadata collection using VIVO. Users will be able to deposit their data into the DCO Data Repository and have that data discoverable and accessible by others.</ns0:description>
+                    <ns0:repositoryContact>web@deepcarbon.net</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2020-12-04">223 datasets</ns0:size>
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">201 Basic Biological and Medical Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">202 Plant Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">203 Zoology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">307 Condensed Matter Physics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31 Chemistry</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">310 Statistical Physics, Soft Matter, Biological Physics, Nonlinear Dynamics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31001 Statistical Physics, Soft Matter, Biological Physics, Nonlinear Dynamics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">311 Astrophysics and Astronomy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31101 Astrophysics and Astronomy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">314 Geology and Palaeontology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">315 Geophysics and Geodesy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31501 Geophysics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">316 Geochemistry, Mineralogy and Crystallography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31601 Geochemistry, Mineralogy and Crystallography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">32 Physics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL>https://deepcarbon.net/index.php/data-portal</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Audiovisual data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>abiogenic</ns0:keyword>
+                    <ns0:keyword>astrobiology</ns0:keyword>
+                    <ns0:keyword>biogeochemistry</ns0:keyword>
+                    <ns0:keyword>carbon at high pressures</ns0:keyword>
+                    <ns0:keyword>carbon cycling</ns0:keyword>
+                    <ns0:keyword>carbonates</ns0:keyword>
+                    <ns0:keyword>deep biospheres</ns0:keyword>
+                    <ns0:keyword>deep energy</ns0:keyword>
+                    <ns0:keyword>earth and planetary science</ns0:keyword>
+                    <ns0:keyword>earth sciences</ns0:keyword>
+                    <ns0:keyword>eeep life</ns0:keyword>
+                    <ns0:keyword>extreme environments</ns0:keyword>
+                    <ns0:keyword>extreme physics and chemistry</ns0:keyword>
+                    <ns0:keyword>fluid-Rock interactions</ns0:keyword>
+                    <ns0:keyword>geodynamics</ns0:keyword>
+                    <ns0:keyword>mantle magmas and volatiles</ns0:keyword>
+                    <ns0:keyword>microbiology</ns0:keyword>
+                    <ns0:keyword>mineral physics</ns0:keyword>
+                    <ns0:keyword>petrology</ns0:keyword>
+                    <ns0:keyword>reservoirs and fluxes</ns0:keyword>
+                    <ns0:keyword>volcanology</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Alfred P. Sloan Foundation</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://sloan.org/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:052csg198</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>VIAF:159077464</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://sloan.org/about/contact</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Deep Carbon Observatory</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">DCO</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>AAA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://deepcarbon.net/index.php/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://deepcarbon.net/about/contact-dco</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>DCO Open Access and Data Policies</ns0:policyName>
+                <ns0:policyURL>https://deepcarbon.net/page/dco-open-access-and-data-policies</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>embargoed</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/licenses/by/3.0/de/deed.en</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>CC0</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/share-your-work/public-domain/cc0/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>DCO Open Access and Data Policies</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>https://deepcarbon.net/page/dco-open-access-and-data-policies</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                            <ns0:software>
+                <ns0:softwareName>CKAN</ns0:softwareName>
+            </ns0:software>
+                    <ns0:software>
+                <ns0:softwareName>other</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                    <ns0:api apiType="other">https://docs.ckan.org/en/2.8/api/index.html</ns0:api>
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                    <ns0:pidSystem>hdl</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                    <ns0:aidSystem>none</ns0:aidSystem>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">Dublin Core</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                    <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">Repository-Developed Metadata Schemas</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/repository-developed-metadata-schemas</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks>Task Force 2020 is exploring ways to keep this burgeoning field of deep carbon science going beyond the culmination of the DCO in 2019 after ten years.</ns0:remarks>
+        <ns0:entryDate>2018-08-27</ns0:entryDate>
+        <ns0:lastUpdate>2021-11-17</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

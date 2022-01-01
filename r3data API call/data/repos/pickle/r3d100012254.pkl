@@ -1,0 +1,151 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012254</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">CLARIN-LT</ns0:repositoryName>
+                    <ns0:additionalName language="eng">CLARIN-LT Repository</ns0:additionalName>
+                <ns0:repositoryURL>http://clarin-lt.lt/?lang=en</ns0:repositoryURL>
+                <ns0:description language="eng">Lithuania became a full member of CLARIN ERIC in January of 2015 and soon CLARIN-LT consortium was founded by three partner universities: Vytautas Magnus University, Kaunas Technology University and Vilnius University. The main goal of the consortium is to become a CLARIN B centre, which will be able to serve language users in Lithuania and Europe for storing and accessing language resources.</ns0:description>
+                    <ns0:repositoryContact>andrius.utka@vdu.lt</ns0:repositoryContact>
+                    <ns0:repositoryContact>dspace@clarin.vdu.lt</ns0:repositoryContact>
+                    <ns0:repositoryContact>info@clarin.vdu.lt</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2015</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>lit</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">104 Linguistics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11 Humanities</ns0:subject>
+                <ns0:missionStatementURL>https://clarin.vdu.lt/xmlui/page/about#mission-statement</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Archived data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Audiovisual data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>Delfi</ns0:keyword>
+                    <ns0:keyword>Lithuanian language</ns0:keyword>
+                    <ns0:keyword>NLP</ns0:keyword>
+                    <ns0:keyword>corpora</ns0:keyword>
+                    <ns0:keyword>social media</ns0:keyword>
+                    <ns0:keyword>syntactic analysis</ns0:keyword>
+                    <ns0:keyword>treebank</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">CLARIN-ERIC</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Common Language Resources and Technology Infrastructure - European Research Infrastructure Consortium</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>EEC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://clarin.eu/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://clarin.eu/contact</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Kaunas University of Technology</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="lit">KTU</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="lit">Kauno Technologijos Universitetas</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>LTU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://ktu.edu/en</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>ktu@ktu.lt</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Vilnius University</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">VU</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="lit">Vilniaus Universitetas</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>LTU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.vu.lt/en</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Vytautas Magnus University, Centre of Computational Linguistics</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">CCL</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="lit">VDU</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">VMU</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="lit">Vytauto Did&#382;iojo universitetas</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>LTU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://tekstynas.vdu.lt/locale.xhtml;jsessionid=0E179E1ABB6B0122B45FE15DB527362A?method=en</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>a.utka@hmf.vdu.lt</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>CLARIN-LT TERMS OF USE</ns0:policyName>
+                <ns0:policyURL>https://clarin.vdu.lt/licenses/CLARIN-LT_Terms-of-Service_EN-LT.htm</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>CLARIN-LT repository About and Legal Information</ns0:policyName>
+                <ns0:policyURL>https://clarin.vdu.lt/xmlui/page/about</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                    <ns0:databaseLicense>
+                <ns0:databaseLicenseName>CC0</ns0:databaseLicenseName>
+                <ns0:databaseLicenseURL>http://creativecommons.org/about/cc0</ns0:databaseLicenseURL>
+            </ns0:databaseLicense>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>institutional membership</ns0:dataAccessRestriction>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://creativecommons.org/licenses/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://clarin.vdu.lt/licenses/eula/ACA_CLARIN-LT_End-User-Licence-Agreement_EN-LT.htm</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://clarin.vdu.lt/licenses/eula/PUB_CLARIN-LT_End-User-Licence-Agreement_EN-LT.htm</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://clarin.vdu.lt/licenses/eula/RES_CLARIN-LT_End-User-Licence-Agreement_EN-LT.htm</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>institutional membership</ns0:dataUploadRestriction>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>DISTRIBUTION LICENCE AGREEMENT</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>https://clarin.vdu.lt/licenses/CLARIN-LT-Distribution_Licence_EN-LT.htm</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                            <ns0:software>
+                <ns0:softwareName>DSpace</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                    <ns0:api apiType="OAI-PMH">https://vlo.clarin.eu/data/CLARIN_LT_digital_library_in_the_Republic_of_Lithuania.html</ns0:api>
+                            <ns0:pidSystem>hdl</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://clarin.vdu.lt/xmlui/page/cite</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">Dublin Core</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                            <ns0:syndication syndicationType="ATOM">https://clarin.vdu.lt/xmlui/feed/atom_1.0/site</ns0:syndication>
+                    <ns0:syndication syndicationType="RSS">https://clarin.vdu.lt/xmlui/feed/rss_2.0/site</ns0:syndication>
+                <ns0:remarks>CLARIN-LT data can be Searched in CLARIN Virtual Language Observatory https://vlo.clarin.eu/?0-1.ILinkListener-searchContainer-selections-facets-container-facets-1-facet-facetValues-allValues-bodyContent-facetValuesContainer-facetValue-528-facetSelect .</ns0:remarks>
+        <ns0:entryDate>2016-11-28</ns0:entryDate>
+        <ns0:lastUpdate>2020-02-14</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

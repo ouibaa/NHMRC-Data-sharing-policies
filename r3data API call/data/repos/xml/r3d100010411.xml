@@ -1,0 +1,87 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010411</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Comprehensive R Archive Network</ns0:repositoryName>
+                    <ns0:additionalName language="eng">CRAN</ns0:additionalName>
+                <ns0:repositoryURL>https://cran.r-project.org/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>RRID:SCR_003005</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:nif-0000-30270</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>biodbcore-001356</ns0:repositoryIdentifier>
+                <ns0:description language="eng">CRAN is a network of ftp and web servers around the world that store identical, up-to-date, versions of code and documentation for R. R is &#8216;GNU S&#8217;, a freely available language and environment for statistical computing and graphics which provides a wide variety of statistical and graphical techniques: linear and nonlinear modelling, statistical tests, time series analysis, classification, clustering, etc. Please consult the R project homepage for further information.</ns0:description>
+                    <ns0:repositoryContact>cran-sysadmin@r-project.org</ns0:repositoryContact>
+                    <ns0:repositoryContact>cran@r-project.org</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>1997</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">4 Engineering Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">44 Computer Science, Electrical and System Engineering</ns0:subject>
+                <ns0:missionStatementURL>https://cran.r-project.org/</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Archived data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Configuration data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Software applications</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Source code</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>R</ns0:keyword>
+                    <ns0:keyword>code</ns0:keyword>
+                    <ns0:keyword>graphics</ns0:keyword>
+                    <ns0:keyword>network</ns0:keyword>
+                    <ns0:keyword>programming language</ns0:keyword>
+                    <ns0:keyword>software system</ns0:keyword>
+                    <ns0:keyword>statistical computing</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="deu">Wirtschaftsuniversit&#228;t Wien, Institut f&#252;r Statistik und Mathematik</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Vienna University of Economics and Business, Institute for Statistics and Mathematics</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>AUT</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.wu.ac.at/en/statmath/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>1997</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.wu.ac.at/en/press/press-releases/press-releases-details/detail/r-eine-der-bedeutendsten-programmiersprachen-weltweit-kopie-1/</ns0:institutionContact>
+                                    <ns0:institutionContact>https://www.wu.ac.at/en/the-university/about-wu/impressum/</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>CRAN Repository Policy</ns0:policyName>
+                <ns0:policyURL>http://cran.r-project.org/web/packages/policies.html</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://cran.r-project.org/web/packages/policies.html</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://svn.r-project.org/R/trunk/share/licenses/license.db</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>Submission</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>https://cran.r-project.org/web/packages/policies.html#Submission</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                            <ns0:software>
+                <ns0:softwareName>other</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                    <ns0:api apiType="FTP">ftp://ftp.stat.math.ethz.ch/Software/</ns0:api>
+                    <ns0:api apiType="FTP">ftp://cran.r-project.org/</ns0:api>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://cran.r-project.org/web/packages/policies.html</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                <ns0:remarks>CRAN is covered by Thomson Reuters Data Citation Index. is covered by Elsevier. Data is available under GNU license. Mirror sites can be found here https://cran.r-project.org/mirrors.html .</ns0:remarks>
+        <ns0:entryDate>2013-06-20</ns0:entryDate>
+        <ns0:lastUpdate>2021-09-02</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

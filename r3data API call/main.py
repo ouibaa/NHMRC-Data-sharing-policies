@@ -1,35 +1,15 @@
-import xmlschema
-import pandas
-import requests
-from pprint import pprint
-from xml.etree import ElementTree as ET
+from scripts import apiHandler, xmlHandler
 
-my_schema = xmlschema.XMLSchema('API Schema/re3dataV2-2.xsd')
-url = "https://www.re3data.org/api/v1/repository/r3d100000004"
-response = requests.get(url)
-# print(response.text)
+# apiHandler.retrieveRepoList(saveLoc = "./data/repolist.xml")
+idlist = xmlHandler.extractRepoList(xmlLoc = "./data/repolist.xml", saveLoc = "./data/repolist.pkl")
+# for id in idlist:
+#     apiHandler.retrieveRepo(id = id, saveLoc = "./data/repos")
+#     print("Retrieved repository " + id)
+repolist = xmlHandler.extractRepoListByTag(idlist = idlist, xmlLoc = "./data/repos/xml", saveLoc="./data", tag="205 Medicine")
 
-ns = {'re3': 'http://www.re3data.org/schema/2-2'}
-tree = ET.fromstring(response.text)
+# with open("data/xmllistby205 Medicine.pkl", "rb") as f:
+#     repolist = pickle.load(f) 
 
-with open("APICall.xml", "wb") as f:
-    f.write(ET.tostring(tree))
+ xmlHander.extractRepoData(repolist, xmlLoc = "./data/repos/xml", saveLoc="./data/extracted.csv")
 
-for repo in tree.findall('re3:repository', ns):
-    identifier = repo.find('re3:re3data.orgIdentifier', ns)
-    print(identifier.text)
-# print(tree.findall("./re3data[0]/"))
-
-
-# xs = xmlschema.XMLSchema('tests/test_cases/examples/vehicles/vehicles.xsd')
-# xt = ElementTree.parse('tests/test_cases/examples/vehicles/vehicles.xml')
-# root = xt.getroot()
-# pprint(xs.elements['cars'].decode(root[0]))
-# {'{http://example.com/vehicles}car': [{'@make': 'Porsche', '@model': '911'},
-#                                       {'@make': 'Porsche', '@model': '911'}]}
-# pprint(xs.elements['cars'].decode(xt.getroot()[1], validation='skip'))
-# None
-# pprint(xs.elements['bikes'].decode(root[1], namespaces={'vh': 'http://example.com/vehicles'}))
-# {'@xmlns:vh': 'http://example.com/vehicles',
-#  'vh:bike': [{'@make': 'Harley-Davidson', '@model': 'WL'},
-#              {'@make': 'Yamaha', '@model': 'XS650'}]}
+ 

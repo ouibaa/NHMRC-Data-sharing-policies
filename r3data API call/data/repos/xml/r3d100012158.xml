@@ -1,0 +1,113 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012158</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Etsin Research Data Finder</ns0:repositoryName>
+                    <ns0:additionalName language="fin">Etsin - tutkimusaineistojen hakupalvelu</ns0:additionalName>
+                <ns0:repositoryURL>https://etsin.fairdata.fi/</ns0:repositoryURL>
+                <ns0:description language="eng">Etsin is a research data finder that contains descriptive information &#8211; that is, metadata &#8211; on research datasets. In the service you can search and find data from various fields of research. A researcher, research group or organisation can use Etsin to publish information on their datasets and offer them for wider use. The metadata contained in Etsin makes it easy for anyone to discover the datasets.  Etsin assigns a permanent URN identifier to datasets, making it possible to link to the dataset and gather merit through its publication and use.
+The metadata enables users to search for datasets and evaluate the potential for reuse. Etsin includes a description of the dataset, keywords and various dataset identifiers. The dataset information includes, for example, its subject, language, author, owner and how it is licensed for reuse. Good description of data plays an important role in its discoverability and visibility. Etsin encourages comprehensive descriptions by adapting a common set of discipline independent metadata fields and by making it easy to enter metadata.
+Etsin only collects metadata on datasets, not the data themselves. Anyone may browse and read the metadata. Etsin can be used with a browser or through an open interface (API). The service is discipline independent and free to use. 
+Etsin is a service provided by the Ministry of Education and Culture to actors in the Finnish research system. The service is produced by CSC &#8211; IT Center for Science (CSC).  Customer service contacts and feedback is available through servicedesk@csc.fi. The service maintenance window is on the fourth Monday of every month between 4 and 6 PM (EET). During that time, the service will be out of use.</ns0:description>
+                    <ns0:repositoryContact>servicedesk@csc.fi</ns0:repositoryContact>
+                            <ns0:type>other</ns0:type>
+                <ns0:size updated="2020-11-26">10.143 datasets</ns0:size>
+        <ns0:startDate>2013</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>fin</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">4 Engineering Sciences</ns0:subject>
+                <ns0:missionStatementURL>https://www.fairdata.fi/en/etsin/</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Archived data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>AILA</ns0:keyword>
+                    <ns0:keyword>AVAA</ns0:keyword>
+                    <ns0:keyword>Doria</ns0:keyword>
+                    <ns0:keyword>Finto</ns0:keyword>
+                    <ns0:keyword>IDA</ns0:keyword>
+                    <ns0:keyword>Language</ns0:keyword>
+                    <ns0:keyword>Language Bank of Finland</ns0:keyword>
+                    <ns0:keyword>Tuuli</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">CSC - IT Center for Science Ltd</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="fin">CSC - Tieteen tietotekniikan keskus</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>FIN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.csc.fi/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:04m8m1253</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate>2012</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.csc.fi/contact-info</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Ministry of Education and Culture</ns0:institutionName>
+                                <ns0:institutionCountry>FIN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://minedu.fi/OPM/?lang=en</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:02w52zt87</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate>2012</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Accessibility Statement for Fairdata Etsin</ns0:policyName>
+                <ns0:policyURL>https://www.fairdata.fi/en/etsin-accessibility/</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Fairdata Terms and Policies</ns0:policyName>
+                <ns0:policyURL>https://www.fairdata.fi/en/terms-and-policies/</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                    <ns0:databaseLicense>
+                <ns0:databaseLicenseName>Public Domain</ns0:databaseLicenseName>
+                <ns0:databaseLicenseURL>https://creativecommons.org/publicdomain/zero/1.0/</ns0:databaseLicenseURL>
+            </ns0:databaseLicense>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>embargoed</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/licenses/by/4.0/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>CC0</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>https://creativecommons.org/publicdomain/zero/1.0/</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                            <ns0:software>
+                <ns0:softwareName>CKAN</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                    <ns0:api apiType="REST">https://www.fairdata.fi/en/metax/apis/</ns0:api>
+                            <ns0:pidSystem>URN</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://www.fairdata.fi/en/etsin/</ns0:citationGuidelineURL>
+                    <ns0:aidSystem>ORCID</ns0:aidSystem>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">DCAT - Data Catalog Vocabulary</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dcat-data-catalog-vocabulary</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                    <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">Dublin Core</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks>Supports any PID type, provides only URNs. Supports any research identifier, e.g. ORCID. Metadata schema follows the national standard for research data, follows Dublin Core and DCat</ns0:remarks>
+        <ns0:entryDate>2016-09-19</ns0:entryDate>
+        <ns0:lastUpdate>2021-09-09</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

@@ -1,0 +1,76 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011413</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Wolfenb&#252;tteler Digital Library</ns0:repositoryName>
+                    <ns0:additionalName language="deu">WDB</ns0:additionalName>
+                    <ns0:additionalName language="deu">Wolfenb&#252;tteler Digitale Bibliothek</ns0:additionalName>
+                <ns0:repositoryURL>http://www.hab.de/en/home/library/wolfenbuettel-digital-library.html</ns0:repositoryURL>
+                <ns0:description language="eng">In the Wolfenb&#252;ttel Digital Library the Herzog August Bibliothek presents in digital facsimile selected items from its collections which are rare, outstanding, frequently used, or currently most relevant for research. All digitized titles may be accessed not only here, but also via the PICA-OPAC as long as they are monographs. The OPAC allows you to search for digitized books separately by limiting the search options within the database using the term Online Resources.
+Projects which provide additional indexing comprise a project-specific database, an inventory of digitized titles, information about tools and techniques, and references to literature. Here the main objective is to provide search facilities outside the scope of usual bibliographic description, such as page-related indexing.</ns0:description>
+                    <ns0:repositoryContact>http://www.hab.de/en/home/contacts.html</ns0:repositoryContact>
+                            <ns0:type>institutional</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>deu</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">101 Ancient Cultures</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">105 Literary Studies</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11 Humanities</ns0:subject>
+                <ns0:missionStatementURL />
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>digital editions</ns0:keyword>
+                    <ns0:keyword>imprints</ns0:keyword>
+                    <ns0:keyword>incunabula</ns0:keyword>
+                    <ns0:keyword>manuscripts</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="deu">Herzog August Bibliothek Wolfenb&#252;ttel</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="deu">HAB</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.hab.de</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>auskunft@hab.de</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Library Rules &#167;7</ns0:policyName>
+                <ns0:policyURL>http://www.hab.de/files/benutzungsordnunglandesbibliotheken.pdf</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/licenses/by-sa/3.0/de/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www.hab.de/en/home/library/service/ordering-reproductions/publishing---copyright.html</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                <ns0:versioning />
+                    <ns0:api apiType="OAI-PMH">http://oai.hab.de/?verb=Identify</ns0:api>
+                            <ns0:pidSystem>other</ns0:pidSystem>
+                <ns0:citationGuidelineURL>http://www.hab.de/en/home/library/wolfenbuettel-digital-library/guarantee-declaration.html</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>no</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                    <ns0:syndication syndicationType="RSS">http://dbs.hab.de/rss/</ns0:syndication>
+                <ns0:remarks>Partners: http://www.hab.de/de/home/ueber-uns/kooperationen.html
+Various research and cataloguing projects are developing stand-alone websites containing research papers and primary sources as well as links to internal and external resources. http://www.hab.de/en/home/research/projects/web-portals-and-databases.html</ns0:remarks>
+        <ns0:entryDate>2015-03-24</ns0:entryDate>
+        <ns0:lastUpdate>2018-12-12</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

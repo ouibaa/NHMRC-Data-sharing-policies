@@ -1,0 +1,199 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010386</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">LINDAT/CLARIN repository</ns0:repositoryName>
+                <ns0:repositoryURL>https://lindat.mff.cuni.cz/repository/xmlui/</ns0:repositoryURL>
+                <ns0:description language="eng">LINDAT/CLARIN is designed as a Czech &#8220;node&#8221; of Clarin ERIC (Common Language
+Resources and Technology Infrastructure). It also supports the goals of the META-NET language technology network. Both networks aim at collection, annotation, development and free sharing of language data and basic technologies between institutions and individuals both in science and in all types of research. The Clarin ERIC infrastructural project is more focused on humanities, while META-NET aims at the development of language technologies and applications. The data stored in the repository are already being used in scientific publications in the Czech Republic.</ns0:description>
+                    <ns0:repositoryContact>lindat-help@ufal.mff.cuni.cz</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2021-09-29">1.185 records</ns0:size>
+        <ns0:startDate>2010</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">104 Linguistics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11 Humanities</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">4 Engineering Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">409 Computer Science</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">40904 Artificial Intelligence, Image and Language Processing</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">44 Computer Science, Electrical and System Engineering</ns0:subject>
+                <ns0:missionStatementURL>https://lindat.cz/files/mission-en.pdf</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Archived data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Audiovisual data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Source code</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>computational linguistics</ns0:keyword>
+                    <ns0:keyword>corpora</ns0:keyword>
+                    <ns0:keyword>corpus</ns0:keyword>
+                    <ns0:keyword>language resources</ns0:keyword>
+                    <ns0:keyword>natural language processing</ns0:keyword>
+                    <ns0:keyword>speech</ns0:keyword>
+                    <ns0:keyword>text</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Academy of Sciences, Institute of the Czech Language</ns0:institutionName>
+                                <ns0:institutionCountry>CZE</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://ujc.avcr.cz/index.html</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:01912nj27</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">CLARIN-ERIC</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Common Language Resources and Technology Infrastructure - ERIC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>EEC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.clarin.eu/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Institute of Formal and Applied Linguistics, Charles University in Prague</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">UFAL</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CZE</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://ufal.mff.cuni.cz/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>2010</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">LINDAT/CLARIN Centre for Language Research Infrastructure</ns0:institutionName>
+                                <ns0:institutionCountry>CZE</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://lindat.mff.cuni.cz/en/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://lindat.mff.cuni.cz/en/about-lindat-clarin</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">META-NET</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">A Network of Excellence forging the
+Multilingual Europe Technology Alliance</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>EEC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.meta-net.eu/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Masaryk University, Faculty of Informatics, Natural Language Processing Centre</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="ces">Masarykovy univerzity, Fakulta informatiky, Centrum zpracov&#225;n&#237; p&#345;irozen&#233;ho jazyka</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">NLP Center</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CZE</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://nlp.fi.muni.cz/en/NLPCentre</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.muni.cz/o-univerzite/fakulty-a-pracoviste/masarykova-univerzita/projekty</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Ministry of Education, Youth and Sports</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">MSMT</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CZE</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.msmt.cz/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:037n8p820</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of West Bohemia, Faculty of Applied Sciences, Department of Cybernetics</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">KKY</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CZE</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.fav.zcu.cz/en/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>CLARIN B-Centre certificate</ns0:policyName>
+                <ns0:policyURL>https://www.clarin.eu/content/lindat-clarin</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>CoreTrustSeal assessment</ns0:policyName>
+                <ns0:policyURL>https://www.coretrustseal.org/wp-content/uploads/2019/08/LINDAT-CLARIN.pdf</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>LINDAT/CLARIN repository About and Policies</ns0:policyName>
+                <ns0:policyURL>https://lindat.mff.cuni.cz/repository/xmlui/page/about</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                            <ns0:databaseAccessRestriction>registration</ns0:databaseAccessRestriction>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>other</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Apache License 2.0</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www.apache.org/licenses/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>BSD</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://opensource.org/licenses/BSD-3-Clause</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/licenses/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>CC0</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/publicdomain/mark/1.0/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>ODC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://opendatacommons.org/licenses/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://lindat.mff.cuni.cz/repository/xmlui/page/licenses</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://opensource.org/licenses/MPL-2.0</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>DSpace</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                    <ns0:api apiType="OAI-PMH">https://centres.clarin.eu/oai_pmh</ns0:api>
+                            <ns0:pidSystem>hdl</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://lindat.mff.cuni.cz/repository/xmlui/page/cite</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                    <ns0:certificate>CLARIN certificate B</ns0:certificate>
+                    <ns0:certificate>other</ns0:certificate>
+                                    <ns0:syndication syndicationType="ATOM">https://lindat.mff.cuni.cz/repository/xmlui/feed/atom_1.0/site</ns0:syndication>
+                    <ns0:syndication syndicationType="RSS">https://lindat.mff.cuni.cz/repository/xmlui/feed/rss_2.0/site</ns0:syndication>
+                    <ns0:syndication syndicationType="RSS">https://lindat.mff.cuni.cz/repository/xmlui/feed/rss_1.0/site</ns0:syndication>
+                <ns0:remarks>LINDAT/CLARIN repository is covered by Thomson Reuters Data Citation Index. LINDAT/CLARIN is a node of the Clarin ERIC network. Datasets: The PDT 2.0; NEW (beta) The EngVallex; he PDT-Vallex;  Prague English Dependency Treebank 1.0; Prague Czech-English Dependency Treebank 1.0; Prague Spoken Language Corpus; Vallex 2.5</ns0:remarks>
+        <ns0:entryDate>2013-04-03</ns0:entryDate>
+        <ns0:lastUpdate>2021-09-29</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

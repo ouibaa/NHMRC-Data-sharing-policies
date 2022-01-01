@@ -1,0 +1,89 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011942</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Palynological Database</ns0:repositoryName>
+                    <ns0:additionalName language="eng">PalDat</ns0:additionalName>
+                    <ns0:additionalName language="eng">an online publication on recent pollen</ns0:additionalName>
+                <ns0:repositoryURL>https://www.paldat.org/</ns0:repositoryURL>
+                <ns0:description language="eng">PalDat provides a large amount of data from a variety of plant families. Each data entry ideally includes a detailed description of the pollen grain, images of each pollen grain (LM, SEM and TEM), images of the plant/inflorescence/flower and relevant literature.</ns0:description>
+                    <ns0:repositoryContact>https://www.paldat.org/contact</ns0:repositoryContact>
+                    <ns0:repositoryContact>info@paldat.org</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2020-12-14">30.874 pictures;  3.620 species; 1. 563 genera</ns0:size>
+        <ns0:startDate>2000</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">202 Plant Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                <ns0:missionStatementURL>https://www.paldat.org/info/about</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>palynology</ns0:keyword>
+                    <ns0:keyword>pollen</ns0:keyword>
+                    <ns0:keyword>taxonomy</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Society for the Promotion of Palynological Research in Austria</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">AutPal</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="deu">Verein zur F&#246;rderung der palynologischen Forschung in &#214;sterreich</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>AUT</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://autpal.jimdofree.com/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of Vienna, Division of Structural and Functional Botany</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">SFB</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="deu">Universit&#228;t Wien, Abteilung f&#252;r Strukturelle und  Funktionelle Botanik</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>AUT</ns0:institutionCountry>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://sfb.univie.ac.at/en/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Terms of Conditions</ns0:policyName>
+                <ns0:policyURL>https://www.paldat.org/static/paldat_terms_of_condition_march_2015.pdf</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                    <ns0:databaseLicense>
+                <ns0:databaseLicenseName>other</ns0:databaseLicenseName>
+                <ns0:databaseLicenseURL>https://www.paldat.org/static/paldat_terms_of_condition_march_2015.pdf</ns0:databaseLicenseURL>
+            </ns0:databaseLicense>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.paldat.org/info/copyright</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>Terms of Conditions</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>https://www.paldat.org/static/paldat_terms_of_condition_march_2015.pdf</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                            <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://www.paldat.org/info/copyright</ns0:citationGuidelineURL>
+                    <ns0:aidSystem>none</ns0:aidSystem>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                <ns0:remarks>contributors: https://www.paldat.org/info/contributors</ns0:remarks>
+        <ns0:entryDate>2016-02-19</ns0:entryDate>
+        <ns0:lastUpdate>2021-07-02</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

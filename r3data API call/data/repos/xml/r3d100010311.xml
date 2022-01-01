@@ -1,0 +1,141 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010311</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">NOAA National Centers for Environmental Information -  Paleoclimatology Data</ns0:repositoryName>
+                    <ns0:additionalName language="eng">Paleoclimatology Data</ns0:additionalName>
+                    <ns0:additionalName language="eng">World Data Service for Paleoclimatology</ns0:additionalName>
+                <ns0:repositoryURL>https://www.ncdc.noaa.gov/data-access/paleoclimatology-data</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>RRID:SCR_012149</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:rid_000059</ns0:repositoryIdentifier>
+                <ns0:description language="eng">Paleoclimatology data are derived from natural sources such as tree rings, ice cores, corals, and ocean and lake sediments. These proxy climate data extend the archive of weather and climate information hundreds to millions of years. The data include geophysical or biological measurement time series and some reconstructed climate variables such as temperature and precipitation.
+NCEI provides the paleoclimatology data and information scientists need to understand natural climate variability and future climate change. We also operate the World Data Center for Paleoclimatology, which archives and distributes data contributed by scientists around the world.</ns0:description>
+                    <ns0:repositoryContact>paleo@noaa.gov</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31302 Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">314 Geology and Palaeontology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL>https://www.ncdc.noaa.gov/data-access/paleoclimatology-data/about-the-paleoclimatology-program</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>borehole</ns0:keyword>
+                    <ns0:keyword>climate change</ns0:keyword>
+                    <ns0:keyword>climate forcing</ns0:keyword>
+                    <ns0:keyword>climate reconstruction</ns0:keyword>
+                    <ns0:keyword>coral and sclerosponge</ns0:keyword>
+                    <ns0:keyword>fauna</ns0:keyword>
+                    <ns0:keyword>fire history</ns0:keyword>
+                    <ns0:keyword>global warming</ns0:keyword>
+                    <ns0:keyword>ice core</ns0:keyword>
+                    <ns0:keyword>insect</ns0:keyword>
+                    <ns0:keyword>lake</ns0:keyword>
+                    <ns0:keyword>lake level reconstruction</ns0:keyword>
+                    <ns0:keyword>loess and eolian dust</ns0:keyword>
+                    <ns0:keyword>paleclimate modelling</ns0:keyword>
+                    <ns0:keyword>paleoceanography</ns0:keyword>
+                    <ns0:keyword>paleoclimatology</ns0:keyword>
+                    <ns0:keyword>plant macrofossil</ns0:keyword>
+                    <ns0:keyword>pollen</ns0:keyword>
+                    <ns0:keyword>speleothem</ns0:keyword>
+                    <ns0:keyword>tree ring</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">National Centers for Environmental Information</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NCEI</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.ncei.noaa.gov/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:04r0wrp59</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.ncei.noaa.gov/contact</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Oceanic and Atmospheric Administration</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NOAA</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.noaa.gov/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:02z5nhe81</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>webmaster@noaa.gov</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Data Access</ns0:policyName>
+                <ns0:policyURL>https://www.ncdc.noaa.gov/data-access</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>NOAA Customer Support</ns0:policyName>
+                <ns0:policyURL>https://www.ncdc.noaa.gov/customer-support</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>feeRequired</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.usa.gov/government-works</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>Public Domain</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.nodc.noaa.gov/about/datapolicy.html</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://nosc.noaa.gov/EDMC/PD.DA.php</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.nesdis.noaa.gov/sites/default/files/asset/document/npd_6010_01a.pdf</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                    <ns0:api apiType="FTP">ftp://ftp.ncdc.noaa.gov/pub/data/paleo/</ns0:api>
+                    <ns0:api apiType="other">https://www.ncdc.noaa.gov/paleo-search/api</ns0:api>
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                    <ns0:certificate>other</ns0:certificate>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">DIF - Directory Interchange Format</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dif-directory-interchange-format</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                    <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">FGDC/CSDGM - Federal Geographic Data Committee Content Standard for Digital Geospatial Metadata</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/fgdccsdgm-federal-geographic-data-committee-content-standard-digital-ge</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                    <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">ISO 19115</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/iso-19115</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks>NOAA National Centers for Environmental Information -  Paleoclimatology Data is a regular member of the World Data System - WDS. NOAA Paleoclimatology Data is covered by Clarivate Data Citation Index.
+former version of the page see: 
+The National Climatic Data Center, the National Geophysical Data Center, and the National Oceanographic Data Center, which includes the National Coastal Data Development Center have merged into the National Centers for Environmental Information (NCEI)</ns0:remarks>
+        <ns0:entryDate>2013-05-11</ns0:entryDate>
+        <ns0:lastUpdate>2020-05-27</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

@@ -1,0 +1,90 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100013293</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Cellosaurus</ns0:repositoryName>
+                    <ns0:additionalName language="eng">The Cellosaurus On ExPASy</ns0:additionalName>
+                <ns0:repositoryURL>https://web.expasy.org/cellosaurus/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.hkk309</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:SCR_013869</ns0:repositoryIdentifier>
+                <ns0:description language="eng">The Cellosaurus is a knowledge resource on cell lines. It attempts to describe all cell lines used in biomedical research. Its scope includes: Immortalized cell lines, Naturally immortal cell lines (example: stem cell lines), Finite life cell lines when those are distributed and used widely, Vertebrate cell line with an emphasis on human, mouse and rat cell lines, Invertebrate (insects and ticks) cell lines. Its scope does not include: Primary cell lines (with the exception of the finite life cell lines described above), Plant cell lines.  Cellosaurus was initiated to be used as a cell line controlled vocabulary in the context of the neXtProt knowledgebase, but it quickly become apparent that there was a need for a cell line knowledge resource that would serve the needs of individual researchers, cell line distributors and bioinformatic resources. This leads to an increase of the scope and depth of the content of the Cellosaurus. The Cellosaurus is a participant of the Resource Identification Initiative and contributes actively to the work of the International Cell Line Authentication Committee (ICLAC).</ns0:description>
+                    <ns0:repositoryContact>cellosaurus@sib.swiss</ns0:repositoryContact>
+                    <ns0:repositoryContact>https://web.expasy.org/contact</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2020-09-14">123.199 cell lines: 92.668 human; 20.991 mouse; 2.150 rat</ns0:size>
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">201 Basic Biological and Medical Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20103 Cell Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                <ns0:missionStatementURL>https://web.expasy.org/cellosaurus/description.html</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>COVID-19</ns0:keyword>
+                    <ns0:keyword>Insect cell lines</ns0:keyword>
+                    <ns0:keyword>STR</ns0:keyword>
+                    <ns0:keyword>adeno-associated virus packaging cell lines</ns0:keyword>
+                    <ns0:keyword>adenovirus packaging cell lines</ns0:keyword>
+                    <ns0:keyword>amphibian cell lines</ns0:keyword>
+                    <ns0:keyword>bat cell lines</ns0:keyword>
+                    <ns0:keyword>bird cell lines</ns0:keyword>
+                    <ns0:keyword>cancer stem cell lines</ns0:keyword>
+                    <ns0:keyword>cell line</ns0:keyword>
+                    <ns0:keyword>cetacean cell lines</ns0:keyword>
+                    <ns0:keyword>clinical grade hESC cell lines</ns0:keyword>
+                    <ns0:keyword>crustacean cell lines</ns0:keyword>
+                    <ns0:keyword>endangered species/breed cell lines</ns0:keyword>
+                    <ns0:keyword>fish cell lines</ns0:keyword>
+                    <ns0:keyword>haploid karyotype cell lines</ns0:keyword>
+                    <ns0:keyword>human/rodent somatic cell hybrids</ns0:keyword>
+                    <ns0:keyword>hybridoma fusion partner cell lines</ns0:keyword>
+                    <ns0:keyword>marsupial cell lines</ns0:keyword>
+                    <ns0:keyword>mollusk cell lines</ns0:keyword>
+                    <ns0:keyword>nematode cell lines</ns0:keyword>
+                    <ns0:keyword>non-human primate cell lines</ns0:keyword>
+                    <ns0:keyword>recombinant protein production insect cell lines</ns0:keyword>
+                    <ns0:keyword>reptilian cell lines</ns0:keyword>
+                    <ns0:keyword>retrovirus packaging cell lines</ns0:keyword>
+                    <ns0:keyword>serum/protein free medium cell lines</ns0:keyword>
+                    <ns0:keyword>short tandem repeat</ns0:keyword>
+                    <ns0:keyword>space-flown cell line (cellonaut)s</ns0:keyword>
+                    <ns0:keyword>tick cell lines</ns0:keyword>
+                    <ns0:keyword>triple negative breast cancer (TNBC) cell lines</ns0:keyword>
+                    <ns0:keyword>vaccine production cell lines</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Swiss Institute of Bioinformatics, Computer and Laboratory Investigation of Proteins of Human Origin Group</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">SIB, CALIPHO group</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CHE</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.sib.swiss/amos-bairoch-lydie-lane-group</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                        <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://creativecommons.org/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                <ns0:versioning>yes</ns0:versioning>
+                    <ns0:api apiType="FTP">ftp://ftp.expasy.org/databases/cellosaurus</ns0:api>
+                            <ns0:pidSystem>other</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://web.expasy.org/cgi-bin/cellosaurus/faq#Q01</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                <ns0:remarks>GitHub: https://github.com/calipho-sib/cellosaurus</ns0:remarks>
+        <ns0:entryDate>2020-04-23</ns0:entryDate>
+        <ns0:lastUpdate>2021-09-09</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

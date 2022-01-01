@@ -1,0 +1,72 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010575</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Michigan Corpus of Academic Spoken English</ns0:repositoryName>
+                    <ns0:additionalName language="eng">MICASE</ns0:additionalName>
+                <ns0:repositoryURL>http://quod.lib.umich.edu/m/micase/</ns0:repositoryURL>
+                <ns0:description language="eng">MICASE provides a collection of transcripts of academic speech events recorded at the University of Michigan. The original DAT audiotapes are held in the English Language Institute and may be consulted by bona fide researchers under special arrangements. Additional access: https://lsa.umich.edu/eli/language-resources/micase-micusp.html</ns0:description>
+                    <ns0:repositoryContact>micase-help@umich.edu</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                    <ns0:type>institutional</ns0:type>
+                <ns0:size updated="2019-11-13">152 transcripts (totaling 1.848.364 words)</ns0:size>
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">104 Linguistics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">10401 General and Applied Linguistics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">10402 Individual Linguistics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11 Humanities</ns0:subject>
+                <ns0:missionStatementURL />
+                    <ns0:contentType contentTypeScheme="parse">Audiovisual data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>academic speeches</ns0:keyword>
+                    <ns0:keyword>corpora</ns0:keyword>
+                    <ns0:keyword>speech</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">University of Michigan, English Language Institute</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">UM</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://lsa.umich.edu/eli/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>micase@umich.edu</ns0:institutionContact>
+                                    <ns0:institutionContact>slbriggs@umich.edu</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>MICASE Fair Use Statement</ns0:policyName>
+                <ns0:policyURL>https://web.archive.org/web/20180617235110/https://lsa.umich.edu/content/dam/eliassets/elidocuments/MICASE%20Fair%20Use%20Statement.pdf</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://web.archive.org/web/20180617235110/https://lsa.umich.edu/content/dam/eliassets/elidocuments/MICASE%20Fair%20Use%20Statement.pdf</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://web.archive.org/web/20180617235110/https://lsa.umich.edu/content/dam/eliassets/elidocuments/MICASE%20Fair%20Use%20Statement.pdf</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>no</ns0:versioning>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://web.archive.org/web/20180617235110/https://lsa.umich.edu/content/dam/eliassets/elidocuments/MICASE%20Fair%20Use%20Statement.pdf</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                <ns0:remarks>MICASE is covered by Thomson Reuters Data Citation Index.</ns0:remarks>
+        <ns0:entryDate>2014-02-08</ns0:entryDate>
+        <ns0:lastUpdate>2021-08-25</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

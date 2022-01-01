@@ -1,0 +1,70 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012479</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">JPL OurOcean Portal</ns0:repositoryName>
+                    <ns0:additionalName language="eng">JET Propulsion Laboratory OurOcean Portal</ns0:additionalName>
+                <ns0:repositoryURL>https://ourocean.jpl.nasa.gov/</ns0:repositoryURL>
+                <ns0:description language="eng">&lt;&lt;&lt;!!!&lt;&lt;&lt; The repository is no longer available.   &gt;&gt;&gt;!!!&gt;&gt;&gt; 
+The website is archived: https://web.archive.org/web/20161118010932/http:/ourocean.jpl.nasa.gov/ You can follow links to navigate further into archived content from that site.</ns0:description>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate />
+        <ns0:endDate>2021</ns0:endDate>
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31302 Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">315 Geophysics and Geodesy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31502 Geodesy, Photogrammetry, Remote Sensing, Geoinformatics, Cartogaphy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL>https://science.jpl.nasa.gov/projects/OurOcean/</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Software applications</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>California Coastal Ocean</ns0:keyword>
+                    <ns0:keyword>Salinity Processes</ns0:keyword>
+                    <ns0:keyword>cruises</ns0:keyword>
+                    <ns0:keyword>data assimilation models</ns0:keyword>
+                    <ns0:keyword>satellite data</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">California Institute of Technology, Jet Propulsion Laboratory</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Caltech</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.caltech.edu/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://science.jpl.nasa.gov/people/XWang/</ns0:institutionContact>
+                                    <ns0:institutionContact>https://science.jpl.nasa.gov/people/ZLi/</ns0:institutionContact>
+                            </ns0:institution>
+                        <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.jpl.nasa.gov/copyrights.php</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.jpl.nasa.gov/imagepolicy/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                <ns0:versioning />
+                    <ns0:api apiType="FTP">ftp://podaac-ftp.jpl.nasa.gov/OceanTemperature/ghrsst/data/L4/GLOB/JPL_OUROCEAN/</ns0:api>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                <ns0:remarks>Description: The goal of this web site is to enable users to easily access ocean science data, run data assimilation models, and visualize both data and models. The concept of OurOcean is to allow users with minimal resource requirements to access data and interact with models.</ns0:remarks>
+        <ns0:entryDate>2017-09-29</ns0:entryDate>
+        <ns0:lastUpdate>2021-10-19</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

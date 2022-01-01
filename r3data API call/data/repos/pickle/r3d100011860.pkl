@@ -1,0 +1,195 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011860</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">TheDataWeb</ns0:repositoryName>
+                    <ns0:additionalName language="eng">DataFerrett</ns0:additionalName>
+                <ns0:repositoryURL>https://thedataweb.rm.census.gov/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>RRID:SCR_003197</ns0:repositoryIdentifier>
+                <ns0:description language="eng">TheDataWeb (DataWeb) is a sophisticated, technologically advanced data dissemination system that facilitates easy access to statistical data from their source, and repurposes them for many uses.</ns0:description>
+                    <ns0:repositoryContact>https://thedataweb.rm.census.gov/ContactUs.html</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2015-10-21">828 datasets</ns0:size>
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">111 Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">112 Economics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">113 Jurisprudence</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">12 Social and Behavioural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL>https://dataferrett.census.gov/</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Archived data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Databases</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Software applications</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>American community survey</ns0:keyword>
+                    <ns0:keyword>American housing survey (AHS)</ns0:keyword>
+                    <ns0:keyword>National Health Interview Survey (NHIS)</ns0:keyword>
+                    <ns0:keyword>National Health and Nutrition Examination Survey (NHANES)</ns0:keyword>
+                    <ns0:keyword>National Hospital Ambulatory Medical Care Survey (NHAMCS)</ns0:keyword>
+                    <ns0:keyword>National Survey of Fishing, Hunting and Wildlife-Associated Recreation (FHWAR)</ns0:keyword>
+                    <ns0:keyword>New York City Housing and vacancy Survey (NYCHVS</ns0:keyword>
+                    <ns0:keyword>Public Libraries Survey (PLS)</ns0:keyword>
+                    <ns0:keyword>Small Area Health Insurance Estimates (SAHIE)</ns0:keyword>
+                    <ns0:keyword>Small Area Income and Poverty Estimates (SAIPE)</ns0:keyword>
+                    <ns0:keyword>Social Security Administration (SSA)</ns0:keyword>
+                    <ns0:keyword>Survey of Program Dynamics (SPD)</ns0:keyword>
+                    <ns0:keyword>behavioral risk-factor surveillance system (BRFSS)</ns0:keyword>
+                    <ns0:keyword>business</ns0:keyword>
+                    <ns0:keyword>consumer expenditure survey (CES)</ns0:keyword>
+                    <ns0:keyword>county business patterns (CBP)</ns0:keyword>
+                    <ns0:keyword>current population survey</ns0:keyword>
+                    <ns0:keyword>economy</ns0:keyword>
+                    <ns0:keyword>education</ns0:keyword>
+                    <ns0:keyword>employment</ns0:keyword>
+                    <ns0:keyword>families and living arrangements</ns0:keyword>
+                    <ns0:keyword>health</ns0:keyword>
+                    <ns0:keyword>home mortgage disclosure act (HMDA)</ns0:keyword>
+                    <ns0:keyword>housing</ns0:keyword>
+                    <ns0:keyword>income and poverty</ns0:keyword>
+                    <ns0:keyword>international trade</ns0:keyword>
+                    <ns0:keyword>mortality - underlying cause-of-death - 1994 (MORT)</ns0:keyword>
+                    <ns0:keyword>national ambulatory medical care survey (NAMCS)</ns0:keyword>
+                    <ns0:keyword>population</ns0:keyword>
+                    <ns0:keyword>survey of income and program particiation</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Australian Bureau of Statistics</ns0:institutionName>
+                                <ns0:institutionCountry>AUS</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.abs.gov.au/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.abs.gov.au/websitedbs/D3310114.nsf//Home/Contact+Us?opendocument#from-banner=GT</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Centers for Disease Control and Prevention</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">CDC</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="spa">Centros para el Control y la Prevenci&#243;n de Enfermendades</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.cdc.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://wwwn.cdc.gov/dcs/ContactUs/Form</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Employment and Training Administration</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">ETA</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.doleta.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.doleta.gov/contact.cfm</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Environmental Protection Agency</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">EPA</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.epa.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.epa.gov/home/forms/contact-epa</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Harvard University</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.harvard.edu/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.harvard.edu/contact-harvard</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Institute of Museum and Library Services</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">IMLS</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.imls.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.imls.gov/contact/contact-us</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Kenya National Bureau of Statistics</ns0:institutionName>
+                                <ns0:institutionCountry>KEN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.knbs.or.ke/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.knbs.or.ke/?page_id=1659</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">U.S. Department of Commerce, United States Census Bureau</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">U.S. Census Bureau</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.census.gov/en.html</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.census.gov/about/contact-us.html</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>DataFerrett users guide</ns0:policyName>
+                <ns0:policyURL>https://dataferrett.census.gov/UserResources/DataFerrett_UserGuide.pdf</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Policies and Notices</ns0:policyName>
+                <ns0:policyURL>https://www.census.gov/about/policies.html</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.census.gov/about/policies/privacy.html</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.usa.gov/government-works</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                    <ns0:dataUpload>
+                <ns0:dataUploadType>open</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                <ns0:versioning />
+                    <ns0:api apiType="REST">https://www.census.gov/data/developers/data-sets.html</ns0:api>
+                    <ns0:api apiType="other">https://thedataweb.rm.census.gov/Products_Services/API.html</ns0:api>
+                        <ns0:citationGuidelineURL>https://www.census.gov/about/policies/citation.html</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks>TheDataWeb Is covered by Thomson Reuters Data Citation Index.  //
+DataFerrett is a data analysis and extraction tool to customize federal, state, and local data to suit your requirements. Using DataFerrett, you can develop an unlimited array of customized spreadsheets that are as versatile and complex as your usage demands then turn those spreadsheets into graphs and maps without any additional software : https://dataferrett.census.gov/</ns0:remarks>
+        <ns0:entryDate>2015-10-21</ns0:entryDate>
+        <ns0:lastUpdate>2021-09-09</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

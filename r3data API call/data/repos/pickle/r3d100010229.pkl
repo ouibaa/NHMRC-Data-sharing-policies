@@ -1,0 +1,194 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010229</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Encyclopedia of Life</ns0:repositoryName>
+                    <ns0:additionalName language="eng">Global access to knowledge about life on earth</ns0:additionalName>
+                    <ns0:additionalName language="eng">eol</ns0:additionalName>
+                <ns0:repositoryURL>https://eol.org/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>FAIRsharing_DOI:10.25504/FAIRsharing.3J6NYn</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:SCR_005905</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:nlx_149476</ns0:repositoryIdentifier>
+                <ns0:description language="eng">Our knowledge of the many life-forms on Earth - of animals, plants, fungi, protists and bacteria - is scattered around the world in books, journals, databases, websites, specimen collections, and in the minds of people everywhere. Imagine what it would mean if this information could be gathered together and made available to everyone &#8211; anywhere &#8211; at a moment&#8217;s notice. This dream is becoming a reality through the Encyclopedia of Life.</ns0:description>
+                    <ns0:repositoryContact>https://discuss.eol.org/t/contact-us-at-eol/181</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                    <ns0:type>institutional</ns0:type>
+                <ns0:size updated="2021-05-04">12.983.401 trait and attribute records; data available for 1.999.030 species and higher taxa</ns0:size>
+        <ns0:startDate>2008</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>fin</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>fra</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>por</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>twi</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>zho</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">202 Plant Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20201 Plant Systematics and Evolution</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20202 Plant Ecology and Ecosystem Analysis</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">203 Zoology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20301 Systematics and Morphology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20303 Animal Ecology, Biodiversity and Ecosystem Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                <ns0:missionStatementURL>https://eol.org/docs/what-is-eol</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Archived data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Audiovisual data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Databases</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>animals</ns0:keyword>
+                    <ns0:keyword>archaea</ns0:keyword>
+                    <ns0:keyword>bacteria</ns0:keyword>
+                    <ns0:keyword>biodiversity</ns0:keyword>
+                    <ns0:keyword>classification</ns0:keyword>
+                    <ns0:keyword>creatures</ns0:keyword>
+                    <ns0:keyword>fish</ns0:keyword>
+                    <ns0:keyword>fungi</ns0:keyword>
+                    <ns0:keyword>living entity</ns0:keyword>
+                    <ns0:keyword>molds</ns0:keyword>
+                    <ns0:keyword>multimedia</ns0:keyword>
+                    <ns0:keyword>mushrooms</ns0:keyword>
+                    <ns0:keyword>plants</ns0:keyword>
+                    <ns0:keyword>protists</ns0:keyword>
+                    <ns0:keyword>taxa</ns0:keyword>
+                    <ns0:keyword>viruses</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Alfred P. Sloan Foundation</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://sloan.org/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:052csg198</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:SCR_005099</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_144112</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Field Museum</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.fieldmuseum.org/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:00mh9zx15</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Harvard University, Museum of Comparative Zoology</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://mcz.harvard.edu/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://mcz.harvard.edu/contact</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">MacArthurFoundation</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.macfound.org/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:00dxczh48</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate>2008</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Marine Biological Laboratory</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">MBL</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.mbl.edu/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:046dg4z72</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:SCR_002410</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nif-0000-00389</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.mbl.edu/blog/eol-one-million/</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Missouri Botanical Garden</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.missouribotanicalgarden.org/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:04tzy5g14</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.missouribotanicalgarden.org/about/additional-information/contact-us.aspx</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Smithsonian Institution</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.si.edu/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:01pp8nd67</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://discuss.eol.org/t/contact-us-at-eol/181</ns0:institutionContact>
+                                    <ns0:institutionContact>https://www.si.edu/contacts</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Copyrights and Linking Policy</ns0:policyName>
+                <ns0:policyURL>https://eol.org/docs/what-is-eol/copyright-and-linking-policy</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Privacy Policy</ns0:policyName>
+                <ns0:policyURL>https://eol.org/docs/what-is-eol/privacy-policy</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Terms of use</ns0:policyName>
+                <ns0:policyURL>https://eol.org/docs/what-is-eol/terms-of-use</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                    <ns0:databaseLicense>
+                <ns0:databaseLicenseName>CC</ns0:databaseLicenseName>
+                <ns0:databaseLicenseURL>https://wiki.creativecommons.org/wiki/Best_practices_for_attribution</ns0:databaseLicenseURL>
+            </ns0:databaseLicense>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/licenses/by/2.0/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://wiki.creativecommons.org/wiki/Best_practices_for_attribution</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>MySQL</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                    <ns0:api apiType="REST">https://eol.org/docs/what-is-eol/data-services</ns0:api>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://eol.org/docs/what-is-eol/citing-eol-and-eol-content</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks>The Encyclopedia of Life is an international initiative. The following institutions have signed memoranda of understanding to become part of the global EOL community: https://eol.org/docs/what-is-eol
+The Biodiversity Synthesis Group is part of the Encyclopedia of Life (EOL), an international project to develop a webpage for every known species on Earth, freely accessible to all. Based at the Biodiversity Synthesis Center (BioSynC) at the Field Museum of Natural History in Chicago, we are dedicated to advancing biodiversity science and the core EOL mission through our diverse meetings, workshops, research programs, and outreach. The other four EOL components are: The Biodiversity Informatics Group (Field Museum); the Scanning and Digitization Group (led by the Biodiversity Heritage Library); the Learning and Education Group (Harvard); the Species Pages Group (Smithsonian).
+TraitBank&#174; is a searchable, comprehensive, open digital repository for organism traits, measurements, interactions and other facts for all taxa across the tree of life. TraitBank is integrated into the fabric of EOL, and leverages its existing infrastructure for names, content organization, curation roles and search.  Data records are aggregated from databases, literature tables, and other sources.</ns0:remarks>
+        <ns0:entryDate>2013-03-20</ns0:entryDate>
+        <ns0:lastUpdate>2021-11-16</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

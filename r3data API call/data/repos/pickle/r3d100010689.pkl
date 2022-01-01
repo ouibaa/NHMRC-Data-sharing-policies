@@ -1,0 +1,77 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010689</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Smithsonian Tropical Research Institute Logo - Panama</ns0:repositoryName>
+                    <ns0:additionalName language="eng">CTFS-Panama</ns0:additionalName>
+                <ns0:repositoryURL>http://ctfs.si.edu/PanamaAtlas/datasets/</ns0:repositoryURL>
+                <ns0:description language="eng">Welcome to the digital flora of Panama. You may access the taxonomic list of lianas, common trees, shrubs and palms by species name, family, or by their common names in Panama. There are for each species: a botanical description, photos, scans, drawings, and a distribution map showing its presence or absence in a series of floristic inventories and plots established by the Center for Tropical Forest Science in the Panama Canal watershed. A map of its distribution in the countries of Panama and its neighbor Costa Rica includes data from the Global Biodiversity Information Facility (GBIF) network (https://www.gbif.org/). Some families include descriptions.</ns0:description>
+                    <ns0:repositoryContact>sautua@si.edu</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                    <ns0:type>institutional</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>spa</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">202 Plant Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20202 Plant Ecology and Ecosystem Analysis</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                <ns0:missionStatementURL />
+                    <ns0:contentType contentTypeScheme="parse">Databases</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>Costa Rica</ns0:keyword>
+                    <ns0:keyword>Panama</ns0:keyword>
+                    <ns0:keyword>biological diversity</ns0:keyword>
+                    <ns0:keyword>lianas</ns0:keyword>
+                    <ns0:keyword>tree census</ns0:keyword>
+                    <ns0:keyword>tropical trees</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Smithsonian Tropical Research Institute</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">STRI</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>PAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://stri.si.edu/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:035jbxr46</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://stri.si.edu/contact</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Policies and Reports</ns0:policyName>
+                <ns0:policyURL>https://www.si.edu/About/Policies#si-field-collection-tabs-634401713-3</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Smithsonian Institution's Privacy Statement</ns0:policyName>
+                <ns0:policyURL>https://www.si.edu/privacy/</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.si.edu/termsofuse</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>no</ns0:versioning>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://www.si.edu/termsofuse</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                <ns0:remarks>Part of a network https://forestgeo.si.edu/ (r3d100000033)</ns0:remarks>
+        <ns0:entryDate>2012-11-05</ns0:entryDate>
+        <ns0:lastUpdate>2021-10-05</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

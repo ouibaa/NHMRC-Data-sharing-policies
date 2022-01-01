@@ -1,0 +1,108 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012604</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="ita">AMS Acta</ns0:repositoryName>
+                    <ns0:additionalName language="ita">AMSActa</ns0:additionalName>
+                    <ns0:additionalName language="eng">Alma Mater Studorium Acta</ns0:additionalName>
+                    <ns0:additionalName language="eng">Insitutional Research Repository</ns0:additionalName>
+                <ns0:repositoryURL>https://amsacta.unibo.it/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>ISSN 2038-7954</ns0:repositoryIdentifier>
+                <ns0:description language="eng">AMS Acta is the institutional open access repository which enables the researchers of the Alma Mater Studiorum - University of Bologna to share, preserve and showcase their scientific results making them easily accessible, citable and reusable. The repository collects and disseminates scientific publications, research data and preprints.
+AMS Acta is the archiving infrastructure for the University of Bologna&#8217;s researchers participating in the European programme H2020 that requires open access and the mandatory deposit of all funded peer-reviewed publications in a repository. AMS Acta collects both publications and research data so it is also a suitable archiving solution for the funded projects participating in the H2020 Open Research Data Pilot.</ns0:description>
+                    <ns0:repositoryContact>almadl@unibo.it</ns0:repositoryContact>
+                    <ns0:repositoryContact>eprints@cib.unibo.it</ns0:repositoryContact>
+                            <ns0:type>institutional</ns0:type>
+                <ns0:size updated="2018-06-29">18 research datasets</ns0:size>
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>ita</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">4 Engineering Sciences</ns0:subject>
+                <ns0:missionStatementURL>http://www.sba.unibo.it/it/allegati/allegati-almadl/ams-acta-mission-statement-and-repository-policies/@@download/file/policy_acta_20161214.pdf</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>multidisciplinary</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Alma Mater Studiorum - University of Bologna</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="ita">Biblioteca Digitale dell'Universit&#224; di Bologna</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>ITA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.unibo.it</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Alma Mater Studiorum, Sistema Bibliotecario de Ateneo</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">ALMADL</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>ITA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.sba.unibo.it/en/almadl/almadl</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>AMS ACTA Mission Statement and Repository Policies</ns0:policyName>
+                <ns0:policyURL>http://www.sba.unibo.it/it/allegati/allegati-almadl/ams-acta-mission-statement-and-repository-policies/@@download/file/policy_acta_20161214.pdf</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>AMS Acta General Terms and Conditions of Use</ns0:policyName>
+                <ns0:policyURL>http://www.sba.unibo.it/it/allegati/allegati-almadl/acta-general-service-agreement</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Condizioni di utilizzo del Sito AlmaDL</ns0:policyName>
+                <ns0:policyURL>http://www.sba.unibo.it/it/allegati/allegati-almadl/condizioni-sito-almadl</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Repository mission and policies</ns0:policyName>
+                <ns0:policyURL>https://amsacta.unibo.it/help.html</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>institutional membership</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                    <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>institutional membership</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>Repository mission and policies</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>https://amsacta.unibo.it/help.html</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                            <ns0:software>
+                <ns0:softwareName>EPrints</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                    <ns0:api apiType="OAI-PMH">http://amsacta.unibo.it/cgi/oai2</ns0:api>
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                    <ns0:aidSystem>ORCID</ns0:aidSystem>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">Dublin Core</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks />
+        <ns0:entryDate>2018-02-09</ns0:entryDate>
+        <ns0:lastUpdate>2019-02-06</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

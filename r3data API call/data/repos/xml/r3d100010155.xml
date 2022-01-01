@@ -1,0 +1,115 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010155</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">The World Atlas of Language Structures</ns0:repositoryName>
+                    <ns0:additionalName language="eng">The World Atlas of Language Structures online</ns0:additionalName>
+                    <ns0:additionalName language="eng">WALS</ns0:additionalName>
+                    <ns0:additionalName language="eng">WALS online</ns0:additionalName>
+                <ns0:repositoryURL>http://wals.info/</ns0:repositoryURL>
+                <ns0:description language="eng">The World Atlas of Language Structures (WALS) is a large database of structural (phonological, grammatical, lexical) properties of languages gathered from descriptive materials (such as reference grammars) by a team of 55 authors (many of them the leading authorities on the subject).</ns0:description>
+                    <ns0:repositoryContact>http://wals.info/contact</ns0:repositoryContact>
+                    <ns0:repositoryContact>wals@shh.mpg.de</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2015-04-23">192 features; 151 chapters; 76.492 datapoints; 2679 languages</ns0:size>
+        <ns0:startDate>2011</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">104 Linguistics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">106 Non-European Languages and Cultures, Social and Cultural Anthropology, Jewish Studies and Religious Studies</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11 Humanities</ns0:subject>
+                <ns0:missionStatementURL>http://wals.info/</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Audiovisual data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Software applications</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>geographical language distribution</ns0:keyword>
+                    <ns0:keyword>grammatical properties of languages</ns0:keyword>
+                    <ns0:keyword>language spread</ns0:keyword>
+                    <ns0:keyword>languages worldwide</ns0:keyword>
+                    <ns0:keyword>lexical properties of languages</ns0:keyword>
+                    <ns0:keyword>linguistics</ns0:keyword>
+                    <ns0:keyword>lingustic topology</ns0:keyword>
+                    <ns0:keyword>phonological properties of languages</ns0:keyword>
+                    <ns0:keyword>structural lingustic features</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Max Planck Digital Library</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">MPDL</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.mpdl.mpg.de/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>2008</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://colab.mpdl.mpg.de/mediawiki/User:Christina</ns0:institutionContact>
+                                    <ns0:institutionContact>http://colab.mpdl.mpg.de/mediawiki/User:Robert</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Max Planck Institute for Evolutionary Anthropology, Department of Linguistics</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">MPI-EVA</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.eva.mpg.de/lingua/index.php</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>2008</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://blog.wals.info/contact/</ns0:institutionContact>
+                                    <ns0:institutionContact>robert_forkel@eva.mpg.de</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="deu">Max-Planck-Gesellschaft</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="deu">MPG</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.mpg.de/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>2008</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Imprint</ns0:policyName>
+                <ns0:policyURL>http://wals.info/about/legal</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://creativecommons.org/licenses/by/4.0/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                    <ns0:api apiType="OAI-PMH">http://wals.info/languoid/oai</ns0:api>
+                    <ns0:api apiType="other">http://www.eva.mpg.de/lingua/research/tool.php</ns0:api>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>http://wals.info/</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">ISO 19115</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/iso-19115</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                            <ns0:syndication syndicationType="RSS">http://blog.wals.info/feed/</ns0:syndication>
+                <ns0:remarks>WALS is harvested by OLAC. The first version of WALS was published as a book with CD-ROM in 2005 by Oxford University Press. The first online version was published in April 2008. Both are superseeded by the current online version, published in April 2011.
+WALS Online is a joint effort of the Max Planck Institute for Evolutionary Anthropology and the Max Planck Digital Library. It is a separate publication, edited by Dryer, Matthew S. &amp; Haspelmath, Martin (Munich: Max Planck Digital Library, 2011) ISBN: 978-3-9813099-1-1. The main programmer is Robert Forkel.</ns0:remarks>
+        <ns0:entryDate>2012-11-05</ns0:entryDate>
+        <ns0:lastUpdate>2017-03-27</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

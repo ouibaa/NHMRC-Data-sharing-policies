@@ -1,0 +1,140 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011076</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">DIGITAL.CSIC</ns0:repositoryName>
+                <ns0:repositoryURL>https://digital.csic.es/?locale=en</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>RRID:SCR_011534</ns0:repositoryIdentifier>
+                <ns0:description language="eng">DIGITAL.CSIC is the institutional repository of the Spanish National Research Council (CSIC). Designed for organising, archiving, preserving and disseminating via open access the scientific output generated as a product of the CSIC research activities  by CSIC researchers</ns0:description>
+                    <ns0:repositoryContact>digital.csic@bib.csic.es</ns0:repositoryContact>
+                    <ns0:repositoryContact>https://digital.csic.es/dc/contacto.jsp</ns0:repositoryContact>
+                    <ns0:repositoryContact>isabel.bernal@bib.csic.es</ns0:repositoryContact>
+                            <ns0:type>institutional</ns0:type>
+                <ns0:size updated="2020-02-05">190.185 records</ns0:size>
+        <ns0:startDate>2010</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>spa</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">207 Agriculture, Forestry, Horticulture and Veterinary Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20701 Soil Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20704 Ecology of Agricultural Landscapes</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20713 Basic Veterinary Medical Science</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">23 Agriculture, Forestry, Horticulture and Veterinary Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31 Chemistry</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">311 Astrophysics and Astronomy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">315 Geophysics and Geodesy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31501 Geophysics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">32 Physics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">4 Engineering Sciences</ns0:subject>
+                <ns0:missionStatementURL>http://digital.csic.es/?locale=en</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Audiovisual data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Software applications</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Source code</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>FAIR</ns0:keyword>
+                    <ns0:keyword>multidisciplinary</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="spa">Spanish Government, Ministry of Economy and Competitiveness</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="spa">Gobierno de Espana, Ministerio de Economia y Competitividad, Secretaria de Estado de Investigacion, Desarrollo e Innovacion</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="spa">IDI</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>ESP</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.idi.mineco.gob.es/portal/site/MICINN/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:034900433</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Spanish National Research Council</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="spa">CISC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>ESP</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.csic.es/en</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:02gfc7t72</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Adhasi&#243;n a los principios FAIR</ns0:policyName>
+                <ns0:policyURL>https://digital.csic.es/dc/politicas/adhesion-principios-fair.jsp</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Datasets: plantilla normalizada para la descripcion de registros en Digital.CSIC</ns0:policyName>
+                <ns0:policyURL>http://digital.csic.es/bitstream/10261/81323/4/Datasets_DC_plantilla.pdf</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Datos de Investigaci&#243;n</ns0:policyName>
+                <ns0:policyURL>https://digital.csic.es/dc/politicas/politicaDatos.jsp</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Gu&#237;a sobre pol&#237;ticas, leyes y normativas de agencias financiadoras sobre acceso abierto que afectan a la producci&#243;n de la comunidad cient&#237;fica CSIC - Handbook on Open Access Policies</ns0:policyName>
+                <ns0:policyURL>http://digital.csic.es/handle/10261/38733</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Politicas de Digital.CSIC</ns0:policyName>
+                <ns0:policyURL>https://digital.csic.es/dc/politicas/politica-datos-digital-csic.jsp</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>embargoed</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://digital.csic.es/dc/politicas/politica-datos-digital-csic.jsp</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>ODC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://digital.csic.es/dc/politicas/politica-datos-digital-csic.jsp</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://digital.csic.es/dc/politicas/politica-datos-digital-csic.jsp</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>CSIC License</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>https://digital.csic.es/dc/politicas/politica-datos-digital-csic.jsp</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                            <ns0:software>
+                <ns0:softwareName>DSpace</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                    <ns0:api apiType="OAI-PMH">https://digital.csic.es/dspace-oai/request?verb=Identify</ns0:api>
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                    <ns0:pidSystem>hdl</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://digital.csic.es/dc/politicas/politica-datos-digital-csic.jsp</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                    <ns0:certificate>DSA</ns0:certificate>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">Dublin Core</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                            <ns0:syndication syndicationType="RSS">https://digital.csic.es/noticiasRSS?locale=en</ns0:syndication>
+                <ns0:remarks>DIGITAL.CSIC is covered by Clarivate Data Citation Index. DIGITAL.CSIC uses Altmetric metrics.</ns0:remarks>
+        <ns0:entryDate>2014-09-17</ns0:entryDate>
+        <ns0:lastUpdate>2020-02-05</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

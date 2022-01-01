@@ -1,0 +1,137 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011987</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Landmap</ns0:repositoryName>
+                <ns0:repositoryURL>http://catalogue.ceda.ac.uk/uuid/7f1280cf215da6f8001eae5c2f019fe8</ns0:repositoryURL>
+                <ns0:description language="eng">The Landmap Service provides web-based access to a range of spatial data for research, learning and teaching. The available spatial data includes:  Optical Collection - Landsat, SPOT, Aerial Photography and TopSat, Radar Collection - ENVISAT and ERS, and Elevation Collection - SRTM and 25m DEM</ns0:description>
+                    <ns0:repositoryContact>gis@mcc.ac.uk</ns0:repositoryContact>
+                    <ns0:repositoryContact>support@ceda.ac.uk.</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2016-05-11">5 collections; 24 related datasets</ns0:size>
+        <ns0:startDate>1996</ns0:startDate>
+        <ns0:endDate>2014-06-31</ns0:endDate>
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">207 Agriculture, Forestry, Horticulture and Veterinary Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20704 Ecology of Agricultural Landscapes</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20709 Inventory Control and Use of Forest Resources</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20710 Basic Forest Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">23 Agriculture, Forestry, Horticulture and Veterinary Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">308 Optics, Quantum Optics and Physics of Atoms, Molecules and Plasmas</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">315 Geophysics and Geodesy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31502 Geodesy, Photogrammetry, Remote Sensing, Geoinformatics, Cartogaphy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">317 Geography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31701 Physical Geography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31702 Human Geography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">32 Physics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL />
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>ALOS Phased Array type L-band Synthetic Aperture Radar - PALSAR</ns0:keyword>
+                    <ns0:keyword>Advanced Visible and Near InfraRed Radiometer type 2 - AVNIR-2</ns0:keyword>
+                    <ns0:keyword>Colour InfraRed - CIR</ns0:keyword>
+                    <ns0:keyword>Digital Terrain Model - DTM</ns0:keyword>
+                    <ns0:keyword>Disaster Monitoring Constellation - DMC</ns0:keyword>
+                    <ns0:keyword>ENVISAT Advanced Synthetic Aperture Radar - ASAR</ns0:keyword>
+                    <ns0:keyword>ERS satellites</ns0:keyword>
+                    <ns0:keyword>Geosciences</ns0:keyword>
+                    <ns0:keyword>UK and Kinematic GPS - KGPS</ns0:keyword>
+                    <ns0:keyword>high-resolution Digital Elevation Model - DEM</ns0:keyword>
+                    <ns0:keyword>radar</ns0:keyword>
+                    <ns0:keyword>thermal imagery</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Centre for Environmental Data Analysis</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">CEDA</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>GBR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.ceda.ac.uk/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.ceda.ac.uk/contact/</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Joint Information Systems Committee</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">JISC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>GBR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.jisc.ac.uk/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>2001</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate>2013</ns0:responsibilityEndDate>
+                                    <ns0:institutionContact>https://www.jisc.ac.uk/contact</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Centre for Earth Observation</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NCEO</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>GBR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.nceo.ac.uk/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Science and Technology Facilities Council</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">STFC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>GBR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.stfc.ac.uk/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Terms and Conditions for data and information provided by the NERC or STFC through the Centre for Environmental Data Analysis (CEDA)</ns0:policyName>
+                <ns0:policyURL>http://www.ceda.ac.uk/disclaimer/</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Terms and Conditions for use of the Licensed Material (Landmap Datasets) contained in the NEODC Landmap Archive</ns0:policyName>
+                <ns0:policyURL>http://www.neodc.rl.ac.uk/conditions/landmap.html</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>policies</ns0:policyName>
+                <ns0:policyURL>http://cedadocs.badc.rl.ac.uk/policies.html</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://badc.nerc.ac.uk/data/rules.html</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www.neodc.rl.ac.uk/conditions/landmap.html</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>institutional membership</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>EPrints</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                    <ns0:api apiType="FTP">ftp://ftp.ceda.ac.uk/neodc/landmap/</ns0:api>
+                    <ns0:api apiType="other">http://ceda-wps2.badc.rl.ac.uk/ui/home</ns0:api>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                <ns0:remarks>After removal of JISC funding in 2013, the Landmap service is no longer operational, with the data now held at the NEODC.
+This website contains detailed information on the datasets and training materials developed by commercial companies and members of the academic community. Please note that the website will not be maintained in any way by the NEODC and may go offline at some point in the future. 
+The Centre for Environmental Data Analysis (CEDA) was established primarily to facilitate and curate both datasets needed for academic research and datasets produced by such research. CEDA is primarily funded by the Natural Environment Research Council, but it is also funded by DECC, and the missions differ slightly.</ns0:remarks>
+        <ns0:entryDate>2016-05-10</ns0:entryDate>
+        <ns0:lastUpdate>2016-05-18</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

@@ -1,0 +1,115 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011969</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">EPIC study</ns0:repositoryName>
+                    <ns0:additionalName language="eng">European Prospective Investigation into Cancer and Nutrition Study</ns0:additionalName>
+                <ns0:repositoryURL>http://epic.iarc.fr/index.php</ns0:repositoryURL>
+                <ns0:description language="eng">The European Prospective Investigation into Cancer and Nutrition (EPIC) study is one of the largest cohort studies in the world, with more than half a million (521 000) participants recruited across 10 European countries and followed for almost 15 years.
+
+EPIC was designed to investigate the relationships between diet, nutritional status, lifestyle and environmental factors, and the incidence of cancer and other chronic diseases. EPIC investigators are active in all fields of epidemiology, and important contributions have been made in nutritional epidemiology using biomarker analysis and questionnaire information, as well as genetic and lifestyle investigations.</ns0:description>
+                    <ns0:repositoryContact>epic@iarc.fr</ns0:repositoryContact>
+                    <ns0:repositoryContact>epicadmin@imperial.ac.uk</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">111 Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11102 Empirical Social Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">12 Social and Behavioural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">205 Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20501 Epidemiology, Medical Biometry, Medical Informatics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20502 Public Health, Health Services Research, Social Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                <ns0:missionStatementURL>http://epic.iarc.fr/access/missionstatement.php</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>EPIC-Elderly</ns0:keyword>
+                    <ns0:keyword>EPIC-Heart</ns0:keyword>
+                    <ns0:keyword>acrylamide</ns0:keyword>
+                    <ns0:keyword>biomarkers</ns0:keyword>
+                    <ns0:keyword>biostatistics</ns0:keyword>
+                    <ns0:keyword>cancer</ns0:keyword>
+                    <ns0:keyword>cardiovascular diseases</ns0:keyword>
+                    <ns0:keyword>diabetes - InterAct</ns0:keyword>
+                    <ns0:keyword>healthy ageing</ns0:keyword>
+                    <ns0:keyword>mortality</ns0:keyword>
+                    <ns0:keyword>neurodegeneration</ns0:keyword>
+                    <ns0:keyword>nutrition</ns0:keyword>
+                    <ns0:keyword>obesity - PANACEA</ns0:keyword>
+                    <ns0:keyword>osteoporosis and fractures</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Imperial College London, School of Public Health</ns0:institutionName>
+                                <ns0:institutionCountry>GBR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www1.imperial.ac.uk/publichealth/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>e.riboli@imperial.ac.uk</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">World Health Organization, International Agency for Research on Cancer</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">IARC</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">WHO</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>AAA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.iarc.fr/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>brennanp@iarc.fr</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>DATA TRANSFER AGREEMENT - DTA</ns0:policyName>
+                <ns0:policyURL>http://epic.iarc.fr/docs/CIRC71_DTA-out-EPIC.dot</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>EPIC Access Policy</ns0:policyName>
+                <ns0:policyURL>http://epic.iarc.fr/docs/EPIC_Access_Policy_and_Guidelines.pdf</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>IARC ethics questionnaire</ns0:policyName>
+                <ns0:policyURL>http://ethics.iarc.fr/Submission/index.php</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Publication guidelines for EPIC related studies</ns0:policyName>
+                <ns0:policyURL>http://epic.iarc.fr/docs/EPIC_Publication%20Guidelines.pdf</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Reference documents</ns0:policyName>
+                <ns0:policyURL>http://epic.iarc.fr/access/ref_documents.php</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>feeRequired</ns0:dataAccessRestriction>
+                                    <ns0:dataAccessRestriction>other</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://epic.iarc.fr/docs/CIRC71_DTA-out-EPIC.dot</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                    <ns0:syndication syndicationType="RSS">http://blogs.iarc.fr/epicentre/?feed=rss2</ns0:syndication>
+                <ns0:remarks />
+        <ns0:entryDate>2016-04-25</ns0:entryDate>
+        <ns0:lastUpdate>2016-04-30</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

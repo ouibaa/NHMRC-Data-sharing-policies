@@ -1,0 +1,110 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012330</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="deu">RADAR</ns0:repositoryName>
+                    <ns0:additionalName language="eng">Research Data Repository</ns0:additionalName>
+                <ns0:repositoryURL>https://www.radar-service.eu/en</ns0:repositoryURL>
+                <ns0:description language="eng">RADAR is an online service for the archival and publication of research data resulting from completed scientific studies and projects. RADAR is a generic, interdisciplinary service which offers two service levels: data archival and data publication (including archival).
+Data archival offers format-independent long-term storage with user-defined rentention periods. By default, archived data and associated metadata will not be published, unless specified otherwise by the RADAR user. The RADAR service offers flexible data and metadata access management, so that RADAR users are able to share preserved datasets with specific users. Bitstream preservation will produce backup copies of the data at three different locations to ensure its long-term availability.
+- Flexible retention period (5, 10, 15 years)
+- By default "Dark archive"
+- Data providers determine access rights (private/shared/public) 
+- Yearly payment scheme for institutions
+Data publication includes the allocation of a DataCite DOI at point of publication. The RADAR service includes an optional embargo period for the publication of submitted data that can be subsequently prolonged if necessary. The dataset along with the metadata describing the dataset will be published and allocated a DOI to ensure that each specific datasets can be found and cited once any embargo period has expired.
+Within the publication service, a peer review option may be used. The RADAR user will receive a secure review URL provided by RADAR which may then be forwarded to an editor or reviewer responsible for a corresponding manuscript submission. The respective dataset is locked for the duration of the peer review process.
+- Unlimited holding period (minimum 25 years guaranteed)
+- Optional embargos
+- Assigning a DOI (DataCite)
+- Interface for peer review 
+- Selection of licences, no CC0 required
+- Metadata is indexed (RADAR, DataCite, OAI, Google) 
+- One-time payment scheme for institutions</ns0:description>
+                    <ns0:repositoryContact>info@radar-service.eu</ns0:repositoryContact>
+                            <ns0:type>other</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2017-03-16</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>deu</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">4 Engineering Sciences</ns0:subject>
+                <ns0:missionStatementURL>https://www.radar-service.eu/en/about-us</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>multidisciplinary</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">FIZ Karlsruhe - Leibniz Institute for Information Infrastructure</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">FIZ Karlsruhe</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="deu">FIZ Karlsruhe - Leibniz-Institut f&#252;r Informationsinfrastruktur GmbH</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.fiz-karlsruhe.de/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:0387prb75</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate>2017-03-16</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>kerstin.soltau@fiz-karlsruhe.de</ns0:institutionContact>
+                                    <ns0:institutionContact>matthias.razum@fiz-karlsruhe.de</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Terms and Conditions</ns0:policyName>
+                <ns0:policyURL>https://www.radar-service.eu/en/terms-and-conditions</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                    <ns0:databaseLicense>
+                <ns0:databaseLicenseName>CC0</ns0:databaseLicenseName>
+                <ns0:databaseLicenseURL>https://creativecommons.org/publicdomain/zero/1.0/deed.de</ns0:databaseLicenseURL>
+            </ns0:databaseLicense>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>closed</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>embargoed</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>feeRequired</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>Creative Commons</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>https://creativecommons.org/</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                            <ns0:software>
+                <ns0:softwareName>eSciDoc</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                    <ns0:api apiType="OAI-PMH">https://www.radar-service.eu/de/oai-provider</ns0:api>
+                    <ns0:api apiType="REST">https://www.radar-service.eu/en/radar-api</ns0:api>
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                    <ns0:aidSystem>ORCID</ns0:aidSystem>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>no</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">DataCite Metadata Schema</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/abcd-access-biological-collection-data</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks>RADAR was established by an experienced consortium to develop an infrastructure that facilitates the preservation, publication and traceability of research data. The project was funded by the German Research Foundation (DFG) from 2013 to 2016 within the programme &#8220;Scientific Library Services and Information Systems (LIS)&#8221;. The technical infrastructure of RADAR was provided by the FIZ Karlsruhe &#8211; Leibniz Institute for Information Infrastructure and the Steinbuch Centre for Computing (SCC). The Ludwig-Maximilians-Universit&#228;t Munich (LMU), Faculty for Chemistry and Pharmacy, and the Leibniz Institute of Plant Biochemistry (IPB) provided the scientific specification for data management services. The German National Library of Science and Technology (TIB) considered the sustainable management and publication of research data.</ns0:remarks>
+        <ns0:entryDate>2017-03-17</ns0:entryDate>
+        <ns0:lastUpdate>2021-03-18</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

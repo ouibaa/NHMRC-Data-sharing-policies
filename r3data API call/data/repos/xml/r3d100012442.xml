@@ -1,0 +1,99 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012442</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Environmental Information Platform</ns0:repositoryName>
+                    <ns0:additionalName language="eng">CEH-EIP</ns0:additionalName>
+                    <ns0:additionalName language="eng">Centre for Ecology &amp; Hydrology - Environmental Information Platform</ns0:additionalName>
+                <ns0:repositoryURL>https://eip.ceh.ac.uk/</ns0:repositoryURL>
+                <ns0:description language="eng">The Environmental Information Platform provides enhanced access to CEH's key data holdings via web-based tools, programming interfaces and a data catalogue. It enables you to visualise and interrogate some of the diverse environmental datasets held by CEH.</ns0:description>
+                    <ns0:repositoryContact>https://eip.ceh.ac.uk/contact</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">318 Water Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31801 Hydrogeology, Hydrology, Limnology, Urban Water Management, Water Chemistry, Integrated Water Resources Management</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL>https://eip.ceh.ac.uk/about/aboutEIP</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                            <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>atmosphere</ns0:keyword>
+                    <ns0:keyword>biodiversity</ns0:keyword>
+                    <ns0:keyword>drought</ns0:keyword>
+                    <ns0:keyword>hydrological summaries</ns0:keyword>
+                    <ns0:keyword>meteorology</ns0:keyword>
+                    <ns0:keyword>rainfall</ns0:keyword>
+                    <ns0:keyword>water resources</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Centre for Ecology &amp; Hydrology</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">CEH</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>GBR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.ceh.ac.uk/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:00pggkr55</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Natural Environment Research Council</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NERC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>GBR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://nerc.ukri.org/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:02b5d8509</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:SCR_012850</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_27406</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>datalicensing@ceh.ac.uk</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Licence, Terms and Conditions</ns0:policyName>
+                <ns0:policyURL>https://eidc.ceh.ac.uk/licences/wms/plain</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>feeRequired</ns0:dataAccessRestriction>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://eidc.ceh.ac.uk/licences/wms/plain</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>OGL</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://eidc.ceh.ac.uk/licences/OGL/plain</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>deposit data</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>https://eidc.ac.uk/deposit</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                        <ns0:versioning />
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://eip.ceh.ac.uk/chess/info#citation</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">ISO 19115</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/iso-19115</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks />
+        <ns0:entryDate>2017-08-23</ns0:entryDate>
+        <ns0:lastUpdate>2021-03-05</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

@@ -1,0 +1,95 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010608</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">World Data Center for Geomagnetism, Kyoto</ns0:repositoryName>
+                    <ns0:additionalName language="eng">WDC - Geomagnetism, Kyoto</ns0:additionalName>
+                    <ns0:additionalName language="eng">WDC for Geomag</ns0:additionalName>
+                <ns0:repositoryURL>http://wdc.kugi.kyoto-u.ac.jp/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>biodbcore-001753</ns0:repositoryIdentifier>
+                <ns0:description language="eng">The task of WDC geomagnetism is to collect geomagnetic data from all over the globe and distribute those data to researchers and data users, as a World Data Center for Geomagnetism.</ns0:description>
+                    <ns0:repositoryContact>iyemori@kugi.kyoto-u.ac.jp</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>jpn</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">311 Astrophysics and Astronomy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31101 Astrophysics and Astronomy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">32 Physics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL>http://wdc.kugi.kyoto-u.ac.jp/wdc/pdf/pamphlet/wdc_pamp_e.pdf</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Archived data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Networkbased data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>INTERMAGNET</ns0:keyword>
+                    <ns0:keyword>aurora borealis</ns0:keyword>
+                    <ns0:keyword>celestial bodies</ns0:keyword>
+                    <ns0:keyword>ionosphere</ns0:keyword>
+                    <ns0:keyword>magnetic equator</ns0:keyword>
+                    <ns0:keyword>magnetic storms</ns0:keyword>
+                    <ns0:keyword>magnetosphere</ns0:keyword>
+                    <ns0:keyword>near-earth plasma</ns0:keyword>
+                    <ns0:keyword>seafloor</ns0:keyword>
+                    <ns0:keyword>volcano</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Kyoto University, Graduate School of Science, Data Analysis Center for Geomagnetism and Space Magnetism</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="jpn">&#20140;&#37117;&#22823;&#23398;&#22823;&#23398;&#38498;&#29702;&#23398;&#30740;&#31350;&#31185;&#38468;&#23646;&#22320;&#30913;&#27671;&#19990;&#30028;&#36039;&#26009;&#35299;&#26512;&#12475;&#12531;&#12479;&#12540;</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>JPN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://wdc.kugi.kyoto-u.ac.jp/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>iyemori@kugi.kyoto-u.ac.jp</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Operating Geomagnetic Observatories and Institutes</ns0:institutionName>
+                                <ns0:institutionCountry>JPN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://wdc.kugi.kyoto-u.ac.jp/wdc/obslink.html</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Certification of WDS Members</ns0:policyName>
+                <ns0:policyURL>http://www.icsu-wds.org/services/certification</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>ICSU World Data System Constitution</ns0:policyName>
+                <ns0:policyURL>http://www.icsu-wds.org/organization/constitution_and_bylaws</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www.icsu-wds.org/services/data-sharing-principles</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>http://wdc.kugi.kyoto-u.ac.jp/wdc/Sec3.html</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                    <ns0:certificate>WDS</ns0:certificate>
+                                <ns0:remarks>WDC geomagnetism is part of the ICSU World Data System (WDS)</ns0:remarks>
+        <ns0:entryDate>2014-02-13</ns0:entryDate>
+        <ns0:lastUpdate>2021-11-17</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

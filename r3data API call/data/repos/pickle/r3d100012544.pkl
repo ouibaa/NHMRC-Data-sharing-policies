@@ -1,0 +1,85 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012544</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Community Surface Dynamics Modeling System</ns0:repositoryName>
+                    <ns0:additionalName language="eng">CSDMS</ns0:additionalName>
+                <ns0:repositoryURL>https://csdms.colorado.edu/wiki/Main_Page</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>RRID:SCR_002196</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:nlx_154705</ns0:repositoryIdentifier>
+                <ns0:description language="eng">CSDMS is a virtual home for a vibrant and growing community of about 1,000 international modeling experts and students who study the dynamic interactions of lithosphere, hydrosphere, cryosphere, and atmosphere at Earth&#8217;s surface. Participating in cross-disciplinary groups, members develop integrated software modules that predict the movement of water, sediment, and nutrients across landscapes and into the ocean. We share an open library of models, software, and access to high-performance computing. We also share knowledge that helps create higher-resolution simulations, often involving higher complexity algorithms. Together, we support the discovery, use, and conservation of natural resources; mitigation of natural hazards; geotechnical support of commercial and infrastructure development; environmental stewardship; and terrestrial surveillance for global security.</ns0:description>
+                    <ns0:repositoryContact>CSDMS@colorado.edu</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2021-02-19">272 models;  117 tools; 35 components</ns0:size>
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">317 Geography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31701 Physical Geography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL>https://instaar.colorado.edu/research/programs/community-surface-dynamics-modeling-system/</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Source code</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>earth sciences</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">University of Colorado, CSDMS IntegrationFacility</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://csdms.colorado.edu/wiki/Main_Page</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://csdms.colorado.edu/wiki/Contact_us</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>CSDMS General Disclaimer</ns0:policyName>
+                <ns0:policyURL>https://csdms.colorado.edu/wiki/CSDMS:General_disclaimer</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>CSDMS bylaws</ns0:policyName>
+                <ns0:policyURL>https://csdms.colorado.edu/mediawiki/images/Bylaws_2016-1-.pdf</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/licenses/by-sa/3.0/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://csdms.colorado.edu/wiki/License#CSDMS_suggested_licenses</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.gnu.org/copyleft/fdl.html</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>Contribute models</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>https://csdms.colorado.edu/wiki/Contribute_model</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                            <ns0:software>
+                <ns0:softwareName>other</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                    <ns0:api apiType="other">https://csdms.colorado.edu/wiki/Web_APIs</ns0:api>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://csdms.colorado.edu/wiki/Cite_CSDMS</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                <ns0:remarks>CSDMS provides H-Index and citation count for the models</ns0:remarks>
+        <ns0:entryDate>2017-11-16</ns0:entryDate>
+        <ns0:lastUpdate>2021-02-19</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

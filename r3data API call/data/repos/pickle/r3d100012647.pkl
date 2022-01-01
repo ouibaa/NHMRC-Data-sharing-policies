@@ -1,0 +1,114 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012647</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">GnpIS</ns0:repositoryName>
+                    <ns0:additionalName language="eng">Genetic and Genomic Information System</ns0:additionalName>
+                <ns0:repositoryURL>https://urgi.versailles.inrae.fr/gnpis</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>FAIRsharing_doi:10.25504/fairsharing.dw22y3</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>MIR:00100831</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>OMICS_11988</ns0:repositoryIdentifier>
+                <ns0:description language="eng">GnpIS is a multispecies integrative information system dedicated to plant and fungi pests. It bridges genetic and genomic data, allowing researchers access to both genetic information (e.g. genetic maps, quantitative trait loci, association genetics, markers, polymorphisms, germplasms, phenotypes and genotypes) and genomic data (e.g. genomic sequences, physical maps, genome annotation and expression data) for species of agronomical interest. GnpIS is used by both large international projects and plant science departments at the French National Research Institute for Agriculture, Food and Environment. It is regularly improved and released several times per year. GnpIS is accessible through a web portal and allows to browse different types of data either independently through dedicated interfaces or simultaneously using a quick search ('google like search') or advanced search (Biomart, Galaxy, Intermine) tools.</ns0:description>
+                    <ns0:repositoryContact>https://urgi.versailles.inrae.fr/Contact-us</ns0:repositoryContact>
+                    <ns0:repositoryContact>urgi-contact@inrae.fr</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2001</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>fra</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">201 Basic Biological and Medical Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20107 Bioinformatics and Theoretical Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">202 Plant Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20201 Plant Systematics and Evolution</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20207 Plant Genetics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">207 Agriculture, Forestry, Horticulture and Veterinary Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20702 Plant Cultivation</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20705 Plant Breeding</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20709 Inventory Control and Use of Forest Resources</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20710 Basic Forest Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">23 Agriculture, Forestry, Horticulture and Veterinary Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">4 Engineering Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">409 Computer Science</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">40903 Operating, Communication and Information Systems</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">44 Computer Science, Electrical and System Engineering</ns0:subject>
+                <ns0:missionStatementURL>https://urgi.versailles.inrae.fr/About-us</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Databases</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>bioinformatics</ns0:keyword>
+                    <ns0:keyword>crop improvement.</ns0:keyword>
+                    <ns0:keyword>distributed information system</ns0:keyword>
+                    <ns0:keyword>federation</ns0:keyword>
+                    <ns0:keyword>forest</ns0:keyword>
+                    <ns0:keyword>fungi</ns0:keyword>
+                    <ns0:keyword>genetic</ns0:keyword>
+                    <ns0:keyword>genomic</ns0:keyword>
+                    <ns0:keyword>grape</ns0:keyword>
+                    <ns0:keyword>information system</ns0:keyword>
+                    <ns0:keyword>ontology</ns0:keyword>
+                    <ns0:keyword>pea</ns0:keyword>
+                    <ns0:keyword>phenomics</ns0:keyword>
+                    <ns0:keyword>phenotype</ns0:keyword>
+                    <ns0:keyword>phenotypics</ns0:keyword>
+                    <ns0:keyword>plant</ns0:keyword>
+                    <ns0:keyword>wheat</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="fra">Institut national de recherche pour l&#8217;agriculture, l&#8217;alimentation et l&#8217;environnement, Unit&#233; de Recherche G&#233;nomique Info</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">INRAE, URGI</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>FRA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://urgi.versailles.inrae.fr/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>VIAF:6521159248111304870006</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>urgi-contact@inrae.fr</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Terms of Use</ns0:policyName>
+                <ns0:policyURL>https://urgi.versailles.inrae.fr/Platform/General-Terms-of-Use</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>embargoed</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>other</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/licenses/by-sa/4.0/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                <ns0:versioning>yes</ns0:versioning>
+                    <ns0:api apiType="REST">https://urgi.versailles.inrae.fr/Tools/Web-services</ns0:api>
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://urgi.versailles.inrae.fr/Platform/General-Terms-of-Use</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">ISA-Tab</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/isa-tab</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks>GnpIS use MIAPPE, an open, community driven project to harmonize data from plant phenotyping experiments, https://www.miappe.org/
+Publications:  GnpIS: an information system to integrate genetic and genomic data from plants and fungi,  https://doi.org/10.1093/database/bat058
+Linking the International Wheat Genome Sequencing Consortium bread wheat reference genome sequence to wheat genetic and phenomic data, https://doi.org/10.1186/s13059-018-1491-4</ns0:remarks>
+        <ns0:entryDate>2018-04-19</ns0:entryDate>
+        <ns0:lastUpdate>2021-06-16</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

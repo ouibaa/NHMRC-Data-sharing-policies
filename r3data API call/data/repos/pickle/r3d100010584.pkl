@@ -1,0 +1,125 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010584</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Strasbourg Astronomical Data Center</ns0:repositoryName>
+                    <ns0:additionalName language="fra">CDS</ns0:additionalName>
+                    <ns0:additionalName language="fra">Centre de Donn&#233;es astronomiques de Strasbourg</ns0:additionalName>
+                <ns0:repositoryURL>http://cdsweb.u-strasbg.fr/</ns0:repositoryURL>
+                <ns0:description language="eng">Strasbourg astronomical Data Center (CDS) is dedicated to the collection and worldwide distribution of astronomical data and related information.
+Alongside data curation and service maintenance responsibilities, the CDS undertakes R&amp;D activities that are fundamental to ensure the long term sustainability in a domain in which technology evolves very quickly. R&amp;D areas include informatics, big data, and development of the astronomical Virtual Observatory (VO). CDS is a major actor in the VO with leading roles in European VO projects, the French Virtual Observatory and the International Virtual Observatory Alliance (IVOA). 
+The CDS hosts the SIMBAD astronomical database, the world reference database for the identification of astronomical objects; VizieR, the catalogue service for the CDS reference collection of astronomical catalogues and tables published in academic journals; and the Aladin interactive software sky atlas for access, visualization and analysis of astronomical images, surveys, catalogues, databases and related data.</ns0:description>
+                    <ns0:repositoryContact>cds-question@unistra.fr</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                    <ns0:type>institutional</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>1983</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">311 Astrophysics and Astronomy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">32 Physics</ns0:subject>
+                <ns0:missionStatementURL>http://cdsweb.u-strasbg.fr/about</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Archived data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Configuration data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Databases</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Software applications</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>ALADIN</ns0:keyword>
+                    <ns0:keyword>SIMBAD</ns0:keyword>
+                    <ns0:keyword>VizieR</ns0:keyword>
+                    <ns0:keyword>astronomical catalogue</ns0:keyword>
+                    <ns0:keyword>sky atlas</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="fra">Centre National de la Recherche Scientifique, Institut National des Sciences de l'Univers</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="fra">CNRS, INSU</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>FRA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.insu.cnrs.fr/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:04kdfz702</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Universit&#233; de Strasbourg</ns0:institutionName>
+                                <ns0:institutionCountry>FRA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://de.unistra.fr/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:00pg6eq24</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>cds-question@unistra.fr</ns0:institutionContact>
+                                    <ns0:institutionContact>https://en.unistra.fr/</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="fra">Universit&#233; de Strasbourg, Centre National de la Recherche Scientifique, Strasbourg Observatory</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="fra">CNRS</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="fra">Universit&#233; de Strasbourg, Centre National de la Recherche Scientifique, Observatoire astronomique de Strasbourg</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>FRA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://astro.unistra.fr/fr/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>contact@astro.unistra.fr</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Portal guidelines</ns0:policyName>
+                <ns0:policyURL>http://cdsportal.u-strasbg.fr/doc/portal-guidelines.html</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.coretrustseal.org/wp-content/uploads/2019/02/Strasbourg-Astronomical-Data-Centre.pdf</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.worlddatasystem.org/services/data-sharing-principles</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                    <ns0:api apiType="FTP">http://cdsarc.u-strasbg.fr/viz-bin/ftp-index</ns0:api>
+                    <ns0:api apiType="REST">http://cdsxmatch.u-strasbg.fr/xmatch/api/v1/sync</ns0:api>
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                    <ns0:certificate>other</ns0:certificate>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">Dublin Core</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                    <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">FITS - Flexible Image Transport System</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/fits-flexible-image-transport-system</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                    <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">International Virtual Observatory Alliance Technical Specifications</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/international-virtual-observatory-alliance-technical-specifications</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                            <ns0:syndication syndicationType="RSS">http://cdsweb.u-strasbg.fr/news/rss.php</ns0:syndication>
+                <ns0:remarks>Strasbourg Astronomical Data Center is covered by Clarivate Data Citation Index.
+The CDS cooperates with the French Space Agency CNES, European Space Agency ESA, European Southern Observatory ESO, NASA, the US National Aeronautics and Space Administration (with a long term collaboration with the Astrophysics Data System ADS and the NASA Extragalactic Database NED), astronomical academic journals, and with other data and service providers around the world such as the Inter-University Centre of Astronomy and Astrophysics (IUCAA), the National Observatory of China (NAOC), the National Observatory of Japan (NAOJ), and the Institute of Astronomy of the Russian Academy of Sciences (INASAN). CDS hosts mirrors of NASA ADS and of the Astronomy and Astrophysics international journal. CDS contributes to the XMM-Newton Survey Science Centre in collaboration with the High-Energy team of Strasbourg Astronomical Observatory.
+CDS is a member of the World Data System of the International Council for Science ICSU.</ns0:remarks>
+        <ns0:entryDate>2014-01-13</ns0:entryDate>
+        <ns0:lastUpdate>2021-10-04</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

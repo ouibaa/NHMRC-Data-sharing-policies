@@ -1,0 +1,105 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012492</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">National Center for Health Statistics</ns0:repositoryName>
+                    <ns0:additionalName language="eng">NCHS</ns0:additionalName>
+                <ns0:repositoryURL>https://www.cdc.gov/nchs/index.htm</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>RRID:SCR_001078</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:nlx_151844</ns0:repositoryIdentifier>
+                <ns0:description language="eng">The mission of NCHS is to provide statistical information that will guide actions and policies to improve the health of the American people. As the Nation's principal health statistics agency, NCHS is responsible for collecting accurate, relevant, and timely data. NCHS' mission, and those of its counterparts in the Federal statistics system, focuses on the collection, analysis, and dissemination of information that is of use to a broad range of us.</ns0:description>
+                    <ns0:repositoryContact>https://wwwn.cdc.gov/dcs/contactus/form</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">205 Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20502 Public Health, Health Services Research, Social Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                <ns0:missionStatementURL>https://www.cdc.gov/nchs/about/policy/data_release.htm</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                            <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>Longitudinal Studies of Aging (LSOA)</ns0:keyword>
+                    <ns0:keyword>National Ambulatory Medical Care Survey (NAMCS)</ns0:keyword>
+                    <ns0:keyword>National Death Index</ns0:keyword>
+                    <ns0:keyword>National Health Interview Survey</ns0:keyword>
+                    <ns0:keyword>National Health and Nutrition Examination Survey (NHANES)</ns0:keyword>
+                    <ns0:keyword>National Home and Hospice Care Survey (NHHCS)</ns0:keyword>
+                    <ns0:keyword>National Hospital Ambulatory Medical Care Survey (NHAMCS)</ns0:keyword>
+                    <ns0:keyword>National Hospital Discharge Survey (NHDS)</ns0:keyword>
+                    <ns0:keyword>National Immunization Survey (NIS)</ns0:keyword>
+                    <ns0:keyword>National Nursing Assistant Survey (NNAS)</ns0:keyword>
+                    <ns0:keyword>National Nursing Home Survey (NNHS)</ns0:keyword>
+                    <ns0:keyword>National Survey of Ambulatory Surgery (NSAS)</ns0:keyword>
+                    <ns0:keyword>National Survey of Family Growth (NSFG)</ns0:keyword>
+                    <ns0:keyword>SPACE Program</ns0:keyword>
+                    <ns0:keyword>State and Local Area Integrated Telephone Survey (SLAITS)</ns0:keyword>
+                    <ns0:keyword>biomedicine</ns0:keyword>
+                    <ns0:keyword>disability</ns0:keyword>
+                    <ns0:keyword>diseases</ns0:keyword>
+                    <ns0:keyword>family life</ns0:keyword>
+                    <ns0:keyword>health care and insurance</ns0:keyword>
+                    <ns0:keyword>health policy</ns0:keyword>
+                    <ns0:keyword>immune</ns0:keyword>
+                    <ns0:keyword>infectious</ns0:keyword>
+                    <ns0:keyword>mortality</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Centers for Disease Control and Prevention, National Center for Health Statistics</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">CDC</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">NCHS</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.cdc.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Data Release Policy</ns0:policyName>
+                <ns0:policyURL>https://www.cdc.gov/nchs/about/policy/data_release.htm</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Data User Agreement</ns0:policyName>
+                <ns0:policyURL>https://www.cdc.gov/nchs/data_access/restrictions.htm</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>NCHS Data Access and Resources</ns0:policyName>
+                <ns0:policyURL>https://www.cdc.gov/nchs/data/data_access_and_resources_booklet_web.pdf</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>closed</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>embargoed</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>other</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.cdc.gov/nchs/about/policy/data_release.htm</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                <ns0:versioning />
+                    <ns0:api apiType="FTP">ftp://ftp.cdc.gov/pub/Health_Statistics/NCHS/</ns0:api>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                <ns0:remarks />
+        <ns0:entryDate>2017-10-04</ns0:entryDate>
+        <ns0:lastUpdate>2021-10-06</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

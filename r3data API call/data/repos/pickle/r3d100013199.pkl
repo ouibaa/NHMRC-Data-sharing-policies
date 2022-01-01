@@ -1,0 +1,96 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100013199</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Population Health Data Archive</ns0:repositoryName>
+                    <ns0:additionalName language="eng">PHDA</ns0:additionalName>
+                    <ns0:additionalName language="zho">&#20154;&#21475;&#20581;&#24247;&#31185;&#23398;&#25968;&#25454;&#20179;&#20648;</ns0:additionalName>
+                <ns0:repositoryURL>http://www.ncmi.cn/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>FAIRsharing_doi:10.24404/FAIRsharing.xb3lbl</ns0:repositoryIdentifier>
+                <ns0:description language="eng">The National Population Health Data Center (NPHDC) is one of the 20 national science data center approved by the Ministry of Science and Technology and the Ministry of Finance. The Population Health Data Archive (PHDA) is developed by NPHDC relying on the Institute of Medical Information, Chinese Academy of Medical Sciences. PHDA mainly receives scientific data from science and technology projects supported by the national budget, and also collects data from other multiple sources such as medical and health institutions, research institutions and social individuals, which is oriented to the national big data strategy and the healthy China strategy. The data resources cover basic medicine, clinical medicine, public health, traditional Chinese medicine and pharmacy, pharmacy, population and reproduction. PHDA supports data collection, archiving, processing, storage, curation, verification, certification and release in the field of population health. Provide multiple types of data sharing and application services for different hierarchy users and help them find, access, interoperate and reuse the data in a safe and controlled environment. PHDA provides important support for promoting the open sharing of scientific data of population health and domestic and foreign cooperation.</ns0:description>
+                    <ns0:repositoryContact>http://www.ncmi.cn/phda/support.html?type=aboutus</ns0:repositoryContact>
+                    <ns0:repositoryContact>rkjkpt@126.com</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="">78.91TB</ns0:size>
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>zho</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">205 Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20501 Epidemiology, Medical Biometry, Medical Informatics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20502 Public Health, Health Services Research, Social Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20503 Human Genetics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20508 Pharmacy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20522 Reproductive Medicine/Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                <ns0:missionStatementURL>http://www.ncmi.cn/phda/support.html?type=aboutus</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Archived data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Audiovisual data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Databases</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Software applications</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>Pharmacy</ns0:keyword>
+                    <ns0:keyword>basic Medicine</ns0:keyword>
+                    <ns0:keyword>clinical medicine</ns0:keyword>
+                    <ns0:keyword>genetics</ns0:keyword>
+                    <ns0:keyword>genomics</ns0:keyword>
+                    <ns0:keyword>population and reproduction</ns0:keyword>
+                    <ns0:keyword>proteomics</ns0:keyword>
+                    <ns0:keyword>public health</ns0:keyword>
+                    <ns0:keyword>scientific data</ns0:keyword>
+                    <ns0:keyword>traditional chinese medicine and pharmacy</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Chinese Academy of Medical Sciences &amp; Peking Union Medical College</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="zho">&#20013;&#22269;&#21307;&#23398;&#31185;&#23398;&#38498;&#21271;&#20140;&#21327;&#21644;&#21307;&#23398;&#38498;</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CHN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://english.cams.cn/index.html</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:02drdmm93</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>&#30005;&#35805;&#65306;010-65250541
+&#37038;&#31665;&#65306;rkjkpt@126.com</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Core Trust Seal</ns0:policyName>
+                <ns0:policyURL>https://www.coretrustseal.org/wp-content/uploads/2021/07/20210709-national-population-health-data-center_CTS_certification_2020-2022.pdf</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www.ncmi.cn/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>institutional membership</ns0:dataUploadRestriction>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>MySQL</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                            <ns0:pidSystem>other</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                    <ns0:aidSystem>ORCID</ns0:aidSystem>
+                <ns0:enhancedPublication>no</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                    <ns0:certificate>other</ns0:certificate>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">Dublin Core</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks />
+        <ns0:entryDate>2019-12-30</ns0:entryDate>
+        <ns0:lastUpdate>2021-07-19</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

@@ -1,0 +1,112 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012403</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">TCCON Data Archive</ns0:repositoryName>
+                    <ns0:additionalName language="eng">Total Carbon Column Observing Network Data Archive</ns0:additionalName>
+                <ns0:repositoryURL>https://tccondata.org</ns0:repositoryURL>
+                <ns0:description language="eng">TCCON is a network of ground-based Fourier Transform Spectrometers recording direct solar spectra in the near-infrared spectral region. From these spectra, accurate and precise column-averaged abundance of CO2, CH4, N2O, HF, CO, H2O, and HDO are retrieved.</ns0:description>
+                    <ns0:repositoryContact>tccon_help@gps.caltech.edu</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">304 Analytical Chemistry, Method Development (Chemistry)</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31 Chemistry</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31301 Atmospheric Science</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">318 Water Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31801 Hydrogeology, Hydrology, Limnology, Urban Water Management, Water Chemistry, Integrated Water Resources Management</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL>https://tccon-wiki.caltech.edu/</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>CH4</ns0:keyword>
+                    <ns0:keyword>CO</ns0:keyword>
+                    <ns0:keyword>CO2</ns0:keyword>
+                    <ns0:keyword>FTIR spectroscopy</ns0:keyword>
+                    <ns0:keyword>N2O</ns0:keyword>
+                    <ns0:keyword>atmospheric trace gases</ns0:keyword>
+                    <ns0:keyword>column-averaged dry-air mole fractions</ns0:keyword>
+                    <ns0:keyword>remote sensing</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">California Institute of Technology</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.caltech.edu/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>2017-09-30</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Caltech Library</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.library.caltech.edu/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>2017-09-30</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>data@caltech.edu</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Oak Ridge National Laboratory</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">ORNL</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.ornl.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate>2017-09-30</ns0:responsibilityEndDate>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Total Carbon Column Observing Network</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">TCCON</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.tccon.caltech.edu/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Data Use Policy</ns0:policyName>
+                <ns0:policyURL>https://tccon-wiki.caltech.edu/Network_Policy/Data_Use_Policy</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://tccon-wiki.caltech.edu/Network_Policy/Data_Use_Policy#Data_Protocol</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>other</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                    <ns0:api apiType="NetCDF">https://tccon-wiki.caltech.edu/Network_Policy/Data_Use_Policy/Data_Description/NetCDF_File_Header_Example</ns0:api>
+                    <ns0:api apiType="REST">https://data.caltech.edu/api/records/?q=cal_keyword=%22tccon%22</ns0:api>
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://tccon-wiki.caltech.edu/Network_Policy/Data_Use_Policy#TCCON_Acknowledgement</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">DataCite Metadata Schema</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/datacite-metadata-schema</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks>TCCON Data Archive is covered by Thomson Reuters Data Citation Index.
+The TCCON is closely affiliated with the Network for the Detection of Atmospheric Composition Change Infrared Working Group (NDACC-IRWG), that produces vertical profiles of the concentrations of many of the same gases and several others. For more information see the NDACC website: https://www2.acom.ucar.edu/irwg</ns0:remarks>
+        <ns0:entryDate>2017-07-14</ns0:entryDate>
+        <ns0:lastUpdate>2019-01-29</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

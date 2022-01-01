@@ -1,0 +1,91 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010553</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">REFOLDdb</ns0:repositoryName>
+                    <ns0:additionalName language="eng">including: REFOLD</ns0:additionalName>
+                <ns0:repositoryURL>http://p4d-info.nig.ac.jp/refolddatabase/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>RRID:SCR_007889</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:nif-0000-03396</ns0:repositoryIdentifier>
+                <ns0:description language="eng">REFOLD has merged to REFOLDdb. 
+REFOLDdb is a unique database for the life sciences research community, providing annotated information for designing new refolding protocols and customizing existing methodologies. We envisage that this resource will find wide utility across broad disciplines that rely on the production of pure, active, recombinant proteins. Furthermore, the database also provides a useful overview of the recent trends and statistics in refolding technology development.We based our resource on the existing REFOLD database, which has not been updated since 2009. We redesigned the data format to be more concise, allowing consistent representations among data entries compared with the original REFOLD database. The remodeled data architecture enhances the search efficiency and improves the sustainability of the database. After an exhaustive literature search we added experimental refolding protocols from reports published 2009 to early 2017. In addition to this new data, we fully converted and integrated existing REFOLD data into our new resource.</ns0:description>
+                    <ns0:repositoryContact>ashley.buckle@monash.edu</ns0:repositoryContact>
+                    <ns0:repositoryContact>hsugawar@nig.ac.jp</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2017-05-17">7.000 papers; 300 reports</ns0:size>
+        <ns0:startDate>2008</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">201 Basic Biological and Medical Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20104 Structural Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                <ns0:missionStatementURL />
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>cell biology</ns0:keyword>
+                    <ns0:keyword>molecular biology</ns0:keyword>
+                    <ns0:keyword>nutrition</ns0:keyword>
+                    <ns0:keyword>protein</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Monash University</ns0:institutionName>
+                                <ns0:institutionCountry>AUS</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.monash.edu/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate>2012</ns0:responsibilityEndDate>
+                                    <ns0:institutionContact>http://www.monash.edu.au/people/contact.html</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Institute of Genetics</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="jpn">&#22269;&#31435;&#36986;&#20253;&#23398;&#30740;&#31350;&#25152;</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>JPN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.nig.ac.jp/nig/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>2017</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Freely available</ns0:policyName>
+                <ns0:policyURL>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5402662/</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://creativecommons.org/licenses/by-sa/4.0/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www.monash.edu.au/disclaimer-copyright.html</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                <ns0:versioning>yes</ns0:versioning>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>http://p4d-info.nig.ac.jp/refolddb/about.cgi?lang=EN</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                    <ns0:syndication syndicationType="ATOM">http://refold.blogspot.com/feeds/posts/default</ns0:syndication>
+                <ns0:remarks>REFOLDdb is covered by Thomson Reuters Data Citation Index. Code hosted on github https://github.com/steveandroulakis/Refold-2</ns0:remarks>
+        <ns0:entryDate>2013-11-27</ns0:entryDate>
+        <ns0:lastUpdate>2021-09-02</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

@@ -1,0 +1,169 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012922</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">eLabour</ns0:repositoryName>
+                    <ns0:additionalName language="eng">FDZ eLabour</ns0:additionalName>
+                    <ns0:additionalName language="eng">Interdisciplinary center for qualitative research data from the sociology of work (eLabour)</ns0:additionalName>
+                    <ns0:additionalName language="deu">Interdisziplin&#228;res Zentrum f&#252;r qualitative arbeitssoziologische Forschungsdaten (FDZ eLabour)</ns0:additionalName>
+                <ns0:repositoryURL>http://elabour.de/</ns0:repositoryURL>
+                <ns0:description language="eng">A number of sociological research institutions have worked together with partners from IT and the information sciences to establish a new research data infrastructure for qualitative research, the interdisciplinary center for qualitative research data from the sociology of work (eLabour). The infrastructure will be fully operational in early 2019. In addition, the center will expand its qualitative data pool and open up to external scientists. At the same time, IT-based processes and tools for qualitative data management are being developed to establish a competence center for professional qualitative research data management, which can provide support and services for a variety of scientific user groups.
+Research data are available as Scientific Use Files (SUF) and Campus Files (CF).
+List of available research data at 'Projects' page: http://elabour.de/sekundaeranalysen/projekte/</ns0:description>
+                    <ns0:repositoryContact>http://elabour.de/kontakt/</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>deu</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">111 Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">12 Social and Behavioural Sciences</ns0:subject>
+                <ns0:missionStatementURL />
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>microdata</ns0:keyword>
+                    <ns0:keyword>qualitative data</ns0:keyword>
+                    <ns0:keyword>qualitative studies</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="deu">FDZ-BO am Deutschen Institut f&#252;r Wirtschaftsforschung</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">FDZ-BO at DIW</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://portal.fdz-bo.diw.de/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>TGebel@diw.de</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="deu">Forschungszentrum L3S</ns0:institutionName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.l3s.de/de</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>Niederee@l3s.de</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="deu">Friedrich-Schiller-Universit&#228;t Jena, Institut f&#252;r Soziologie</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="deu">IfS Jena</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.soziologie.uni-jena.de/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>Jakob.Koester@uni-jena.de</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="deu">GWDG</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="deu">Gesellschaft f&#252;r wissenschaftliche Datenverarbeitung mbH G&#246;ttingen</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.gwdg.de/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>Philipp.Wieder@gwdg.de</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="deu">Institut f&#252;r Sozialwissenschaftliche Forschung</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="deu">ISF M&#252;nchen</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.isf-muenchen.de/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>Sarah.Nies@isf-muenchen.de</ns0:institutionContact>
+                                    <ns0:institutionContact>Wolfgang.Dunkel@isf-muenchen.de</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="deu">Nieders&#228;chsische Staats- und Universit&#228;tsbibliothek G&#246;ttingen</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="deu">SUB G&#246;ttingen</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.sub.uni-goettingen.de/sub-aktuell/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>Brase@sub.uni-goettingen.de</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="deu">Soziologisches Forschungsinstitut G&#246;ttingen</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="deu">SOFI</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.sofi.uni-goettingen.de/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>sofi@sofi.uni-goettingen.de</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="deu">Technische Universit&#228;t Dortmund, Sozialforschungsstelle Dortmund</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="deu">sfs Dortmund</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.sfs.tu-dortmund.de/cms/de/Aktuelles/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>Hilf@sfs-dortmund.de</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Criteria of the German Data Forum (RatSWD) for the Establishment of Research Data Infrastructure</ns0:policyName>
+                <ns0:policyURL>http://www.share-project.org/fileadmin/pdf_documentation/RatSWD_FDZCriteria_1_.pdf</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Elabour Datenschutz</ns0:policyName>
+                <ns0:policyURL>http://elabour.de/forschung-und-entwicklung/datenschutz/</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Elabour Datenschutzkonzept</ns0:policyName>
+                <ns0:policyURL>http://elabour.de/wp-content/uploads/2017/10/Datenschutzkonzept_eLabour_V03_220319-oeffentlich.pdf</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Kriterien des RatSWD</ns0:policyName>
+                <ns0:policyURL>https://www.ratswd.de/dl/RatSWD_Output8_Qualitaetssicherung-FDZ.pdf#page=6</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>other</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://elabour.de/wp-content/uploads/2017/10/Datenschutzkonzept_eLabour_V03_220319-oeffentlich.pdf</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>Import</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>http://elabour.de/forschung-und-entwicklung/it-gestuetzte-qualitative-methoden-der-sekundaeranalyse/import/</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                        <ns0:versioning />
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                    <ns0:certificate>RatSWD</ns0:certificate>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">DDI - Data Documentation Initiative</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/ddi-data-documentation-initiative</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                    <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">Dublin Core</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks />
+        <ns0:entryDate>2019-01-11</ns0:entryDate>
+        <ns0:lastUpdate>2019-11-08</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

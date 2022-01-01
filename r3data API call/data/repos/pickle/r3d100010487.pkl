@@ -1,0 +1,97 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010487</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Slovenian Social Science Data Archives</ns0:repositoryName>
+                    <ns0:additionalName language="slv">ADP</ns0:additionalName>
+                    <ns0:additionalName language="slv">Arhiv druzboslovnih podatkov</ns0:additionalName>
+                <ns0:repositoryURL>https://www.adp.fdv.uni-lj.si/eng/</ns0:repositoryURL>
+                <ns0:description language="eng">The Slovenian Social Science Data Archives (Slovenski Arhiv Dru&#382;boslovnih podatkov - ADP) were established in 1997 as an organizational unit within the Institute of Social Sciences at the Faculty of Social Sciences, University of Ljubljana. Its tasks are to acquire significant data sources within a wide range of social science disciplines of interest to Slovenian social scientists, review and prepare them for digital preservation, and to disseminate them for further scientific, educational and other purposes.</ns0:description>
+                    <ns0:repositoryContact>https://www.adp.fdv.uni-lj.si/eng/kontakt/</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>1997</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>slv</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">111 Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">12 Social and Behavioural Sciences</ns0:subject>
+                <ns0:missionStatementURL>https://www.adp.fdv.uni-lj.si/eng/spoznaj/adp/poslanstvo/</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>Slovenia</ns0:keyword>
+                    <ns0:keyword>Slovenian social science data</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Ministry of Higher Education, Science and Technology</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="slv">MVZT</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="slv">Ministrstvo za visoko &#353;olstvo, znanost in tehnologijo</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>SVN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.arhiv.mvzt.gov.si/en/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>2004</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of Ljubljana, Institute of Social Sciences</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="slv">Univerza v Ljubljani, Fakulteta za dru&#382;bene vede</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>SVN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.fdv.uni-lj.si/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>arhiv.podatkov@fdv.uni-lj.si</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>CESSDA Data Access Policy</ns0:policyName>
+                <ns0:policyURL>https://www.cessda.eu/Tools-Services/For-Service-Providers/CESSDA-CDM/Part-2-CRA2-Digital-Object-Management/CPA2.3-Access</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Digital Preservation Policy</ns0:policyName>
+                <ns0:policyURL>https://www.adp.fdv.uni-lj.si/eng/spoznaj/politika/</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.adp.fdv.uni-lj.si/eng/deli/postopek/izjava/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>CC0</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/publicdomain/zero/1.0/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>License Agreement</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>https://www.adp.fdv.uni-lj.si/eng/deli/postopek/izjava/</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                            <ns0:software>
+                <ns0:softwareName>Nesstar</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://www.adp.fdv.uni-lj.si/opisi/ads983/</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                    <ns0:certificate>other</ns0:certificate>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">DDI - Data Documentation Initiative</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/ddi-data-documentation-initiative</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                            <ns0:syndication syndicationType="RSS">https://www.adp.fdv.uni-lj.si/feed/novice/</ns0:syndication>
+                <ns0:remarks>For information regarding the deposit of data, contact ADP: https://www.adp.fdv.uni-lj.si/eng/kontakt/
+ADP is a member organisation of CESSDA ERIC https://www.cessda.eu/</ns0:remarks>
+        <ns0:entryDate>2013-08-14</ns0:entryDate>
+        <ns0:lastUpdate>2019-10-23</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

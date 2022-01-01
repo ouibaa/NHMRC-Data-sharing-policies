@@ -1,0 +1,157 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011612</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">KONECT</ns0:repositoryName>
+                    <ns0:additionalName language="eng">Koblenz Network Collection</ns0:additionalName>
+                <ns0:repositoryURL>http://konect.cc/</ns0:repositoryURL>
+                <ns0:description language="eng">This is the KONECT project, a project in the area of network science with the goal to collect network datasets, analyse them, and make available all analyses online. KONECT stands for Koblenz Network Collection, as the project has roots at the University of Koblenz&#8211;Landau in Germany. All source code is made available as Free Software, and includes a network analysis toolbox for GNU Octave, a network extraction library, as well as code to generate these web pages, including all statistics and plots.
+KONECT contains over a hundred network datasets of various types, including directed, undirected, bipartite, weighted, unweighted, signed and rating networks. The networks of KONECT are collected from many diverse areas such as social networks, hyperlink networks, authorship networks, physical networks, interaction networks and communication networks. The KONECT project has developed network analysis tools which are used to compute network statistics, to draw plots and to implement various link prediction algorithms. The result of these analyses are presented on these pages. Whenever we are allowed to do so, we provide a download of the networks.</ns0:description>
+                    <ns0:repositoryContact>jerome.kunegis@unamur.be</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2021-05-17">1.326 network datasets; computed 41.379 graph statistics;  generated 83.920 plots</ns0:size>
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">111 Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11103 Communication Science</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">12 Social and Behavioural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">4 Engineering Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">409 Computer Science</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">44 Computer Science, Electrical and System Engineering</ns0:subject>
+                <ns0:missionStatementURL>http://konect.cc/about/</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Networkbased data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Software applications</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Source code</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>affilation networks</ns0:keyword>
+                    <ns0:keyword>animal networks</ns0:keyword>
+                    <ns0:keyword>authorship networks</ns0:keyword>
+                    <ns0:keyword>citation networks</ns0:keyword>
+                    <ns0:keyword>communications networks</ns0:keyword>
+                    <ns0:keyword>computer networks</ns0:keyword>
+                    <ns0:keyword>feature networks</ns0:keyword>
+                    <ns0:keyword>folksonomies</ns0:keyword>
+                    <ns0:keyword>human contact networks</ns0:keyword>
+                    <ns0:keyword>human social networks</ns0:keyword>
+                    <ns0:keyword>hyperlink networks</ns0:keyword>
+                    <ns0:keyword>interaction networks</ns0:keyword>
+                    <ns0:keyword>lexical networks</ns0:keyword>
+                    <ns0:keyword>metabolic networks</ns0:keyword>
+                    <ns0:keyword>miscellaneous networks</ns0:keyword>
+                    <ns0:keyword>network analysis</ns0:keyword>
+                    <ns0:keyword>online contact networks</ns0:keyword>
+                    <ns0:keyword>online social networks</ns0:keyword>
+                    <ns0:keyword>physical networks</ns0:keyword>
+                    <ns0:keyword>rating networks</ns0:keyword>
+                    <ns0:keyword>software networks</ns0:keyword>
+                    <ns0:keyword>statistics</ns0:keyword>
+                    <ns0:keyword>text networks</ns0:keyword>
+                    <ns0:keyword>trophic networks</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">European Commission, Research &amp; Innovation, Seventh Framework Program</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">FP7</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>EEC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://cordis.europa.eu/project/id/257859</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>2010</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate>2013</ns0:responsibilityEndDate>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="deu">Hasso Plattner Institut,  Future SOC Lab</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="deu">HPI, Future SOC Lab</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://hpi.de/forschung/future-soc-lab/projekte/projektarchiv.html</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>2011</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate>2012</ns0:responsibilityEndDate>
+                                    <ns0:institutionContact>futuresoc-lab-info@hpi.de</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">ROBUST Project</ns0:institutionName>
+                                <ns0:institutionCountry>EEC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://robust-project.eu/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>2010</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate>2013</ns0:responsibilityEndDate>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Univerity of Namur</ns0:institutionName>
+                                <ns0:institutionCountry>BEL</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.unamur.be/en</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:03d1maw17</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate>2021</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of Namur, Namur Institute for Complex Systems</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NAXYS</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>BEL</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.naxys.be/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>2021</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="deu">Universit&#228;t Koblenz Landau, Institute for Web Science and Technologies</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">WeST</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://west.uni-koblenz.de/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>2010</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate>2020</ns0:responsibilityEndDate>
+                                    <ns0:institutionContact>http://west.uni-koblenz.de/de/ueber-uns/kontakt</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>KONECT handbook of network analysis</ns0:policyName>
+                <ns0:policyURL>https://github.com/kunegis/konect-handbook/raw/master/konect-handbook.pdf</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                    <ns0:databaseLicense>
+                <ns0:databaseLicenseName>other</ns0:databaseLicenseName>
+                <ns0:databaseLicenseURL>https://www.gnu.org/licenses/#GPL</ns0:databaseLicenseURL>
+            </ns0:databaseLicense>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/licenses/by-sa/2.0/de/deed.en</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>no</ns0:versioning>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>http://konect.cc/about/</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">RDF Data Cube Vocabulary</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/rdf-data-cube-vocabulary</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks />
+        <ns0:entryDate>2015-08-11</ns0:entryDate>
+        <ns0:lastUpdate>2021-05-17</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

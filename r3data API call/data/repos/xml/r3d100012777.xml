@@ -1,0 +1,155 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012777</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">RIN Data Repository</ns0:repositoryName>
+                    <ns0:additionalName language="eng">LIPI Dataverse</ns0:additionalName>
+                    <ns0:additionalName language="eng">Lembaga Ilmu Pengetahuan Indonesia (LIPI) Dataverse</ns0:additionalName>
+                    <ns0:additionalName language="eng">RIN Dataverse</ns0:additionalName>
+                    <ns0:additionalName language="eng">Repositori Ilmiah Nasional (RIN)</ns0:additionalName>
+                <ns0:repositoryURL>https://rin.lipi.go.id</ns0:repositoryURL>
+                <ns0:description language="eng">The Repositori Ilmiah Nasional (RIN) is a means for storing, preserving, citing, analyzing and sharing research data. RIN acts as an online media in managing, storing and sharing research data. Researchers, data writers, publishers, data distributors, and affiliated institutions all receive academic credit and web visibility. Researchers, agencies, and funders have full control over research data.</ns0:description>
+                    <ns0:repositoryContact>rin@mail.lipi.go.id</ns0:repositoryContact>
+                            <ns0:type>other</ns0:type>
+                <ns0:size updated="2020-01-14">319 Dataverses; 3.955 Datasets; 14.294 Files</ns0:size>
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>ind</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">4 Engineering Sciences</ns0:subject>
+                <ns0:missionStatementURL>http://rin.lipi.go.id/upload/KebijakanRIN.pdf</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Archived data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Audiovisual data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>FAIR</ns0:keyword>
+                    <ns0:keyword>Indonesia</ns0:keyword>
+                    <ns0:keyword>Java</ns0:keyword>
+                    <ns0:keyword>Sulawesi</ns0:keyword>
+                    <ns0:keyword>Sumatra</ns0:keyword>
+                    <ns0:keyword>conservation</ns0:keyword>
+                    <ns0:keyword>diversity</ns0:keyword>
+                    <ns0:keyword>multi-disciplinary</ns0:keyword>
+                    <ns0:keyword>new species</ns0:keyword>
+                    <ns0:keyword>taxonomy</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="ind">Lembaga Ilmu Pengetahuan Indonesia, Pusat  Data  dan  Dokumentasi  Ilmiah</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Indonesian Institute of Sciences, Indonesian National Scientific Documentation Center</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">LIPI, PDDI</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>IDN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://lipi.go.id/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:03d7c1451</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Management Policy</ns0:policyName>
+                <ns0:policyURL>http://rin.lipi.go.id/upload/KebijakanRIN.pdf</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                    <ns0:databaseLicense>
+                <ns0:databaseLicenseName>CC</ns0:databaseLicenseName>
+                <ns0:databaseLicenseURL>https://creativecommons.org/licenses/by/4.0/legalcode</ns0:databaseLicenseURL>
+            </ns0:databaseLicense>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>closed</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>other</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>CC0</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://dataverse.org/best-practices/dataverse-community-norms</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://rin.lipi.go.id/upload/KebijakanRIN.pdf</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>Dataverse Creation Form</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>http://bit.ly/FormDepositRIN</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                    <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>Management Policy</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>http://rin.lipi.go.id/upload/KebijakanRIN.pdf</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                    <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>Open Data Availability Form at the National Scientific Repository</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>http://rin.lipi.go.id/upload/Form_Kesediaan_Open_Data.docx</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                            <ns0:software>
+                <ns0:softwareName>DataVerse</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                    <ns0:api apiType="REST">http://guides.dataverse.org/en/4.14/api/native-api.html</ns0:api>
+                    <ns0:api apiType="SWORD">http://guides.dataverse.org/en/4.14/api/sword.html</ns0:api>
+                    <ns0:api apiType="other">http://guides.dataverse.org/en/4.14/api/metrics.html</ns0:api>
+                    <ns0:api apiType="other">http://guides.dataverse.org/en/4.14/api/dataaccess.html#</ns0:api>
+                    <ns0:api apiType="other">http://guides.dataverse.org/en/4.14/api/search.html</ns0:api>
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://dataverse.org/best-practices/data-citation</ns0:citationGuidelineURL>
+                    <ns0:aidSystem>ORCID</ns0:aidSystem>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">DDI - Data Documentation Initiative</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/ddi-data-documentation-initiative</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                    <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">Darwin Core</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/darwin-core</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                    <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">DataCite Metadata Schema</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/datacite-metadata-schema</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                    <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">Dublin Core</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                    <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">FGDC/CSDGM - Federal Geographic Data Committee Content Standard for Digital Geospatial Metadata</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/fgdccsdgm-federal-geographic-data-committee-content-standard-digital-ge</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                    <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">ISA-Tab</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/isa-tab</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                    <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">International Virtual Observatory Alliance Technical Specifications</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/international-virtual-observatory-alliance-technical-specifications</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                    <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">OAI-ORE - Open Archives Initiative Object Reuse and Exchange</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/oai-ore-open-archives-initiative-object-reuse-and-exchange</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                    <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">SDMX - Statistical Data and Metadata Exchange</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/sdmx-statistical-data-and-metadata-exchange</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks>Regarding the security of systems and infrastructure: RIN is currently in the process of being submitted to obtain ISO 270001 on Information Security Management Systems. OAI-PMH API should be available, but URL not determinable.</ns0:remarks>
+        <ns0:entryDate>2018-07-27</ns0:entryDate>
+        <ns0:lastUpdate>2020-01-25</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

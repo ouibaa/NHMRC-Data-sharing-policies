@@ -1,0 +1,99 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012862</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Carbohydrate Structure Database</ns0:repositoryName>
+                    <ns0:additionalName language="eng">CSDB</ns0:additionalName>
+                <ns0:repositoryURL>http://csdb.glycoscience.ru/database/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.dkbt9j</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>OMICS_09727</ns0:repositoryIdentifier>
+                <ns0:description language="eng">This is CSDB version 1 merged from Bacterial (BCSDB) and Plant&amp;Fungal (PFCSDB) databases. This database aims at provision of structural, bibliographic, taxonomic, NMR spectroscopic and other information on glycan and glycoconjugate structures of prokaryotic, plant and fungal origin. It has been merged from the Bacterial and Plant&amp;Fungal Carbohydrate Structure Databases (BCSDB+PFCSDB). The key points of this service are:
+ High coverage. The coverage for bacteria (up to 2016) and archaea (up to 2016) is above 80%. Similar coverage for plants and fungi is expected in the future. The database is close to complete up to 1998 for plants, and up to 2006 for fungi.
+Data quality. High data quality is achieved by manual curation using original publications which is assisted by multiple automatic procedures for error control. Errors present in publications are reported and corrected, when possible. Data from other databases are verified on import.
+Detailed annotations. Structural data are supplied with extended bibliography, assigned NMR spectra, taxon identification including strains and serogroups, and other information if available in the original publication.
+Services. CSDB serves as a platform for a number of computational services tuned for glycobiology, such as NMR simulation, automated structure elucidation, taxon clustering, 3D molecular modeling, statistical processing of data etc.
+Integration. CSDB is cross-linked to other glycoinformatics projects and NCBI databases. The data are exportable in various formats, including most widespread encoding schemes and records using GlycoRDF ontology.
+Free web access. Users can access the database for free via its web interface (see Help). 
+The main source of data is retrospective literature analysis. About 20% of data were imported from CCSD (Carbbank, University of Georgia, Athens; structures published before 1996) with subsequent manual curation and approval. The current coverage is displayed in red on the top of the left menu. The time lag between the publication of new data and their deposition into CSDB is ca. 1 year.
+In the scope of bacterial carbohydrates, CSDB covers nearly all structures of this origin published up to 2016. Prokaryotic, plant and fungal means that a glycan was found in the organism(s) belonging to these taxonomic domains or was obtained by modification of those found in them. Carbohydrate means a structure composed of any residues linked by glycosidic, ester, amidic, ketal, phospho- or sulpho-diester bonds in which at least one residue is a sugar or its derivative.</ns0:description>
+                    <ns0:repositoryContact>http://glycoscience.ru/Knirel/</ns0:repositoryContact>
+                    <ns0:repositoryContact>http://toukach.ru/</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2020-02-05">8.418 publications; 22.374 compounds; 11.009 organisms</ns0:size>
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">201 Basic Biological and Medical Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20104 Structural Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20107 Bioinformatics and Theoretical Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">204 Microbiology, Virology and Immunology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20401 Metabolism, Biochemistry and Genetics of Microorganisms</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                <ns0:missionStatementURL>http://csdb.glycoscience.ru/</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>carbohydrates</ns0:keyword>
+                    <ns0:keyword>fungi</ns0:keyword>
+                    <ns0:keyword>glycobiology</ns0:keyword>
+                    <ns0:keyword>glycoinformatics</ns0:keyword>
+                    <ns0:keyword>glycomics</ns0:keyword>
+                    <ns0:keyword>plants</ns0:keyword>
+                    <ns0:keyword>prokaryotes</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Russian Academy of Sciences, N.D. Zelinsky Institute of Organic Chemistry</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="rus">&#1048;&#1054;&#1061; &#1056;&#1040;&#1053;</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="rus">&#1048;&#1085;&#1089;&#1090;&#1080;&#1090;&#1091;&#1090; &#1086;&#1088;&#1075;&#1072;&#1085;&#1080;&#1095;&#1077;&#1089;&#1082;&#1086;&#1081; &#1093;&#1080;&#1084;&#1080;&#1080; &#1080;&#1084;. &#1053;.&#1044;.&#1047;&#1077;&#1083;&#1080;&#1085;&#1089;&#1082;&#1086;&#1075;&#1086; &#1056;&#1086;&#1089;&#1089;&#1080;&#1081;&#1089;&#1082;&#1086;&#1081; &#1072;&#1082;&#1072;&#1076;&#1077;&#1084;&#1080;&#1080; &#1085;&#1072;&#1091;&#1082;</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>RUS</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://zioc.ru/?lang=en</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:007phxq15</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>SECRETARY@ioc.ac.ru</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>CSDB usage: basic operations</ns0:policyName>
+                <ns0:policyURL>http://csdb.glycoscience.ru/database/index.html</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Public Domain</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://csdb.glycoscience.ru/database/index.html</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                    <ns0:api apiType="other">http://csdb.glycoscience.ru/database/core/help.php?db=database&amp;topic=extras#rdf</ns0:api>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>http://csdb.glycoscience.ru/database/index.html?help=credits#citations</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">RDF Data Cube Vocabulary</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/rdf-data-cube-vocabulary</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                    <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">Repository-Developed Metadata Schemas</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/repository-developed-metadata-schemas</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks>Carbohydrate structure datatabase is covered by Clarivate Data Citation Index.</ns0:remarks>
+        <ns0:entryDate>2018-09-11</ns0:entryDate>
+        <ns0:lastUpdate>2020-02-05</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

@@ -1,0 +1,74 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012247</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">J-Global</ns0:repositoryName>
+                    <ns0:additionalName language="eng">JCSD</ns0:additionalName>
+                    <ns0:additionalName language="eng">formerly: Japan Chemical Substance Dictionary Nikkaji</ns0:additionalName>
+                <ns0:repositoryURL>https://jglobal.jst.go.jp/en</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.vd25jp</ns0:repositoryIdentifier>
+                <ns0:description language="eng">J-GLOBAL is a service based on the concept of Linking, Expanding, and Sparking, linking science and technology information which hitherto stood alone to support the generation of ideas.
+By linking the information entered, we provide opportunities to make unexpected discoveries and obtain knowledge from dissimilar fields from high-quality science and technology information within and outside JST.</ns0:description>
+                    <ns0:repositoryContact>helpdesk@jsp.go.jp</ns0:repositoryContact>
+                    <ns0:repositoryContact>https://jglobal.jst.go.jp/en/info/contact</ns0:repositoryContact>
+                        <ns0:size updated="2021-09-22">60.000 geme; 3.750.000 chemical substance</ns0:size>
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>jpn</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31 Chemistry</ns0:subject>
+                <ns0:missionStatementURL>https://jglobal.jst.go.jp/en/aboutus/home</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>chemical entity</ns0:keyword>
+                    <ns0:keyword>chemical substance</ns0:keyword>
+                    <ns0:keyword>gene</ns0:keyword>
+                    <ns0:keyword>material</ns0:keyword>
+                    <ns0:keyword>molecular structure</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Japan Science and Technology Agency</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">JST</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>JPN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.jst.go.jp/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:00097mb19</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>J-GLOBAL Service Terms of Use</ns0:policyName>
+                <ns0:policyURL>https://jglobal.jst.go.jp/en/terms_of_use/jglobal</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Link policy</ns0:policyName>
+                <ns0:policyURL>https://jglobal.jst.go.jp/en/terms_of_use/link</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://jglobal.jst.go.jp/en/terms_of_use/jglobal</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                <ns0:versioning />
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                <ns0:remarks>J-Global is covered by Clarivate Data Citation Index. Partners: https://jglobal.jst.go.jp/en/aboutus/partner</ns0:remarks>
+        <ns0:entryDate>2016-11-24</ns0:entryDate>
+        <ns0:lastUpdate>2021-09-24</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

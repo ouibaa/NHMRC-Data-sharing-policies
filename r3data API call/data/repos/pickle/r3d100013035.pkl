@@ -1,0 +1,135 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100013035</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="deu">CMO Editionen und Quellen-Katalog</ns0:repositoryName>
+                    <ns0:additionalName language="tur">CMO Edisyonlar&#305; ve Kaynak Katalo&#287;u</ns0:additionalName>
+                    <ns0:additionalName language="eng">CMO Editions and Catalogue</ns0:additionalName>
+                    <ns0:additionalName language="deu">Corpus Musicae Ottomanicae Editionen und Quellen-Katalog</ns0:additionalName>
+                <ns0:repositoryURL>https://corpus-musicae-ottomanicae.de/content/index.xml</ns0:repositoryURL>
+                <ns0:description language="eng">CMO is a long-term project for the critical edition of Near Eastern music manuscripts. The project focusing on manuscripts of Ottoman music written in Hampartsum and staff notations during the nineteenth century, is funded by the German Research Foundation (DFG).
+This platform provides access to the online versions of both music and text editions, as well as the source catalogue, which is a comprehensive database of printed, manuscript and online sources.</ns0:description>
+                    <ns0:repositoryContact>cmo@uni-muenster.de</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>deu</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>tur</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">103 Fine Arts, Music, Theatre and Media Studies</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">10302 Musicology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11 Humanities</ns0:subject>
+                <ns0:missionStatementURL>https://www.uni-muenster.de/CMO-Edition/en/index.html</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Archived data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Audiovisual data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>FAIR</ns0:keyword>
+                    <ns0:keyword>music manuscript sources</ns0:keyword>
+                    <ns0:keyword>transcription</ns0:keyword>
+                    <ns0:keyword>vocal music</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Max Weber Stiftung, Deutsche  Geisteswissenschaftliche Institute im Ausland</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">MWS</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">Max Weber Foundation, German Humanities Institutes Abroad</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.maxweberstiftung.de/startseite.html</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ISNI: 0000 0000 8651 2795</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.maxweberstiftung.de/en/ueber-uns/organisation/geschaeftsstelle/kontakt-anfahrt.html</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Orient-Institut Istanbul</ns0:institutionName>
+                                <ns0:institutionCountry>TUR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.oiist.org/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ISNI: 0000 0000 8190 0334</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.oiist.org/impressum-2/</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Westf&#228;lische Wilhelms-Universit&#228;t M&#252;nster, Institut f&#252;r Arabistik und Islamwissenschaft</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">University of M&#252;nster, Institute for Arabic and Islamic Studies</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="deu">WWU M&#252;nster, Institut f&#252;r Arabistik und Islamwissenschaft</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.uni-muenster.de/ArabistikIslam/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ISNI: 0000 0004 0454 9471</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>arabist@uni-muenster.de</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Westf&#228;lische Wilhelms-Universit&#228;t M&#252;nster, Institut f&#252;r Musikwissenschaft</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="deu">DFG</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="deu">Deutsche Forschungsgemeinschaft</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.dfg.de/en/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ISNI: 0000 0001 2096 9829</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:SCR_012420</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_144062</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate>2015</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate>2021-09-30</ns0:responsibilityEndDate>
+                                    <ns0:institutionContact>https://www.dfg.de/en/service/contact/index.html</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="deu">Westf&#228;lische Wilhelms-Universit&#228;t M&#252;nster, Institut f&#252;r Musikwissenschaft</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">University of M&#252;nster, Institute for Musicology</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="deu">WWU M&#252;nster, Institut f&#252;r Musikwissenschaft</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.uni-muenster.de/Musikwissenschaft/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>musik@uni-muenster.de</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Legal notice, License</ns0:policyName>
+                <ns0:policyURL>https://corpus-musicae-ottomanicae.de/content/below/imprint.xml</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                    <ns0:databaseLicense>
+                <ns0:databaseLicenseName>Public Domain</ns0:databaseLicenseName>
+                <ns0:databaseLicenseURL>https://www.opendatacommons.org/licenses/pddl/1-0/index.html</ns0:databaseLicenseURL>
+            </ns0:databaseLicense>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/licenses/by-nc-sa/4.0/deed.de</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>institutional membership</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>other</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                            <ns0:pidSystem>other</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                <ns0:remarks>Project and Cooperation partners: https://corpus-musicae-ottomanicae.de/content/below/contributors.xml?lang=en</ns0:remarks>
+        <ns0:entryDate>2019-04-10</ns0:entryDate>
+        <ns0:lastUpdate>2020-07-09</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

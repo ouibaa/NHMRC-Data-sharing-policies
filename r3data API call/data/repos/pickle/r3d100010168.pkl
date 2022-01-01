@@ -1,0 +1,102 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010168</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Space Physics Data Facility</ns0:repositoryName>
+                    <ns0:additionalName language="eng">NASA's Space Physics Data Facility</ns0:additionalName>
+                    <ns0:additionalName language="eng">SPDF</ns0:additionalName>
+                <ns0:repositoryURL>https://spdf.gsfc.nasa.gov/</ns0:repositoryURL>
+                <ns0:description language="eng">The Space Physics Data Facility (SPDF) leads in the design and implementation of unique multi-mission and multi-disciplinary data services and software to strategically advance NASA's solar-terrestrial program, to extend our science understanding of the structure, physics and dynamics of the Heliosphere of our Sun and to support the science missions of NASA's Heliophysics Great Observatory.
+Major SPDF efforts include multi-mission data services such as Heliophysics Data Portal (formerly VSPO), CDAWeb and CDAWeb Inside IDL,and OMNIWeb Plus (including COHOWeb, ATMOWeb, HelioWeb and CGM) , science planning and orbit services such as SSCWeb, data tools such as the CDF software and tools, and a range of other science and technology research efforts. The staff supporting SPDF includes scientists and information technology experts.</ns0:description>
+                    <ns0:repositoryContact>gsfc-spdf-support@lists.nasa.gov</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>1992</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">311 Astrophysics and Astronomy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">32 Physics</ns0:subject>
+                <ns0:missionStatementURL>https://spdf.gsfc.nasa.gov/about_spdf.html</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Databases</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>aurora</ns0:keyword>
+                    <ns0:keyword>cosmic ray acceleration</ns0:keyword>
+                    <ns0:keyword>electromagnetic field</ns0:keyword>
+                    <ns0:keyword>geomagnetic storm</ns0:keyword>
+                    <ns0:keyword>heliosphere</ns0:keyword>
+                    <ns0:keyword>magnetosphere</ns0:keyword>
+                    <ns0:keyword>planetary space</ns0:keyword>
+                    <ns0:keyword>solar space</ns0:keyword>
+                    <ns0:keyword>space plasma</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">NASA's Goddard Space Flight Center,Sciences and Exploration Directorate,  Heliospheric Physics Laboratory</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">HSD</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://science.gsfc.nasa.gov/sed/index.cfm?fuseAction=home.main&amp;&amp;navOrgCode=672</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>1992</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>feedback@spdf.gsfc.nasa.gov</ns0:institutionContact>
+                                    <ns0:institutionContact>tamara.j.kovalick@nasa.gov</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Aeronautics and Space Administration</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NASA</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.nasa.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>1992</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>DATA &amp; ORBIT SERVICES - INFORMATION FOR NEW USERS</ns0:policyName>
+                <ns0:policyURL>https://spdf.gsfc.nasa.gov/new_users.html</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>NASA Web Privacy Policy and Important Notices</ns0:policyName>
+                <ns0:policyURL>https://www.nasa.gov/about/highlights/HP_Privacy.html</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.nasa.gov/about/highlights/HP_Privacy.html</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.nasa.gov/centers/goddard/business/foia/index.html</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>other</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                    <ns0:api apiType="FTP">https://omniweb.gsfc.nasa.gov/ftpbrowser/</ns0:api>
+                    <ns0:api apiType="REST">https://cdaweb.sci.gsfc.nasa.gov/WebServices/REST/</ns0:api>
+                    <ns0:api apiType="other">https://cdaweb.sci.gsfc.nasa.gov/WebServices/REST/</ns0:api>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://omniweb.gsfc.nasa.gov/html/ow_data.html#10</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks>NASA&#8217;s Heliophysics Science Division at NASA HQs issued a revised Heliophysics Science Data Management Policy in 2009 (see http://hpde.gsfc.nasa.gov/Heliophysics_Data_Policy_2009Apr12.html). This revised policy redefined the Heliophysics role of the National Space Science Data Center (NSSDC) at Goddard to be solely that of a &#8220;deep archive&#8221; and defined a new role for the Space Physics Data Facility (SPDF) to be one of two &#8220;active Final Archives&#8221; charged to work with NASA HQs to ensure the long-term accessibility and availability of all important NASA heliophysics data. The SPDF service gateway allows users to access data through a number of different data services while also providing information on which spacecraft are accessible through which service(s) and to which space physics discipline(s) data services and spacecraft belong.</ns0:remarks>
+        <ns0:entryDate>2012-12-14</ns0:entryDate>
+        <ns0:lastUpdate>2017-03-29</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

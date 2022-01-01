@@ -1,0 +1,106 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100013387</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Argovis</ns0:repositoryName>
+                    <ns0:additionalName language="eng">A Web Application for Fast Delivery, Visualization, and Analysis of Argo Data</ns0:additionalName>
+                <ns0:repositoryURL>https://argovis.colorado.edu</ns0:repositoryURL>
+                <ns0:description language="eng">Earth science data visualization and data delivery application.</ns0:description>
+                    <ns0:repositoryContact>tyler.tucker@colorado.edu</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31302 Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL>https://argovis.colorado.edu/docs/Argovis_About.html</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Databases</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Software applications</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>Argo</ns0:keyword>
+                    <ns0:keyword>Earth Science</ns0:keyword>
+                    <ns0:keyword>bisulfide</ns0:keyword>
+                    <ns0:keyword>chlorophill-a</ns0:keyword>
+                    <ns0:keyword>concentration of coloured dissolved organic matter in sea water</ns0:keyword>
+                    <ns0:keyword>conductivity</ns0:keyword>
+                    <ns0:keyword>dissolved oxygen</ns0:keyword>
+                    <ns0:keyword>downwelling irradiance</ns0:keyword>
+                    <ns0:keyword>downwelling photosynthetic</ns0:keyword>
+                    <ns0:keyword>nitrate</ns0:keyword>
+                    <ns0:keyword>particle beam attenuation</ns0:keyword>
+                    <ns0:keyword>salinity</ns0:keyword>
+                    <ns0:keyword>sea water ph reported on total scale</ns0:keyword>
+                    <ns0:keyword>sea water pressure</ns0:keyword>
+                    <ns0:keyword>sea water temperature</ns0:keyword>
+                    <ns0:keyword>sea water turbidity</ns0:keyword>
+                    <ns0:keyword>upwelling irradiance</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">EarthCube</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.earthcube.org/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.earthcube.org/contact/General-Inquiries</ns0:institutionContact>
+                                    <ns0:institutionContact>https://www.nsf.gov/awardsearch/showAward?AWD_ID=1928305</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Science Foundation</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.nsf.gov/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:021nxhr62</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.nsf.gov/help/contact.jsp</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">The University of Colorado, Boulder</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.colorado.edu/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:02ttsq026</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Argovis quick start guide</ns0:policyName>
+                <ns0:policyURL>https://argovis.colorado.edu/docs/Argovis_Guide.html</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                    <ns0:databaseLicense>
+                <ns0:databaseLicenseName>other</ns0:databaseLicenseName>
+                <ns0:databaseLicenseURL>https://www.gnu.org/licenses/#GPL</ns0:databaseLicenseURL>
+            </ns0:databaseLicense>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://opensource.org/licenses/MIT</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                <ns0:versioning />
+                    <ns0:api apiType="REST">https://argovis.colorado.edu/docs/Argovis_Tutorials.html</ns0:api>
+                        <ns0:citationGuidelineURL>https://argovis.colorado.edu/docs/Argovis_FAQ.html#ref</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                <ns0:remarks>Additional scripts: https://github.com/donatagiglio/Argovis</ns0:remarks>
+        <ns0:entryDate>2020-08-11</ns0:entryDate>
+        <ns0:lastUpdate>2020-08-20</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

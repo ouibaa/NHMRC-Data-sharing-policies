@@ -1,0 +1,80 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012724</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">BacMap</ns0:repositoryName>
+                    <ns0:additionalName language="eng">BacMap Genome Atlas</ns0:additionalName>
+                <ns0:repositoryURL>http://bacmap.wishartlab.com/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.z6rbe3</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>MIR:00100539</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>OMICS_20942</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:SCR_006988</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:nif-0000-02591</ns0:repositoryIdentifier>
+                <ns0:description language="eng">BacMap is a picture atlas of annotated bacterial genomes. It is an interactive visual database containing hundreds of fully labeled, zoomable, and searchable maps of bacterial genomes.</ns0:description>
+                    <ns0:repositoryContact>http://bacmap.wishartlab.com/contact_us</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2019-02-13">maps  for 2.989 bacterial chromosomes across 1.790 bacterial organisms</ns0:size>
+        <ns0:startDate>2005</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">201 Basic Biological and Medical Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20103 Cell Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20105 General Genetics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                <ns0:missionStatementURL>http://bacmap.wishartlab.com/about</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>bacteria</ns0:keyword>
+                    <ns0:keyword>chromosome</ns0:keyword>
+                    <ns0:keyword>gene annotation</ns0:keyword>
+                    <ns0:keyword>gene sequence</ns0:keyword>
+                    <ns0:keyword>genomes</ns0:keyword>
+                    <ns0:keyword>prokaryotic  species</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">University of Alberta</ns0:institutionName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.ualberta.ca/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>RRID:SCR_001853</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_10148</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of Alberta, Wishart Research Group</ns0:institutionName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.wishartlab.com/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                        <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/licenses/by-nc-sa/3.0/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                <ns0:versioning />
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>http://bacmap.wishartlab.com/</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                <ns0:remarks />
+        <ns0:entryDate>2018-07-04</ns0:entryDate>
+        <ns0:lastUpdate>2019-02-13</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

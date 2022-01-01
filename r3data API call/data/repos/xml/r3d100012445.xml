@@ -1,0 +1,82 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012445</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Rotterdam Ophthalmic Data Repository</ns0:repositoryName>
+                    <ns0:additionalName language="eng">ROD-REP</ns0:additionalName>
+                <ns0:repositoryURL>http://www.rodrep.com/</ns0:repositoryURL>
+                <ns0:description language="eng">The Rotterdam Ophthalmic Data Repository (ROD-Rep) contains data sets related to ophthalmology that the Rotterdam Ophthalmic Institute has made freely available for researchers worldwide. This portal is an initiative of the Rotterdam Ophthalmic Institute, which is the research institute of the Rotterdam Eye Hospital. It provides the datasets from ophthalmic research (includes measurements such as visual fields and various imaging modalities, grades, etc.) for sharing and re-use to accelerate multi-disciplinary research, resulting in better ophthalmic care. The portal is the successor of the ORGIDS (or Open Rotterdam Glaucoma Imaging Data Sets site); which was an initiative of Koen Vermeer, Hans Lemij and Netty Dorrestijn and initial financial support was provided by Stichting Glaucoomfonds (The Netherlands).</ns0:description>
+                    <ns0:repositoryContact>http://www.rodrep.com/contact-us.html</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2015</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">205 Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                <ns0:missionStatementURL>http://www.rodrep.com/rationale.html</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Audiovisual data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>Corneal microscopy</ns0:keyword>
+                    <ns0:keyword>Diabetic retinopathy</ns0:keyword>
+                    <ns0:keyword>Eye</ns0:keyword>
+                    <ns0:keyword>Glaucomatous</ns0:keyword>
+                    <ns0:keyword>Ophthalmology</ns0:keyword>
+                    <ns0:keyword>Retinopathy</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Rotterdam Ophthalmic Institute</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">ROI</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="nld">Rotterdams Oogheelkundig Instituut</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>NLD</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://roi.eyehospital.nl/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>RRID:SCR_009776</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_157653</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate>2009</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>A.Kleijn@eyehospital.nl (Secretary, Aletta Kleijn)</ns0:institutionContact>
+                                    <ns0:institutionContact>K.Vermeer@eyehospital.nl (Director, Dr. ir. Koen Vermeer)</ns0:institutionContact>
+                                    <ns0:institutionContact>https://roi.eyehospital.nl/en/node/2</ns0:institutionContact>
+                            </ns0:institution>
+                        <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                    <ns0:databaseLicense>
+                <ns0:databaseLicenseName>other</ns0:databaseLicenseName>
+                <ns0:databaseLicenseURL>http://www.rodrep.com/longitudinal-diabetic-retinopathy-screening---description.html</ns0:databaseLicenseURL>
+            </ns0:databaseLicense>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://data.rodrep.com/license.html</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>institutional membership</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>no</ns0:versioning>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>http://www.rodrep.com/longitudinal-glaucomatous-vf-data---description.html</ns0:citationGuidelineURL>
+                    <ns0:aidSystem>none</ns0:aidSystem>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">PROV</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/prov</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks />
+        <ns0:entryDate>2017-08-28</ns0:entryDate>
+        <ns0:lastUpdate>2021-03-05</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

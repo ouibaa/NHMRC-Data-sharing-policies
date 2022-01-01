@@ -1,0 +1,150 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012823</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Vivli</ns0:repositoryName>
+                    <ns0:additionalName language="eng">A global clinical research data sharing platform</ns0:additionalName>
+                <ns0:repositoryURL>https://vivli.org/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.uovQrT</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>OMICS_18399</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:SCR_018080</ns0:repositoryIdentifier>
+                <ns0:description language="eng">Vivli is a non-profit organization working to advance human health through the insights and discoveries gained by sharing and analyzing data. It is home to an independent global data-sharing and analytics platform which serves all elements of the international research community. The platform includes a data repository, in-depth search engine and cloud-based analytics, and harmonizes governance, policy and processes to make sharing data easier. Vivli acts as a neutral broker between data contributor and data user and the wider data sharing community.</ns0:description>
+                    <ns0:repositoryContact>contact@vivli.org</ns0:repositoryContact>
+                    <ns0:repositoryContact>https://vivli.org/contact/</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2021-10-11">6.200 clinical trials</ns0:size>
+        <ns0:startDate>2018-07-19</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">205 Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20502 Public Health, Health Services Research, Social Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                <ns0:missionStatementURL>https://vivli.org/about/overview/</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Software applications</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>clinical trial</ns0:keyword>
+                    <ns0:keyword>clinical trials</ns0:keyword>
+                    <ns0:keyword>data discovery methods</ns0:keyword>
+                    <ns0:keyword>health care</ns0:keyword>
+                    <ns0:keyword>individual participant-level data (IPD)</ns0:keyword>
+                    <ns0:keyword>medical treatments</ns0:keyword>
+                    <ns0:keyword>patients</ns0:keyword>
+                    <ns0:keyword>studies</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Arnold Ventures</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">formerly: Laura and John Arnold Foundation</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.arnoldventures.org/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:04hqxh742</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.arnoldventures.org/contact</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Doris Duke Charitable Foundation</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">DDCF</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.ddcf.org/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:04n65rp89</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Helmsley Charitable Trust</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://helmsleytrust.org/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:011x6n313</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>grants@helmsleytrust.org</ns0:institutionContact>
+                                    <ns0:institutionContact>https://helmsleytrust.org/contact/</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Lyda Hill Foundation</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">LHF</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://lydahillfoundation.org/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:032sf2845</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Multi-Regional Clinical Trials</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">MRCT Center</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://mrctcenter.org/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://mrctcenter.org/contact-mrct/</ns0:institutionContact>
+                                    <ns0:institutionContact>mrct@bwh.harvard.edu</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">PhRMA</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Pharmaceutical Research and Manufacturers of America</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.phrma.org/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:01z88k350</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.phrma.org/contact-us</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Additional policies</ns0:policyName>
+                <ns0:policyURL>https://vivli.org/vivli-eea-disclosure/#personaldata</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Data use agreement</ns0:policyName>
+                <ns0:policyURL>https://vivli.org/vivliwp/wp-content/uploads/2018/07/Vivli-Data-Use-Agreement-v1.1.pdf</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>other</ns0:dataAccessRestriction>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://vivli.org/vivliwp/wp-content/uploads/2018/07/Vivli-Data-Use-Agreement-v1.1.pdf</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>open</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                    <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>feeRequired</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>How to share data</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>https://vivli.org/about/share-data/</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                            <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://vivli.org/vivliwp/wp-content/uploads/2018/07/Vivli-Data-Use-Agreement-v1.1.pdf</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                <ns0:remarks>Vivli is covered by Clarivate Data Citation Index. Vivli members: https://vivli.org/members/ourmembers/ .   ---  Vivli &#8212; adapted from the Greek &#8220;vivliothiki,&#8221; (library) and the Latin root &#8220;viv,&#8221; (life).</ns0:remarks>
+        <ns0:entryDate>2018-08-22</ns0:entryDate>
+        <ns0:lastUpdate>2021-10-11</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

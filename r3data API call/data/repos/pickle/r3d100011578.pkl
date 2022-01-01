@@ -1,0 +1,180 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011578</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Europeana collections</ns0:repositoryName>
+                <ns0:repositoryURL>https://www.europeana.eu/portal/de</ns0:repositoryURL>
+                <ns0:description language="eng">Europeana is the trusted source of cultural heritage brought to you by the Europeana Foundation and a large number of European cultural institutions, projects and partners. It&#8217;s a real piece of team work.
+Ideas and inspiration can be found within the millions of items on Europeana. These objects include:
+    Images - paintings, drawings, maps, photos and pictures of museum objects
+    Texts - books, newspapers, letters, diaries and archival papers
+    Sounds - music and spoken word from cylinders, tapes, discs and radio broadcasts
+    Videos - films, newsreels and TV broadcasts
+All texts are CC BY-SA, images and media licensed individually.</ns0:description>
+                    <ns0:repositoryContact>http://www.europeana.eu/portal/contact.html</ns0:repositoryContact>
+                    <ns0:repositoryContact>info@europeana.eu</ns0:repositoryContact>
+                            <ns0:type>other</ns0:type>
+                <ns0:size updated="2018-08-15">58.245.986 artworks, artefacts, books, films and music from European museums, galleries, libraries and archives</ns0:size>
+        <ns0:startDate>2009</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>dan</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>deu</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>ell</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>fra</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>ita</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>nld</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>rus</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>spa</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">4 Engineering Sciences</ns0:subject>
+                <ns0:missionStatementURL>https://pro.europeana.eu/our-mission</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Archived data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Audiovisual data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Databases</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Networkbased data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Software applications</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>Europe</ns0:keyword>
+                    <ns0:keyword>agriculture</ns0:keyword>
+                    <ns0:keyword>architecture</ns0:keyword>
+                    <ns0:keyword>biology</ns0:keyword>
+                    <ns0:keyword>chemistry</ns0:keyword>
+                    <ns0:keyword>constructional engineering</ns0:keyword>
+                    <ns0:keyword>cultural artifact</ns0:keyword>
+                    <ns0:keyword>cultural hertiage</ns0:keyword>
+                    <ns0:keyword>cultural policy</ns0:keyword>
+                    <ns0:keyword>digital library</ns0:keyword>
+                    <ns0:keyword>earth siences</ns0:keyword>
+                    <ns0:keyword>economics</ns0:keyword>
+                    <ns0:keyword>educational policy</ns0:keyword>
+                    <ns0:keyword>energy</ns0:keyword>
+                    <ns0:keyword>engineering technology</ns0:keyword>
+                    <ns0:keyword>human health</ns0:keyword>
+                    <ns0:keyword>humanities</ns0:keyword>
+                    <ns0:keyword>materials</ns0:keyword>
+                    <ns0:keyword>network</ns0:keyword>
+                    <ns0:keyword>physics</ns0:keyword>
+                    <ns0:keyword>pollution</ns0:keyword>
+                    <ns0:keyword>social sciences</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">European Union</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">EU</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>EEC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://europa.eu/european-union/index_en</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://europa.eu/european-union/contact_en</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Europeana Foundation</ns0:institutionName>
+                                <ns0:institutionCountry>EEC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://pro.europeana.eu/organisation/europeana-foundation</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://pro.europeana.eu/contact-us</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Data Exchange Agreement</ns0:policyName>
+                <ns0:policyURL>https://pro.europeana.eu/page/the-data-exchange-agreement</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Europeana Terms and Policies</ns0:policyName>
+                <ns0:policyURL>https://www.europeana.eu/portal/en/rights.html</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Europeana Usage Guidelines for public domain works</ns0:policyName>
+                <ns0:policyURL>https://www.europeana.eu/portal/en/rights/public-domain.html</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                    <ns0:databaseLicense>
+                <ns0:databaseLicenseName>CC0</ns0:databaseLicenseName>
+                <ns0:databaseLicenseURL>https://creativecommons.org/publicdomain/zero/1.0/</ns0:databaseLicenseURL>
+            </ns0:databaseLicense>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>feeRequired</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/licenses/by-sa/4.0/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://rightsstatements.org/page/InC/1.0/?language=de</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>Public Domain</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.europeana.eu/portal/en/rights/public-domain-charter.html</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://pro.europeana.eu/page/available-rights-statements</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.europeana.eu/portal/en/rights.html</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>institutional membership</ns0:dataUploadRestriction>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>Europeana Publishing Guide</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>https://pro.europeana.eu/post/publication-policy</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                    <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>Publish your collection with Europeana</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>https://pro.europeana.eu/services/data-publication-services</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                    <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>Terms for User Contributions</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>https://www.europeana.eu/portal/en/rights/contributions.html</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                            <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                    <ns0:api apiType="OAI-PMH">http://oai.europeana.eu/</ns0:api>
+                    <ns0:api apiType="REST">https://pro.europeana.eu/resources/apis/intro</ns0:api>
+                    <ns0:api apiType="SPARQL">https://pro.europeana.eu/resources/apis/sparql</ns0:api>
+                    <ns0:api apiType="other">https://pro.europeana.eu/resources/apis</ns0:api>
+                            <ns0:pidSystem>hdl</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://www.europeana.eu/portal/en/rights/metadata.html</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">Dublin Core</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                    <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">Repository-Developed Metadata Schemas</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/repository-developed-metadata-schemas</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                            <ns0:syndication syndicationType="RSS">http://blog.europeana.eu/feed/</ns0:syndication>
+                <ns0:remarks>You can choose from 30 languages.</ns0:remarks>
+        <ns0:entryDate>2015-04-07</ns0:entryDate>
+        <ns0:lastUpdate>2019-01-22</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

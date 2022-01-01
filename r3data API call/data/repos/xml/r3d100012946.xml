@@ -1,0 +1,68 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012946</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">BAliBASE</ns0:repositoryName>
+                    <ns0:additionalName language="eng">Benchmark Alignment dataBASE</ns0:additionalName>
+                <ns0:repositoryURL>http://lbgi.fr/balibase/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.sed5tq</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>OMICS_00971</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:SCR_001940</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:nif-0000-02594</ns0:repositoryIdentifier>
+                <ns0:description language="eng">A collection of high quality multiple sequence alignments for objective, comparative studies of alignment algorithms. The alignments are constructed based on 3D structure superposition and manually refined to ensure alignment of important functional residues. A number of subsets are defined covering many of the most important problems encountered when aligning real sets of proteins. It is specifically designed to serve as an evaluation resource to address all the problems encountered when aligning complete sequences. The first release provided sets of reference alignments dealing with the problems of high variability, unequal repartition and large N/C-terminal extensions and internal insertions. Version 2.0 of the database incorporates three new reference sets of alignments containing structural repeats, trans-membrane sequences and circular permutations to evaluate the accuracy of detection/prediction and alignment of these complex sequences.
+Within the resource, users can look at a list of all the alignments, download the whole database by ftp, get the "c" program to compare a test alignment with the BAliBASE reference (The source code for the program is freely available), or look at the results of a comparison study of several multiple alignment programs, using BAliBASE reference sets.</ns0:description>
+                    <ns0:repositoryContact>thompson@unistra.fr</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">201 Basic Biological and Medical Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20105 General Genetics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20107 Bioinformatics and Theoretical Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                <ns0:missionStatementURL />
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Source code</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>multiple alignments</ns0:keyword>
+                    <ns0:keyword>structural genomics</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">University of Strasbourg</ns0:institutionName>
+                                <ns0:institutionCountry>FRA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.unistra.fr/index.php?id=accueil</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:00pg6eq24</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:SCR_011704</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                        <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.ncbi.nlm.nih.gov/pubmed/16044462</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>institutional membership</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>other</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                        <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                <ns0:remarks />
+        <ns0:entryDate>2019-02-11</ns0:entryDate>
+        <ns0:lastUpdate>2021-10-25</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

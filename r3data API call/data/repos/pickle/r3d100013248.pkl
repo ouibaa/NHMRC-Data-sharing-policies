@@ -1,0 +1,135 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100013248</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Migrant Integration Policy Index</ns0:repositoryName>
+                    <ns0:additionalName language="eng">MIPEX 2015</ns0:additionalName>
+                <ns0:repositoryURL>http://www.mipex.eu/</ns0:repositoryURL>
+                <ns0:description language="eng">The Migrant Integration Policy Index (MIPEX) is a unique tool that measures policies to integrate migrants in all EU Member States, Australia, Canada, Iceland, Japan, South Korea, New Zealand, Norway, Switzerland, Turkey and the USA. 167 policy indicators have been developed to create a rich, multi-dimensional picture of migrants&#8217; opportunities to participate in society. The index is a useful tool to evaluate and compare what governments are doing to promote the integration of migrants in all the countries analysed.</ns0:description>
+                    <ns0:repositoryContact>http://www.mipex.eu/contact</ns0:repositoryContact>
+                    <ns0:repositoryContact>mipex2015@cidob.org</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2020-03-03">38 countries; 167 indications; 8 policy areas</ns0:size>
+        <ns0:startDate>2015</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">109 Education Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">10903 Research on Socialization and Educational Institutions and Professions</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">110 Psychology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11003 Social Psychology, Industrial and Organisational Psychology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">111 Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11104 Political Science</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">112 Economics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11202 Economic and Social Policy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">113 Jurisprudence</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11303 Public Law</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">12 Social and Behavioural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">205 Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20502 Public Health, Health Services Research, Social Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                <ns0:missionStatementURL>http://www.mipex.eu/what-is-mipex</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>access to nationality</ns0:keyword>
+                    <ns0:keyword>anti-discrimination</ns0:keyword>
+                    <ns0:keyword>demography</ns0:keyword>
+                    <ns0:keyword>family reunion</ns0:keyword>
+                    <ns0:keyword>labour market mobility</ns0:keyword>
+                    <ns0:keyword>migration</ns0:keyword>
+                    <ns0:keyword>permanent residence</ns0:keyword>
+                    <ns0:keyword>political participation</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">CIDOB</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Barcelona Centre for International Affairs</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="cat">Centre d'Estudis i Documentaci&#243; Internacionals a Barcelona</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>ESP</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.cidob.org/en</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:05w7a1h78</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Consumers, Health, Agriculture and Food Executive Agency</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">CHAFEA</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>EEC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://ec.europa.eu/chafea</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:02578qw11</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Directorate-General for Health and Food Safety</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">DG SANTE</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>EEC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://ec.europa.eu/dgs/health_food-safety/index_en.htm</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:0399w1j22</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">European Commission</ns0:institutionName>
+                                <ns0:institutionCountry>EEC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://ec.europa.eu/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:00k4n6c32</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">International Organization for Migration</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">IOM</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>AAA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.iom.int/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:010qg4v35</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>ROR:01j7ed328</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Migration Policy Group</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">MPG</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>BEL</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.migpolgroup.com/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>VIAF:147527023</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                        <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www.mipex.eu/frequently-asked-questions</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                <ns0:versioning>no</ns0:versioning>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>http://www.mipex.eu/what-is-mipex</ns0:citationGuidelineURL>
+                    <ns0:aidSystem>none</ns0:aidSystem>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                    <ns0:syndication syndicationType="RSS">http://www.mipex.eu/methodology#/rss</ns0:syndication>
+                <ns0:remarks>MIPEX Partners: http://www.mipex.eu/who-produces-mipex#/mipex-partners</ns0:remarks>
+        <ns0:entryDate>2020-03-01</ns0:entryDate>
+        <ns0:lastUpdate>2020-05-20</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

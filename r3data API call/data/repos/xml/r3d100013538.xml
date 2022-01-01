@@ -1,0 +1,84 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100013538</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="kor">Jurisdictional Ocean Information Sharing System</ns0:repositoryName>
+                    <ns0:additionalName language="eng">JOISS</ns0:additionalName>
+                    <ns0:additionalName language="kor">&#44288;&#54624;&#54644;&#50669;&#54644;&#50577;&#51221;&#48372; &#44277;&#46041;&#54876;&#50857;&#49884;&#49828;&#53596;</ns0:additionalName>
+                <ns0:repositoryURL>https://joiss.kr/joiss/</ns0:repositoryURL>
+                <ns0:description language="eng">The Jurisdictional Ocean Information Sharing System (JOISS) is a research activity to promote joint utilization of marine R&amp;D projects and marine scientific materials at home and abroad.
+As a representative research activity, data curation activities are continuously carried out in accordance with the data life cycle to expand the utilization of the JOISS portal system.
+In order to provide integrated and standardized marine information, we are conducting standardization research for the distribution of marine geographic information metadata by referring to international standards and domestic and international marine data centers.
+In addition, we provide information and guidance for marine education and research, and strive to strengthen the exchange of data between marine research data repositories.</ns0:description>
+                    <ns0:repositoryContact>https://joiss.kr/joiss/comu.bbs.selectBbsList.do?cmType=BBS&amp;pageIndex=1</ns0:repositoryContact>
+                    <ns0:repositoryContact>kwr@kesti.co.kr</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2021-12-15">443 datasets</ns0:size>
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>kor</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31302 Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL>https://joiss.kr/joiss/stnd.JoissDataPolicyPage.do</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Databases</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>oceanography</ns0:keyword>
+                    <ns0:keyword>research data</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Korea Institute of Marine Science &amp; Technology promotion</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">KIMST</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>KOR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.kimst.re.kr/e/main.do</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>2017-03-01</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Data policy of JOISS</ns0:policyName>
+                <ns0:policyURL>https://joiss.kr/joiss/stnd.JoissDataPolicyPage.do</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/licenses/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://joiss.kr/joiss/stnd.JoissDataPolicyPage.do</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>institutional membership</ns0:dataUploadRestriction>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                <ns0:versioning />
+                    <ns0:api apiType="REST">https://joiss.kr/geonetwork/doc/api/</ns0:api>
+                        <ns0:citationGuidelineURL>https://joiss.kr/joiss/stnd.JoissDataPolicyPage.do</ns0:citationGuidelineURL>
+                    <ns0:aidSystem>ORCID</ns0:aidSystem>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">ISO 19115</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/iso-19115</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks />
+        <ns0:entryDate>2021-03-22</ns0:entryDate>
+        <ns0:lastUpdate>2021-12-15</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

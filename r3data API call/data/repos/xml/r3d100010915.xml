@@ -1,0 +1,133 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010915</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">History Data Service</ns0:repositoryName>
+                    <ns0:additionalName language="eng">HDS</ns0:additionalName>
+                <ns0:repositoryURL>http://hds.essex.ac.uk/</ns0:repositoryURL>
+                <ns0:description language="eng">The History Data Service data collection brings together over 650 separate studies transcribed, scanned or compiled from historical sources. The studies cover a wide range of historical topics, from the seventh century to the twentieth century. Although the primary focus of the collection is on the United Kingdom, it also includes a significant body of cross-national and international data collections. Examples of topics covered include: nineteenth and twentieth century statistics, manuscript census records, state finance data, demographic data, mortality data, community histories, electoral history and economic indicators.</ns0:description>
+                    <ns0:repositoryContact>help@ukdataservice.ac.uk</ns0:repositoryContact>
+                    <ns0:repositoryContact>http://hds.essex.ac.uk/history/about/contact.asp</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2017-09-04">over 650 separate studies</ns0:size>
+        <ns0:startDate>2008-04-01</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">102 History</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11 Humanities</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">12 Social and Behavioural Sciences</ns0:subject>
+                <ns0:missionStatementURL>http://hds.essex.ac.uk/history/about/more.asp</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>census</ns0:keyword>
+                    <ns0:keyword>demography</ns0:keyword>
+                    <ns0:keyword>economics</ns0:keyword>
+                    <ns0:keyword>elections</ns0:keyword>
+                    <ns0:keyword>geographic information systems</ns0:keyword>
+                    <ns0:keyword>local history</ns0:keyword>
+                    <ns0:keyword>maps</ns0:keyword>
+                    <ns0:keyword>mortality</ns0:keyword>
+                    <ns0:keyword>nineteenth century</ns0:keyword>
+                    <ns0:keyword>ordinances, municipal</ns0:keyword>
+                    <ns0:keyword>statistics</ns0:keyword>
+                    <ns0:keyword>twentieth century</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Economic and Social Research Council</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">ESRC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>GBR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.esrc.ac.uk/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.esrc.ac.uk/contact-us.aspx</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Joint Information Systems Committee</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">JISC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>GBR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.jisc.ac.uk/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.jisc.ac.uk/contact</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of Essex, UK Data Archive, UK Data Service</ns0:institutionName>
+                                <ns0:institutionCountry>GBR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://https//www.data-archive.ac.uk/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.data-archive.ac.uk/contact</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Copyright, disclaimer and privacy policy</ns0:policyName>
+                <ns0:policyURL>http://hds.essex.ac.uk/history/about/copyrightanddisclaimer.asp</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Restriction on the use of data</ns0:policyName>
+                <ns0:policyURL>http://hds.essex.ac.uk/history/about/faq.asp#restrictions</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Terms and conditions of access</ns0:policyName>
+                <ns0:policyURL>https://ukdataservice.ac.uk/get-data/how-to-access/conditions.aspx</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>feeRequired</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/licenses/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>OGL</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www.nationalarchives.gov.uk/doc/open-government-licence/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://data-archive.ac.uk/media/381244/ukda137-enduserlicence.pdf</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>feeRequired</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                    <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>Collections Development Policy</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>https://www.ukdataservice.ac.uk/media/398725/cd227-collectionsdevelopmentpolicy.pdf</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                            <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://www.ukdataservice.ac.uk/citethedata</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks />
+        <ns0:entryDate>2014-08-18</ns0:entryDate>
+        <ns0:lastUpdate>2021-07-12</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

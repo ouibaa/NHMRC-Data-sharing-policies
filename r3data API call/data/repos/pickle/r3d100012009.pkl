@@ -1,0 +1,170 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012009</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="nld">Huygens ING</ns0:repositoryName>
+                    <ns0:additionalName language="eng">Huygens Institute for the History of the Netherlands</ns0:additionalName>
+                    <ns0:additionalName language="nld">Huygens Instituut voor Nederlandse Geschiedenis</ns0:additionalName>
+                <ns0:repositoryURL>https://www.huygens.knaw.nl/?lang=en</ns0:repositoryURL>
+                <ns0:description language="eng">By stimulating inspiring research and producing innovative tools, Huygens ING intends to open up old and inaccessible sources, and to understand them better. Huygens ING&#8217;s focus is on Digital Humanities, History, History of Science, and Textual Scholarship. Huygens ING pursues research in the fields of History, Literary Studies, the History of Science and Digital Humanities. Huygens ING aims to publish digital sources and data responsibly and with care. Innovative tools are made as widely available as possible. We strive to share the available knowledge at the institute with both academic peers and the wider public.</ns0:description>
+                    <ns0:repositoryContact>info@huygens.knaw.nl</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>nld</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">102 History</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">104 Linguistics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11 Humanities</ns0:subject>
+                <ns0:missionStatementURL>https://www.huygens.knaw.nl/?lang=en</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Audiovisual data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Databases</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>Dutch language</ns0:keyword>
+                    <ns0:keyword>Netherlands</ns0:keyword>
+                    <ns0:keyword>arts</ns0:keyword>
+                    <ns0:keyword>culture</ns0:keyword>
+                    <ns0:keyword>historiography</ns0:keyword>
+                    <ns0:keyword>literature</ns0:keyword>
+                    <ns0:keyword>politics</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">CLARIAH-NL</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Common Lab Research Infrastructure for the Arts and Humanities</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>NLD</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.clariah.nl/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.clariah.nl/contact</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">CLARIN-ERIC</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Common Language Resources and Technology Infrastructure - European Research Infrastructure Consortium</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>EEC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.clarin.eu/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.clarin.eu/contact</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">CLARIN-NL</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Common Language Resources and Technology Infrastructure Netherlands</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>NLD</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.clarin.nl/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.clarin.nl/contact</ns0:institutionContact>
+                                    <ns0:institutionContact>j.odijk@uu.nl</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="nld">DANS</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Data Archiving and Networked Services</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>NLD</ns0:institutionCountry>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://dans.knaw.nl/en/front-page?set_language=en</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:008pnp284</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.dans.knaw.nl/en/contact</ns0:institutionContact>
+                                    <ns0:institutionContact>info@dans.knaw.nl</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Huygens Institute for the History of the Netherlands of the Royal Netherlands Academy of Arts and Sciences</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="nld">Huygens ING - KNAW</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="nld">Huygens Instituut voor Nederlandse Geschiedenis - Koninklijke Nederlandse Akademie van Wetenschappen</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>NLD</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.huygens.knaw.nl/?lang=en</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:04x6kq749</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>info@huygens.knaw.nl</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Royal Netherlands Academy of Arts and Sciences</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="nld">KNAW</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="nld">Koninklijke Nederlandse Akademie van Wetenschappen</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">The Academy</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>NLD</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.knaw.nl/nl</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:043c0p156</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.knaw.nl/nl/topnavigatie/contact/overzicht</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Code of Conduct for the use of personal data in scientific research</ns0:policyName>
+                <ns0:policyURL>https://vsnu.nl/en_GB/code-personal-data</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Huygens ING - KNAW data policy</ns0:policyName>
+                <ns0:policyURL>https://en.huygens.knaw.nl/informatie/documenten/</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>KNAW policy on open access and digital preservation</ns0:policyName>
+                <ns0:policyURL>https://www.knaw.nl/en/topics/openscience/open-access-and-digital-preservation/open-access/policy</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>closed</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>other</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/licenses/by-nc-sa/4.0/nl/legalcode</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.huygens.knaw.nl/informatie/copyright-en-citeren/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>Information about depositing data</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>https://www.dans.knaw.nl/en/deposit/information-about-depositing-data</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                            <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>no</ns0:versioning>
+                    <ns0:api apiType="OAI-PMH">http://oaipmh.huygens.knaw.nl/oai</ns0:api>
+                            <ns0:pidSystem>hdl</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                    <ns0:aidSystem>none</ns0:aidSystem>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">Dublin Core</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks>Huygens ING has a DSA for eLaborate 4:  eLaborate is an online work environment in which scholars can upload scans, transcribe and annotate text, and publish the results as on online text edition</ns0:remarks>
+        <ns0:entryDate>2016-05-26</ns0:entryDate>
+        <ns0:lastUpdate>2021-05-25</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

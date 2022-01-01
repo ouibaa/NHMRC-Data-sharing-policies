@@ -1,0 +1,61 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100013648</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Radiocarbon Palaeolithic Europe Database</ns0:repositoryName>
+                <ns0:repositoryURL>https://ees.kuleuven.be/geography/projects/14c-palaeolithic/download/index.html</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>biodbcore-001836</ns0:repositoryIdentifier>
+                <ns0:description language="eng">The Radiocarbon Palaeolithic Europe Database stores available radiometric data taken from literature and from other more restricted databases. Data is collected by continuous checking of newly published articles in hundreds of international and regional scientific journals and in collections or books dealing with a particular period or a specific Paleolithic site. User submissions are also accepted. Please note that this database is only available for download and local use via Microsoft Access or, in a more limited way, via Excel. As such, its accessibility is limited.</ns0:description>
+                    <ns0:repositoryContact>https://ees.kuleuven.be/geography/contact/index.html</ns0:repositoryContact>
+                    <ns0:repositoryContact>pierre.vermeersch@kuleuven.be</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2021-09-23">13.419 site forms</ns0:size>
+        <ns0:startDate>2002</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>nld</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31301 Atmospheric Science</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">314 Geology and Palaeontology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">317 Geography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL>https://ees.kuleuven.be/</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>archeology</ns0:keyword>
+                    <ns0:keyword>carbon dating</ns0:keyword>
+                    <ns0:keyword>paleolithic</ns0:keyword>
+                    <ns0:keyword>radiometric dating</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">KU Leuven, Department of Earth and Environmental Sciences, Division of Geography &amp; Tourism</ns0:institutionName>
+                                <ns0:institutionCountry>NLD</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://ees.kuleuven.be/geography/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://ees.kuleuven.be/geography/contact/index.html</ns0:institutionContact>
+                            </ns0:institution>
+                        <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://ees.kuleuven.be/geography/projects/14c-palaeolithic/index.html</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                <ns0:versioning />
+                        <ns0:citationGuidelineURL>https://ees.kuleuven.be/geography/projects/14c-palaeolithic/index.html</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks>is covered by Elsevier.</ns0:remarks>
+        <ns0:entryDate>2021-09-03</ns0:entryDate>
+        <ns0:lastUpdate>2021-09-25</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

@@ -1,0 +1,173 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011840</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Mexican Health and Aging Study</ns0:repositoryName>
+                    <ns0:additionalName language="spa">ENASEM</ns0:additionalName>
+                    <ns0:additionalName language="spa">Estudio Nacional de Salud y Envejecimiento en M&#233;xico</ns0:additionalName>
+                    <ns0:additionalName language="eng">MHAS</ns0:additionalName>
+                <ns0:repositoryURL>http://www.mhasweb.org/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>FAIRsharing_DOI:10.25504/FAIRsharing.n8qft8</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:SCR_000818</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:nlx_151859</ns0:repositoryIdentifier>
+                <ns0:description language="eng">The Mexican Health and Aging Study (MHAS) started as a prospective panel study of health and aging in Mexico.  
+MHAS is nationally representative of the 13 million Mexicans born prior to 1951. The survey has national and urban/rural representation. The baseline survey, in 2001, included a nationally representative sample of Mexicans aged 50 and over and their spouse/partners regardless of their age. A direct interview was sought with each individual and proxy interviews were obtained when poor health or temporary absence precluded a direct interview. 
+The sample was distributed in all 32 states of the country in urban and rural areas. Households in the six states  which account for 40% of all migrants to the U.S. were over-sampled. A sub-sample was selected to obtain anthropometric measures.</ns0:description>
+                    <ns0:repositoryContact>http://www.mhasweb.org/ContactUs.aspx</ns0:repositoryContact>
+                    <ns0:repositoryContact>info@MHASWeb.org</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2001</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>spa</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">111 Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11102 Empirical Social Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">12 Social and Behavioural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">205 Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20502 Public Health, Health Services Research, Social Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                <ns0:missionStatementURL>http://www.mhasweb.org/StudyDescription.aspx</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>aging process</ns0:keyword>
+                    <ns0:keyword>cohort study</ns0:keyword>
+                    <ns0:keyword>disability burden</ns0:keyword>
+                    <ns0:keyword>disease</ns0:keyword>
+                    <ns0:keyword>economic history</ns0:keyword>
+                    <ns0:keyword>family transfer systems</ns0:keyword>
+                    <ns0:keyword>gereontology</ns0:keyword>
+                    <ns0:keyword>health</ns0:keyword>
+                    <ns0:keyword>life circumstances</ns0:keyword>
+                    <ns0:keyword>migration</ns0:keyword>
+                    <ns0:keyword>migration</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="spa">Instituto Nacional de Estad&#237;stica, Geograf&#237;a e Inform&#225;tica</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="spa">INEGI</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>MEX</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.inegi.org.mx/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:03647wj34</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.inegi.org.mx/inegi/contacto.html</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="spa">Instituto Nacional de Geriatr&#237;a</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="spa">INGER</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">National Institute of Geriatrics Mexico</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>MEX</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://inger.gob.mx/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>contacto.geriatria@salud.gob.mx</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="spa">Instituto Nacional de Salud P&#250;blica</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="spa">INSP</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>MEX</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.insp.mx/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:032y0n460</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.insp.mx/contacto.html</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Institutes of Health, National Institute on Aging</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NIH, NIA</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.nia.nih.gov/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:049v75w11</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.nia.nih.gov/contact</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Universitiy of Pennsylvania</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.upenn.edu/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>polsky@mail.med.upenn.edu</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of  Maryland</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.umd.edu/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:047s2c258</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.umd.edu/contact-us</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of  Wisconsin, Center for Demography of Health and Aging</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">CDHA</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://cdha.wisc.edu/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>cdhadata@ssc.wisc.edu</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of Texas Medical Branch</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">UTMB</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.utmb.edu/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:016tfm930</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.utmb.edu/scoa/wong.asp</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>User Agreement</ns0:policyName>
+                <ns0:policyURL>http://www.mhasweb.org/DocumentationQuestionnaire.aspx</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>other</ns0:dataAccessRestriction>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Public Domain</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www.mhasweb.org/Data.aspx</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>http://www.mhasweb.org/DocumentationQuestionnaire.aspx</ns0:citationGuidelineURL>
+                    <ns0:aidSystem>none</ns0:aidSystem>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks>The individual-Level files of the study are: 2001, 2003, 2012, 2015.  ---- Is covered by Thomson Reuters Master Data Repository list</ns0:remarks>
+        <ns0:entryDate>2016-04-28</ns0:entryDate>
+        <ns0:lastUpdate>2021-09-08</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

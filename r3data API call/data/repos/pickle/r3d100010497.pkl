@@ -1,0 +1,127 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010497</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Irish Social Science Data Archive</ns0:repositoryName>
+                    <ns0:additionalName language="eng">ISSDA</ns0:additionalName>
+                <ns0:repositoryURL>https://www.ucd.ie/issda/</ns0:repositoryURL>
+                <ns0:description language="eng">The Irish Social Science Data Archive (ISSDA) is Ireland&#8217;s leading centre for quantitative data acquisition, preservation, and dissemination. Its mission is to ensure wide access to quantitative datasets in the social sciences, and to advance the promotion of international comparative studies of the Irish economy and Irish society.</ns0:description>
+                    <ns0:repositoryContact>https://www.ucd.ie/issda/aboutus/contactus/</ns0:repositoryContact>
+                    <ns0:repositoryContact>issda@ucd.ie</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">111 Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">12 Social and Behavioural Sciences</ns0:subject>
+                <ns0:missionStatementURL>https://www.ucd.ie/issda/</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>Irish economy</ns0:keyword>
+                    <ns0:keyword>Irish society</ns0:keyword>
+                    <ns0:keyword>infants Ireland</ns0:keyword>
+                    <ns0:keyword>microdata</ns0:keyword>
+                    <ns0:keyword>survey data</ns0:keyword>
+                    <ns0:keyword>traveler health</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Department of Enterprise, Trade and Employment</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="gle">An Roinn Gn&#243;, Fiontar agus Nu&#225;la&#237;ochta</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>IRL</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://enterprise.gov.ie/en/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:04951hq16</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://enterprise.gov.ie/en/Contact-Us/</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Department of Public Expenditure and Reform</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="gle">An Roinn Caiteachais Phoibl&#237; agus Athch&#243;irithe</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>IRL</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.per.gov.ie/en/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ORO:021pght82</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Higher Education Authority</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="gle">An T&#250;dar&#225;s um Ard-Oideachas</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">HEA</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>IRL</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://hea.ie/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:0471xye93</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://hea.ie/about-us/contact/</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University College Dublin</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Ireland's Global University</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">UCD Dublin</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>IRL</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.ucd.ie/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:05m7pjf47</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.ucd.ie/issda/aboutus/contact/</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>CESSDA Data Access Policy</ns0:policyName>
+                <ns0:policyURL>https://www.cessda.eu/content/download/963/8608/file/CESSDA%20Data%20Access%20Policy.pdf</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>CoreTrustSeal Assessment</ns0:policyName>
+                <ns0:policyURL>https://www.coretrustseal.org/wp-content/uploads/2018/03/Irish-Social-Science-Data-Archive-ISSDA-.pdf</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>ISSDA Data Protection Policy</ns0:policyName>
+                <ns0:policyURL>https://www.ucd.ie/issda/t4media/ISSDA_Data_Protection_Policy_V1.pdf</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>other</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www.ucd.ie/t4cms/ISSDA_temp_generic2013.doc</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>ISSDA Deposit License</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>http://www.ucd.ie/t4cms/ISSDA_Deposit_Licence_V1.2.docx</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                            <ns0:software>
+                <ns0:softwareName>Nesstar</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                    <ns0:certificate>other</ns0:certificate>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">DDI - Data Documentation Initiative</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/ddi-data-documentation-initiative</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks>ISSDA is an aspiring member of CESSDA ERIC , Council of European Social Science Data Archives and ICPSR, Inter-university Consortium for Political and Social Research.</ns0:remarks>
+        <ns0:entryDate>2013-08-27</ns0:entryDate>
+        <ns0:lastUpdate>2021-10-04</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

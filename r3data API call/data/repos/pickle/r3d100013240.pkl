@@ -1,0 +1,132 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100013240</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">UTM-CSIC Data Centre</ns0:repositoryName>
+                    <ns0:additionalName language="spa">Centro de Datos de la Unidad de Tecnolog&#237;a Marina</ns0:additionalName>
+                    <ns0:additionalName language="eng">Marine Technology Unit Data Centre</ns0:additionalName>
+                <ns0:repositoryURL>http://data.utm.csic.es</ns0:repositoryURL>
+                <ns0:description language="eng">The UTM Data Centre is responsible for managing spatial data acquired during oceanographic cruises on board CSIC research vessels (RV Sarmiento de Gamboa, RV Garc&#237;a del Cid) and RV Hesp&#233;rides.
+The aim is, on the one hand, to disseminate which data exist and where, how and when they have been acquired. And on the other hand, to provide access to as much of the interoperable data as possible, following the FAIR principles, so that they can be used and reused.
+
+For this purpose, the UTM has a Spatial Data Infrastructure  at a national level that consists of several services:
+
+Oceanographic Cruise and Data Catalogue
+Including metadata from more than 600 cruises carried out since 1991, with links to documentation associated to the cruise, navigation maps and datasets
+
+Geoportal
+Geospatial data mapping interface
+
+Underway Plot &amp; QC
+Visualization, Quality Control and conversion to standard format of meteorological data and temperature and salinity of surface water
+
+At an international level, the UTM is a National Oceanographic Data Centre (NODC) of the Distributed European Marine Data Infrastructure SeaDataNet, to which the UTM provides metadata published in the Cruise Summary Report Catalog and in the data catalog Common Data Index Catalog, as well as public data to be shared.</ns0:description>
+                    <ns0:repositoryContact>data@utm.csic.es</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2021-10-25">700 cruises; 661 datasets</ns0:size>
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>spa</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31302 Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">318 Water Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31801 Hydrogeology, Hydrology, Limnology, Urban Water Management, Water Chemistry, Integrated Water Resources Management</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL>http://www.utm.csic.es/en/mision-y-Objetivos</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Archived data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>multibeam</ns0:keyword>
+                    <ns0:keyword>oceanography</ns0:keyword>
+                    <ns0:keyword>side scan sonar</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Marine Technology Unit</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="spa">UTM-CSIC</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="spa">Unidad de Tecnolog&#237;a Marina</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>ESP</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.utm.csic.es/en</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Spanish National Research Council</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="spa">CSIC</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="spa">Consejo Superior de Investigaciones Cient&#237;ficas</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>ESP</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.csic.es/en</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:02gfc7t72</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:SCR_011534</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_156803</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Data Policy</ns0:policyName>
+                <ns0:policyURL>http://data.utm.csic.es/portal/#data-policy</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>other</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Public Domain</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.copyright.gov/help/faq/faq-definitions.html</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>other</ns0:softwareName>
+            </ns0:software>
+                    <ns0:software>
+                <ns0:softwareName>other</ns0:softwareName>
+            </ns0:software>
+                    <ns0:software>
+                <ns0:softwareName>other</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                    <ns0:api apiType="REST">http://data.utm.csic.es/geonetwork/doc/api/</ns0:api>
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                    <ns0:pidSystem>URN</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>no</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">DIF - Directory Interchange Format</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dif-directory-interchange-format</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                    <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">Dublin Core</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                    <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">FGDC/CSDGM - Federal Geographic Data Committee Content Standard for Digital Geospatial Metadata</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/fgdccsdgm-federal-geographic-data-committee-content-standard-digital-ge</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                    <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">ISO 19115</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/iso-19115</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                            <ns0:syndication syndicationType="RSS">http://data.utm.csic.es/geonetwork/srv/eng/rss.search?sortBy=changeDate&amp;georss=simplepoint</ns0:syndication>
+                <ns0:remarks>is covered by Clarivate Data Citation Index.</ns0:remarks>
+        <ns0:entryDate>2020-02-19</ns0:entryDate>
+        <ns0:lastUpdate>2021-10-25</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

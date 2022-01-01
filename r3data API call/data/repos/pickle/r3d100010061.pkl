@@ -1,0 +1,123 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010061</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Atmospheric Science Data Center</ns0:repositoryName>
+                    <ns0:additionalName language="eng">ASDC</ns0:additionalName>
+                    <ns0:additionalName language="eng">LaRC ASDC</ns0:additionalName>
+                    <ns0:additionalName language="eng">NASA Langley Research Center, Atmospheric Science Data Center</ns0:additionalName>
+                <ns0:repositoryURL>https://eosweb.larc.nasa.gov/</ns0:repositoryURL>
+                <ns0:description language="eng">The Atmospheric Science Data Center (ASDC) at NASA Langley Research Center is responsible for processing, archiving, and distribution of NASA Earth science data in the areas of radiation budget, clouds, aerosols, and tropospheric chemistry.The ASDC specializes in atmospheric data important to understanding the causes and processes of global climate change and the consequences of human activities on the climate.</ns0:description>
+                            <ns0:type>disciplinary</ns0:type>
+                    <ns0:type>other</ns0:type>
+                <ns0:size updated="2019-05-15">61 projects; more than 1000 archived datasets</ns0:size>
+        <ns0:startDate>1991</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31301 Atmospheric Science</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL>https://eosweb.larc.nasa.gov/more-about-asdc</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Archived data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Audiovisual data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Databases</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>CALIPSO</ns0:keyword>
+                    <ns0:keyword>CERES</ns0:keyword>
+                    <ns0:keyword>Global climate change</ns0:keyword>
+                    <ns0:keyword>ISCCP</ns0:keyword>
+                    <ns0:keyword>MOPITT</ns0:keyword>
+                    <ns0:keyword>SRB</ns0:keyword>
+                    <ns0:keyword>TES</ns0:keyword>
+                    <ns0:keyword>aerosols</ns0:keyword>
+                    <ns0:keyword>astrophysics</ns0:keyword>
+                    <ns0:keyword>atmospheric chemistry</ns0:keyword>
+                    <ns0:keyword>clouds</ns0:keyword>
+                    <ns0:keyword>meteorology</ns0:keyword>
+                    <ns0:keyword>radiation budget</ns0:keyword>
+                    <ns0:keyword>satellite program</ns0:keyword>
+                    <ns0:keyword>tropospheric chemistry</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Atmospheric Science Data Center at NASA Langley Research Center</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">ASDC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://eosweb.larc.nasa.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>1991</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.nasa.gov/centers/langley/about/contact.html</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">NASA's Earth Observing System Data and Information System</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">EOSDIS</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://earthdata.nasa.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>1991</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>NASA Web Privacy Policy and Important Notices</ns0:policyName>
+                <ns0:policyURL>https://www.nasa.gov/about/highlights/HP_Privacy.html</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Policy statement</ns0:policyName>
+                <ns0:policyURL>https://eosweb.larc.nasa.gov/citing-asdc-data</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                    <ns0:databaseLicense>
+                <ns0:databaseLicenseName>Copyrights</ns0:databaseLicenseName>
+                <ns0:databaseLicenseURL>https://eosweb.larc.nasa.gov/copyright-information</ns0:databaseLicenseURL>
+            </ns0:databaseLicense>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Public Domain</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://eosweb.larc.nasa.gov/copyright-information</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://eosweb.larc.nasa.gov/copyright-information</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>Data Rights &amp; related issues</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>https://science.nasa.gov/earth-science/earth-science-data/data-information-policy/data-rights-related-issues/</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                            <ns0:software>
+                <ns0:softwareName>other</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                    <ns0:api apiType="OpenDAP">http://l0dup05.larc.nasa.gov/opendap/</ns0:api>
+                    <ns0:api apiType="OpenDAP">https://eosweb.larc.nasa.gov/datapool</ns0:api>
+                    <ns0:api apiType="REST">https://eosweb.larc.nasa.gov/datapool</ns0:api>
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://eosweb.larc.nasa.gov/citing-asdc-data</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                    <ns0:certificate>WDS</ns0:certificate>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">DIF - Directory Interchange Format</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dif-directory-interchange-format</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                            <ns0:syndication syndicationType="RSS">https://eosweb.larc.nasa.gov/rss/asdc_news.xml</ns0:syndication>
+                <ns0:remarks>The Data Center was established in 1991 to support the Earth Observing System (EOS) as part of NASA's Earth Science enterprise and the U.S. Global Change Research Program, and is one of several Distributed Active Archive Centers (DAACs) sponsored by NASA as part of the Earth Observing System Data and Information System (EOSDIS). The Data Center specializes in atmospheric data important to understanding the causes and processes of global climate change and the consequences of human activities on the climate.---- NASA ESDIS is a network member of ICSU World Data System.</ns0:remarks>
+        <ns0:entryDate>2013-08-07</ns0:entryDate>
+        <ns0:lastUpdate>2021-06-25</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

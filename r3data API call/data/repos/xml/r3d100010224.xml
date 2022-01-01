@@ -1,0 +1,104 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010224</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">The Canadian National Atmospheric Chemistry Database</ns0:repositoryName>
+                    <ns0:additionalName language="fra">La base de donn&#233;es nationales sur la chimie atmosph&#233;rique</ns0:additionalName>
+                    <ns0:additionalName language="eng">NAtChem</ns0:additionalName>
+                    <ns0:additionalName language="eng">The Canadian National Atmospheric Chemistry Database and Analysis System</ns0:additionalName>
+                <ns0:repositoryURL>https://www.canada.ca/en/environment-climate-change/services/air-pollution/monitoring-networks-data/national-atmospheric-chemistry-database.html</ns0:repositoryURL>
+                <ns0:description language="eng">The National Atmospheric Chemistry Database (NAtChem) is a data archival and analysis facility operated by the Science and Technology Branch of Environment and Climate Change Canada. The purpose of the NAtChem database is to enhance atmospheric research through the archival and analysis of North American air and precipitation chemistry data.  Such research includes investigations into the chemical nature of the atmosphere, atmospheric processes, spatial and temporal patterns, source-receptor relationships and long range transport of air pollutants.
+The NAtChem Database contains air and precipitation chemistry data from many major regional-scale networks in North America. To contribute to NAtChem, networks must operate for a period of at least two years, must have wide area coverage, and must have regionally-representative sites (rural and background).</ns0:description>
+                    <ns0:repositoryContact>ec.natchem.ec@canada.ca</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2010</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>fra</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31301 Atmospheric Science</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">315 Geophysics and Geodesy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31501 Geophysics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL>https://www.canada.ca/en/environment-climate-change/services/air-pollution/monitoring-networks-data/national-atmospheric-chemistry-database.html</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Archived data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>air chemistry</ns0:keyword>
+                    <ns0:keyword>air pollutants</ns0:keyword>
+                    <ns0:keyword>greenhouse gases</ns0:keyword>
+                    <ns0:keyword>precipitation</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Environment and Climate Change Canada</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">ECCC</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="fra">Environnement et Changement climatique Canada</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.canada.ca/en/environment-climate-change.html</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>ec.enviroinfo.ec@canada.ca</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Government of Canada</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">GoC</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="fra">Gouvernement du Canada</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.canada.ca/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Terms and  Conditions</ns0:policyName>
+                <ns0:policyURL>https://www.canada.ca/en/transparency/terms.html</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://laws-lois.justice.gc.ca/eng/acts/C-42/index.html</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks>The NAtChem Database consists of several smaller databases:
+    The National Atmospheric Chemistry/Particulate Matter Database (NAtChem/PM)
+    Atmospheric particulate matter and related trace gas data and results
+    The National Atmospheric Chemistry/Precipitation Chemistry Database (NAtChem/Precip)
+    Precipitation chemistry data and results
+    The National Atmospheric Chemistry/Air Toxics Database (NAtChem/Toxics)
+    Atmospheric toxic substances data and results
+    The National Atmospheric Chemistry/Special Studies Database (NAtChem/Special Studies)
+    Atmospheric data and results at special studies sites 
+    Greenhouse Gases
+    Greenhouse Gases data and results
+    Canadian Aerosol Baseline Measurements (CABM)
+    Aersol Measurements data and results</ns0:remarks>
+        <ns0:entryDate>2013-03-07</ns0:entryDate>
+        <ns0:lastUpdate>2018-11-09</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

@@ -1,0 +1,124 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011699</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Bolin Centre Database</ns0:repositoryName>
+                    <ns0:additionalName language="eng">Bolin Centre for Climate Research</ns0:additionalName>
+                <ns0:repositoryURL>http://bolin.su.se/data/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>biodbcore-001744</ns0:repositoryIdentifier>
+                <ns0:description language="eng">The main objective of the Bolin Centre Database is to ensure the preservation, interoperability and open access of climate research data for members of the Bolin Centre for Climate Research. The Bolin Centre Database also provides expert advice and guidance on data management. The Bolin Centre itself is a multi-disciplinary consortium in Sweden that conducts research and graduate education related to the Earth&#180;s climate, in collaboration between Stockholm University, The Swedish Meteorological and Hydrological Institute (SMHI) and the KTH Royal Institute of Technology.</ns0:description>
+                    <ns0:repositoryContact>bolindata@su.se</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2017-10-16">~100 datasets with metadata, of which some contain several subsets.</ns0:size>
+        <ns0:startDate>2006</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31301 Atmospheric Science</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31302 Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">315 Geophysics and Geodesy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31501 Geophysics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">317 Geography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31701 Physical Geography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">318 Water Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL>http://bolin.su.se/data/about.php</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Archived data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Databases</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>aerosols</ns0:keyword>
+                    <ns0:keyword>biodiversity</ns0:keyword>
+                    <ns0:keyword>biogeochemical cycles</ns0:keyword>
+                    <ns0:keyword>climate</ns0:keyword>
+                    <ns0:keyword>clouds</ns0:keyword>
+                    <ns0:keyword>cryosphere</ns0:keyword>
+                    <ns0:keyword>environmental science</ns0:keyword>
+                    <ns0:keyword>hydrosphere</ns0:keyword>
+                    <ns0:keyword>lacustrine</ns0:keyword>
+                    <ns0:keyword>landscape processes</ns0:keyword>
+                    <ns0:keyword>meteorology</ns0:keyword>
+                    <ns0:keyword>oceans&#8208;atmosphere dynamics</ns0:keyword>
+                    <ns0:keyword>paleoclimate</ns0:keyword>
+                    <ns0:keyword>physical geography</ns0:keyword>
+                    <ns0:keyword>tectonic</ns0:keyword>
+                    <ns0:keyword>turbulence</ns0:keyword>
+                    <ns0:keyword>weather</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Bolin Centre for Climate Researh</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="swe">Bolincentret f&#246;r klimatforskning</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>SWE</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.bolin.su.se/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>2006</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://bolin.su.se/index.php/contacts</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">KTH Royal Institute of Technology,   FLOW</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="swe">Kungliga Tekniska H&#246;gskolan, FLOW</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">Linn&#233; FLOW Centre</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>SWE</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.flow.kth.se/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>2007</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.flow.kth.se/?q=node/31</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Stockholm University</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="swe">Stockholms universitet</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>SWE</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.su.se/english/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>2006</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Swedish Meteorological and Hydrological Institute, Rossby Centre</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">SMHI, Rossby Centre</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>SWE</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.smhi.se/en/research/research-departments/climate-research-rossby-centre2-552</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.smhi.se/en/contact</ns0:institutionContact>
+                            </ns0:institution>
+                        <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://bolin.su.se/index.php/open-access</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>Contribute with data</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>http://bolin.su.se/data/contribute.php</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                        <ns0:versioning>no</ns0:versioning>
+                    <ns0:api apiType="NetCDF">http://bolin.su.se/data/ncscd/netcdf.php</ns0:api>
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                <ns0:citationGuidelineURL>http://bolin.su.se/index.php/data-citation</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks />
+        <ns0:entryDate>2015-11-09</ns0:entryDate>
+        <ns0:lastUpdate>2021-11-16</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

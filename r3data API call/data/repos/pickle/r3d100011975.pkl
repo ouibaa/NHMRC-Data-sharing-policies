@@ -1,0 +1,97 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011975</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Research Institute for Sustainable Humanosphere databases</ns0:repositoryName>
+                    <ns0:additionalName language="eng">Database for the humanosphere</ns0:additionalName>
+                    <ns0:additionalName language="eng">RISH databases</ns0:additionalName>
+                <ns0:repositoryURL>http://www.rish.kyoto-u.ac.jp/organization_e/databases/</ns0:repositoryURL>
+                <ns0:description language="eng">Various information, such as xylarium data with wood specimens collected since 1944, atmospheric observation data using the MU radar and other instruments, space-plasma data observed with GEOTAIL satellite, are now combined as Database of Humanosphere and served for public use. Proposals for scientific and technological use are always welcome.</ns0:description>
+                    <ns0:repositoryContact>dbstaff@rish.kyoto-u.ac.jp</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>jpn</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">202 Plant Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20207 Plant Genetics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">311 Astrophysics and Astronomy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31301 Atmospheric Science</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">32 Physics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL>http://www.rish.kyoto-u.ac.jp/mission_e/</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>Acacia Mangium</ns0:keyword>
+                    <ns0:keyword>Aurora Borealis</ns0:keyword>
+                    <ns0:keyword>Basidiomycetes</ns0:keyword>
+                    <ns0:keyword>EAR</ns0:keyword>
+                    <ns0:keyword>EST</ns0:keyword>
+                    <ns0:keyword>Indonesia</ns0:keyword>
+                    <ns0:keyword>PWI - Plasma Wave Instrument</ns0:keyword>
+                    <ns0:keyword>atmospheric radar</ns0:keyword>
+                    <ns0:keyword>equatorial atmosphere</ns0:keyword>
+                    <ns0:keyword>geotail</ns0:keyword>
+                    <ns0:keyword>global atmosphere</ns0:keyword>
+                    <ns0:keyword>satellite</ns0:keyword>
+                    <ns0:keyword>southpole</ns0:keyword>
+                    <ns0:keyword>space electromagnetic environment</ns0:keyword>
+                    <ns0:keyword>wood diversity</ns0:keyword>
+                    <ns0:keyword>xylarium</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Japan Society for the Promotion of Science</ns0:institutionName>
+                                <ns0:institutionCountry>JPN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.rish.kyoto-u.ac.jp/?lang=en</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Kyoto University, Research Institute for Sustainable Humanosphere</ns0:institutionName>
+                                <ns0:institutionCountry>JPN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.rish.kyoto-u.ac.jp/?lang=en</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                        <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://database.rish.kyoto-u.ac.jp/index-e.html</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>institutional membership</ns0:dataUploadRestriction>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>http://database.rish.kyoto-u.ac.jp/index-e.html</ns0:citationGuidelineURL>
+                    <ns0:aidSystem>none</ns0:aidSystem>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                    <ns0:certificate>WDS</ns0:certificate>
+                                <ns0:remarks>RISH is a regular member of ICSU  World Data System</ns0:remarks>
+        <ns0:entryDate>2016-04-27</ns0:entryDate>
+        <ns0:lastUpdate>2016-05-13</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

@@ -1,0 +1,113 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011708</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">ASTER JPL</ns0:repositoryName>
+                    <ns0:additionalName language="eng">Advanced Spaceborne Thermal Emission and Reflection Radiometer</ns0:additionalName>
+                <ns0:repositoryURL>https://asterweb.jpl.nasa.gov/index.asp</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>RRID:SCR_010478</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:nlx_157751</ns0:repositoryIdentifier>
+                <ns0:description language="eng">The ASTER Project consists of two parts, each having a Japanese and a U.S. component. Mission operations are split between Japan Space Systems (J-spacesystems) and the Jet Propulsion Laboratory (JPL) in the U.S. J-spacesystems oversees monitoring instrument performance and health, developing the daily schedule command sequence, processing Level 0 data to Level 1, and providing higher level data processing, archiving, and distribution. The JPL ASTER project provides scheduling support for U.S. investigators, calibration and validation of the instrument and data products, coordinating the U.S. Science Team, and maintaining the science algorithms. The joint Japan/U.S. ASTER Science Team has about 40 scientists and researchers. Data access via NASA Reverb, ASTER Japan site, earth explorer, GloVis,GDEx and LP DAAC. See here http://asterweb.jpl.nasa.gov/data.asp . In Addition data are availabe through the newly implemented ASTER Volcano archive (AVA) http://ava.jpl.nasa.gov/ .</ns0:description>
+                    <ns0:repositoryContact>https://science.jpl.nasa.gov/people/Tan/</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2008</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">311 Astrophysics and Astronomy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">315 Geophysics and Geodesy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31502 Geodesy, Photogrammetry, Remote Sensing, Geoinformatics, Cartogaphy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">32 Physics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL>https://asterweb.jpl.nasa.gov/mission.asp</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                            <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>climatology</ns0:keyword>
+                    <ns0:keyword>ecosystems</ns0:keyword>
+                    <ns0:keyword>geology</ns0:keyword>
+                    <ns0:keyword>hazard monitoring</ns0:keyword>
+                    <ns0:keyword>hydrology</ns0:keyword>
+                    <ns0:keyword>land cover</ns0:keyword>
+                    <ns0:keyword>land surface</ns0:keyword>
+                    <ns0:keyword>soils</ns0:keyword>
+                    <ns0:keyword>vegetation</ns0:keyword>
+                    <ns0:keyword>volcano monitoring</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">California Institute of Technology</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Caltech</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.caltech.edu/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.caltech.edu/contact</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Japan Spacesystems</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">j-spacesystems</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>JPN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.jspacesystems.or.jp/en_/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://ssl.jspacesystems.or.jp/en/contact/index.php</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Jet Propulsion Laboratory</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">JPL</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.jpl.nasa.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.jpl.nasa.gov/contact_JPL.php</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Aeronautics and Space Administration</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NASA</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.nasa.gov</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.nasa.gov/about/contact/index.html#</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>ASTER user handbook</ns0:policyName>
+                <ns0:policyURL>https://asterweb.jpl.nasa.gov/documents.asp</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>JPL Image use policy</ns0:policyName>
+                <ns0:policyURL>https://www.jpl.nasa.gov/imagepolicy/</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.jpl.nasa.gov/copyrights.php</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                <ns0:versioning />
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks>The first Earth Observing System (EOS) satellite called Terra (previously AM-1) was launched on December 18, 1999. Terra flys in a sun-synchronous polar orbit, crossing the equator in the morning at 10:30.
+The Advanced Spaceborne Thermal Emission and Reflection Radiometer (ASTER) is one of the five state-of-the-art instrument sensor systems on-board Terra with a unique combination of wide spectral coverage and high spatial resolution in the visible near-infrared through shortwave infrared to the thermal infrared regions. It was built by a consortium of Japanese government, industry, and research groups.
+- See more at: https://lpdaac.usgs.gov/dataset_discovery/aster#sthash.LI2t3yjv.dpuf</ns0:remarks>
+        <ns0:entryDate>2015-07-20</ns0:entryDate>
+        <ns0:lastUpdate>2018-12-19</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

@@ -1,0 +1,105 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100013589</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">National Library of Scotland</ns0:repositoryName>
+                <ns0:repositoryURL>https://www.nls.uk/</ns0:repositoryURL>
+                <ns0:description language="eng">The National Library of Scotland was formally constituted by an Act of Parliament in 1925 and is one of six libraries covered by the UK legal deposit system.
+The Library is Scotland's national archive for published and other literary heritage materials. One of our primary responsibilities is to safeguard the collections for future generations.
+Our collections care facility is recognised nationally and internationally as a centre of excellence for the preservation and conservation of library materials.
+NLS includes "Data Foundry", data collections from the National Library of Scotland.</ns0:description>
+                    <ns0:repositoryContact>enquiries@nls.uk</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">102 History</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">103 Fine Arts, Music, Theatre and Media Studies</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">10302 Musicology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">10303 Theatre and Media Studies</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">105 Literary Studies</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11 Humanities</ns0:subject>
+                <ns0:missionStatementURL>https://www.nls.uk/about-us/what-we-are/our-mission/</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Audiovisual data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>family history</ns0:keyword>
+                    <ns0:keyword>gaelic collections</ns0:keyword>
+                    <ns0:keyword>genealogy</ns0:keyword>
+                    <ns0:keyword>kings &amp; queens</ns0:keyword>
+                    <ns0:keyword>medieval manuscripts</ns0:keyword>
+                    <ns0:keyword>poetry</ns0:keyword>
+                    <ns0:keyword>religion</ns0:keyword>
+                    <ns0:keyword>travel &amp; emigration</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">National Library of Scotland</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Leabharlann N&#224;iseanta na h-Alba</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>GBR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.nls.uk/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.nls.uk/contact/</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Collection Development Policy</ns0:policyName>
+                <ns0:policyURL>https://www.nls.uk/media/pg1apzfw/2019-collection-development-policy.pdf</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Collections Security Policy</ns0:policyName>
+                <ns0:policyURL>https://www.nls.uk/media/otonpwpq/2014-collections-security-policy.pdf</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Terms and conditions</ns0:policyName>
+                <ns0:policyURL>https://www.nls.uk/using-the-library/terms-and-conditions/</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/licenses/by/4.0/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>CC0</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/publicdomain/zero/1.0/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>Public Domain</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/publicdomain/mark/1.0/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://rightsstatements.org/page/NoC-NC/1.0/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://rightsstatements.org/page/UND/1.0/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.nls.uk/using-the-library/copying-services/permission/licence/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                                        <ns0:versioning />
+                        <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">Dublin Core</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks />
+        <ns0:entryDate>2021-06-17</ns0:entryDate>
+        <ns0:lastUpdate>2021-06-23</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

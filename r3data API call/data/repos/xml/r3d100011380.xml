@@ -1,0 +1,127 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011380</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">National Arctic and Antarctic Data Center</ns0:repositoryName>
+                    <ns0:additionalName language="eng">CN-NADC</ns0:additionalName>
+                <ns0:repositoryURL>https://www.chinare.org.cn/en/</ns0:repositoryURL>
+                <ns0:description language="eng">Chinese National Arctic &amp; Antarctic Data Center(CN-NADC) is a national facility within the Polar research institute of China (PRIC), which is a research institute under the State Oceanic Administration (SOA) of China. CN-NADC was established in response to Chinese participation in the Article III.1.c of Antarctic Treaty System - (ATS &#8212; http://www.ats.aq) and Chinese Polar Data Policy(http://www.chinare.org.cn/standardDetail/?id=477).
+CN-NADC serves as the only authorized institution in China to capture, standard manage and long-term preserve the data and samples information, and to provide sustainable polar data service. In 2003, CN-NADC became one of the nodes of &#8216;National Data Sharing Infrastructure of Earth Science&#8217; (GEODATA,http://www2.geodata.cn/), which&#8217;s one of the Platforms of the National Science and Technology Infrastructures (NSTI, http://www.escience.org.cn//) supported by the Ministry of Science and Technology (MOST) and the Ministry of Finance of People&#8217;s Republic of China.</ns0:description>
+                    <ns0:repositoryContact>nadc@pric.org.cn</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2004</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>zho</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31302 Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">315 Geophysics and Geodesy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31502 Geodesy, Photogrammetry, Remote Sensing, Geoinformatics, Cartogaphy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL>https://www.pric.org.cn/EN/detail/category.aspx?c=1</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>polar data</ns0:keyword>
+                    <ns0:keyword>polar year</ns0:keyword>
+                    <ns0:keyword>satellite image</ns0:keyword>
+                    <ns0:keyword>weather data</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Ministry of Science and Technology of the People's Republic of China</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">PRIC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CHN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://en.most.gov.cn/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:027s68j25</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Science and Technology Infrastructure Platform</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">GEODATA.CN</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CHN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www2.geodata.cn/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Science and Technology Infrastructures</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NSTI</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CHN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.escience.org.cn/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Polar Research Institute of China</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">PRIC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CHN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.pric.org.cn/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:027fn9x30</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">State Oceanic Administration</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">SOA</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CHN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.soa.org.cn/english/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Chinese Polar Data Policy</ns0:policyName>
+                <ns0:policyURL>http://www.chinare.org.cn/standardDetail/?id=477</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>FAQ</ns0:policyName>
+                <ns0:policyURL>https://www.chinare.org.cn/en/help/using-help</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Polar Information Commons - PIC</ns0:policyName>
+                <ns0:policyURL>https://www.polarcommons.org/ethics-and-norms-of-data-sharing.html</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/licenses/by/3.0/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                <ns0:versioning />
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://www.chinare.org.cn/en/help/using-help</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">DIF - Directory Interchange Format</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dif-directory-interchange-format</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                    <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">ISO 19115</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/iso-19115</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks>N-NADC uses Directory Interchange Fomrat -DIF metadata Standard. N-NADC submits metadata directory and information to Portal of Chinese Science and Technology Resource of NSTI and Antarctic Master Directory(AMD) of Global Change Master Directory (GCMD, http://gcmd.nasa.gov/). Since 2003, CN-NADC is a member of SC-ADM (Standing Committee on Antarctic Data Management, http://www.scar.org/data-products/scadm) and it is also a member of the SOOS-DISM (Southern Ocean Observing System, Data Management Sub-Committee) since 2013.</ns0:remarks>
+        <ns0:entryDate>2014-11-17</ns0:entryDate>
+        <ns0:lastUpdate>2021-12-22</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

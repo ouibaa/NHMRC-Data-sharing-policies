@@ -1,0 +1,186 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012747</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Gemma</ns0:repositoryName>
+                    <ns0:additionalName language="eng">Tools and database for meta-analysis of functional genomics data</ns0:additionalName>
+                <ns0:repositoryURL>https://gemma.msl.ubc.ca/home.html</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.t98nav</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>OMICS_27257</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:SCR_008007</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:nif-0000-08127</ns0:repositoryIdentifier>
+                <ns0:description language="eng">Gemma is a database for the meta-analysis, re-use and sharing of genomics data, currently primarily targeted at the analysis of gene expression profiles. Gemma contains data from thousands of public studies, referencing thousands of published papers. Users can search, access and visualize co-expression and differential expression results.</ns0:description>
+                    <ns0:repositoryContact>https://pavlidislab.github.io/Gemma/#contact</ns0:repositoryContact>
+                    <ns0:repositoryContact>pavlab-support@msl.ubc.ca.</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2020-12-21">Over 10000 expression studies</ns0:size>
+        <ns0:startDate>2007</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">201 Basic Biological and Medical Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20105 General Genetics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">203 Zoology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20306 Animal Genetics, Cell and Developmental Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">205 Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20503 Human Genetics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                <ns0:missionStatementURL>https://pavlidislab.github.io/Gemma/</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>Geeq</ns0:keyword>
+                    <ns0:keyword>fly</ns0:keyword>
+                    <ns0:keyword>functional genomics</ns0:keyword>
+                    <ns0:keyword>gene expression</ns0:keyword>
+                    <ns0:keyword>gene expression experiment quality</ns0:keyword>
+                    <ns0:keyword>genomics</ns0:keyword>
+                    <ns0:keyword>human</ns0:keyword>
+                    <ns0:keyword>mouse</ns0:keyword>
+                    <ns0:keyword>rat</ns0:keyword>
+                    <ns0:keyword>worm</ns0:keyword>
+                    <ns0:keyword>zebrafish</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Canadian Institutes of Health Research</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">CIHR</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="fra">IRSC</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="fra">Instituts de recherche en sant&#233; du Canada</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.cihr-irsc.gc.ca/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:01gavpb45</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:SCR_012838</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_45689</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Genome British Columbia</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Genome BC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.genomebc.ca/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:03gne5057</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Government of Canada, Natural Sciences and Engineering Research Council of Canada</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="fra">CRSNG</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="fra">Gouvernement du Canada, Conseil de recherches en sciences naturelles et en g&#233;nie du Canada</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">NSERC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.nserc-crsng.gc.ca/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:01h531d29</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:SCR_013327</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_39429</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">INNOVATION.CA</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">CFI</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">Canada Foundation for Innovation</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="fra">Fondation Canadienne pour l'innovation</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.innovation.ca/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Kids Brain Health Network</ns0:institutionName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.neurodevnet.ca/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Michael Smith Foundation for Health Research</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">MSFHR</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.msfhr.org/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:020x39229</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">U.S. Department of Health &amp; Human Services, National Institutes of Health</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">HHS, NIH</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.nih.gov/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:01cwqze88</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:SCR_011417</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_inv_1005116</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of British Columbia, Pavlidis lab</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">UBC, Pavlidis lab</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://pavlab.msl.ubc.ca/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Terms And Conditions</ns0:policyName>
+                <ns0:policyURL>https://pavlidislab.github.io/Gemma/terms.html</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                    <ns0:databaseLicense>
+                <ns0:databaseLicenseName>Apache License 2.0</ns0:databaseLicenseName>
+                <ns0:databaseLicenseURL>https://pavlidislab.github.io/Gemma/terms.html</ns0:databaseLicenseURL>
+            </ns0:databaseLicense>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>other</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://pavlidislab.github.io/Gemma/terms.html#3-ownership-and-use-restriction</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>Uploading Data to the Gemma Website</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>https://pavlidislab.github.io/Gemma/terms.html#5-uploading-data-to-the-gemma-website</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                            <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                    <ns0:api apiType="REST">https://gemma.msl.ubc.ca/resources/restapidocs/</ns0:api>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://pavlidislab.github.io/Gemma/</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                    <ns0:syndication syndicationType="RSS">https://gemma.msl.ubc.ca/rssfeed</ns0:syndication>
+                <ns0:remarks>Gemma on GitHub: https://github.com/PavlidisLab/Gemma</ns0:remarks>
+        <ns0:entryDate>2018-07-05</ns0:entryDate>
+        <ns0:lastUpdate>2021-06-16</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

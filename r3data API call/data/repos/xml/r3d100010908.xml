@@ -1,0 +1,180 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010908</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Atlantic Canada Conservation Data Centre</ns0:repositoryName>
+                    <ns0:additionalName language="eng">ACCDC</ns0:additionalName>
+                <ns0:repositoryURL>http://www.accdc.com/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>RRID:SCR_006061</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:nlx_152014</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>biodbcore-001488</ns0:repositoryIdentifier>
+                <ns0:description language="eng">The Atlantic Canada Conservation Data Centre (ACCDC) maintains comprehensive lists of plant and animal species. The Atlantic CDC has geo-located records of species occurrences and records of extremely rare to uncommon species in the Atlantic region, including New Brunswick, Nova Scotia, Prince Edward Island, Newfoundland, and Labrador. The Atlantic CDC also maintains biological and other types of data in a variety of linked databases.</ns0:description>
+                    <ns0:repositoryContact>http://accdc.com/en/contact-us.html</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                    <ns0:type>other</ns0:type>
+                <ns0:size updated="2021-09-03">almost 2 million geo-located records of species occurrences, approximately 20% of which represent species of conservation concern</ns0:size>
+        <ns0:startDate>1997</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>fra</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">202 Plant Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20202 Plant Ecology and Ecosystem Analysis</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">203 Zoology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20303 Animal Ecology, Biodiversity and Ecosystem Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31302 Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL>http://www.accdc.com/en/about-us.html</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>animals</ns0:keyword>
+                    <ns0:keyword>biotic communities</ns0:keyword>
+                    <ns0:keyword>botany</ns0:keyword>
+                    <ns0:keyword>conservation of natural resources</ns0:keyword>
+                    <ns0:keyword>ecology</ns0:keyword>
+                    <ns0:keyword>forests and forestry</ns0:keyword>
+                    <ns0:keyword>geomapping</ns0:keyword>
+                    <ns0:keyword>landscape ecology</ns0:keyword>
+                    <ns0:keyword>plants</ns0:keyword>
+                    <ns0:keyword>zoology</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Canadian Wildlife Service</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="fra">Service Canadien de la Faune</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.canada.ca/en/environment-climate-change/services/avoiding-harm-migratory-birds/canadian-wildlife-service-contact-information.html</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>ec.priseaccessoire-incidentaltake.ec@canada.ca</ns0:institutionContact>
+                                    <ns0:institutionContact>https://www.canada.ca/en/environment-climate-change/services/avoiding-harm-migratory-birds/canadian-wildlife-service-contact-information.html</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Government of Canada, Natural Resources, Canadian Forest Service,  Atlantic Forestry Centre</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">AFC</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="fra">Gouvernement du Canada, For&#234;ts, Centre de foresterie de l'atlantique</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.nrcan.gc.ca/forests/research-centres/afc/13447</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Government of Newfoundland Labrador</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="fra">Gouvernement Terre-Neuve et Labrador</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.gov.nl.ca/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Government of Prince Edward Island</ns0:institutionName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.princeedwardisland.ca/en</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Mount Allison University,  Atlantic Canada Conservation Data Centre</ns0:institutionName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.accdc.com/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://accdc.com/en/contact-us.html</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Nature Conservancy of Canada</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">CNC</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="fra">Conservation de la Nature Canada(formerly)</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="fra">Conservation de la nature Canada</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">NCC</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">Nature Conservancy Canada (formerly)</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.natureconservancy.ca/en/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">New Brunswick Canada, Energy and Resource Development</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="fra">Nouveau Brunswick Canada, D&#233;veloppement de l&#8217;&#233;nergie et des ressources</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www2.gnb.ca/content/gnb/en/departments/erd.html</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Nova Scotia Canada, Department of Natural Resources</ns0:institutionName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://novascotia.ca/natr/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Parks Canada</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="fra">Parcs Canada</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.pc.gc.ca/en/index</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Data usage restrictions</ns0:policyName>
+                <ns0:policyURL>http://accdc.com/en/fee_usage.html</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>feeRequired</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>other</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://accdc.com/en/fee_usage.html</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>Contributing data</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>http://accdc.com/en/contribute.html</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                        <ns0:versioning>yes</ns0:versioning>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>http://accdc.com/en/fee_usage.html</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks />
+        <ns0:entryDate>2014-08-11</ns0:entryDate>
+        <ns0:lastUpdate>2021-11-16</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

@@ -1,0 +1,143 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012161</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Gran Telescopio CANARIAS Public Archive</ns0:repositoryName>
+                    <ns0:additionalName language="spa">GRANTECAN Archivo de datos</ns0:additionalName>
+                    <ns0:additionalName language="eng">GTC Public Archive</ns0:additionalName>
+                    <ns0:additionalName language="spa">Gran Telescopio CANARIAS Archivo de datos</ns0:additionalName>
+                <ns0:repositoryURL>http://gtc.sdc.cab.inta-csic.es/gtc/index.jsp</ns0:repositoryURL>
+                <ns0:description language="eng">This data server provides access to the GTC Public Archive. GTC data become public once the proprietary (1 year) is over. The Gran Telescopio CANARIAS (GTC), is a 10.4m telescope with a segmented primary mirror.</ns0:description>
+                    <ns0:repositoryContact>gtc-support@cab.inta-csic.es</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">308 Optics, Quantum Optics and Physics of Atoms, Molecules and Plasmas</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">311 Astrophysics and Astronomy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">32 Physics</ns0:subject>
+                <ns0:missionStatementURL>http://gtc.sdc.cab.inta-csic.es/gtc/help/overview.jsp</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Archived data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Audiovisual data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>CANARICAM</ns0:keyword>
+                    <ns0:keyword>CIRCE</ns0:keyword>
+                    <ns0:keyword>La Palma</ns0:keyword>
+                    <ns0:keyword>OSIRIS</ns0:keyword>
+                    <ns0:keyword>multi-object spectroscopy (MOS)</ns0:keyword>
+                    <ns0:keyword>telescope</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="spa">Centro de Astrobiolog&#237;a, Instituto Nacional de T&#233;cnica Aeroespacial</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="spa">CAB, INTA</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="spa">CSIC/INTA</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>ESP</ns0:institutionCountry>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://cab.inta.es/en/inicio</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://cab.inta.es/en/contacto</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">European Regional Development Fund</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">FEDER</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>EEC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://ec.europa.eu/regional_policy/en/funding/erdf/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://ec.europa.eu/regional_policy/en/contact/</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">GRANTECAN S.A.</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="spa">Gran Telescopio Canarias S.A.</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>ESP</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.gtc.iac.es</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>gtc [at] gtc.iac.es</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="spa">Instituto Nacional de Astrof&#237;sica, &#211;ptica y Electr&#243;nica</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="spa">INAOE</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>MEX</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.inaoep.mx/en/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="spa">Instituto de Astrof&#237;sica de Canarias</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="spa">IAC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>ESP</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.iac.es/index.php?lang=en</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="spa">Universidad Nacional Aut&#243;noma de M&#233;xico, Instituto de Astronom&#237;a</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="spa">IA-UNAM</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>MEX</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.astroscu.unam.mx/IA/index.php?lang=es</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of Florida, Department of Astronomy</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">UF Astronomy</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.astro.ufl.edu/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>aviso legal</ns0:policyName>
+                <ns0:policyURL>http://www.gtc.iac.es/gtc/legal_es.php</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>embargoed</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www.iac.es/copyright.php</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                <ns0:versioning />
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>http://gtc.sdc.cab.inta-csic.es/gtc/index.jsp</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">FITS - Flexible Image Transport System</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/fits-flexible-image-transport-system</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks>The project is actively supported by the Spanish Government and the Local Government from the Canary Islands through the European Funds for Regional Development (FEDER) provided by the European Union.</ns0:remarks>
+        <ns0:entryDate>2016-09-21</ns0:entryDate>
+        <ns0:lastUpdate>2021-09-09</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

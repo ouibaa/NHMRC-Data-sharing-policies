@@ -1,0 +1,117 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010054</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">U.S. Geological Survey</ns0:repositoryName>
+                    <ns0:additionalName language="eng">including: USGS Science Data Catalog</ns0:additionalName>
+                <ns0:repositoryURL>https://www.usgs.gov/products/data-and-tools/overview</ns0:repositoryURL>
+                <ns0:description language="eng">USGS data and tools are the digital information in a format suitable for direct input to software that can analyze its meaning in the scientific, engineering, or business context for which the data were collected.</ns0:description>
+                    <ns0:repositoryContact>https://answers.usgs.gov/</ns0:repositoryContact>
+                    <ns0:repositoryContact>sciencedatacatalog@usgs.gov</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                    <ns0:type>institutional</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2013</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">314 Geology and Palaeontology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL>https://data.usgs.gov/datacatalog/#about</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Archived data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Software applications</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                            <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>earthquake</ns0:keyword>
+                    <ns0:keyword>ecosystems</ns0:keyword>
+                    <ns0:keyword>missions</ns0:keyword>
+                    <ns0:keyword>wildlife</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">DataONE</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Data Observation Network for Earth</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.dataone.org</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:00hr5y405</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:SCR_003999</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_158410</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate>2015</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>support@dataone.org</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">U.S. Department of the Interior</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.doi.gov/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:03v0pmy70</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">U.S. Geological Survey</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">USGS</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.usgs.gov/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:035a68863</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:SCR_010168</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://answers.usgs.gov/</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Open Data requirements</ns0:policyName>
+                <ns0:policyURL>https://project-open-data.cio.gov/</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Policies an notices</ns0:policyName>
+                <ns0:policyURL>https://www.usgs.gov/policies-notices</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Policy Principles</ns0:policyName>
+                <ns0:policyURL>https://obamawhitehouse.archives.gov/sites/default/files/microsites/ostp/ostp_public_access_memo_2013.pdf</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>USGS Data Management</ns0:policyName>
+                <ns0:policyURL>https://www.usgs.gov/products/data-and-tools/data-management/overview-data-management</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>other</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Public Domain</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.usgs.gov/information-policies-and-instructions/copyrights-and-credits</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                <ns0:versioning>yes</ns0:versioning>
+                    <ns0:api apiType="REST">https://www.usgs.gov/products/data-and-tools/apis</ns0:api>
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">FGDC/CSDGM - Federal Geographic Data Committee Content Standard for Digital Geospatial Metadata</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/fgdccsdgm-federal-geographic-data-committee-content-standard-digital-ge</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks>USGS is covered by Clarivate Data Citation Index. USGS science Data Catalog is a member node of DataONE: https://search.dataone.org/#profile/USGS_SDC . Other tools to retrieve USGS Data: The USGS EarthExplorer (EE) for aerial photos, elevation data and satellite products http://earthexplorer.usgs.gov/; USGS Global Visualization Viewer (GloVis) for Landsat missions, ASTER and MODIS data holdings http://glovis.usgs.gov/; LandsatLookViewer http://landsatlook.usgs.gov/</ns0:remarks>
+        <ns0:entryDate>2012-09-06</ns0:entryDate>
+        <ns0:lastUpdate>2021-09-03</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

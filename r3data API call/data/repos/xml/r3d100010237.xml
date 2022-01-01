@@ -1,0 +1,78 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010237</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="deu">Das Kristallstrukturdepot</ns0:repositoryName>
+                    <ns0:additionalName language="eng">CSD</ns0:additionalName>
+                    <ns0:additionalName language="eng">Crystal Structure Depot</ns0:additionalName>
+                    <ns0:additionalName language="eng">Kristallstrukturdepot</ns0:additionalName>
+                <ns0:repositoryURL>https://www.fiz-karlsruhe.de/en/produkte-und-dienstleistungen/das-kristallstrukturdepot</ns0:repositoryURL>
+                <ns0:description language="eng">More than 25 years ago FIZ Karlsruhe started depositing crystal structure data linked to publications in German journals. At that time it was irrelevant whether the deposited structures were organic or inorganic. Today FIZ Karlsruhe is responsible for storing the structure data of inorganic compounds. Organic structure data are stored by the Cambridge Crystallographic Data Center.
+Nowadays many publishers inform their authors that in parallel to a publication in a scientific journal, crystal structure data should also be stored in the Crystal Structure Depot at FIZ Karlsruhe. A CSD number will be assigned to the data for later reference in the publication. The data can then be ordered from the Crystal Structure Depot at FIZ Karlsruhe.</ns0:description>
+                    <ns0:repositoryContact>crysdata(at)fiz-karlsruhe(dot)de</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>1998</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>deu</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31 Chemistry</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">316 Geochemistry, Mineralogy and Crystallography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">32 Physics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">4 Engineering Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">43 Materials Science and Engineering</ns0:subject>
+                <ns0:missionStatementURL>https://www.fiz-karlsruhe.de/en/leistungen/kristallographie/kristallstrukturdepot.html</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>crystal grating</ns0:keyword>
+                    <ns0:keyword>crystal structure</ns0:keyword>
+                    <ns0:keyword>grid structure</ns0:keyword>
+                    <ns0:keyword>inorganic compound</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="deu">FIZ Karlsruhe -  Leibniz-Institut f&#252;r Informationsinfrastruktur</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">FIZ Karlsruhe &#8211; Leibniz Institute for Information Infrastructure</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>commercial</ns0:institutionType>
+                <ns0:institutionURL>https://www.fiz-karlsruhe.de/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:0387prb75</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.fiz-karlsruhe.de/de/form/fiz-karlsruhe-kontaktformular</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Legal Notices</ns0:policyName>
+                <ns0:policyURL>https://www.fiz-karlsruhe.de/en/ueber-uns/impressum-rechtliches</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>closed</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.fiz-karlsruhe.de/en/ueber-uns/impressum-rechtliches</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                            <ns0:pidSystem>other</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks>Since February 1999, there has been an agreement between Cambridge Crystallographic Data Centre (CCDC) and FIZ Karlsruhe that all organic and organometallic compounds should be deposited at CCDC and all inorganic and intermetallic compounds at FIZ Karlsruhe. Crystal structures submitted to FIZ Karlsruhe should contain neither C-C nor C-H bonds. Please send inorganic structure data to crysdata(at)fiz-karlsruhe(dot)de and organic structure data to CCDC, deposit(at)ccdc.cam.ac(dot)uk.  If you are a registered user of the ICSD database (Inorganic Crystal Structure Database)= r3d100010085, you will also find the deposited inorganic crystal structure data sets in this database, with a short production-dependent delay. The records in ICSD are produced from the original publication and the deposited data and have the advantage of having undergone additional checking.</ns0:remarks>
+        <ns0:entryDate>2014-04-12</ns0:entryDate>
+        <ns0:lastUpdate>2021-05-05</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

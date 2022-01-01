@@ -1,0 +1,110 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010270</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Landesarchiv Baden-W&#252;rttemberg</ns0:repositoryName>
+                    <ns0:additionalName language="deu">Landesarchiv Baden-W&#252;rttemberg</ns0:additionalName>
+                    <ns0:additionalName language="deu">la-bw</ns0:additionalName>
+                <ns0:repositoryURL>https://www.landesarchiv-bw.de/web/49435</ns0:repositoryURL>
+                <ns0:description language="eng">As cultural competence center for the region, the Landesarchiv serves as the repository for records of cultural and historical value and assures the access of archives in Baden-Wuerttemberg as part of the cultural heritage. It identifies, collects, and preserves state records and makes them available to all those who are interested in historical records.
+The Landesarchiv houses archival collections ranging from deeds from the Middle Ages to digital sources of our time (databases, e-mails, internet pages). The Landesarchiv has already been providing diversified access to archival collections via internet and is actively working on research and presentation of the history of Southwest Germany.
+The archival collections of the Landesarchiv convey the cultural and historical diversity in Southwest Germany. Each holding is unique and characterizes the distinctive history of the people and the region.
+This makes the Landesarchiv an irreplaceable reservoir of knowledge and experience with remarkable quantitative dimensions: The Landesarchiv houses about 146 shelf kilometers of documents and books, 310 thousand charters as well as 350 thousand maps and plans completed with photographs and audio-visual records. Electronic data are stored in the digital stack of the Landesarchiv.</ns0:description>
+                    <ns0:repositoryContact>landesarchiv@la-bw.de</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2019-06-04">152 Regalkilometer Akten und B&#228;nde, 310.000 Urkunden, 350.000 Karten und Pl&#228;ne</ns0:size>
+        <ns0:startDate>2005</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>deu</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">111 Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11102 Empirical Social Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">12 Social and Behavioural Sciences</ns0:subject>
+                <ns0:missionStatementURL>https://www.landesarchiv-bw.de/web/49622</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Archived data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>Baden-W&#252;rttemberg</ns0:keyword>
+                    <ns0:keyword>analysis</ns0:keyword>
+                    <ns0:keyword>archiving</ns0:keyword>
+                    <ns0:keyword>digitization</ns0:keyword>
+                    <ns0:keyword>inventory</ns0:keyword>
+                    <ns0:keyword>regional history</ns0:keyword>
+                    <ns0:keyword>southwest Germany</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="deu">Landesarchiv Baden-W&#252;rttemberg</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="deu">la-bw</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.landesarchiv-bw.de/web/48823</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.landesarchiv-bw.de/web/48099</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="deu">Ministerium f&#252;r Wissenschaft, Forschung und Kunst</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="deu">MWK</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://mwk.baden-wuerttemberg.de/de/startseite/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://mwk.baden-wuerttemberg.de/de/service/kontakt/</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Download und Weitergabe</ns0:policyName>
+                <ns0:policyURL>https://www.landesarchiv-bw.de/web/54580</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Rechtsgrundlagen</ns0:policyName>
+                <ns0:policyURL>https://www.landesarchiv-bw.de/web/46788</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                    <ns0:databaseLicense>
+                <ns0:databaseLicenseName>CC0</ns0:databaseLicenseName>
+                <ns0:databaseLicenseURL>https://creativecommons.org/publicdomain/zero/1.0/deed.de</ns0:databaseLicenseURL>
+            </ns0:databaseLicense>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>feeRequired</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/licenses/by/3.0/deed.de</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.landesarchiv-bw.de/web/54580#57844</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>other</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://www.landesarchiv-bw.de/sixcms/media.php/120/54556/Hinweise%20und%20Beispiele%20zu%20den%20archivischen%20Auflagen-ZitierregelnLABW.pdf</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                    <ns0:syndication syndicationType="RSS">https://www.landesarchiv-bw.de/rss/rss.xml</ns0:syndication>
+                <ns0:remarks />
+        <ns0:entryDate>2013-05-08</ns0:entryDate>
+        <ns0:lastUpdate>2019-06-04</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

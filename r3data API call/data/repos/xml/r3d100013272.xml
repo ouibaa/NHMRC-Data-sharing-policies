@@ -1,0 +1,123 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100013272</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">ReefTEMPS</ns0:repositoryName>
+                    <ns0:additionalName language="fra">Portail d'information du r&#233;seau R&#233;seau d'observation des eaux c&#244;ti&#232;res du Pacifique insulaire</ns0:additionalName>
+                <ns0:repositoryURL>http://www.reeftemps.science/en/home/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>FAIRsharing_DOI:10.25504/FAIRsharing.5ftlhl</ns0:repositoryIdentifier>
+                <ns0:description language="eng">ReefTEMPS is a temperature, pressure, salinity and other observables sensor network in coastal area of South, West and South West of Pacific ocean, driven by UMR ENTROPIE. It is an observatory service from the French national research infrastructure ILICO for &#8220;coastal environments&#8221;. Some of the network&#8217;s sensors have been deployed since 1958. Nearly hundred sensors are actually deployed in 14 countries covering an area of more than 8000 km from East to West. The data are acquired at different rates (from 1sec to 30 mn) depending on sensors and sites. They are processed and described using Climate and Forecast Metadata Convention at the end of oceanographic campaigns organized for sensors replacement every 6 months to 2 years.</ns0:description>
+                    <ns0:repositoryContact>contact@reeftemps.science</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2020-04-08">204 datasets; 116 platforms</ns0:size>
+        <ns0:startDate>2011</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>fra</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">318 Water Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31801 Hydrogeology, Hydrology, Limnology, Urban Water Management, Water Chemistry, Integrated Water Resources Management</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL>http://www.reeftemps.science/en/home/#objectives</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>FAIR</ns0:keyword>
+                    <ns0:keyword>conductivity</ns0:keyword>
+                    <ns0:keyword>fluorescence</ns0:keyword>
+                    <ns0:keyword>pressure</ns0:keyword>
+                    <ns0:keyword>salinity</ns0:keyword>
+                    <ns0:keyword>sea pressure</ns0:keyword>
+                    <ns0:keyword>sea temperature</ns0:keyword>
+                    <ns0:keyword>significant wave height</ns0:keyword>
+                    <ns0:keyword>surface winds</ns0:keyword>
+                    <ns0:keyword>swell</ns0:keyword>
+                    <ns0:keyword>temperature</ns0:keyword>
+                    <ns0:keyword>turbidity</ns0:keyword>
+                    <ns0:keyword>wind waves</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Institute of Research for the Development</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">IRD</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="fra">Institut de Recherche pour le D&#233;veloppement</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">Noumea IRD Center</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>FRA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://nouvelle-caledonie.ird.fr/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:01j4h9t83</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Pacific Community</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">SPC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>AAA</ns0:institutionCountry>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.spc.int/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:05ewdm369</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">The University of the South Pacific</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">USP</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>FJI</ns0:institutionCountry>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.usp.ac.fj/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of New Caledonia</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">UNC</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="fra">Universit&#233; de la Nouvelle-Cal&#233;donie</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>NCL</ns0:institutionCountry>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.univ-nc.nc/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:02jrgcx64</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                        <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://creativecommons.org/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>other</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                    <ns0:api apiType="NetCDF">http://www.reeftemps.science/thredds/catalog/reeftemps/catalog.html</ns0:api>
+                    <ns0:api apiType="OpenDAP">http://www.reeftemps.science/thredds/catalog/reeftemps/catalog.html</ns0:api>
+                    <ns0:api apiType="REST">http://sosoceano.ird.nc/service</ns0:api>
+                    <ns0:api apiType="REST">https://www.ogc.org/standards/sensorthings</ns0:api>
+                    <ns0:api apiType="SOAP">http://sosoceano.ird.nc/service</ns0:api>
+                    <ns0:api apiType="SOAP">http://reeftemps.science/geoserver/wfs?</ns0:api>
+                    <ns0:api apiType="SOAP">http://reeftemps.science/geoserver/wms?</ns0:api>
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>no</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">ISO 19115</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/iso-19115</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                            <ns0:syndication syndicationType="other">http://dboceano.ird.nc/dboceano/stream.xml</ns0:syndication>
+                <ns0:remarks />
+        <ns0:entryDate>2020-03-30</ns0:entryDate>
+        <ns0:lastUpdate>2021-11-16</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

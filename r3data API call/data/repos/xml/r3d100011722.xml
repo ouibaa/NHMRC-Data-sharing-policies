@@ -1,0 +1,129 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011722</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">ERDDAP</ns0:repositoryName>
+                    <ns0:additionalName language="eng">Environmental Research Division's Data Access Program</ns0:additionalName>
+                <ns0:repositoryURL>https://coastwatch.pfeg.noaa.gov/erddap/index.html</ns0:repositoryURL>
+                <ns0:description language="eng">ERDDAP is a data server that gives you a simple, consistent way to download subsets of gridded and tabular scientific datasets in common file formats and make graphs and maps. This particular ERDDAP installation has oceanographic data (for example, data from satellites and buoys).</ns0:description>
+                    <ns0:repositoryContact>bob.simons@noaa.gov</ns0:repositoryContact>
+                    <ns0:repositoryContact>https://coastwatch.pfeg.noaa.gov/erddap/legal.html#contact</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2018-12-19">1.431 datasets</ns0:size>
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31302 Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">315 Geophysics and Geodesy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31502 Geodesy, Photogrammetry, Remote Sensing, Geoinformatics, Cartogaphy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL>https://catalog.data.gov/dataset/environmental-reasearch-divisions-data-access-program-erddap</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>atmosphere</ns0:keyword>
+                    <ns0:keyword>buoys</ns0:keyword>
+                    <ns0:keyword>gridded datasets</ns0:keyword>
+                    <ns0:keyword>ocean</ns0:keyword>
+                    <ns0:keyword>remote sensing</ns0:keyword>
+                    <ns0:keyword>satellites</ns0:keyword>
+                    <ns0:keyword>tabular datasets</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">NOAA Fisheries Service&#8217;s Southwest Fisheries Science Center</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">SWFSC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://swfsc.noaa.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://swfsc.noaa.gov/index.aspx?id=966&amp;ParentMenuId=6</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">NOAA Fisheries Service&#8217;s Southwest Fisheries Science Center, Environmental Research Division</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">ERD</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://swfsc.noaa.gov/textblock.aspx?Division=ERD&amp;id=1315&amp;ParentMenuId=200</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">NOAA's National Marine Fisheries Service</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NMFS</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">NOAA Fisheries</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.nmfs.noaa.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.nmfs.noaa.gov/aboutus/contactus.html</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Oceanic and Atmospheric Administration</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NOAA</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.noaa.gov/index.html</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Data Licenses / Data Usage Restrictions</ns0:policyName>
+                <ns0:policyURL>https://coastwatch.pfeg.noaa.gov/erddap/legal.html</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://opendefinition.org/licenses/cc-by/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://coastwatch.pfeg.noaa.gov/erddap/legal.html</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://coastwatch.pfeg.noaa.gov/erddap/legal.html#dataLicenses</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>other</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                    <ns0:api apiType="OpenDAP">https://coastwatch.pfeg.noaa.gov/erddap/griddap/documentation.html</ns0:api>
+                    <ns0:api apiType="OpenDAP">https://coastwatch.pfeg.noaa.gov/erddap/tabledap/documentation.html</ns0:api>
+                    <ns0:api apiType="REST">https://coastwatch.pfeg.noaa.gov/erddap/rest.html</ns0:api>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">FGDC/CSDGM - Federal Geographic Data Committee Content Standard for Digital Geospatial Metadata</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/fgdccsdgm-federal-geographic-data-committee-content-standard-digital-ge</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                    <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">ISO 19115</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/iso-19115</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks>CoastWatch has expanded from POES/AVHRR SST data for the East Coast to providing a variety of environmental data (i.e. SST, ocean color, winds, etc.) from several different satellite platforms covering all U.S. coastal waters, including Hawaii and Alaska. Today, sea surface temperature maps support meteorological weather predictions and also support commercial and recreational activities (e.g., fishing). Biologists utilize ocean color radiometry data and derived chlorophyll-a and total suspended matter/turbidity products to identify runoff plumes and blooms and also predict HABs; and sailors and commercial shipping pilots use ocean surface vector winds for safe navigation.</ns0:remarks>
+        <ns0:entryDate>2016-03-02</ns0:entryDate>
+        <ns0:lastUpdate>2021-07-20</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

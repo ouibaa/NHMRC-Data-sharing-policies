@@ -1,0 +1,125 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012078</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">SOL Genomics Network</ns0:repositoryName>
+                    <ns0:additionalName language="eng">SGN</ns0:additionalName>
+                    <ns0:additionalName language="eng">Solanaceae Genomics Network</ns0:additionalName>
+                <ns0:repositoryURL>https://solgenomics.net/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.3zqvaf</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:SCR_004933</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:nlx_89764</ns0:repositoryIdentifier>
+                <ns0:description language="eng">The Sol Genomics Network (SGN) is a clade-oriented database dedicated to the biology of the Solanaceae family which includes a large number of closely related and many agronomically important species such as tomato, potato, tobacco, eggplant, pepper, and the ornamental Petunia hybrida.
+SGN is part of the International Solanaceae Initiative (SOL), which has the long-term goal of creating a network of resources and information to address key questions in plant adaptation and diversification</ns0:description>
+                    <ns0:repositoryContact>https://solgenomics.net/contact/form</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">202 Plant Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20207 Plant Genetics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                <ns0:missionStatementURL>https://solgenomics.net/about/index.pl</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Software applications</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>EST</ns0:keyword>
+                    <ns0:keyword>Solanaceae</ns0:keyword>
+                    <ns0:keyword>chromosome</ns0:keyword>
+                    <ns0:keyword>eggplant</ns0:keyword>
+                    <ns0:keyword>gene</ns0:keyword>
+                    <ns0:keyword>mRNA</ns0:keyword>
+                    <ns0:keyword>molecular biology</ns0:keyword>
+                    <ns0:keyword>pepper</ns0:keyword>
+                    <ns0:keyword>potato</ns0:keyword>
+                    <ns0:keyword>protein</ns0:keyword>
+                    <ns0:keyword>sequencing</ns0:keyword>
+                    <ns0:keyword>tomato</ns0:keyword>
+                    <ns0:keyword>unigenes</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Boyce Thompson Institute</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">BTI</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://btiscience.org/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>RRID:SCR_010716</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_89613</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Science Foundation</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NSF</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.nsf.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">SOL Genomics Network Community</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">SGN</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://solgenomics.net/search/people</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">United States Department of Agriculture</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">USDA</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.usda.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Legal</ns0:policyName>
+                <ns0:policyURL>https://solgenomics.net/legal.pl</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Tomato Genome Project - clone distribution policy</ns0:policyName>
+                <ns0:policyURL>https://solgenomics.net/help/clone_policy</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://solgenomics.net/legal.pl</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>Become SGN Editor</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>https://solgenomics.net/phenome/index.pl</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                            <ns0:software>
+                <ns0:softwareName>other</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                    <ns0:api apiType="FTP">ftp://ftp.sgn.cornell.edu/</ns0:api>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://solgenomics.net/help/index.pl</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                <ns0:remarks />
+        <ns0:entryDate>2016-07-26</ns0:entryDate>
+        <ns0:lastUpdate>2021-10-08</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

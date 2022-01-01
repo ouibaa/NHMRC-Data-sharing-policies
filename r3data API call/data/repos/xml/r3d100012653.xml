@@ -1,0 +1,95 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012653</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">National Institute of Mental Health Data Archive</ns0:repositoryName>
+                    <ns0:additionalName language="eng">NDA</ns0:additionalName>
+                    <ns0:additionalName language="eng">NIMH Data Archive</ns0:additionalName>
+                <ns0:repositoryURL>https://nda.nih.gov/</ns0:repositoryURL>
+                <ns0:description language="eng">The National Institute of Mental Health Data Archive (NDA) makes available human subjects data collected from hundreds of research projects across many scientific domains. The NDA provides infrastructure for sharing research data, tools, methods, and analyses enabling collaborative science and discovery. De-identified human subjects data, harmonized to a common standard, are available to qualified researchers.  Summary data is available to all.
+The primary point of entry to the NDA is currently through the National Database for Autism Research (NDAR) website, which serves the autism research community.  All NDA repositories can be accessed through this website for data contribution and querying with other scientific communities, allowing for aggregation and secondary analysis of data.</ns0:description>
+                    <ns0:repositoryContact>NDAHelp@mail.nih.gov</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2019-11-30">6 databases</ns0:size>
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">206 Neurosciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20604 Systemic Neuroscience, Computational Neuroscience, Behaviour</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20606 Cognitive Neuroscience and Neuroimaging</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                <ns0:missionStatementURL>https://nda.nih.gov/about/about-us.html</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Databases</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                            <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>Adolescent Brain</ns0:keyword>
+                    <ns0:keyword>Connectome Coordination</ns0:keyword>
+                    <ns0:keyword>EEG</ns0:keyword>
+                    <ns0:keyword>Eye Tracking</ns0:keyword>
+                    <ns0:keyword>Osteoarthritis</ns0:keyword>
+                    <ns0:keyword>Research Domain Criteria</ns0:keyword>
+                    <ns0:keyword>autism</ns0:keyword>
+                    <ns0:keyword>fMRI</ns0:keyword>
+                    <ns0:keyword>mental illness</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">National Institutes of Health, National Institute of Mental Health</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NIMH</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.nimh.nih.gov/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>RRID:SCR_011431</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Data Contribution / Cost Estimation</ns0:policyName>
+                <ns0:policyURL>https://nda.nih.gov/contribute/contribute-data.html#cost</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>NIMH Sharing policies</ns0:policyName>
+                <ns0:policyURL>https://nda.nih.gov/contribute/sharing-regimen.html</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Policy for the NIMH Data Archive (NDA)</ns0:policyName>
+                <ns0:policyURL>https://s3.amazonaws.com/nda.nih.gov/Documents/NIMH+Data+Archive+Policy.pdf</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>embargoed</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>other</ns0:dataAccessRestriction>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://s3.amazonaws.com/nda.nih.gov/Documents/NIMH+Data+Archive+Policy.pdf</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>feeRequired</ns0:dataUploadRestriction>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>Data Submission agreement</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>https://ndar.nih.gov/ndarpublicweb/Documents/NDAR+Submission+Request.pdf</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                            <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                    <ns0:api apiType="REST">https://nda.nih.gov/abcd/query/api.html</ns0:api>
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://ndar.nih.gov/ndarpublicweb/Documents/NDAR+Data+Access+Request+DUC+FINAL.pdf</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks />
+        <ns0:entryDate>2018-04-30</ns0:entryDate>
+        <ns0:lastUpdate>2021-10-08</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

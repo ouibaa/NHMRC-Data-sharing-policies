@@ -1,0 +1,149 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010268</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Incorporated Research Institutions for Seismology</ns0:repositoryName>
+                    <ns0:additionalName language="eng">IRIS</ns0:additionalName>
+                <ns0:repositoryURL>https://www.iris.edu/hq/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.x9rqf7</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>ROR:05xkn9s74</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:SCR_002201</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:nlx_154710</ns0:repositoryIdentifier>
+                <ns0:description language="eng">IRIS offers free and open access to a comprehensive data store of raw geophysical time-series data collected from a large variety of sensors, courtesy of a vast array of US and International scientific networks, including seismometers (permanent and temporary), tilt and strain meters, infrasound, temperature, atmospheric pressure and gravimeters, to support basic research aimed at imaging the Earth's interior.</ns0:description>
+                    <ns0:repositoryContact>webmaster@iris.edu</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                    <ns0:type>institutional</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>1984</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">315 Geophysics and Geodesy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31501 Geophysics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL>https://www.iris.edu/hq/about_iris#mission-statement</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Archived data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Audiovisual data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Software applications</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>earthquake</ns0:keyword>
+                    <ns0:keyword>field experimentation</ns0:keyword>
+                    <ns0:keyword>polar</ns0:keyword>
+                    <ns0:keyword>seismic data</ns0:keyword>
+                    <ns0:keyword>seismology</ns0:keyword>
+                    <ns0:keyword>strain meter</ns0:keyword>
+                    <ns0:keyword>tilt meter</ns0:keyword>
+                    <ns0:keyword>tsunami</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">EarthCube Council of Data Facilities</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">CDF</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.earthcube.org/council-of-data-facilitiess</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.earthcube.org/contact/General-Inquiries</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">IRIS Data Management Center</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">IRIS DMC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://ds.iris.edu/ds/nodes/dmc/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>1984</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>tim@iris.washington.edu</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">IRIS Member Institutions</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.iris.edu/hq/about_iris/membership/member_institutions</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>1984</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.iris.edu/hq/contact</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Science Foundation</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NSF</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.nsf.gov/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:021nxhr62</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.nsf.gov/help/contact.jsp</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>CoreTrustSeal asessment IRIS</ns0:policyName>
+                <ns0:policyURL>https://www.coretrustseal.org/wp-content/uploads/2020/12/Incorporated-Research-Institutions-for-Seismology-IRIS.pdf</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Expectations regarding real time data</ns0:policyName>
+                <ns0:policyURL>http://ds.iris.edu/ds/nodes/dmc/services/seedlink/</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Guidelines for Preparing Data Management Plans</ns0:policyName>
+                <ns0:policyURL>http://ds.iris.edu/data/pdf/NSF_Data_Management_Plans.pdf</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Release of Restricted Data</ns0:policyName>
+                <ns0:policyURL>http://ds.iris.edu/data/pdf/DMC_RestrictedDataRelease.pdf</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/licenses/by/4.0/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>CC0</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/publicdomain/zero/1.0/deed.de</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>Data providers agreement</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>https://ds.iris.edu/files/documents/Data_Provider_Agreement.pdf</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                    <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>Submitting Data</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>http://ds.iris.edu/ds/nodes/dmc/data/submitting/</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                        <ns0:versioning />
+                    <ns0:api apiType="FTP">http://ds.iris.edu/pub/</ns0:api>
+                    <ns0:api apiType="REST">https://service.iris.edu/</ns0:api>
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://www.iris.edu/hq/iris_citations#citation-howto</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                    <ns0:certificate>other</ns0:certificate>
+                                    <ns0:syndication syndicationType="RSS">http://www.iris.edu/hq/rss/calendar</ns0:syndication>
+                    <ns0:syndication syndicationType="RSS">http://www.iris.edu/hq/rss/retm</ns0:syndication>
+                <ns0:remarks>Incorporated Research Institutions for Seismology is covered by Clarivate Data Citation Index. IRIS is a consortium of over 100 US universities dedicated to the operation of science facilities for the acquisition, management, and distribution of seismological data. IRIS programs contribute to scholarly research, education, earthquake hazard mitigation, and the verification of a Comprehensive Test Ban Treaty.</ns0:remarks>
+        <ns0:entryDate>2013-05-02</ns0:entryDate>
+        <ns0:lastUpdate>2021-08-25</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

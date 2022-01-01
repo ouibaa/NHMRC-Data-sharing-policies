@@ -1,0 +1,117 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010349</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Association of Religion Data Archives</ns0:repositoryName>
+                    <ns0:additionalName language="eng">ARDA</ns0:additionalName>
+                <ns0:repositoryURL>https://www.thearda.com/</ns0:repositoryURL>
+                <ns0:description language="eng">The Association of Religion Data Archives (ARDA) strives to democratize access to the best data on religion. Founded as the American Religion Data Archive in 1997 and going online in 1998, the initial archive was targeted at researchers interested in American religion. The targeted audience and the data collection have both greatly expanded since 1998, now including American and international collections and developing features for educators, journalists, religious congregations, and researchers. Data included in the ARDA are submitted by the foremost religion scholars and research centers in the world.</ns0:description>
+                    <ns0:repositoryContact>support@thearda.com</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>1998</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">106 Non-European Languages and Cultures, Social and Cultural Anthropology, Jewish Studies and Religious Studies</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">10605 Religious Studies and Jewish Studies</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">107 Theology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11 Humanities</ns0:subject>
+                <ns0:missionStatementURL>https://www.thearda.com/about/</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>Adventist</ns0:keyword>
+                    <ns0:keyword>Baptist</ns0:keyword>
+                    <ns0:keyword>Episcopalianism</ns0:keyword>
+                    <ns0:keyword>Islam</ns0:keyword>
+                    <ns0:keyword>Judaism</ns0:keyword>
+                    <ns0:keyword>Latter-day-Saints</ns0:keyword>
+                    <ns0:keyword>Lutheran</ns0:keyword>
+                    <ns0:keyword>Methodist</ns0:keyword>
+                    <ns0:keyword>Orthodox</ns0:keyword>
+                    <ns0:keyword>Pentecostal</ns0:keyword>
+                    <ns0:keyword>Presbyterian-Reformed</ns0:keyword>
+                    <ns0:keyword>catholics</ns0:keyword>
+                    <ns0:keyword>protestants</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Chapman University</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.chapman.edu/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:0452jzg20</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">John Templeton Foundation</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.templeton.org/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:035tnyy05</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Lilly Endowment, Inc.</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>commercial</ns0:institutionType>
+                <ns0:institutionURL>https://lillyendowment.org/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:00cpsd622</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">The Pennsylvania State University, Department of Sociology and Criminology</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Penn State</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://sociology.la.psu.edu/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>contact@thearda.com</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">The Pennsylvania State University, Social Science Research Institute</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Penn State</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://ssri.psu.edu/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                        <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.thearda.com/about/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://www.thearda.com/FAQ/#q11</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                    <ns0:syndication syndicationType="RSS">http://blogs.thearda.com/trend/feed/</ns0:syndication>
+                <ns0:remarks>Association of Religion Data Archives is covered by Thomson Reuters Data Citation Index.</ns0:remarks>
+        <ns0:entryDate>2013-04-11</ns0:entryDate>
+        <ns0:lastUpdate>2021-07-26</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

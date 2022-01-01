@@ -1,0 +1,131 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012121</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Square Kilometre Array</ns0:repositoryName>
+                    <ns0:additionalName language="eng">SKA Telescope</ns0:additionalName>
+                <ns0:repositoryURL>https://www.skatelescope.org/ska-site-raw-data/</ns0:repositoryURL>
+                <ns0:description language="eng">The Square Kilometre Array (SKA) is a radio telescope with around one million square metres of collecting area, designed to study the Universe with unprecedented speed and sensitivity.
+The SKA is not a single telescope, but a collection of various types of antennas, called an array, to be spread over long distances.
+The SKA will be used to answer fundamental questions of science and about the laws of nature, such as: how did the Universe, and the stars and galaxies contained in it, form and evolve? Was Einstein&#8217;s theory of relativity correct? What is the nature of &#8216;dark matter&#8217; and &#8216;dark energy&#8217;? What is the origin of cosmic magnetism? Is there life somewhere else in the Universe?</ns0:description>
+                    <ns0:repositoryContact>enquiries@skatelescope.org</ns0:repositoryContact>
+                    <ns0:repositoryContact>https://www.skatelescope.org/contact/</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">307 Condensed Matter Physics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">308 Optics, Quantum Optics and Physics of Atoms, Molecules and Plasmas</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">30801 Optics, Quantum Optics, Atoms, Molecules, Plasmas</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">311 Astrophysics and Astronomy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31101 Astrophysics and Astronomy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31301 Atmospheric Science</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">32 Physics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL>https://www.skatelescope.org/project/</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Archived data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>Australia</ns0:keyword>
+                    <ns0:keyword>HI galaxy science</ns0:keyword>
+                    <ns0:keyword>Shared Sky</ns0:keyword>
+                    <ns0:keyword>Southern Africa</ns0:keyword>
+                    <ns0:keyword>cosmology</ns0:keyword>
+                    <ns0:keyword>galaxy</ns0:keyword>
+                    <ns0:keyword>heliospheric physics</ns0:keyword>
+                    <ns0:keyword>high energy cosmic particles</ns0:keyword>
+                    <ns0:keyword>ionospheric physics</ns0:keyword>
+                    <ns0:keyword>pulsars</ns0:keyword>
+                    <ns0:keyword>radio astronomy</ns0:keyword>
+                    <ns0:keyword>solar physics</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Australian Government, Department of Industry and Science, Australian SKA Office</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">SKA Australia</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>AUS</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.ska.gov.au/Pages/default.aspx</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.ska.gov.au/Pages/Contact.aspx</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Jodrell Bank Observatory, Square Kilometre Array Headquater</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">SKA HQ</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>GBR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.skatelescope.org/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.skatelescope.org/contact/</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Research Foundation, SKA South Africa</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">SKA Africa</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">SKA SA</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">SKA South Africa</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>ZAF</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.ska.ac.za/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.ska.ac.za/contact/</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">SKA Organisation</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">SKAO</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>AAA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.skatelescope.org/participating-countries/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.skatelescope.org/contact/</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>SKA Intellectual Property</ns0:policyName>
+                <ns0:policyURL>https://www.skatelescope.org/wp-content/uploads/2011/03/SKA-GOV.POL-SKO-POL-001_IPpolicyRevX.pdf</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Terms of use for multimedia data</ns0:policyName>
+                <ns0:policyURL>https://www.skatelescope.org/copyright/</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/licenses/by/3.0/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.skatelescope.org/copyright/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                <ns0:versioning />
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                    <ns0:syndication syndicationType="RSS">http://feeds.feedburner.com/SkaTelescope</ns0:syndication>
+                <ns0:remarks>The description and theory of the approach used to calibrate the data for the site selection process is available: https://www.skatelescope.org/wp-content/uploads/2012/06/78_SKAmon.main_v0.5.pdf</ns0:remarks>
+        <ns0:entryDate>2016-08-18</ns0:entryDate>
+        <ns0:lastUpdate>2021-07-20</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

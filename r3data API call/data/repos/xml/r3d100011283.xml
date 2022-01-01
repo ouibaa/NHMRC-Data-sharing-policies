@@ -1,0 +1,85 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011283</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">History of Marine Animal Populations</ns0:repositoryName>
+                    <ns0:additionalName language="eng">HMAP Data Pages</ns0:additionalName>
+                <ns0:repositoryURL>https://hydra.hull.ac.uk/resources?utf8=%E2%9C%93&amp;search_field=all_fields&amp;q=hmap</ns0:repositoryURL>
+                <ns0:description language="eng">The HMAP Data Pages are a research resource comprising of information derived largely from historical records relating to fishing catches and effort in selected spatial and temporal contexts.
+The History of Marine Animal Populations (HMAP), the historical component of the Census of Marine Life, aimed to improve our understanding of ecosystem dynamics, specifically with regard to long-term changes in stock abundance, the ecological impact of large-scale harvesting by man, and the role of marine resources in the historical development of human society.
+HMAP data is also accessible through the Ocean Biogeographic Information System (OBIS): http://www.iobis.org/, see also: http://seamap.env.duke.edu/dataset</ns0:description>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2020-04-30">22 datasets</ns0:size>
+        <ns0:startDate>2002-01-31</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">102 History</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11 Humanities</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">203 Zoology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20303 Animal Ecology, Biodiversity and Ecosystem Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31302 Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL>https://www.tcd.ie/history/opi/hmap.php</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Databases</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>fishery</ns0:keyword>
+                    <ns0:keyword>marine environment</ns0:keyword>
+                    <ns0:keyword>maritime historical studies</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">University of Hull, Hull History Centre</ns0:institutionName>
+                                <ns0:institutionCountry>GBR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.hullhistorycentre.org.uk/home.aspx</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:014d1nq39</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.hullhistorycentre.org.uk/visit-us/planning-your-visit/contact-details.aspx</ns0:institutionContact>
+                                    <ns0:institutionContact>hullhistorycentre@hcandl.co.uk</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Terms and Conditions for the University of Hull Website</ns0:policyName>
+                <ns0:policyURL>http://www.hull.ac.uk/Legal/Terms-and-conditions.aspx</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/licenses/by-nc-sa/2.0/uk/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www.hull.ac.uk/Legal/Terms-and-conditions.aspx</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                <ns0:versioning>no</ns0:versioning>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>no</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">Dublin Core</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks>History of Marine Animal Populations is covered by Thomson Reuters Data Citation Index. 
+Datasets are available at Hydra, University of Hull's repository https://hydra.hull.ac.uk/resources/hull:HMAPDisplaySet.  The website of the project does not exist anymore.
+HMAP Collection  at PLOS: http://collections.plos.org/hmap</ns0:remarks>
+        <ns0:entryDate>2014-11-27</ns0:entryDate>
+        <ns0:lastUpdate>2020-04-30</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

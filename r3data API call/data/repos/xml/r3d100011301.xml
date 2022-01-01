@@ -1,0 +1,116 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011301</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Plant Transcription Factor Database</ns0:repositoryName>
+                    <ns0:additionalName language="eng">PlantTFDB</ns0:additionalName>
+                <ns0:repositoryURL>http://planttfdb.cbi.pku.edu.cn/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.ex3fqk</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>OMICS_00560</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:SCR_003362</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:nif-0000-03311</ns0:repositoryIdentifier>
+                <ns0:description language="eng">Species included in PlantTFDB 4.0 covers the main lineages of green plants. Therefore, PlantTFDB provides genomic TF repertoires across Viridiplantae. To provide comprehensive information for the TF family, a brief introduction and key references are presented for each family. Comprehensive annotations are made for each identified TF, including functional domains, 3D structures, gene ontology (GO), plant ontology (PO), expression information, expert-curated functional description, regulation information, interaction, conserved elements, references, and annotations in various databases such as UniProt, RefSeq, TransFac, STRING, and VISTA.
+By inferring orthologous groups and constructing phylogenetic trees, evolutionary relationships among identified TFs were inferred. In addition, PlantTFDB has a simple and user-friendly interface to allow users to query based on combined conditions or make sequence similarity search using BLAST.</ns0:description>
+                    <ns0:repositoryContact>english@moe.edu.cn</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2018-12-06">320.370 transcription factors; 165 species; 58 families</ns0:size>
+        <ns0:startDate>2010</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">201 Basic Biological and Medical Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20107 Bioinformatics and Theoretical Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">202 Plant Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20207 Plant Genetics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                <ns0:missionStatementURL>http://planttfdb.cbi.pku.edu.cn/aboutus.php</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Archived data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>BLAST</ns0:keyword>
+                    <ns0:keyword>genome sequences</ns0:keyword>
+                    <ns0:keyword>life sciences</ns0:keyword>
+                    <ns0:keyword>miRNA</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Ministry of Education of the Peoples's Republic of China</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="zho">&#22269;&#23478;&#33258;&#28982;&#31185;&#23398;&#22522;&#37329;&#22996;&#21592;&#20250; &#20140;ICP&#22791;</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CHN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.moe.gov.cn/publicfiles/business/htmlfiles/moe/moe_2792/index.html</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>english@moe.edu.cn</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Basic Research Program of China</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">973 Program</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CHN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.most.gov.cn/eng/programmes1/200610/t20061009_36223.htm</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National High-tech R &amp; D Program</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">863 Program</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">HTRDP 863</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CHN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.most.gov.cn/eng/programmes1/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>program@most.cn</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Natural Science Foundation of China</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="zho">&#22269;&#23478;&#33258;&#28982;&#31185;&#23398;&#22522;&#37329;&#22996;&#21592;&#20250; &#20140;ICP&#22791;</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CHN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.nsfc.gov.cn/english/site_1/index.html</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>Bic@nsfc.gov.cn</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Peking University, Center for Bioinformatics</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">PKU CBI</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="zho">&#21271;&#22823;&#29983;&#29289;&#20449;&#24687;&#20013;&#24515;</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CHN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.cbi.pku.edu.cn/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.cbi.pku.edu.cn/people/cbifaculty/index.htm</ns0:institutionContact>
+                            </ns0:institution>
+                        <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://planttfdb.cbi.pku.edu.cn/index.php</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                    <ns0:api apiType="FTP">http://www.cbi.pku.edu.cn/download/index.htm</ns0:api>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>http://planttfdb.cbi.pku.edu.cn/aboutus.php</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                <ns0:remarks>Plant Transcription Factor Database is covered by Thomson Reuters Data Citation Index</ns0:remarks>
+        <ns0:entryDate>2014-11-27</ns0:entryDate>
+        <ns0:lastUpdate>2021-08-24</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

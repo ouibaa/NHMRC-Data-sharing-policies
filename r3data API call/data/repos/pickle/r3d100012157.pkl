@@ -1,0 +1,138 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012157</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Fairdata IDA Research Data Storage Service</ns0:repositoryName>
+                    <ns0:additionalName language="fin">Fairdata IDA - Tutkimusdatan s&#228;ilytyspalvelu</ns0:additionalName>
+                    <ns0:additionalName language="eng">IDA Research Data Storage Service</ns0:additionalName>
+                <ns0:repositoryURL>https://ida.fairdata.fi/login</ns0:repositoryURL>
+                <ns0:description language="eng">Fairdata IDA is a research data storage service that provides secure storage for research data.
+The Fairdata services are a group of nationally developed Finnish ICT services for managing research data, especially in the later phases of the research life cycle (sharing, publishing, and preserving). Development of research data management infrastructure has been identified as an important step in enabling implementation of the FAIR principles.
+The Fairdata services are funded by the Finnish Ministry of Education and Culture, and developed and maintained by CSC IT Center for Science. The services consist of the following service components: IDA &#8211; Research Data Storage; Etsin &#8211; Research Data Finder; Qvain &#8211; Research Dataset Metadata Tool; Metax &#8211; Metadata Warehouse; AVAA &#8211; Dynamic Data Publishing Platform and the Digital Preservation Service for Research Data (including management and packaging). The services also provide means for applying for and granting permits to use restricted access datasets.
+The service is offered free of charge for its users. The services are available to the research community in accordance with the applicable usage policy. Minedu offers access to research data storage service IDA to Finnish higher education institutions, state research institutes and projects funded by the Academy of Finland. Minedu may also grant separate access or storage capacity to the service. Finnish higher education institutions and research institutes may distribute IDA storage capacity to actors within the Finnish research system, within the limits of their usage shares.
+The service is intended for storing research data and materials related to it. The data stored in the service is available to all project users. The users mark their data to be persistently stored (&#8220;Frozen&#8221;) in the service. All project members may make the &#8220;Frozen&#8221; data and related metadata publicly accessible by using the other aforementioned Fairdata services. The data in the service is stored in Finland.
+IDA service stores the data stored by organisations projects continuously or until it&#8217;s transferred to digital preservation, provided that the Terms of Use are met. The owners of the data decide on the openness and usage policies for their own data.
+User organisations are offered support and guidance on using the service.</ns0:description>
+                    <ns0:repositoryContact>servicedesk@csc.fi</ns0:repositoryContact>
+                            <ns0:type>other</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2012-09-20</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>fin</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>swe</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">4 Engineering Sciences</ns0:subject>
+                <ns0:missionStatementURL>https://www.fairdata.fi/en/services/ida/</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Archived data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>AVAA</ns0:keyword>
+                    <ns0:keyword>Aila</ns0:keyword>
+                    <ns0:keyword>Digital Preservation Service for Research Data</ns0:keyword>
+                    <ns0:keyword>Doria</ns0:keyword>
+                    <ns0:keyword>Etsin</ns0:keyword>
+                    <ns0:keyword>FAIR</ns0:keyword>
+                    <ns0:keyword>Fairdata PAS</ns0:keyword>
+                    <ns0:keyword>Qvain</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Academy of Finland</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="swe">Finlands Akademi</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="fin">Suomen Akatemia</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>FIN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.aka.fi/en/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:05k73zm37</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:SCR_007394</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nif-0000-00434</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_27306</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">CSC - IT Center for Science Ltd</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="fin">CSC -Tieteen tietotekniikan keskus</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>FIN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.csc.fi/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR: 04m8m1253</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate>2012</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>servicedesk@csc.fi</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Ministry of Education and Culture</ns0:institutionName>
+                                <ns0:institutionCountry>FIN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://minedu.fi/OPM/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR: 02w52zt87</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate>2011</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Contracts and Privacy</ns0:policyName>
+                <ns0:policyURL>https://www.fairdata.fi/en/contracts-and-privacy/</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Research Data Storage Service Terms of Use</ns0:policyName>
+                <ns0:policyURL>https://www.fairdata.fi/en/ida-research-data-storage-service-terms-of-use/</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Terms and Policies</ns0:policyName>
+                <ns0:policyURL>https://www.fairdata.fi/en/terms-and-policies/</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>restricted</ns0:databaseAccessType>
+                            <ns0:databaseAccessRestriction>other</ns0:databaseAccessRestriction>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>closed</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>institutional membership</ns0:dataAccessRestriction>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/licenses/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.fairdata.fi/en/terms-and-policies/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>other</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                    <ns0:pidSystem>URN</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                    <ns0:aidSystem>ORCID</ns0:aidSystem>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">DCAT - Data Catalog Vocabulary</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dcat-data-catalog-vocabulary</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                    <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">DataCite Metadata Schema</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/datacite-metadata-schema</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks>Linked to the Fairdata metadata services and digital preservation service.</ns0:remarks>
+        <ns0:entryDate>2016-09-19</ns0:entryDate>
+        <ns0:lastUpdate>2020-07-14</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

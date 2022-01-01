@@ -1,0 +1,98 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010361</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">United States Transuranium &amp; Uranium Registries</ns0:repositoryName>
+                    <ns0:additionalName language="eng">USTUR</ns0:additionalName>
+                <ns0:repositoryURL>https://ustur.wsu.edu/</ns0:repositoryURL>
+                <ns0:description language="eng">The United States Transuranium &amp; Uranium Registries (USTUR) is a research program that studies actinide elements deposited within the human body &#8211; in persons with measurable, documented exposures to those elements.</ns0:description>
+                    <ns0:repositoryContact>https://ustur.wsu.edu/contactus/</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2006</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">205 Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20506 Pathology and Forensic Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20530 Radiology and Nuclear Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                <ns0:missionStatementURL>http://www.ustur.wsu.edu/Mission/index.html</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Databases</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>Americium</ns0:keyword>
+                    <ns0:keyword>National Human Radiobiology Tissue Repository - NHRTR</ns0:keyword>
+                    <ns0:keyword>Pathology Database</ns0:keyword>
+                    <ns0:keyword>Plutonium</ns0:keyword>
+                    <ns0:keyword>Thorium</ns0:keyword>
+                    <ns0:keyword>Uranium</ns0:keyword>
+                    <ns0:keyword>biological effects of actinides in humans</ns0:keyword>
+                    <ns0:keyword>pharmacy</ns0:keyword>
+                    <ns0:keyword>radiation damages</ns0:keyword>
+                    <ns0:keyword>radiochemical analyses</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Department of Energy, Office of Independent Enterprise Assessments</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">IEA</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://energy.gov/ea/office-enterprise-assessments</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Washington State University, College of Pharmacy</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">WSU</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.pharmacy.wsu.edu/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.ustur.wsu.edu/ContactUs/index.html</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Copyright Policy</ns0:policyName>
+                <ns0:policyURL>https://ucomm.wsu.edu/wsu-copyright-policy/</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Radiochemistry Policies &amp; Procedures Manual</ns0:policyName>
+                <ns0:policyURL>http://www.ustur.wsu.edu/PolicyProcedures/RadChemProcedures.html</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>University Data Policies</ns0:policyName>
+                <ns0:policyURL>http://public.wsu.edu/~forms/HTML/EPM/EP8_University_Data_Policies.htm</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>closed</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://public.wsu.edu/~forms/HTML/EPM/EP8_University_Data_Policies.htm#Access</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>institutional membership</ns0:dataUploadRestriction>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>http://www.ustur.wsu.edu/PolicyProcedures/RadChemProcedures.html</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                <ns0:remarks />
+        <ns0:entryDate>2013-03-30</ns0:entryDate>
+        <ns0:lastUpdate>2021-09-07</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

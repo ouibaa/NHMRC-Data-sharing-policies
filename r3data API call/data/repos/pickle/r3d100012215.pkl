@@ -1,0 +1,146 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012215</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">PRO-ACT</ns0:repositoryName>
+                    <ns0:additionalName language="eng">Pooled Resource Open-Access ALS Clinical Trials Database</ns0:additionalName>
+                <ns0:repositoryURL>https://nctu.partners.org/ProACT/</ns0:repositoryURL>
+                <ns0:description language="eng">The PRO-ACT platform houses the largest ALS clinical trials dataset ever created.  It is a powerful tool for biomedical researchers, statisticians, clinicians, or anyone else interested in "Big Data." PRO-ACT merges data from existing public and private clinical trials, generating an invaluable resource for the design of future ALS clinical trials. The database will also contribute to the identification of unique observations, novel correlations, and patterns of ALS disease progression, as well as a variety of still unconsidered analyses. More than 600,000 people around them world are battling ALS. The disease strikes indiscriminately, and typically patients will die within 2-5 years following diagnosis. Currently, there are no effective treatments or a cure for ALS. Users of PRO-ACT are helping to accelerate the discovery, development, and delivery of ALS treatments, which will provide hope to patients and their families.</ns0:description>
+                    <ns0:repositoryContact>https://nctu.partners.org/ProACT/Document/DisplayLatest/8</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2019-01-22">over 8500 ALS patient records from multiple completed clinical trials</ns0:size>
+        <ns0:startDate>2012</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">206 Neurosciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                <ns0:missionStatementURL>https://nctu.partners.org/ProACT/Document/DisplayLatest/5</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>Amyotrophic Lateral Sclerosis</ns0:keyword>
+                    <ns0:keyword>Lou Gehrig's disease</ns0:keyword>
+                    <ns0:keyword>clinical trial</ns0:keyword>
+                    <ns0:keyword>neurodegenerative illness</ns0:keyword>
+                    <ns0:keyword>psychometric assessment</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">ALS Therapy Alliance</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">ATA</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://alstherapyalliance.org/index.php</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://alstherapyalliance.org/index.php/contact-us.html</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Massachusetts General Hospital, Neurological Clinical Research Institute</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NCRI</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.ncrinstitute.org/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>ALSresearch@partners.org</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Northeast ALS Consortium</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NEALS</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">Northeast Amyotrophic Lateral Scierois Consortium</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.neals.org/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.neals.org/about-us/contact-us</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Novartis</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.novartis.com/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.novartis.com/about-us/contact</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Prize4Life</ns0:institutionName>
+                                <ns0:institutionCountry>ISR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.prize4life.org.il/en</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://prize4life.org.il/en/contact/</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Regeneron Pharmaceuticals, Inc</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.regeneron.com/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.regeneron.com/contact</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Sanofi</ns0:institutionName>
+                                <ns0:institutionCountry>FRA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://en.sanofi.com/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://en.sanofi.com/contact/contact.aspx</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Teva Pharmaceutical Industries, Ltd</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">TEVA</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>ISR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.tevapharm.com/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.tevapharm.com/contact_us/</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Terms and Conditions</ns0:policyName>
+                <ns0:policyURL>https://nctu.partners.org/ProACT/Document/DisplayLatest/1</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://nctu.partners.org/ProACT/Document/DisplayLatest/1</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://nctu.partners.org/ProACT/Document/DisplayLatest/6</ns0:citationGuidelineURL>
+                    <ns0:aidSystem>none</ns0:aidSystem>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                <ns0:remarks />
+        <ns0:entryDate>2016-11-08</ns0:entryDate>
+        <ns0:lastUpdate>2019-01-22</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

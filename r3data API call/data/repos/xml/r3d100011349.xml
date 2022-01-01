@@ -1,0 +1,139 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011349</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="deu">Europ&#228;ische Geschichte Online</ns0:repositoryName>
+                    <ns0:additionalName language="deu">EGO</ns0:additionalName>
+                    <ns0:additionalName language="eng">European History Online</ns0:additionalName>
+                <ns0:repositoryURL>http://www.ieg-ego.eu</ns0:repositoryURL>
+                <ns0:description language="eng">EGO examines 500 years of modern European history by transcending national, disciplinary and methodological boundaries. Ten thematic threads tie together processes of intercultural exchange whose influence extended beyond national and cultural borders. These range from religion, politics, science and law to art and music, as well as to the economy, technology and the military. EGO employs the newest research to present European transfer processes comprehensively in a way that is easy to understand. The articles link to images, sources, statistics, animated and interactive maps, and audio and visual clips. EGO thereby takes full advantage of the Internet's multi-media potential.</ns0:description>
+                    <ns0:repositoryContact>http://ieg-ego.eu/en/ego/contact</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2007</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>deu</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">102 History</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">10203 Modern and Current History</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">10204 History of Science</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">103 Fine Arts, Music, Theatre and Media Studies</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">10301 Art History</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">106 Non-European Languages and Cultures, Social and Cultural Anthropology, Jewish Studies and Religious Studies</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">10604 Islamic Studies, Arabian Studies, Semitic Studies</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">10605 Religious Studies and Jewish Studies</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">107 Theology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">10701 Protestant Theology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11 Humanities</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">112 Economics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11206 Economic and Social History</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">12 Social and Behavioural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">317 Geography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL>http://ieg-ego.eu/en/ego#ProjectFocus</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>eastern europe</ns0:keyword>
+                    <ns0:keyword>ethnology</ns0:keyword>
+                    <ns0:keyword>european studies</ns0:keyword>
+                    <ns0:keyword>history of europe</ns0:keyword>
+                    <ns0:keyword>history of literature</ns0:keyword>
+                    <ns0:keyword>history of medicine</ns0:keyword>
+                    <ns0:keyword>history of technology</ns0:keyword>
+                    <ns0:keyword>military history</ns0:keyword>
+                    <ns0:keyword>music history</ns0:keyword>
+                    <ns0:keyword>religion</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">German Research Foundation</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="deu">DFG</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="deu">Deutsche Forschungsgemeinschaft</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.dfg.de/en/index.jsp</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>RRID:SCR_012420</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_144062</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate>2009</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.dfg.de/en/service/contact/index.html</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="deu">Leibniz-Institut f&#252;r Europ&#228;ische Geschichte</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="deu">IEG</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">Leibniz Institute of European History</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.ieg-mainz.de/likecms.php</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>info@ieg-mainz.de</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="deu">Ministerium f&#252;r Bildung, Wissenschaft, Weiterbildung und Kultur des Landes Rheinland-Pfalz</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="deu">MBWWK</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://mwwk.rlp.de/de/startseite/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>2007</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate>2009</ns0:responsibilityEndDate>
+                                    <ns0:institutionContact>https://mwwk.rlp.de/de/kontakt/</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Trier Centre for Digital Humanities</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="deu">Universit&#228;t Trier, Kompetenzzentrum f&#252;r elektronische Erschlie&#223;ungs- und Publikationsverfahren in den Geisteswissenschaften</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://kompetenzzentrum.uni-trier.de/en/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>kompetenzzentrum@uni-trier.de</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Legal Details</ns0:policyName>
+                <ns0:policyURL>http://ieg-ego.eu/en/ego/legal-details</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/licenses/by-nc-nd/3.0/deed.de</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/licenses/by-nc-sa/3.0/de/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://ieg-ego.eu/en/ego/legal-details</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>no</ns0:versioning>
+                            <ns0:pidSystem>URN</ns0:pidSystem>
+                <ns0:citationGuidelineURL>http://ieg-ego.eu/en/ego/faq-english#HowdoIciteanEGOarticle</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">Dublin Core</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks />
+        <ns0:entryDate>2015-01-22</ns0:entryDate>
+        <ns0:lastUpdate>2019-08-28</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

@@ -1,0 +1,118 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010085</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Inorganic Crystal Structure Database</ns0:repositoryName>
+                    <ns0:additionalName language="deu">Die Kristallographie-Datenbank f&#252;r anorganische Kristalle</ns0:additionalName>
+                    <ns0:additionalName language="eng">ICSD</ns0:additionalName>
+                    <ns0:additionalName language="eng">ICSD Web</ns0:additionalName>
+                <ns0:repositoryURL>https://icsd.fiz-karlsruhe.de/search/basic.xhtml</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>biodbcore-001709</ns0:repositoryIdentifier>
+                <ns0:description language="eng">The most comprehensive database on fully determined inorganic crystal structures
+&#8226; Full structural data: cell parameters, atom positions for all entries, displacement parameters
+&#8226; Full bibliographic data: publication title, journal reference(s), author names
+&#8226; Full structure description: Structural formula, compositions, ANX formulae, structure types
+&#8226; High-quality data: extensive data evaluation and correction by senior experts
+&#8226; Web and PC based software solutions, data updated twice a year
+&#8226; 25+ years of serving the scientific community</ns0:description>
+                    <ns0:repositoryContact>https://icsd.fiz-karlsruhe.de/authorization/contact.xhtml</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2017-01-24">More than 187.000 entries, including 2.033 crystal structures of the elements, 34.785 records for binary compounds, 68.730 records for ternary compounds, 68.083 records for quarternary and quintenary compounds.  About 149.000 entries (80%) have been assigned a structure type.
+    There are currently 9,093 structure prototypes.</ns0:size>
+        <ns0:startDate>1998</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31 Chemistry</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">316 Geochemistry, Mineralogy and Crystallography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">32 Physics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">4 Engineering Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">43 Materials Science and Engineering</ns0:subject>
+                <ns0:missionStatementURL>http://www2.fiz-karlsruhe.de/icsd_home.html</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Archived data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>cell</ns0:keyword>
+                    <ns0:keyword>chemistry</ns0:keyword>
+                    <ns0:keyword>crystal chemistry</ns0:keyword>
+                    <ns0:keyword>inorganic crystal structure</ns0:keyword>
+                    <ns0:keyword>intermetallic compounds</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="deu">Fachinformationszentrum Karlsruhe</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="deu">FIZ Karlsruhe</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">Leibniz Institute for Information Infrastructure</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="deu">Leibniz-Institut f&#252;r Informationsinfrastruktur</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>commercial</ns0:institutionType>
+                <ns0:institutionURL>https://www.fiz-karlsruhe.de/en/leistungen/kristallographie/icsd.html</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>1978</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.fiz-karlsruhe.de/fiz_contact.html</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Institute of Standards and Technology</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NIST</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>commercial</ns0:institutionType>
+                <ns0:institutionURL>http://www.nist.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>1997</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.nist.gov/public_affairs/contact.cfm</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>FIZ Terms and Conditions</ns0:policyName>
+                <ns0:policyURL>https://www.fiz-karlsruhe.de/en/service/terms-and-conditions.html</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>General Terms and Conditions for the Licensing of the Inorganic Crystal Structure Database</ns0:policyName>
+                <ns0:policyURL>http://www2.fiz-karlsruhe.de/fileadmin/be_user/ICSD/PDF/ICSD_AGB_EN_16.pdf</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>ICSD Terms and Conditions</ns0:policyName>
+                <ns0:policyURL>http://www2.fiz-karlsruhe.de/icsd_term_conditions.html?&amp;L=%5C%5C%5C%5C%5C%5C%5C</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>restricted</ns0:databaseAccessType>
+                            <ns0:databaseAccessRestriction>feeRequired</ns0:databaseAccessRestriction>
+                    </ns0:databaseAccess>
+                    <ns0:databaseLicense>
+                <ns0:databaseLicenseName>other</ns0:databaseLicenseName>
+                <ns0:databaseLicenseURL>http://www2.fiz-karlsruhe.de/fileadmin/be_user/ICSD/PDF/ICSD_AGB_EN_16.pdf</ns0:databaseLicenseURL>
+            </ns0:databaseLicense>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>feeRequired</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www2.fiz-karlsruhe.de/fileadmin/be_user/ICSD/PDF/ICSD_AGB_EN_16.pdf</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>input philosophy</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>http://www2.fiz-karlsruhe.de/fileadmin/be_user/ICSD/PDF/sci_man_ICSD_v1.pdf</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                            <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks>Most of the structures contained in ICSD are published in journals, only a few entries were
+submitted as private communications. If you are a registered user of the ICSD database (Inorganic Crystal Structure Database), you will also find the deposited inorganic crystal structure data sets from 'Crystal Structure Depot' = r3d100010237 in this database, with a short production-dependent delay. The records in ICSD are produced from the original publication and the deposited data and have the advantage of having undergone additional checking.</ns0:remarks>
+        <ns0:entryDate>2012-09-10</ns0:entryDate>
+        <ns0:lastUpdate>2021-11-17</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

@@ -1,0 +1,148 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012139</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">The Centre for Applied Genomics Databases</ns0:repositoryName>
+                    <ns0:additionalName language="eng">TCAG Databases</ns0:additionalName>
+                <ns0:repositoryURL>http://www.tcag.ca/databases/index.html</ns0:repositoryURL>
+                <ns0:description language="eng">The Centre for Applied Genomics hosts a variety of databases related to ongoing supported projects. Curation of these databases is performed in-house by TCAG Bioinformatics staff. The Autism Chromosome Rearrangement Database, The Cystic Fibrosis Mutation Database, TThe Lafora Progressive Myoclonus Epilepsy Mutation and Polymorphism Database are included.  Large Scale Genomics Research resources include, the Database of Genomic Variants, The Chromosome 7 Annotation Project, The Human Genome Segmental Duplication Database, and the Non-Human Segmental Duplication Database</ns0:description>
+                    <ns0:repositoryContact>http://www.tcag.ca/contact/index.html</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">201 Basic Biological and Medical Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20105 General Genetics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">203 Zoology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20306 Animal Genetics, Cell and Developmental Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">205 Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20503 Human Genetics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                <ns0:missionStatementURL>http://www.tcag.ca/index.html</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Databases</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>biobanking</ns0:keyword>
+                    <ns0:keyword>cytogenomics</ns0:keyword>
+                    <ns0:keyword>genetic analysis</ns0:keyword>
+                    <ns0:keyword>human genetics</ns0:keyword>
+                    <ns0:keyword>informatics</ns0:keyword>
+                    <ns0:keyword>microarray analysis</ns0:keyword>
+                    <ns0:keyword>statistical analysis</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Canada Foundation for Innovation</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">CFI</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="fra">FCI</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="fra">Fondation canadienne pour l&#8217;innovation</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.innovation.ca/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:000az4664</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:SCR_005054</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_144042</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_144042</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.innovation.ca/about/contact/address-and-directory</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Hospital for Sick Children, The Centre for Applied Genomics</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">SickKids</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">SickKids, TCAG</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.sickkids.ca/en/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.sickkids.ca/en/about/contact/</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Ontario Genomics</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">OGI</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">Ontario Genomics Institute</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.ontariogenomics.ca/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:00c68jz96</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:SCR_013156</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nif-0000-32038</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nif-0000-32038</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>info@ontariogenomics.ca</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">SicKkids Foundation</ns0:institutionName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.sickkidsfoundation.com/#/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:04374qe70</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.sickkidsfoundation.com/aboutus/contactus</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of Toronto, McLaughlin Centre</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">McLaughlin Centre</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.mclaughlin.utoronto.ca/home.htm</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.mclaughlin.utoronto.ca/contact.htm</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>TCAG Facilities Terms and Conditions</ns0:policyName>
+                <ns0:policyURL>http://www.tcag.ca/facilities/terms.html</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Terms of use</ns0:policyName>
+                <ns0:policyURL>https://www.sickkids.ca/en/about/terms-of-use/</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                    <ns0:databaseLicense>
+                <ns0:databaseLicenseName>other</ns0:databaseLicenseName>
+                <ns0:databaseLicenseURL>http://www.tcag.ca/databases/databaseDisclaimer.html</ns0:databaseLicenseURL>
+            </ns0:databaseLicense>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>other</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.sickkids.ca/en/about/terms-of-use/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www.tcag.ca/facilities/terms.html</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>TCAG Facilities Terms and Conditions</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>http://www.tcag.ca/facilities/terms.html</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                        <ns0:versioning />
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                <ns0:remarks>See individual database pages for correct citation</ns0:remarks>
+        <ns0:entryDate>2016-08-22</ns0:entryDate>
+        <ns0:lastUpdate>2021-01-19</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

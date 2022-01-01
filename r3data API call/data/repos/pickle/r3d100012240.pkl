@@ -1,0 +1,92 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012240</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">World Christian Database</ns0:repositoryName>
+                    <ns0:additionalName language="eng">WCD</ns0:additionalName>
+                <ns0:repositoryURL>https://worldchristiandatabase.org/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>ISSN 1874-6551</ns0:repositoryIdentifier>
+                <ns0:description language="eng">The World Christian Database provides comprehensive statistical information on world religions, Christian denominations, and people groups.
+The World Christian Database transforms current religious statistics into a real-time analysis tool that takes just minutes to perform even detailed research. This comprehensive database brings together a fully updated and cohesive religious data set with a world-class database architecture. The result is a simple, yet powerful database tool that enables users to customize reports and download data for in use in charts, tables, and graphs</ns0:description>
+                    <ns0:repositoryContact>info@globalchristianity.org</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2021-02-12">9.000 Christian denominations; 13.000 ethnolinguistic peoples; 5.000 cities, 3.000 provinces; 234 countries</ns0:size>
+        <ns0:startDate>2007</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">107 Theology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">10701 Protestant Theology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">10702 Roman Catholic Theology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11 Humanities</ns0:subject>
+                <ns0:missionStatementURL>https://brill.com/view/db/wcdo</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>Adventist</ns0:keyword>
+                    <ns0:keyword>Roman Catholic church</ns0:keyword>
+                    <ns0:keyword>Vatican&#8217;s Catholic Church</ns0:keyword>
+                    <ns0:keyword>census</ns0:keyword>
+                    <ns0:keyword>christianity</ns0:keyword>
+                    <ns0:keyword>ethnicity</ns0:keyword>
+                    <ns0:keyword>evangelization</ns0:keyword>
+                    <ns0:keyword>religion</ns0:keyword>
+                    <ns0:keyword>theology</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Brill</ns0:institutionName>
+                                <ns0:institutionCountry>NLD</ns0:institutionCountry>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.brillonline.com/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>VIAF:144427345</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Gordon-Conwell, Theological Seminary</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.gordonconwell.edu/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:032hvdr57</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Methodology of the World Christian Database</ns0:policyName>
+                <ns0:policyURL>https://worldchristiandatabase.org/wcd/about/WCD_Methodology.pdf</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Online User and Order Help</ns0:policyName>
+                <ns0:policyURL>https://brill.com/page/OnlineUserandOrderHelp/online-user-and-order-help</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Policies</ns0:policyName>
+                <ns0:policyURL>https://brill.com/page/Policies/policies</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>feeRequired</ns0:dataAccessRestriction>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://worldchristiandatabase.org/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                <ns0:versioning />
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                <ns0:remarks>World Christian Database is covered by Thomson Reuters Data Citation Index.
+The World Religion Database (WRD) complements the WCD with detailed source material of religious affiliation including censuses, surveys and religious freedom data to the Province level.</ns0:remarks>
+        <ns0:entryDate>2016-11-24</ns0:entryDate>
+        <ns0:lastUpdate>2021-02-12</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

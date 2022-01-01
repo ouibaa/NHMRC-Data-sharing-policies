@@ -1,0 +1,142 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100013612</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Atmosphere to Electrons, Data Archive and Portal</ns0:repositoryName>
+                    <ns0:additionalName language="eng">A2e, DAP</ns0:additionalName>
+                <ns0:repositoryURL>https://a2e.energy.gov/data</ns0:repositoryURL>
+                <ns0:description language="eng">Atmosphere to Electrons (A2e) is a new, multi-year, multi-stakeholder U.S. Department of Energy (DOE) research and development initiative tasked with improving wind plant performance and mitigating risk and uncertainty to achieve substantial reduction in the cost of wind energy production.
+The A2e strategic vision will enable a new generation of wind plant technology, in which smart wind plants are designed to achieve optimized performance stemming from more complete knowledge of the inflow wind resource and complex flow through the wind plant.</ns0:description>
+                    <ns0:repositoryContact>dapteam@pnnl.gov</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2021-07-26">601 datasets</ns0:size>
+        <ns0:startDate>2015-01-01</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31301 Atmospheric Science</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">4 Engineering Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">402 Mechanics and Constructive Mechanical Engineering</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">40204 Acoustics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">408 Electrical Engineering</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">40803 Electrical Energy Generation, Distribution, Application</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">41 Mechanical and industrial Engineering</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">44 Computer Science, Electrical and System Engineering</ns0:subject>
+                <ns0:missionStatementURL>https://a2e.energy.gov/</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Archived data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Source code</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>AWAKEN</ns0:keyword>
+                    <ns0:keyword>Coastal Wind Profiler</ns0:keyword>
+                    <ns0:keyword>EERE Wind Energy Technologies Office</ns0:keyword>
+                    <ns0:keyword>IMPOWR</ns0:keyword>
+                    <ns0:keyword>LEES</ns0:keyword>
+                    <ns0:keyword>Lake Michigan</ns0:keyword>
+                    <ns0:keyword>Leading-edge Erosion Study</ns0:keyword>
+                    <ns0:keyword>OC5</ns0:keyword>
+                    <ns0:keyword>OC6</ns0:keyword>
+                    <ns0:keyword>Offshore Wind Energy - Buoy Lidar Project</ns0:keyword>
+                    <ns0:keyword>Position of Offshore Wind Energy Resources</ns0:keyword>
+                    <ns0:keyword>SUMR-D</ns0:keyword>
+                    <ns0:keyword>UAE6</ns0:keyword>
+                    <ns0:keyword>WETO</ns0:keyword>
+                    <ns0:keyword>WFIP1</ns0:keyword>
+                    <ns0:keyword>WFIP2</ns0:keyword>
+                    <ns0:keyword>WP3</ns0:keyword>
+                    <ns0:keyword>Wind Integration National Dataset Toolkit</ns0:keyword>
+                    <ns0:keyword>XPIA</ns0:keyword>
+                    <ns0:keyword>aeroacoustic</ns0:keyword>
+                    <ns0:keyword>american wake experiment</ns0:keyword>
+                    <ns0:keyword>atmosphere to electrons</ns0:keyword>
+                    <ns0:keyword>buoy</ns0:keyword>
+                    <ns0:keyword>mesoscale</ns0:keyword>
+                    <ns0:keyword>microscale</ns0:keyword>
+                    <ns0:keyword>wake steering</ns0:keyword>
+                    <ns0:keyword>wind forecast</ns0:keyword>
+                    <ns0:keyword>wind plant performance</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">U.S. Department of Energy</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">DOE</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">ENERGY.GOV</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.energy.gov/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:01bj3aw27</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">U.S. Department of Energy, Office of Energy Efficiency and Renewable Energy</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">EERE</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.energy.gov/eere/office-energy-efficiency-renewable-energy</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:02xznz413</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">U.S. Department of Energy, Wind Energy Technologies Office</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">WETO</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.energy.gov/eere/wind/wind-energy-technologies-office</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Atmosphere to Electrons Data File Standards Version 1.1</ns0:policyName>
+                <ns0:policyURL>https://a2e.energy.gov/docs/program/a2e_standards_guidelines.PNNL-28552.pdf</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>closed</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>other</ns0:dataAccessRestriction>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                <ns0:versioning>yes</ns0:versioning>
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://a2e.energy.gov/acknowledge</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">CF (Climate and Forecast) Metadata Conventions</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/cf-climate-and-forecast-metadata-conventions</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                    <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">Dublin Core</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks>Atmosphere to Electrons, Data Archive and Portal is covered by Clarivate Data Citation Index</ns0:remarks>
+        <ns0:entryDate>2021-07-21</ns0:entryDate>
+        <ns0:lastUpdate>2021-08-10</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

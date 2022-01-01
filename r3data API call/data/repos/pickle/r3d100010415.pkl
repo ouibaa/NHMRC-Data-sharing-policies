@@ -1,0 +1,120 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010415</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">NCBI Taxonomy</ns0:repositoryName>
+                    <ns0:additionalName language="eng">Entrez Taxonomy</ns0:additionalName>
+                <ns0:repositoryURL>https://www.ncbi.nlm.nih.gov/taxonomy</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.fj07xj</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:SCR_003256</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:nif-0000-03179</ns0:repositoryIdentifier>
+                <ns0:description language="eng">The NCBI Taxonomy database is a curated set of names and classifications for all of the organisms that are represented in GenBank. The EMBL and DDBJ databases, as well as GenBank, now use the NCBI Taxonomy as the standard classification for nucleotide sequences. Taxonomy Contains the names and phylogenetic lineages of more than 160,000 organisms that have molecular data in the NCBI databases. New taxa are added to the Taxonomy database as data are deposited for them. When new sequences are submitted to GenBank, the submission is checked for new organism names, which are then classified and added to the Taxonomy database.</ns0:description>
+                    <ns0:repositoryContact>https://www.ncbi.nlm.nih.gov/home/about/contact.shtml</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2003</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">201 Basic Biological and Medical Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20107 Bioinformatics and Theoretical Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">203 Zoology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20302 Evolution, Anthropology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20306 Animal Genetics, Cell and Developmental Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                <ns0:missionStatementURL>https://www.ncbi.nlm.nih.gov/taxonomy</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Databases</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>archaea</ns0:keyword>
+                    <ns0:keyword>bacteria</ns0:keyword>
+                    <ns0:keyword>biological classification</ns0:keyword>
+                    <ns0:keyword>biological nomenclature</ns0:keyword>
+                    <ns0:keyword>cladistics</ns0:keyword>
+                    <ns0:keyword>eukaryota</ns0:keyword>
+                    <ns0:keyword>genomes</ns0:keyword>
+                    <ns0:keyword>nucleotide sequences</ns0:keyword>
+                    <ns0:keyword>phylogenetics</ns0:keyword>
+                    <ns0:keyword>taxa</ns0:keyword>
+                    <ns0:keyword>viroids</ns0:keyword>
+                    <ns0:keyword>viruses</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">National Center for Biotechnology Informationa</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NCBI</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.ncbi.nlm.nih.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>info@ncbi.nlm.nih.gov</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Institutes of Health, National Library of Medicine</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NIH</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.nlm.nih.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://support.nlm.nih.gov/?deptID=28054&amp;from=https://www.nlm.nih.gov/</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">United States Department of Health &amp; Human Services</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">HHS.gov</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.hhs.gov</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>NCBI Website and Data Usage Policies and Disclaimers</ns0:policyName>
+                <ns0:policyURL>https://www.ncbi.nlm.nih.gov/home/about/policies.shtml</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>U.S. Copyright Office Fair Use Index</ns0:policyName>
+                <ns0:policyURL>https://www.copyright.gov/fls/fl102.html</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.ncbi.nlm.nih.gov/books/about/copyright/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>NCBI taxonomy handbook</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>https://www.ncbi.nlm.nih.gov/books/NBK21100/</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                    <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>Submission</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>https://www.ncbi.nlm.nih.gov/guide/howto/submit-sequence-data/</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                            <ns0:software>
+                <ns0:softwareName>other</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                    <ns0:api apiType="FTP">ftp://ftp.ncbi.nlm.nih.gov/pub/taxonomy/</ns0:api>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks>The NCBI Taxonomy database is a curated set of names and classifications for all of the organisms that are represented in GenBank. When new sequences are submitted to GenBank, the submission is checked for new organism names, which are then classified and added to the Taxonomy database</ns0:remarks>
+        <ns0:entryDate>2013-06-25</ns0:entryDate>
+        <ns0:lastUpdate>2021-09-03</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

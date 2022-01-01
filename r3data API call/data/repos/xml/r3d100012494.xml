@@ -1,0 +1,103 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012494</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Tropospheric Emission Spectrometer</ns0:repositoryName>
+                    <ns0:additionalName language="eng">TES</ns0:additionalName>
+                <ns0:repositoryURL>https://tes.jpl.nasa.gov/data/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>biodbcore-001533</ns0:repositoryIdentifier>
+                <ns0:description language="eng">TES is the first satellite instrument to provide simultaneous concentrations of carbon monoxide, ozone, water vapor and methane throughout Earth&#8217;s lower atmosphere. This lower atmosphere (the troposphere) is situated between the surface and the height at which aircraft fly, and is an important part of the atmosphere that we often impact with our activities.</ns0:description>
+                    <ns0:repositoryContact>Scott.Gluck@jpl.nasa.gov</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2004-07-15</ns0:startDate>
+        <ns0:endDate>2018-01-31</ns0:endDate>
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31301 Atmospheric Science</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL>https://tes.jpl.nasa.gov/mission/</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>FTIR</ns0:keyword>
+                    <ns0:keyword>Fourier Transfer Infrared Spectrometer</ns0:keyword>
+                    <ns0:keyword>air pollution</ns0:keyword>
+                    <ns0:keyword>carbon monoxide</ns0:keyword>
+                    <ns0:keyword>carbon monoxide</ns0:keyword>
+                    <ns0:keyword>greenhouse gases</ns0:keyword>
+                    <ns0:keyword>methane</ns0:keyword>
+                    <ns0:keyword>nitric acid</ns0:keyword>
+                    <ns0:keyword>nitrogene dioxide</ns0:keyword>
+                    <ns0:keyword>ozone</ns0:keyword>
+                    <ns0:keyword>stratosphere</ns0:keyword>
+                    <ns0:keyword>troposphere</ns0:keyword>
+                    <ns0:keyword>water vapor</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Aura Validation Data Center</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">AVDC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://avdc.gsfc.nasa.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">California Institute of Technology, Jet Propulsion Laboratory</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">JET</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.jpl.nasa.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Aeronautics and Space Administration</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NASA</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.nasa.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>NASA Web Privacy Policy and Important Notices</ns0:policyName>
+                <ns0:policyURL>https://www.nasa.gov/about/highlights/HP_Privacy.html#508</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://eosweb.larc.nasa.gov/copyright-information</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>CKAN</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                    <ns0:api apiType="FTP">https://avdc.gsfc.nasa.gov/pub/data/satellite/Aura/TES/</ns0:api>
+                    <ns0:api apiType="FTP">https://eosweb.larc.nasa.gov/datapool</ns0:api>
+                        <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">Repository-Developed Metadata Schemas</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/repository-developed-metadata-schemas</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks>TES will be using the HDF-EOS5 file format to store the scientific standard and special observation products at Level 2.
+The scientific discovery mission of Tropospheric Emission Spectrometer has concluded.  However, a final full TES dataset (v008) will be generated from an algorithm update to the base Ground Data System software and will be made available to the scientific community in the next two years.</ns0:remarks>
+        <ns0:entryDate>2017-10-04</ns0:entryDate>
+        <ns0:lastUpdate>2021-11-17</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

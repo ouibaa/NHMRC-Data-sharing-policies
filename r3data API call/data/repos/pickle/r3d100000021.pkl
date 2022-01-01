@@ -1,0 +1,83 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100000021</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Chemical Database Service</ns0:repositoryName>
+                    <ns0:additionalName language="eng">CDS</ns0:additionalName>
+                    <ns0:additionalName language="eng">STFC Chemical Database Service</ns0:additionalName>
+                <ns0:repositoryURL>http://cds.dl.ac.uk/</ns0:repositoryURL>
+                <ns0:description language="eng">Most or all of the features are no longer available via the CDS/DL website since provision of the EPSRC UK national Chemical Database Service has been taken over by the Royal Society of Chemistry from 1st January 2013. See:  http://cds.rsc.org/ . Daresbury now offers reduced database access, but CrystalWorks developments continue here. 
+Some related features may be available via the RSC/CSD portal. For details of what is currently available on the CDS/DL website and also links to the RSC/CDS portal follow the link to the CDS/DL Homepage.   //  The service gives on-line access to a rich variety of quality databases in fields relating to chemistry. The CDS team also provides general support, training and advice.</ns0:description>
+                    <ns0:repositoryContact>cdsbb@stfc.ac.uk</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2010</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31 Chemistry</ns0:subject>
+                <ns0:missionStatementURL>http://cds.dl.ac.uk/cds/service_info/about.html</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                            <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>chemistry</ns0:keyword>
+                    <ns0:keyword>crystallography</ns0:keyword>
+                    <ns0:keyword>materials</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Daresbury Laboratory</ns0:institutionName>
+                                <ns0:institutionCountry>GBR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.stfc.ac.uk/about-us/where-we-work/daresbury-laboratory/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.stfc.ac.uk/about-us/where-we-work/daresbury-laboratory/how-to-get-to-daresbury-laboratory/</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Engineering and Physical Sciences Research Council</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">EPSRC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>GBR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.epsrc.ac.uk/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.epsrc.ac.uk/about/contactus/</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Acceptable Use Policy</ns0:policyName>
+                <ns0:policyURL>https://community.jisc.ac.uk/library/acceptable-use-policy</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Eligibility &amp; Terms of Use</ns0:policyName>
+                <ns0:policyURL>http://cds.dl.ac.uk/cgi-bin/reg/cou</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://cds.dl.ac.uk/cgi-bin/reg/cou</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>no</ns0:versioning>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>http://cds.rsc.org/about.asp</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                    <ns0:syndication syndicationType="RSS">https://twitter.com/cds_daresbury</ns0:syndication>
+                <ns0:remarks>The Chemical Database Service at Daresbury has now ceased providing general user access. An EPSRC funded national service is now operated by the Royal Society of Chemistry. For further details of this service go to the CDS/RSC website:   http://cds.rsc.org/.
+Please note, however, that access to various components of the original CDS at Daresbury is still possible from within the STFC domain. Daresbury now offers reduced database access, but "CrystalWorks"  developments continue here.</ns0:remarks>
+        <ns0:entryDate>2012-08-26</ns0:entryDate>
+        <ns0:lastUpdate>2018-12-07</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

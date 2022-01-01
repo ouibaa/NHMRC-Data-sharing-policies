@@ -1,0 +1,100 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011818</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Born in Bradford</ns0:repositoryName>
+                    <ns0:additionalName language="eng">BiB</ns0:additionalName>
+                <ns0:repositoryURL>https://www.borninbradford.nhs.uk/</ns0:repositoryURL>
+                <ns0:description language="eng">Born in Bradford is one of the biggest and most important medical research studies undertaken in the UK. The project started in 2007 and is looking to answer questions about our health by tracking the lives of 13,500 babies and their families and will provide information for studies across the UK and around the world.
+The aim of Born in Bradford is to find out more about the causes of childhood illness by studying children from all cultures and backgrounds as their lives unfold.</ns0:description>
+                    <ns0:repositoryContact>borninbradford@bthft.nhs.uk</ns0:repositoryContact>
+                    <ns0:repositoryContact>https://borninbradford.nhs.uk/contact-us/</ns0:repositoryContact>
+                    <ns0:repositoryContact>john.wright@bthft.nhs.uk</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2007</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">204 Microbiology, Virology and Immunology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">205 Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20502 Public Health, Health Services Research, Social Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20520 Pediatric and Adolescent Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20521 Gynaecology and Obstetrics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                <ns0:missionStatementURL>https://borninbradford.nhs.uk/about-us/</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Audiovisual data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>Bradford</ns0:keyword>
+                    <ns0:keyword>biological samples</ns0:keyword>
+                    <ns0:keyword>child health</ns0:keyword>
+                    <ns0:keyword>child wellness</ns0:keyword>
+                    <ns0:keyword>childhood illness</ns0:keyword>
+                    <ns0:keyword>cohort Study</ns0:keyword>
+                    <ns0:keyword>diabetes</ns0:keyword>
+                    <ns0:keyword>medical research study</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Bradford Institute for Health Research</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">BIHR</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>GBR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.bradfordresearch.nhs.uk/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>2006</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.bradfordresearch.nhs.uk/contact/</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Health Service</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NHS</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>GBR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.nhs.uk/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.nhs.uk/contact-us/</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Guidance and conditions for collaborators on the Born in Bradford programme</ns0:policyName>
+                <ns0:policyURL>https://borninbradford.nhs.uk/?s=Guidance+and+conditions+for+collaborators+on+the+Born+in+Bradford+programme</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>cohort information</ns0:policyName>
+                <ns0:policyURL>https://borninbradford.nhs.uk/?s=cohort+information</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>restricted</ns0:databaseAccessType>
+                            <ns0:databaseAccessRestriction>other</ns0:databaseAccessRestriction>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>other</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://borninbradford.nhs.uk/?s=data+use+agreement</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                    <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                    <ns0:aidSystem>none</ns0:aidSystem>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks>Born in Bradford is covered by Thomson Reuters Data Citation Index.</ns0:remarks>
+        <ns0:entryDate>2016-02-19</ns0:entryDate>
+        <ns0:lastUpdate>2019-01-09</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

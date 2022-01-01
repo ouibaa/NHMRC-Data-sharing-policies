@@ -1,0 +1,98 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012788</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">ArkDB</ns0:repositoryName>
+                <ns0:repositoryURL>http://www.thearkdb.org/arkdb/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>OMICS_20036</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:SCR_001838</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:nif-0000-02568</ns0:repositoryIdentifier>
+                <ns0:description language="eng">ArkDB is a generic, species-independent database built to capture the state of published information on genome mapping in a given species. It stores details of references, markers and loci and genetic linkage and cytogenetic maps which can be drawn using the online map-drawing application. Data from linkage maps held within the ArkDB system can be drawn alongside their corresponding genome sequence maps (extracted from ENSEMBL).</ns0:description>
+                    <ns0:repositoryContact>info@thearkdb.org</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2008</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">201 Basic Biological and Medical Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20105 General Genetics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">203 Zoology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20306 Animal Genetics, Cell and Developmental Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                <ns0:missionStatementURL>http://www.thearkdb.org/arkdb/</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Software applications</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>bioinformatics</ns0:keyword>
+                    <ns0:keyword>chat</ns0:keyword>
+                    <ns0:keyword>chicken</ns0:keyword>
+                    <ns0:keyword>cow</ns0:keyword>
+                    <ns0:keyword>deer</ns0:keyword>
+                    <ns0:keyword>duck</ns0:keyword>
+                    <ns0:keyword>farm animals</ns0:keyword>
+                    <ns0:keyword>genetics</ns0:keyword>
+                    <ns0:keyword>genomics</ns0:keyword>
+                    <ns0:keyword>horse</ns0:keyword>
+                    <ns0:keyword>pig</ns0:keyword>
+                    <ns0:keyword>quail</ns0:keyword>
+                    <ns0:keyword>salmon</ns0:keyword>
+                    <ns0:keyword>sea bass</ns0:keyword>
+                    <ns0:keyword>sequences</ns0:keyword>
+                    <ns0:keyword>sheep</ns0:keyword>
+                    <ns0:keyword>turkey</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Biotechnology and Biological Sciences Research Council</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">BSSRC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://bbsrc.ukri.org/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>RRID:SCR_011118</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_inv_1005015</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of Edinburgh, The Roslin Institute</ns0:institutionName>
+                                <ns0:institutionCountry>GBR</ns0:institutionCountry>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.ed.ac.uk/roslin</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>RRID:SCR_006533</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_83761</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>info@thearkdb.org</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Legal information</ns0:policyName>
+                <ns0:policyURL>https://www.ed.ac.uk/about/website/privacy/legal-information</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Public Domain</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www.thearkdb.org/arkdb/privacy.jsp</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                    <ns0:api apiType="REST">http://rest.ensembl.org/</ns0:api>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                <ns0:remarks>ArkMAP is ArkDB's downloadable Map Drawing Application which can display maps retrieved from ArkDB and Ensembl.</ns0:remarks>
+        <ns0:entryDate>2018-08-02</ns0:entryDate>
+        <ns0:lastUpdate>2018-08-08</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

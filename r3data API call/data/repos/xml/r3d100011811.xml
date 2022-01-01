@@ -1,0 +1,124 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011811</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Nordicana D</ns0:repositoryName>
+                    <ns0:additionalName language="fra">La collection Nordicana D</ns0:additionalName>
+                    <ns0:additionalName language="eng">Nordicana D collection</ns0:additionalName>
+                <ns0:repositoryURL>http://www.cen.ulaval.ca/nordicanad/en_index.aspx</ns0:repositoryURL>
+                <ns0:description language="eng">Nordicana series D is a formatted, online data report series archived at CEN. It is produced only in 
+electronic  form  and  is  freely  and  openly  accessible
+  to  CEN  researchers  and  to  other  users.  Each  issue 
+is 
+published in French and in English, and is indexed 
+via an assigned digital object identifier (DOI). An
+ issue may be 
+updated,  for  example  with  new  data,  as  a  new  version  number,  but  will  retain  the  same  DOI.  Each  issue 
+contains data sets and extensive metadata that explain the origin of the data, the format of the data,
+ the 
+history of updates via different version numbers, and the format that should be adopted to cite the data.</ns0:description>
+                    <ns0:repositoryContact>http://www.cen.ulaval.ca/nordicanad/en_joindre.aspx</ns0:repositoryContact>
+                    <ns0:repositoryContact>nordicana@cen.ulaval.ca</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>fra</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL>http://www.cen.ulaval.ca/nordicanad/en_index.aspx</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>ADAPT</ns0:keyword>
+                    <ns0:keyword>IPY-ArcticWOLVES</ns0:keyword>
+                    <ns0:keyword>SILA Network</ns0:keyword>
+                    <ns0:keyword>climate warming</ns0:keyword>
+                    <ns0:keyword>ecosystems</ns0:keyword>
+                    <ns0:keyword>environmental change</ns0:keyword>
+                    <ns0:keyword>geosystems</ns0:keyword>
+                    <ns0:keyword>northern regions</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Centre for Northern Studies</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="fra">CEN</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="fra">Centre d'&#233;tudes nordiques</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.cen.ulaval.ca/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.cen.ulaval.ca/en/joindre.php</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="fra">Universit&#233; Laval</ns0:institutionName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.ulaval.ca/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.ulaval.ca/</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="fra">Universit&#233; du Qu&#233;bec &#224; Rimouski</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="fra">UQAR</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="fra">Universit&#233; du Qu&#233;bec Campus Rimouski</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.uqar.ca/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.uqar.ca/</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Nordicana D and CEN Data Policy</ns0:policyName>
+                <ns0:policyURL>http://www.cen.ulaval.ca/nordicanad/document/en_datapolicy.pdf</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Terms of use</ns0:policyName>
+                <ns0:policyURL>http://www.cen.ulaval.ca/nordicanad/en_modalite.aspx</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www.cen.ulaval.ca/nordicanad/document/en_datapolicy.pdf</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>institutional membership</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                <ns0:versioning>yes</ns0:versioning>
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                <ns0:citationGuidelineURL>http://www.cen.ulaval.ca/nordicanad/en_modalite.aspx</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>no</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">FGDC/CSDGM - Federal Geographic Data Committee Content Standard for Digital Geospatial Metadata</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/fgdccsdgm-federal-geographic-data-committee-content-standard-digital-ge</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                    <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">ISO 19115</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/iso-19115</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks>All data reports published in  Nordicana D will be described in the Polar Data Catalogue to ensure their full availability and dissemination.CEN  researchers also include professors from the Universit&#233; du Qu&#233;bec &#224; Trois-Rivi&#232;res, Universit&#233; de Sherbrooke, 
+Universit&#233; de Montr&#233;al, Universit&#233; du Qu&#233;bec &#224; Chicoutimi, 
+Universit&#233; du Qu&#233;bec &#224; Montr&#233;al, McGill University 
+and C&#233;gep F-X Garneau. CEN brings together over 200
+researchers,  students,  postdoctoral  fellows  and  pro
+fessionals  from  diverse  disciplines  (biology  and 
+microbiology, geography, geology, engineering, archeology, landscape management).</ns0:remarks>
+        <ns0:entryDate>2015-09-10</ns0:entryDate>
+        <ns0:lastUpdate>2021-07-20</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

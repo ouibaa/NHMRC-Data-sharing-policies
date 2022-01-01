@@ -1,0 +1,154 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010209</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">CLARIN-ERIC</ns0:repositoryName>
+                    <ns0:additionalName language="eng">Common Language Resources and Technology Infrastructure - European Research Infrastructure Consortium</ns0:additionalName>
+                    <ns0:additionalName language="eng">European Research Infrastructure for Language Resources and Technology</ns0:additionalName>
+                <ns0:repositoryURL>https://www.clarin.eu/</ns0:repositoryURL>
+                <ns0:description language="eng">CLARIN is a European Research Infrastructure for the Humanities and Social Sciences, focusing on language resources (data and tools). It is being implemented and constantly improved at leading institutions in a large and growing number of European countries, aiming at improving Europe's multi-linguality competence. CLARIN provides several services, such as access to language data and tools to analyze data, and offers to deposit research data, as well as direct access to knowledge about relevant topics in relation to (research on and with) language resources. The main tool is the 'Virtual Language Observatory' providing metadata and access to the different national CLARIN centers and their data.</ns0:description>
+                    <ns0:repositoryContact>clarin@clarin.eu</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2016-01-29">944.380 records</ns0:size>
+        <ns0:startDate>2012</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">104 Linguistics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11 Humanities</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">4 Engineering Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">409 Computer Science</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">40904 Artificial Intelligence, Image and Language Processing</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">44 Computer Science, Electrical and System Engineering</ns0:subject>
+                <ns0:missionStatementURL>https://www.clarin.eu/content/mission-and-strategy</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Audiovisual data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                            <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>computer-aided language processing</ns0:keyword>
+                    <ns0:keyword>improvement of standards</ns0:keyword>
+                    <ns0:keyword>language processing problems</ns0:keyword>
+                    <ns0:keyword>language resource maintenance</ns0:keyword>
+                    <ns0:keyword>language resources</ns0:keyword>
+                    <ns0:keyword>linguistic integration</ns0:keyword>
+                    <ns0:keyword>multicultural heritage</ns0:keyword>
+                    <ns0:keyword>multilingual heritage</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">CLARIN ERIC Centres</ns0:institutionName>
+                                <ns0:institutionCountry>EEC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.clarin.eu/content/overview-clarin-centres</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>clarin@clarin.eu</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">European Commission, Horizon 2020</ns0:institutionName>
+                                <ns0:institutionCountry>EEC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://ec.europa.eu/programmes/horizon2020/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://ec.europa.eu/research/participants/portal/desktop/en/support/research_enquiry_service.html</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">European Commission, Research &amp; Innovation, Seventh Framework Programm - FP7</ns0:institutionName>
+                                <ns0:institutionCountry>EEC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://ec.europa.eu/research/fp7/index_en.cfm</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>2008</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate>2010</ns0:responsibilityEndDate>
+                                    <ns0:institutionContact>https://ec.europa.eu/info/departments/research-and-innovation_en</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Utrecht University, CLARIN ERIC Office</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">CLARIN ERIC Office</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>NLD</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.uu.nl/en/news/franciska-de-jong-new-executive-director-clarin-eric</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>clarin@clarin.eu</ns0:institutionContact>
+                                    <ns0:institutionContact>https://www.clarin.eu/contact</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Terms of Use</ns0:policyName>
+                <ns0:policyURL>https://kitwiki.csc.fi/twiki/pub/FinCLARIN/ClarinSA/CLARIN-TOS-2014-10.rtf</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Terms of use and disclaimer</ns0:policyName>
+                <ns0:policyURL>https://www.clarin.eu/node/3760</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>other</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Apache License 2.0</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www.apache.org/licenses/LICENSE-2.0</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>BSD</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://opensource.org/licenses/BSD-3-Clause</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/choose/zero/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/licenses/by-sa/3.0/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/licenses/by/2.0/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.clarin.eu/content/clarin-licensing-framework</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>institutional membership</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>Depositing Services</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>https://www.clarin.eu/node/3773</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                    <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>Deposition License Agreements</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>https://www.clarin.eu/content/licenses-agreements-legal-terms</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                            <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                    <ns0:api apiType="OAI-PMH">https://www.clarin.eu/faq-page/275#t275n2858</ns0:api>
+                    <ns0:api apiType="REST">https://www.clarin.eu/content/clarin-software-github</ns0:api>
+                            <ns0:pidSystem>hdl</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://www.clarin.eu/faq-page/258#t258n3872</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                    <ns0:syndication syndicationType="RSS">http://www.clarin.eu/rss/news</ns0:syndication>
+                <ns0:remarks>CLARIN-ERIC is a network memeber of ICSU World Data System.  Letter of Agreement is pending (08.01.2019). In 2012 CLARIN gets ERIC status.CLARIN, the pan-European Common Language Resources and Technology Infrastructure, is the second European research infrastructure to be granted with ERIC status. Eight countries are committed to the setting up of CLARIN-ERIC: Austria, Bulgaria, the Czech Republic, Denmark, Estonia, Germany, Poland, and the Netherlands. The Dutch Language Union completes the list of founding members. CLARIN-ERIC will be hosted in Utrecht, the Netherlands.
+The &#8220;European Strategy Forum for Research Infrastructures&#8221; (ESFRI) has emphasised the importance of CLARIN by including the project in its Roadmap 2006. This also comprises four other important initiatives in the arts and humanities and social studies, including a similar proposal for a data infrastructure for the social sciences (CESSDA ERIC Major Upgrade) and for the arts and humanities (DARIAH). In the preparatory phase (2008-2010) CLARIN is funded by the EU through the 7th Framework ESFRI programme. One of the objectives of the preparatory phase is to come with cost estimations for the construction and exploitation phase. The main funders will then be the national governments, with a possible minor contribution from the EU for some generic costs of the infrastructure. Clarin members: https://www.clarin.eu/content/about-eric. //  CLARIN offers two central resource discovery tools, (1) the metadata-based Virtual Language Observatory which lists hundreds of thousands of individual resources, not only at CLARIN centres, and (2) the Federated Content Search, which allows searching WITHIN resources at CLARIN centres.</ns0:remarks>
+        <ns0:entryDate>2013-02-12</ns0:entryDate>
+        <ns0:lastUpdate>2019-01-08</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

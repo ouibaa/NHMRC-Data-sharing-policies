@@ -1,0 +1,127 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100013291</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">MOSES Data Discovery Portal</ns0:repositoryName>
+                    <ns0:additionalName language="eng">Modular Observation Solutions for Earth Systems Data Discovery Portal</ns0:additionalName>
+                <ns0:repositoryURL>https://moses-data.gfz-potsdam.de/onestop/#/</ns0:repositoryURL>
+                <ns0:description language="eng">The MOSES Data Discovery Portal is the central component of the MOSES data management infrastructure. It holds the metadata of MOSES campaigns, sensors and data and enables high-performance data searches. In addition, it provides access to the decentral data repositories and infrastructures of the participating Helmholtz centers where MOSES data is stored.</ns0:description>
+                    <ns0:repositoryContact>moses-dmp@gfz-potsdam.de</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">309 Particles, Nuclei and Fields</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">30901 Particles, Nuclei and Fields</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31301 Atmospheric Science</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31302 Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">314 Geology and Palaeontology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">315 Geophysics and Geodesy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">317 Geography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">32 Physics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL>https://www.ufz.de/moses/</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>T-MOSAIC</ns0:keyword>
+                    <ns0:keyword>climate change</ns0:keyword>
+                    <ns0:keyword>heat waves</ns0:keyword>
+                    <ns0:keyword>hydrological extremes</ns0:keyword>
+                    <ns0:keyword>ocean eddies</ns0:keyword>
+                    <ns0:keyword>permafrost thaw</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Helmholtz Association</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="deu">HGF</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="deu">Helmholtz-Gemeinschaft Deutscher Forschungszentren</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.helmholtz.de/en/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:0281dp749</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate>2017</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate>2021</ns0:responsibilityEndDate>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Helmholtz Centre Potsdam - GFZ German Research Centre for Geosciences</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="deu">GFZ</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">GFZ German Research Centre for Geosciences</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="deu">Helmholtz-Zentrum Potsdam Deutsches GeoForschungsZentrum</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.gfz-potsdam.de/en/home/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:04z8jg394</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.gfz-potsdam.de/en/contact/</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Helmholtz Centre for Environmental Research</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="deu">Helmholtz-Zentrum f&#252;r Umweltforschung GmbH</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">UFZ</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.ufz.de/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:000h6jb29</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>info@ufz.de</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Project MOSES</ns0:institutionName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.ufz.de/moses/index.php?en=44514</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.ufz.de/moses/index.php?en=44859</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Legal information</ns0:policyName>
+                <ns0:policyURL>https://moses-dmp.gfz-potsdam.de/imprint/</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/licenses/by/4.0/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://moses-dmp.gfz-potsdam.de/imprint/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>institutional membership</ns0:dataUploadRestriction>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>other</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                    <ns0:syndication syndicationType="RSS">https://blogs.helmholtz.de/moses/de/feed/</ns0:syndication>
+                <ns0:remarks>MOSES contributors: https://www.ufz.de/moses/index.php?en=44860
+
+Related IDs f&#252;r instruments/devices are available via SENSOR.awi.de: http://doi.org/10.17616/R31NJMJ8</ns0:remarks>
+        <ns0:entryDate>2020-04-21</ns0:entryDate>
+        <ns0:lastUpdate>2020-04-29</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

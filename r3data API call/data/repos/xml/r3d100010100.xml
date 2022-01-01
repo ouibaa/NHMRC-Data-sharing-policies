@@ -1,0 +1,79 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010100</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">MolTable</ns0:repositoryName>
+                    <ns0:additionalName language="eng">Molecule table</ns0:additionalName>
+                <ns0:repositoryURL>http://moltable.ncl.res.in/web/guest</ns0:repositoryURL>
+                <ns0:description language="eng">&lt;&lt;&lt;&lt;!! The database is archived: https://web.archive.org/web/20071012173502/http://moltable.ncl.res.in/index.htm  !!&gt;&gt;&gt;&gt; 
+MolTable: An Open Access (Molecule Table) Portal for "Advanced Chemoinformatics Research, Training and Services"</ns0:description>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2018-10-05">44 datasets</ns0:size>
+        <ns0:startDate>2008</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">205 Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20508 Pharmacy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20509 Pharmacology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">301 Molecular Chemistry</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">302 Chemical Solid State and Surface Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31 Chemistry</ns0:subject>
+                <ns0:missionStatementURL />
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>aids</ns0:keyword>
+                    <ns0:keyword>biodiversity informatics</ns0:keyword>
+                    <ns0:keyword>bioinformatics</ns0:keyword>
+                    <ns0:keyword>cancer</ns0:keyword>
+                    <ns0:keyword>chemoinformatics</ns0:keyword>
+                    <ns0:keyword>cloud computing</ns0:keyword>
+                    <ns0:keyword>drug research</ns0:keyword>
+                    <ns0:keyword>infectious diseases</ns0:keyword>
+                    <ns0:keyword>malaria</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">National Chemical Laboratory, Digital Information Resource Center</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">DIRC</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">NCL</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>IND</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.ncl-india.org/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://moltable.ncl.res.in/web/guest/contacts</ns0:institutionContact>
+                                    <ns0:institutionContact>m.karthikeyan@ncl.res.in</ns0:institutionContact>
+                            </ns0:institution>
+                        <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://moltable.ncl.res.in/web/guest/direction</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks>NCL belongs to the family of Council of Scientific and Industrial Research (CSIR), the largest chain of public funded research organization in world.</ns0:remarks>
+        <ns0:entryDate>2012-10-04</ns0:entryDate>
+        <ns0:lastUpdate>2021-04-06</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

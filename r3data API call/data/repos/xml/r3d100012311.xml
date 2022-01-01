@@ -1,0 +1,92 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012311</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Metlin</ns0:repositoryName>
+                    <ns0:additionalName language="eng">The original and most comprehensive MS/MS metabolite database</ns0:additionalName>
+                <ns0:repositoryURL>https://metlin.scripps.edu/landing_page.php?pgcontent=mainPage</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>OMICS_02633</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:SCR_010500</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:nlx_158116</ns0:repositoryIdentifier>
+                <ns0:description language="eng">METLIN represents the largest MS/MS collection of data with the database generated at multiple collision energies and in positive and negative ionization modes. The data is generated on multiple instrument types including SCIEX, Agilent, Bruker and Waters QTOF mass spectrometers.</ns0:description>
+                    <ns0:repositoryContact>http://xcmsonline.scripps.edu/landing_page.php?pgcontent=contact</ns0:repositoryContact>
+                    <ns0:repositoryContact>xcmsonline@gmail.com</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2019-01-23">961.829 molecules; over 14.000 metabolites have been individually analyzed; another 200.000 metabolites has in silico MS/MS data</ns0:size>
+        <ns0:startDate>2004</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">201 Basic Biological and Medical Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20101 Biochemistry</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20103 Cell Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">205 Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20515 Gastroenterology, Metabolism</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                <ns0:missionStatementURL>https://metlin.scripps.edu/landing_page.php?pgcontent=mainPage</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>biomarker</ns0:keyword>
+                    <ns0:keyword>chemical formula</ns0:keyword>
+                    <ns0:keyword>genomics</ns0:keyword>
+                    <ns0:keyword>mass spectrometry</ns0:keyword>
+                    <ns0:keyword>metabolism</ns0:keyword>
+                    <ns0:keyword>molecular biology</ns0:keyword>
+                    <ns0:keyword>phenotype</ns0:keyword>
+                    <ns0:keyword>proteomics</ns0:keyword>
+                    <ns0:keyword>tandem</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Scripps Research Institute, Scripps Center for Metabolomics and Mass Spectrometry</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://masspec.scripps.edu/landing_page.php?pgcontent=mainPage</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>masspec@scripps.edu</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>METLIN Terms of Use</ns0:policyName>
+                <ns0:policyURL>https://metlin.scripps.edu/landing_page.php?pgcontent=termsOfUse</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>XCMS Online Usage Instructions</ns0:policyName>
+                <ns0:policyURL>http://xcmsonline.scripps.edu/landing_page.php?pgcontent=documentation</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>restricted</ns0:databaseAccessType>
+                            <ns0:databaseAccessRestriction>registration</ns0:databaseAccessRestriction>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>other</ns0:dataAccessRestriction>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://metlin.scripps.edu/landing_page.php?pgcontent=termsOfUse</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>MySQL</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                    <ns0:api apiType="NetCDF">https://xcmsonline.scripps.edu/faq/index.php?action=artikel&amp;cat=2&amp;id=4&amp;artlang=en&amp;highlight=netcdf</ns0:api>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                <ns0:remarks>XCMS Online: a web-based platform to process untargeted metabolomic data. // You have also access to IsoMetlin. The isoMETLIN Metabolite Database is a database designed for isotope-based metabolomics. Specifically, isoMETLIN facilitates the identification of metabolites incorporating isotopic labels. isoMETLIN enables users to search all computed isotopologues (&gt;1 million) derived from METLIN on the basis of mass-to-charge values and specified isotopes of interest, such as 13C or 15N.</ns0:remarks>
+        <ns0:entryDate>2017-02-01</ns0:entryDate>
+        <ns0:lastUpdate>2019-01-23</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

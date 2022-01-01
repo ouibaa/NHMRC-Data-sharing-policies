@@ -1,0 +1,73 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010479</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">DataBox</ns0:repositoryName>
+                    <ns0:additionalName language="eng">DataBox Dataverse Network</ns0:additionalName>
+                <ns0:repositoryURL />
+                <ns0:description language="eng">!!! the repository is no longer available, archived site: http://archive.is/6UyFH/image!!! DataBox is a digital archive for scientific primary data for use by researchers at The University of Copenhagen. DataBox is available to researchers, departments and institutes at the University and research groups with an affiliation to the University of Copenhagen.
+DataBox serves as an additional backup system, which archives data in a structured form for both short and medium term preservation. It can also serve as a way of sharing data. Each researcher/group can create his/her own space in DataBox and can store and process the data, and if he/she chooses to share his/her data. Version history of files is retained by the system.</ns0:description>
+                            <ns0:type>institutional</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2012</ns0:startDate>
+        <ns0:endDate>2015</ns0:endDate>
+                    <ns0:repositoryLanguage>dan</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">4 Engineering Sciences</ns0:subject>
+                <ns0:missionStatementURL />
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                                    <ns0:institution>
+                <ns0:institutionName language="eng">Copenhagen University Library Service</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">CULIS</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="dan">KUBIS</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="dan">Kobenhavns Universitets Biblioteksservice</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>GBR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www5.kb.dk/en/kub</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>forskerservice@kb.dk</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">The Royal Library</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="dan">Det Kongelige Bibliotek</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>DNK</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.kb.dk/en/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of Copenhagen</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="dan">Kobenhavns Universitet</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>DNK</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.ku.dk/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                        <ns0:databaseAccess>
+            <ns0:databaseAccessType>closed</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>closed</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                                    <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                <ns0:versioning />
+                        <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks />
+        <ns0:entryDate>2013-07-02</ns0:entryDate>
+        <ns0:lastUpdate>2021-06-07</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

@@ -1,0 +1,96 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010569</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">UK Reading Experience Database</ns0:repositoryName>
+                    <ns0:additionalName language="eng">UK RED</ns0:additionalName>
+                <ns0:repositoryURL>http://www.open.ac.uk/Arts/reading/UK/</ns0:repositoryURL>
+                <ns0:description language="eng">UK RED is a database documenting the history of reading in Britain from 1450 to 1945. Reading experiences of British subjects, both at home and abroad presented in UK RED are drawn from published and unpublished sources as diverse as diaries, commonplace books, memoirs, sociological surveys, and criminal court and prison records.</ns0:description>
+                    <ns0:repositoryContact>E.G.C.King@open.ac.uk</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2019-10-29">30.000 records</ns0:size>
+        <ns0:startDate>2011-02</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">102 History</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">104 Linguistics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">105 Literary Studies</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">10503 European and American Literature</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11 Humanities</ns0:subject>
+                <ns0:missionStatementURL>http://www.open.ac.uk/Arts/reading/about.php</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>patterns of reading</ns0:keyword>
+                    <ns0:keyword>reader profiles</ns0:keyword>
+                    <ns0:keyword>reading statistics</ns0:keyword>
+                    <ns0:keyword>reading tastes</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Arts &amp; Humanities Research Council</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">AHRC UKRI</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>GBR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://ahrc.ukri.org/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://ahrc.ukri.org/about/contact/</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">RED Project Team</ns0:institutionName>
+                                <ns0:institutionCountry>GBR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.open.ac.uk/Arts/reading/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.open.ac.uk/Arts/reading/contact.php</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">The Open University</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">OU</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>GBR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.open.ac.uk/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Conditions of use of Open University websites</ns0:policyName>
+                <ns0:policyURL>http://www.open.ac.uk/about/main/management/policies-and-statements/conditions-use-open-university-websites</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                    <ns0:databaseLicense>
+                <ns0:databaseLicenseName>Copyrights</ns0:databaseLicenseName>
+                <ns0:databaseLicenseURL>http://www.open.ac.uk/about/main/management/policies-and-statements/copyright-ou-websites</ns0:databaseLicenseURL>
+            </ns0:databaseLicense>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/licenses/by-nc-sa/2.0/uk/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www.open.ac.uk/Arts/reading/UK/copyright_guide.php</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>no</ns0:versioning>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>http://www.open.ac.uk/Arts/reading/UK/copyright_guide.php</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                <ns0:remarks>Reading Experience Database is covered by Thomson Reuters Data Citation Index. RED is a collection of databases whose aim is to accumulate as much evidence as possible about reading experiences across the world. From the original national partners only UK RED is still active, the others were Australia (AusRED), Canada (CanRED), New Zealand (NZ RED) and the Netherlands (NL RED).</ns0:remarks>
+        <ns0:entryDate>2013-12-10</ns0:entryDate>
+        <ns0:lastUpdate>2019-11-05</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

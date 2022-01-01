@@ -1,0 +1,106 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012623</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Yoda</ns0:repositoryName>
+                    <ns0:additionalName language="eng">Universiteit Utrecht, Your Data - Yoda</ns0:additionalName>
+                <ns0:repositoryURL>https://www.uu.nl/en/research/yoda</ns0:repositoryURL>
+                <ns0:description language="eng">Yoda publishes research data on behalf of researchers that are affiliated with Utrecht University, its research institutes and consortia where it acts as a coordinating body.
+Data packages are not limited to a particular field of research or license.
+Yoda publishes data packages via Datacite. To find data publications use: https://public.yoda.uu.nl/ , or the Datacite search engine: https://search.datacite.org/repositories/delft.uu</ns0:description>
+                    <ns0:repositoryContact>A.P.M.Smeele@uu.nl</ns0:repositoryContact>
+                    <ns0:repositoryContact>R.J.A.vanSchip@uu.nl</ns0:repositoryContact>
+                    <ns0:repositoryContact>info.rdm@uu.nl</ns0:repositoryContact>
+                            <ns0:type>institutional</ns0:type>
+                <ns0:size updated="2021-02-05">131 works</ns0:size>
+        <ns0:startDate>2017-11-20</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">4 Engineering Sciences</ns0:subject>
+                <ns0:missionStatementURL>https://public.yoda.uu.nl/</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Archived data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Audiovisual data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                            <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>FAIR</ns0:keyword>
+                    <ns0:keyword>institutions</ns0:keyword>
+                    <ns0:keyword>life sciences</ns0:keyword>
+                    <ns0:keyword>multidisciplinary</ns0:keyword>
+                    <ns0:keyword>sustainability</ns0:keyword>
+                    <ns0:keyword>youth</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Utrecht University, Information and Technology Services</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">ITS</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="nld">Universiteit Utrecht</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>NLD</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.uu.nl/en/organisation/information-and-technology-services-its</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>2017-11-20</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>A.P.M.Smeele@uu.nl</ns0:institutionContact>
+                                    <ns0:institutionContact>F.J.deGroot@uu.nl</ns0:institutionContact>
+                                    <ns0:institutionContact>R.J.A.vanSchip@uu.nl</ns0:institutionContact>
+                                    <ns0:institutionContact>https://www.uu.nl/en/organisation/information-and-technology-services-its/contact</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Research Data Management Support</ns0:policyName>
+                <ns0:policyURL>https://www.uu.nl/en/research/research-data-management</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>University policy framework for research data Utrecht University</ns0:policyName>
+                <ns0:policyURL>https://www.uu.nl/sites/default/files/university_policy_framework_for_research_data_utrecht_university_-_january_2016.pdf</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>restricted</ns0:databaseAccessType>
+                            <ns0:databaseAccessRestriction>registration</ns0:databaseAccessRestriction>
+                    </ns0:databaseAccess>
+                    <ns0:databaseLicense>
+                <ns0:databaseLicenseName>CC</ns0:databaseLicenseName>
+                <ns0:databaseLicenseURL>https://creativecommons.org/licenses/by/4.0/legalcode</ns0:databaseLicenseURL>
+            </ns0:databaseLicense>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>other</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/licenses/by/4.0/legalcode</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>institutional membership</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>other</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                    <ns0:api apiType="OAI-PMH">https://public.yoda.uu.nl/oai/oai</ns0:api>
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                    <ns0:aidSystem>ISNI</ns0:aidSystem>
+                    <ns0:aidSystem>ORCID</ns0:aidSystem>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">DataCite Metadata Schema</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/datacite-metadata-schema</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                    <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">Dublin Core</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks>YODA is covered by Clarivate Data Citation Index.</ns0:remarks>
+        <ns0:entryDate>2018-03-14</ns0:entryDate>
+        <ns0:lastUpdate>2021-02-05</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

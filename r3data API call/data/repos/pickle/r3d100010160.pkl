@@ -1,0 +1,96 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010160</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">World Data Center for Human Interactions in the Environments</ns0:repositoryName>
+                    <ns0:additionalName language="eng">WDC for Human Interactions in the Environment</ns0:additionalName>
+                <ns0:repositoryURL>https://sedac.ciesin.columbia.edu/</ns0:repositoryURL>
+                <ns0:description language="eng">&gt;&gt;&gt;!!!&lt;&lt;&lt; duplicate &gt;&gt;&gt;!!!&lt;&lt;&lt; see https://www.re3data.org/repository/r3d100010159
+This record is combined with 'NASA Socioeconomic Data and Applications Center'
+The World Data Center for Human Interactions in the Environment has been superseded by the NASA Socioeconomic Data and Applications Center (SEDAC), which is a regular member of the World Data System (WDS). The International Council for Science (ICSU) replaced the World Data Centers (WDC) with the WDS, which supports the provision of trusted scientific data services by certifying its members to ensure that they maintain the organizational capabilities and infrastructure for managing the data products and services that they offer. SEDAC focuses on human interactions in the environment and is one of the Distributed Active Archive Centers (DAACs) in the NASA Earth Observing System Data and Information System (EOSDIS). The NASA Earth Science Data and Information System (ESDIS) Project, a WDS Network Member, manages the EOSDIS science systems.</ns0:description>
+                    <ns0:repositoryContact>ciesin.info@ciesin.columbia.edu</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>1997</ns0:startDate>
+        <ns0:endDate>2012</ns0:endDate>
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11 Humanities</ns0:subject>
+                <ns0:missionStatementURL />
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>climate</ns0:keyword>
+                    <ns0:keyword>conservation</ns0:keyword>
+                    <ns0:keyword>global environment</ns0:keyword>
+                    <ns0:keyword>governance</ns0:keyword>
+                    <ns0:keyword>hazards</ns0:keyword>
+                    <ns0:keyword>health</ns0:keyword>
+                    <ns0:keyword>population</ns0:keyword>
+                    <ns0:keyword>poverty</ns0:keyword>
+                    <ns0:keyword>socioeconomics</ns0:keyword>
+                    <ns0:keyword>sustainability</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Columbia University, Earth Institute, Center for International Earth Science Information Networks</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">CIESIN</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.ciesin.columbia.edu/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>1997</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate>2012</ns0:responsibilityEndDate>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Aeronautics and Space Administration, Socioeconomic Data and Applications Center</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NASA SEDAC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://sedac.ciesin.columbia.edu/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>1997</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate>2012</ns0:responsibilityEndDate>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Oceanic and Atmospheric Administration, National Environmental Satellite, Data, and Information Service, National Geophysical Data Center</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NOAA NESDIS NGDC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.ngdc.noaa.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>1997</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate>2012</ns0:responsibilityEndDate>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>WDC data policy</ns0:policyName>
+                <ns0:policyURL>https://www.icsu-wds.org/services/data-sharing-principles</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://ciesin.columbia.edu/copyright.html</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>open</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                    <ns0:syndication syndicationType="RSS">http://ciesin.columbia.edu/rest/rss/wdcnews</ns0:syndication>
+                <ns0:remarks>&gt;&gt;&gt;!!!&lt;&lt;&lt; duplicate &gt;&gt;&gt;!!!&lt;&lt;&lt; see https://www.re3data.org/repository/r3d100010159
+The World Data Center for Human Interactions in the Environment is one of 51 data centers of the World Data Center System. We are hosted by the Center for International Earth Science Information Network (CIESIN), a center within The Earth Institute at Columbia University.</ns0:remarks>
+        <ns0:entryDate>2012-12-09</ns0:entryDate>
+        <ns0:lastUpdate>2021-11-10</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

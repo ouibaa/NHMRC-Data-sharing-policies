@@ -1,0 +1,115 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010395</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">LAUDATIO</ns0:repositoryName>
+                    <ns0:additionalName language="eng">Long-term Access and Usage of Deeply Annotated Information</ns0:additionalName>
+                <ns0:repositoryURL>https://www.laudatio-repository.org/</ns0:repositoryURL>
+                <ns0:description language="eng">LAUDATIO has developed an open access research data repository for historical corpora. For the access and (re-)use of historical corpora, the LAUDATIO repository uses a flexible and appropriate documentation schema with a subset of TEI customized by TEI ODD. The extensive metadata schema contains information about the preparation and checking methods applied to the data, tools, formats and annotation guidelines used in the project, as well as bibliographic metadata, and information on the research context (e.g. the research project). To provide complex and comprehensive search in the annotation data, the search and visualization tool ANNIS is integrated in the LAUDATIO-Repository.</ns0:description>
+                    <ns0:repositoryContact>laudatio-support@hu-berlin.de</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                    <ns0:type>institutional</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2013</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">104 Linguistics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">10403 Typology, Non-European Languages, Historical Linguistics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11 Humanities</ns0:subject>
+                <ns0:missionStatementURL>https://www.laudatio-repository.org/projecthome</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Archived data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>corpora</ns0:keyword>
+                    <ns0:keyword>historical linguistic data</ns0:keyword>
+                    <ns0:keyword>philology</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="deu">Deutsche Forschungsgemeinschaft</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="deu">DFG</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">German Research Foundation</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.dfg.de/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>RRID:SCR_012420</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_144062</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate>2011</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="deu">Humboldt-Universit&#228;t zu Berlin, Computer- und Medienservice</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">CMS</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.cms.hu-berlin.de/en/standardseite_collage?set_language=en</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>2013</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.laudatio-repository.org/contact</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="deu">Humboldt-Universit&#228;t zu Berlin, Institut f&#252;r Deutsche Sprache und Linguistik</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="deu">IDSL</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.linguistik.hu-berlin.de/de</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>2013</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.laudatio-repository.org/contact</ns0:institutionContact>
+                                    <ns0:institutionContact>laudatio-support@hu-berlin.de</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Institute for Research in Computer Science and Control</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="fra">INRIA</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="fra">Institut National de Recherche en Informatique et en  Automatique</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>FRA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.inria.fr/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Privacy policy: Datenschutzerkl&#228;rung zu den Webseiten und zum Facebook-Auftrtitt der Humboldt-Universit&#228;t zu Berlin</ns0:policyName>
+                <ns0:policyURL>https://www.hu-berlin.de/de/hu/impressum/datenschutzerklaerung</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                    <ns0:databaseLicense>
+                <ns0:databaseLicenseName>Apache License 2.0</ns0:databaseLicenseName>
+                <ns0:databaseLicenseURL>http://www.gnu.org/licenses/license-list.html#apache2</ns0:databaseLicenseURL>
+            </ns0:databaseLicense>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://creativecommons.org/licenses/by-sa/3.0/de/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>CC</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>http://creativecommons.org/licenses/by-sa/3.0/de/</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                            <ns0:software>
+                <ns0:softwareName>Fedora</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                    <ns0:api apiType="REST">https://www.laudatio-repository.org/docs/elasticapi/</ns0:api>
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>no</ns0:qualityManagement>
+                                <ns0:remarks />
+        <ns0:entryDate>2013-09-30</ns0:entryDate>
+        <ns0:lastUpdate>2020-01-20</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

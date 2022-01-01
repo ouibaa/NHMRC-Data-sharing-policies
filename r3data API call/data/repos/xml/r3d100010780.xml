@@ -1,0 +1,149 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010780</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">NCBI Probe</ns0:repositoryName>
+                    <ns0:additionalName language="eng">Probe</ns0:additionalName>
+                <ns0:repositoryURL>http://www.ncbi.nlm.nih.gov/probe</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>RRID:SCR_004816</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:nlx_80513</ns0:repositoryIdentifier>
+                <ns0:description language="eng">&gt;&gt;&gt;!!! NCBI has retired the Probe Database !!!&lt;&lt;&lt;    Probe database provides a public registry of nucleic acid reagents as well as information on reagent distributors, sequence similarities and probe effectiveness. Database users have access to applications of gene expression, gene silencing and mapping, as well as reagent variation analysis and projects based on probe-generated data. The Probe database is constantly updated.</ns0:description>
+                    <ns0:repositoryContact>info@ncbi.nlm.nih.gov</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                    <ns0:type>institutional</ns0:type>
+                <ns0:size updated="2014-05-15">over 14.000.000 probes available</ns0:size>
+        <ns0:startDate>2005</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">201 Basic Biological and Medical Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20105 General Genetics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">203 Zoology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20306 Animal Genetics, Cell and Developmental Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">205 Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20503 Human Genetics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                <ns0:missionStatementURL>http://www.ncbi.nlm.nih.gov/About/glance/ourmission.html</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Databases</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>DNA data banks</ns0:keyword>
+                    <ns0:keyword>Gene expression</ns0:keyword>
+                    <ns0:keyword>Gene mapping</ns0:keyword>
+                    <ns0:keyword>Gene silencing</ns0:keyword>
+                    <ns0:keyword>Nucleic acid probes</ns0:keyword>
+                    <ns0:keyword>biomedical reserach</ns0:keyword>
+                    <ns0:keyword>human genome</ns0:keyword>
+                    <ns0:keyword>influenza virus</ns0:keyword>
+                    <ns0:keyword>mouse genome</ns0:keyword>
+                    <ns0:keyword>primer-BLAST</ns0:keyword>
+                    <ns0:keyword>reference sequences</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">National Center for Biotechnology Information</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NCBI</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.ncbi.nlm.nih.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Institutes of Health</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NIH</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.nih.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://search.nih.gov/search?utf8=%E2%9C%93&amp;affiliate=nih&amp;query=contact+us</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">U.S. Department of Health &amp; Human Services</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">HHS</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.hhs.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.hhs.gov/contactus.html</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">USA.gov</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Government Made Easy</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.usa.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://search.usa.gov/search?affiliate=usagov&amp;query=contact</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">United States National Library of Medicine</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NLM</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.nlm.nih.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>NIH Public Access Policy</ns0:policyName>
+                <ns0:policyURL>http://publicaccess.nih.gov/policy.htm</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                    <ns0:databaseLicense>
+                <ns0:databaseLicenseName>Public Domain</ns0:databaseLicenseName>
+                <ns0:databaseLicenseURL>http://www.ncbi.nlm.nih.gov/projects/genome/probe/doc/Overview.shtml</ns0:databaseLicenseURL>
+            </ns0:databaseLicense>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www.ncbi.nlm.nih.gov/About/disclaimer.html</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>Public Domain</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www.ncbi.nlm.nih.gov/About/disclaimer.html</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www.ncbi.nlm.nih.gov/About/disclaimer.html</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>Submitting data</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>http://www.ncbi.nlm.nih.gov/projects/genome/probe/doc/Submitting.shtml</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                            <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                    <ns0:api apiType="FTP">https://ftp.ncbi.nih.gov/pub/ProbeDB/</ns0:api>
+                            <ns0:pidSystem>other</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                    <ns0:syndication syndicationType="RSS">http://www.ncbi.nlm.nih.gov/feed/rss.cgi?ChanKey=probenews</ns0:syndication>
+                <ns0:remarks>The UniSTS database of sequence tagged sites (STSs) derived from STS-based maps and other experiments will be retired shortly. All data has now been included in to the Probe database. You can retrieve UniSTS records by using the search term "unists[properties]". Additionally, legacy data will remain on the NCBI FTP Site ftp://ftp.ncbi.nih.gov/repository/UniSTS/ in the UniSTS Repository.</ns0:remarks>
+        <ns0:entryDate>2014-05-15</ns0:entryDate>
+        <ns0:lastUpdate>2021-10-06</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

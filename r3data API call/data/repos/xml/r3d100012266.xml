@@ -1,0 +1,110 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012266</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">ToxoDB</ns0:repositoryName>
+                <ns0:repositoryURL>https://toxodb.org/toxo/app</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.a08mtc</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>MIR:00000153</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>OMICS_03168</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:SCR_013453</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:nif-0000-03572</ns0:repositoryIdentifier>
+                <ns0:description language="eng">ToxoDB is a genome database for the genus Toxoplasma, a set of single-celled eukaryotic pathogens that cause human and animal diseases, including toxoplasmosis.</ns0:description>
+                    <ns0:repositoryContact>https://toxodb.org/toxo/app/contact-us</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">201 Basic Biological and Medical Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20107 Bioinformatics and Theoretical Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                <ns0:missionStatementURL>http://toxodb.org/toxo/showXmlDataContent.do?name=XmlQuestions.About</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>FAIR</ns0:keyword>
+                    <ns0:keyword>bioinformatics</ns0:keyword>
+                    <ns0:keyword>gene models</ns0:keyword>
+                    <ns0:keyword>immunology</ns0:keyword>
+                    <ns0:keyword>protein</ns0:keyword>
+                    <ns0:keyword>toxoplasma</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">National Institutes of Health, National Institute of Allergy and Infectious Diseases</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NIAID</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.niaid.nih.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of Georgia</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.uga.edu/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of Pennsylvania</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">UPenn</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.upenn.edu/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Data Access Policy</ns0:policyName>
+                <ns0:policyURL>http://toxodb.org/toxo/showXmlDataContent.do?name=XmlQuestions.About#use</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Data Submission Policy</ns0:policyName>
+                <ns0:policyURL>http://toxodb.org/EuPathDB_datasubm_SOP.pdf</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>embargoed</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://toxodb.org/toxo/showXmlDataContent.do?name=XmlQuestions.About#use</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>Data Submission Policy</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>http://toxodb.org/EuPathDB_datasubm_SOP.pdf</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                            <ns0:software>
+                <ns0:softwareName>CKAN</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                    <ns0:api apiType="REST">http://toxodb.org/toxo/serviceList.jsp</ns0:api>
+                        <ns0:citationGuidelineURL>http://toxodb.org/toxo/showXmlDataContent.do?name=XmlQuestions.About</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">Repository-Developed Metadata Schemas</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/repository-developed-metadata-schemas</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                            <ns0:syndication syndicationType="RSS">http://toxodb.org/news.rss</ns0:syndication>
+                    <ns0:syndication syndicationType="RSS">http://toxodb.org/releases.rss</ns0:syndication>
+                <ns0:remarks>is covered by Elsevier. ToxoDB is a member of pathogen-databases that are housed under the NIAID-funded EuPathDB Bioinformatics Resource Center (BRC) umbrella.
+University of Pennsylvania is one of four Bioinformatics Resource Centers awarded by NIAID to provide data, tools and services which can be accessed through publicly available sites. EupathDB project includes: AmoebaDB, CryptoDB, FungiDB, GiardiaDB, MicrosporidiaDB, PiroplasmaDB, PlasmoDB, ToxoDB , TrichDB, TriTrypDB andOrthoMCL.</ns0:remarks>
+        <ns0:entryDate>2016-11-29</ns0:entryDate>
+        <ns0:lastUpdate>2021-09-09</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

@@ -1,0 +1,160 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011913</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">PAIN repository</ns0:repositoryName>
+                    <ns0:additionalName language="eng">Pain and Interoception Imaging Network Repository</ns0:additionalName>
+                <ns0:repositoryURL>https://www.painrepository.org/repositories/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.9fmyc7</ns0:repositoryIdentifier>
+                <ns0:description language="eng">The PAIN Repository is a recently funded NIH initiative, which has two components: an archive for already collected imaging data (Archived Repository), and a repository for structural and functional brain images and metadata acquired prospectively using standardized acquisition parameters (Standardized Repository) in healthy control subjects and patients with different types of chronic pain. The PAIN Repository provides the infrastructure for storage of standardized resting state functional, diffusion tensor imaging and structural brain imaging data and associated biological, physiological and behavioral metadata from multiple scanning sites, and provides tools to facilitate analysis of the resulting comprehensive data sets.</ns0:description>
+                    <ns0:repositoryContact>info@painrepository.org</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2013</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">206 Neurosciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                <ns0:missionStatementURL>https://www.painrepository.org/repositories/about/</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Databases</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>biology</ns0:keyword>
+                    <ns0:keyword>brain</ns0:keyword>
+                    <ns0:keyword>chronic pain</ns0:keyword>
+                    <ns0:keyword>diffusion tensor imaging,  DTI</ns0:keyword>
+                    <ns0:keyword>fibromyalgia</ns0:keyword>
+                    <ns0:keyword>health problem</ns0:keyword>
+                    <ns0:keyword>interstitial cystitis</ns0:keyword>
+                    <ns0:keyword>irritable bowel syndrome</ns0:keyword>
+                    <ns0:keyword>neurology</ns0:keyword>
+                    <ns0:keyword>pain patient</ns0:keyword>
+                    <ns0:keyword>painful bladder syndrome</ns0:keyword>
+                    <ns0:keyword>physiology</ns0:keyword>
+                    <ns0:keyword>treatment</ns0:keyword>
+                    <ns0:keyword>vulvodynia</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">MAPP Research Network</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Multidisciplinary Approaches to Pelvic Pain Network</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>sponsoring</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.mappnetwork.org/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Instititutes of Health, National Institute of Diabetes and Digestive and Kidney Diseases</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NIDDK</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.niddk.nih.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>2013</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.niddk.nih.gov/Pages/contact-us.aspx</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Institutes of Health</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NIH</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.nih.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>2013</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.nih.gov/about-nih/contact-us</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Institutes of Health, National Center for Complementary and Alternative Medicine</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NCCAM</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://nccih.nih.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>2013</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://nccih.nih.gov/tools/contact.htm</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Institutes of Health, National Institute on Drug Abuse</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NIDA</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.drugabuse.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>2013</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.drugabuse.gov/about-nida/contact-us</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of California, Department of Medicine,  Gail and Gerald Oppenheimer Family Center for Neurobiology of Stress</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">UCLA OCNS</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://uclacns.org/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>2013</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://uclacns.org/about-cns/contact-us/</ns0:institutionContact>
+                                    <ns0:institutionContact>http://uclacns.org/programs/pain-research-program/pain-repository/</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Membership Agreements</ns0:policyName>
+                <ns0:policyURL>https://www.painrepository.org/repositories/join-pain/membership-agreements/</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>PAIN Repository Policies</ns0:policyName>
+                <ns0:policyURL>https://www.painrepository.org/repositories/join-pain/pain-repository-policies/</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>restricted</ns0:databaseAccessType>
+                            <ns0:databaseAccessRestriction>other</ns0:databaseAccessRestriction>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>embargoed</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>institutional membership</ns0:dataAccessRestriction>
+                                    <ns0:dataAccessRestriction>other</ns0:dataAccessRestriction>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.painrepository.org/repositories/join-pain/data-sharing-agreements/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.painrepository.org/repositories/join-pain/data-use-agreements/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>Confidentiality and Subject Protection</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>https://www.painrepository.org/repositories/join-pain/pain-repository-policies/</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                            <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                        <ns0:citationGuidelineURL>https://www.painrepository.org/repositories/about/faq/</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">other</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/abcd-access-biological-collection-data</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks>Although initially PAIN Repository data will be reserved for contributing members it is planned that the repository will be opened for wider access to all pain investigators after 3 years.
+Full access to qualified users will include acceptance of a Data Use Agreement and the submission of an online application form (including the investigator&#8217;s institutional affiliation and he proposed research to be conducted using PAIN data). Applications for PAIN data are reviewed by the PAIN Data Sharing and Publications Committee (PDSPC) to ensure investigator affiliation with a scientific or educational institution and on the basis of the proposed research. Incomplete applications or those without a clear research focus will not receive approval.</ns0:remarks>
+        <ns0:entryDate>2016-01-21</ns0:entryDate>
+        <ns0:lastUpdate>2021-09-08</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

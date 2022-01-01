@@ -1,0 +1,118 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100013237</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">ICTS SOCIB Data Repository</ns0:repositoryName>
+                    <ns0:additionalName language="eng">Balearic Islands Coastal Observing and Forecasting System Data Repository</ns0:additionalName>
+                    <ns0:additionalName language="eng">ICTS SOCIB Data Repository</ns0:additionalName>
+                    <ns0:additionalName language="cat">Repositori de Dades del Sistema d'Observaci&#243; i Predicci&#243; Costaner de les Illes Balears</ns0:additionalName>
+                    <ns0:additionalName language="spa">Repositorio de Datos del Sistema de Observaci&#243;n y Predicci&#243;n Costero de las Islas Baleares</ns0:additionalName>
+                <ns0:repositoryURL>https://www.socib.es/data/</ns0:repositoryURL>
+                <ns0:description language="eng">The Balearic Islands Coastal Observing and Forecasting System (ICTS SOCIB) is a multi-platform distributed and integrated system that provides streams of oceanographic data products, and modelling services. It supports operational oceanography in a Spanish, European, and international framework and contributes to the needs of marine and coastal research in a global change context. ICTS SOCIB coordinates the deployment and data management of a wide range of equipment and models from eight facilities. It also manages data from external international institutions and collaborates with international aggregators for the dissemination of ocean data.</ns0:description>
+                    <ns0:repositoryContact>info@socib.es</ns0:repositoryContact>
+                            <ns0:type>institutional</ns0:type>
+                <ns0:size updated="2021-04-15">170 products</ns0:size>
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31302 Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL>https://socib.es/?seccion=dataCenter</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Archived data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>SOCIB</ns0:keyword>
+                    <ns0:keyword>coastal research</ns0:keyword>
+                    <ns0:keyword>marine research</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="cat">Govern de les Illes Balears</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">CAIB</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="cat">Govern Balear</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">Government of the Balearic Islands</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>ESP</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.caib.es/govern/index.do?lang=ca</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:04qjbkj27</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Ministry of Science and Innovation</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="spa">MICINN</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="spa">Ministerio de Ciencia e Innovaci&#243;n</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>ESP</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.ciencia.gob.es/portal/site/MICINN/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>VIAF:169291644</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Spanish National Research Council</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="spa">CSIC</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="spa">Consejo Superior de Investigaciones Cient&#237;ficas</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>ESP</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.csic.es/en</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:02gfc7t72</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Data access policy</ns0:policyName>
+                <ns0:policyURL>https://socib.es/?seccion=dataCenter&amp;facility=accessPolicy</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Legal notice</ns0:policyName>
+                <ns0:policyURL>https://apps.socib.es/data-catalog/#legal-notice</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Marine Strategy Framework Directive spatial reference datasets</ns0:policyName>
+                <ns0:policyURL>https://water.europa.eu/marine/data-maps-and-tools/msfd-reporting-information-products/msfd-spatial-reference-datasets</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Product User Manual (PUM)</ns0:policyName>
+                <ns0:policyURL>http://apps.socib.es/data-catalog/PUM_SOCIB-data-catalog.pdf</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>feeRequired</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.socib.eu/?seccion=dataCenter&amp;facility=accessPolicy</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                <ns0:versioning>yes</ns0:versioning>
+                    <ns0:api apiType="NetCDF">https://thredds.socib.es/thredds/catalog.html</ns0:api>
+                    <ns0:api apiType="REST">https://apps.socib.es/DataDiscovery/index.jsp</ns0:api>
+                    <ns0:api apiType="REST">http://api.socib.es/home/</ns0:api>
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://www.socib.eu/?seccion=dataCenter&amp;facility=accessPolicy</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">CF (Climate and Forecast) Metadata Conventions</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/cf-climate-and-forecast-metadata-conventions</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks>SOCIB Data Products Catalog is covered by Clarivate Data Citation Index.</ns0:remarks>
+        <ns0:entryDate>2020-02-17</ns0:entryDate>
+        <ns0:lastUpdate>2021-04-15</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

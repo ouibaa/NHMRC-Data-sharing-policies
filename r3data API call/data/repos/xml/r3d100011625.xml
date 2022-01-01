@@ -1,0 +1,102 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011625</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">International Aid Transparency Initiative</ns0:repositoryName>
+                    <ns0:additionalName language="eng">IATI</ns0:additionalName>
+                    <ns0:additionalName language="fra">IITA</ns0:additionalName>
+                    <ns0:additionalName language="fra">Initiative internationale pour la transparence de l&#8217;aide</ns0:additionalName>
+                <ns0:repositoryURL>https://iatistandard.org/en/</ns0:repositoryURL>
+                <ns0:description language="eng">IATI is a voluntary, multi-stakeholder initiative that seeks to improve the transparency of aid, development, and humanitarian resources in order to increase their effectiveness in tackling poverty. IATI brings together donor and recipient countries, civil society organisations, and other experts in aid information who are committed to working together to increase the transparency and openness of aid. - See more at: https://iatistandard.org/en/about/#sthash.BYPZ6NPt.dpuf</ns0:description>
+                    <ns0:repositoryContact>https://iatistandard.org/en/contact/</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2018-01-17">5.770 datasets</ns0:size>
+        <ns0:startDate>2008</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>fra</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">111 Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11104 Political Science</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">112 Economics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">12 Social and Behavioural Sciences</ns0:subject>
+                <ns0:missionStatementURL>https://iatistandard.org/en/using-data/iati-tools-and-resources/using-iati-registry/</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>cash flow</ns0:keyword>
+                    <ns0:keyword>control</ns0:keyword>
+                    <ns0:keyword>development aid agency</ns0:keyword>
+                    <ns0:keyword>spending</ns0:keyword>
+                    <ns0:keyword>trancparency</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">International Aid Transparency Governing board</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">IATI secretariat</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>EEC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://iatistandard.org/en/about/governance/who-runs-iati/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://iatistandard.org/en/contact/</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">International Aid Transparency Initiative Steering Committee</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">IATI Steering Committee</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>EEC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://iatistandard.org/en/about/governance/members-assembly-documents/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>info@iatistandard.org</ns0:institutionContact>
+                            </ns0:institution>
+                        <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>ODC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://opendatacommons.org/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>Public Domain</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://iatistandard.org/en/guidance/preparing-organisation/organisation-data-publication/how-to-license-your-data/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://iatistandard.org/documents/62/The-IATI-Licensing-Standard.doc</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://opendefinition.org/od/2.1/en/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>registration</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>CKAN</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                    <ns0:api apiType="other">http://reference.iatistandard.org/202/guidance/datastore/reference/data-api/</ns0:api>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>no</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">other</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/abcd-access-biological-collection-data</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks>Publishers:https://www.iatiregistry.org/publisher;</ns0:remarks>
+        <ns0:entryDate>2015-06-26</ns0:entryDate>
+        <ns0:lastUpdate>2020-01-13</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

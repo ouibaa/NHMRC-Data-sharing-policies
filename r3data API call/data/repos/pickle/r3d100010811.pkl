@@ -1,0 +1,93 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010811</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Cultural Policy and the Arts National Data Archive</ns0:repositoryName>
+                    <ns0:additionalName language="eng">CPANDA</ns0:additionalName>
+                <ns0:repositoryURL>http://www.cpanda.org/cpanda/</ns0:repositoryURL>
+                <ns0:description language="eng">CPANDA, the Cultural Policy and the Arts National Data Archive, is the world's first interactive digital archive of policy-relevant data on the arts and cultural policy in the United States.</ns0:description>
+                    <ns0:repositoryContact>cpanda@princeton.edu</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2001</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">103 Fine Arts, Music, Theatre and Media Studies</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11 Humanities</ns0:subject>
+                <ns0:missionStatementURL>http://www.cpanda.org/cpanda/about/mission</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>art forms</ns0:keyword>
+                    <ns0:keyword>arts education</ns0:keyword>
+                    <ns0:keyword>cultural policy</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">National Archive of Data on Arts and Culture</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NADAC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.icpsr.umich.edu/icpsrweb/NADAC/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.icpsr.umich.edu/icpsrweb/content/NADAC/contact.html</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Princeton University's Firestone Library</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://library.princeton.edu/firestone</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>2001</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://library.princeton.edu/ask-us</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Princeton University, Princeton Center for Arts and Cultural Policy Studies</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.princeton.edu/culturalpolicy/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>2001</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>artspol@princeton.edu</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Copyright Policy</ns0:policyName>
+                <ns0:policyURL>http://www.cpanda.org/cpanda/about/policies</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>End User Agreement</ns0:policyName>
+                <ns0:policyURL>http://www.cpanda.org/cpanda/about/agreement</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                    <ns0:databaseLicense>
+                <ns0:databaseLicenseName>Copyrights</ns0:databaseLicenseName>
+                <ns0:databaseLicenseURL>http://www.cpanda.org/cpanda/about/policies</ns0:databaseLicenseURL>
+            </ns0:databaseLicense>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www.cpanda.org/cpanda/about/agreement</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>no</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                <ns0:remarks>The Pew Charitable Trusts ( http://www.pewtrusts.org) underwrote the original development of the archive. The National Endowment for the Arts ( http://www.arts.gov) will be taking over the content sometime in 2014 and the data will be part of a new publicly accessible archive at ICPSR, the National Archive of Data on Arts and Culture (NADAC). The CPANDA site will remain active until then.</ns0:remarks>
+        <ns0:entryDate>2014-07-25</ns0:entryDate>
+        <ns0:lastUpdate>2018-11-23</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

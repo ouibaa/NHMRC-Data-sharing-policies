@@ -1,0 +1,148 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011788</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">IOOS&#174;</ns0:repositoryName>
+                    <ns0:additionalName language="eng">U.S. Integrated Ocean Observing System</ns0:additionalName>
+                <ns0:repositoryURL>https://ioos.noaa.gov/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>RRID:SCR_003598</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:nlx_157745</ns0:repositoryIdentifier>
+                <ns0:description language="eng">U.S. IOOS is a vital tool for tracking, predicting, managing, and adapting to changes in our ocean, coastal and Great Lakes environment. 
+A primary focus of U.S. IOOS is integration of, and expedited access to, ocean observation data for improved decision making. The Data Management and Communication (DMAC) subsystem of U.S. IOOS serves as a central mechanism for integrating all existing and projected data sources.</ns0:description>
+                    <ns0:repositoryContact>noaa.ioos.webmaster@noaa.gov</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31302 Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">315 Geophysics and Geodesy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">317 Geography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">318 Water Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL>https://ioos.noaa.gov/about/about-us/</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Databases</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>DMAC</ns0:keyword>
+                    <ns0:keyword>Data Integration Framework</ns0:keyword>
+                    <ns0:keyword>Data Management and Communications Plan</ns0:keyword>
+                    <ns0:keyword>Great Lakes</ns0:keyword>
+                    <ns0:keyword>climate change</ns0:keyword>
+                    <ns0:keyword>coastal ecology</ns0:keyword>
+                    <ns0:keyword>coastal waters</ns0:keyword>
+                    <ns0:keyword>marine ecology</ns0:keyword>
+                    <ns0:keyword>marine environmental phenomena</ns0:keyword>
+                    <ns0:keyword>oceanography</ns0:keyword>
+                    <ns0:keyword>tide</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Department of Commerce</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.commerce.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Oceanic and Atmospheric Administration</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NOAA</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.noaa.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Oceanic and Atmospheric Administration's National Ocean Service</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NOAA's Administration's National Ocean Service</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">NOAA's NOS</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://oceanservice.noaa.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://oceanservice.noaa.gov/contact.html</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">USA.gov</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">U.S. government's official web portal</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.usa.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Manual for Real-Time Quality Control of In-Situ Surface Wave Data</ns0:policyName>
+                <ns0:policyURL>https://ioos.noaa.gov/ioos-in-action/wave-data/</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Manual for Real-Time Quality Control of Ocean Optics Data</ns0:policyName>
+                <ns0:policyURL>https://ioos.noaa.gov/wp-content/uploads/2016/04/qartod_ocean_optics_manual.pdf</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>U.S. IOOS&#174; Privacy Policy / U.S. IOOS Data Catalog and Asset Maps</ns0:policyName>
+                <ns0:policyURL>https://ioos.noaa.gov/privacy-policy/</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Web Site Disclaimer</ns0:policyName>
+                <ns0:policyURL>https://ioos.noaa.gov/disclaimer/</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www.earthobservations.org/geoss_dsp.shtml</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>Public Domain</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www.noaa.gov/foia-freedom-information-act</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>Public Domain</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://ioos.noaa.gov/data/contribute-data/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>open</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>Contribute Your Data</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>https://ioos.noaa.gov/data/contribute-data/</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                        <ns0:versioning />
+                    <ns0:api apiType="FTP">ftp://ftp.nodc.noaa.gov/pub/data.nodc/ioos/</ns0:api>
+                    <ns0:api apiType="OpenDAP">https://data.nodc.noaa.gov/opendap/ioos/contents.html</ns0:api>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">DIF - Directory Interchange Format</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dif-directory-interchange-format</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                    <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">ISO 19115</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/iso-19115</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks>The IOOS Catalog is a collection of web based services that address three data discovery functions (Service Registry, Data Catalog Service and System Viewer) stated in the U.S. IOOS&#174;.
+Federal partners and regional associations see: http://catalog.ioos.us/by_the_numbers/
+NOAA&#8217;s National Oceanographic Data Center (NODC) is the nominal archive center for IOOS data. Data providers are expected to provide for storage of data, metadata and other supporting documentation and algorithm descriptions, to establish data recovery mechanisms, and to perform off-site storage of backups until the data and metadata are submitted to NODC for archiving</ns0:remarks>
+        <ns0:entryDate>2016-05-04</ns0:entryDate>
+        <ns0:lastUpdate>2018-01-15</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

@@ -1,0 +1,133 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010609</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">World Data Center for Geoinformatics and Sustainable Development</ns0:repositoryName>
+                    <ns0:additionalName language="eng">WDC - Geoinformatics and Sustainable Development</ns0:additionalName>
+                    <ns0:additionalName language="eng">WDC-Ukraine</ns0:additionalName>
+                <ns0:repositoryURL>http://wdc.org.ua/</ns0:repositoryURL>
+                <ns0:description language="eng">Among the basic tasks of WDC-Ukraine there is collection, handling and storage of science data and giving access to it for usage both in science research and study process. That include contemporary tutoring technologies and resources of e-libraries and archives; remote access to own information resources for the wide circle of scientists from the universities and science institutions of Ukraine</ns0:description>
+                    <ns0:repositoryContact>mail@wdc.org.ua</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2008</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>ukr</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">311 Astrophysics and Astronomy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">313 Atmospheric Science and Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31302 Oceanography</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">315 Geophysics and Geodesy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31501 Geophysics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">32 Physics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL>http://wdc.org.ua/en/about-us</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>seismology</ns0:keyword>
+                    <ns0:keyword>solar physics</ns0:keyword>
+                    <ns0:keyword>terrestrial physics</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Institute for Applied Systems Analysis</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">IASA</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="ukr">NTUU KPI</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="ukr">&#1030;&#1055;&#1057;&#1040;</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="ukr">&#1030;&#1085;&#1089;&#1090;&#1080;&#1090;&#1091;&#1090; &#1087;&#1088;&#1080;&#1082;&#1083;&#1072;&#1076;&#1085;&#1086;&#1075;&#1086; &#1089;&#1080;&#1089;&#1090;&#1077;&#1084;&#1085;&#1086;&#1075;&#1086; &#1072;&#1085;&#1072;&#1083;&#1110;&#1079;&#1091;</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>UKR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://kpi.ua/en/node/7349</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Technical University of Ukraine, Kyiv Polytechnic Institute</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="ukr">NTUU KPI</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="ukr">&#1053;&#1072;&#1094;&#1110;&#1086;&#1085;&#1072;&#1083;&#1100;&#1085;&#1080;&#1081; &#1090;&#1077;&#1093;&#1085;&#1110;&#1095;&#1085;&#1080;&#1081; &#1091;&#1085;&#1110;&#1074;&#1077;&#1088;&#1089;&#1080;&#1090;&#1077;&#1090; &#1059;&#1082;&#1088;&#1072;&#1111;&#1085;&#1080; "&#1050;&#1080;&#1111;&#1074;&#1089;&#1100;&#1082;&#1080;&#1081; &#1087;&#1086;&#1083;&#1110;&#1090;&#1077;&#1093;&#1085;&#1110;&#1095;&#1085;&#1080;&#1081; &#1110;&#1085;&#1089;&#1090;&#1080;&#1090;&#1091;&#1090;"</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>UKR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://inter.kpi.ua/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>mail@wdc.org.ua</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Russian Foundation for Basic Research</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">RFBR</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="rus">&#1056;&#1060;&#1060;&#1048;</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="rus">&#1056;&#1086;&#1089;&#1089;&#1080;&#1081;&#1089;&#1082;&#1080;&#1081; &#1092;&#1086;&#1085;&#1076; &#1092;&#1091;&#1085;&#1076;&#1072;&#1084;&#1077;&#1085;&#1090;&#1072;&#1083;&#1100;&#1085;&#1099;&#1093; &#1080;&#1089;&#1089;&#1083;&#1077;&#1076;&#1086;&#1074;&#1072;&#1085;&#1080;&#1081;</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>RUS</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.rfbr.ru/rffi/eng</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.rfbr.ru/rffi/eng/contacts</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">State Fund for Fundamental Research of Ukraine</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">SFFR</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="ukr">&#1044;&#1077;&#1088;&#1078;&#1072;&#1074;&#1085;&#1086;&#1075;&#1086; &#1092;&#1086;&#1085;&#1076;&#1091; &#1092;&#1091;&#1085;&#1076;&#1072;&#1084;&#1077;&#1085;&#1090;&#1072;&#1083;&#1100;&#1085;&#1080;&#1093; &#1076;&#1086;&#1089;&#1083;&#1110;&#1076;&#1078;&#1077;&#1085;&#1100;</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>UKR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.dffd.gov.ua/index.php?lang=en</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.dffd.gov.ua/index.php?option=com_gmapfp&amp;view=gmapfp&amp;Itemid=1810&amp;lang=en</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">World Data Centers  in Russia and Ukraine</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">WDC</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="rus">&#1052;&#1080;&#1088;&#1086;&#1074;&#1099;&#1077; &#1094;&#1077;&#1085;&#1090;&#1088;&#1099; &#1076;&#1072;&#1085;&#1085;&#1099;&#1093; &#1056;&#1086;&#1089;&#1089;&#1080;&#1080; &#1080; &#1059;&#1082;&#1088;&#1072;&#1080;&#1085;&#1099;</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>RUS</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.wdcb.ru/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>sep@wdcb.ru</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Certification of WDS Members</ns0:policyName>
+                <ns0:policyURL>http://www.icsu-wds.org/services/certification</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>ICSU World Data System Constitution</ns0:policyName>
+                <ns0:policyURL>http://www.icsu-wds.org/organization/constitution_and_bylaws</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>other</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www.icsu-wds.org/services/data-sharing-principles</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                    <ns0:certificate>WDS</ns0:certificate>
+                                <ns0:remarks>In 2008 World Data Centers in Russia and Ukraine have united in the Russian-Ukrainian segment of the World Data System. WDCs provide a free access of scientific organizations and scientists to data of planetary geophysics and sustainable development. Details of the WDCs in Russia and Ukraine are given on their Web-sites.  WDC in Ukraine is created in the structure of the Institute for Applied Systems Analysis and the National Technical University of Ukraine "Kiev Polytechnical Institute" in 2006. This WDC is situated in Kiev</ns0:remarks>
+        <ns0:entryDate>2013-09-04</ns0:entryDate>
+        <ns0:lastUpdate>2018-12-14</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

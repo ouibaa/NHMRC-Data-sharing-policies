@@ -1,0 +1,99 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010978</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Human Protein Reference Database</ns0:repositoryName>
+                    <ns0:additionalName language="eng">HPRD</ns0:additionalName>
+                <ns0:repositoryURL>http://www.hprd.org</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.y2qws7</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>OMICS_02439</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:SCR_007027</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:nif-0000-00137</ns0:repositoryIdentifier>
+                <ns0:description language="eng">Human Protein Reference Database (HPRD) has been established by a team of biologists, bioinformaticists and software engineers. This is a joint project between the PandeyLab at Johns Hopkins University, and Institute of Bioinformatics, Bangalore.  HPRD is a definitive repository of human proteins. This database should serve as a ready reckoner for researchers in their quest for drug discovery, identification of disease markers and promote biomedical research in general.
+Human Proteinpedia (www.humanproteinpedia.org) is its associated data portal.</ns0:description>
+                    <ns0:repositoryContact>http://hprd.org/help</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2019-12-04">30.047 protein entries; 41.327 protein-protein interactions; 93.710 PTM's; 112.158 protein expression; 22.490 subcellular localization; 470 domains; 453.521 PubMed Links</ns0:size>
+        <ns0:startDate>2006</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">201 Basic Biological and Medical Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20104 Structural Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20107 Bioinformatics and Theoretical Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">205 Medicine</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20503 Human Genetics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">22 Medicine</ns0:subject>
+                <ns0:missionStatementURL>http://www.hprd.org/index_html</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Archived data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>bioinformatics</ns0:keyword>
+                    <ns0:keyword>mass spectrometry</ns0:keyword>
+                    <ns0:keyword>protein C</ns0:keyword>
+                    <ns0:keyword>protein S</ns0:keyword>
+                    <ns0:keyword>protein binding</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Institute of Bioinformatics</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">IOB</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>IND</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.ibioinformatics.org/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Johns Hopkins University, Institute for Basic Biomedical Sciences</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.hopkinsmedicine.org/institute_basic_biomedical_sciences/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Copyright Compliance Policy</ns0:policyName>
+                <ns0:policyURL>https://www.jhu.edu/assets/uploads/2016/11/compliance_policy.pdf</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Intellectual Property Policy</ns0:policyName>
+                <ns0:policyURL>https://ventures.jhu.edu/wp-content/uploads/2019/10/The-IP-Policy.pdf</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>other</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.jhu.edu/assets/uploads/2016/11/compliance_policy.pdf</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>Become a Molecule Authority</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>http://www.hprd.org/moleculeAuthority</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                        <ns0:versioning>yes</ns0:versioning>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>http://hprd.org/index_html</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">Dublin Core</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks />
+        <ns0:entryDate>2014-09-02</ns0:entryDate>
+        <ns0:lastUpdate>2021-11-09</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

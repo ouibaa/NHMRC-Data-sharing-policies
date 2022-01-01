@@ -1,0 +1,84 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011821</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Chickpea Transcriptome Database</ns0:repositoryName>
+                    <ns0:additionalName language="eng">CTDB</ns0:additionalName>
+                <ns0:repositoryURL>http://www.nipgr.res.in/ctdb.html</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>OMICS_04684</ns0:repositoryIdentifier>
+                <ns0:description language="eng">The Chickpea Transcriptome Database (CTDB) has been developed with the view to provide most comprehensive information about the chickpea transcriptome, the most relevant part of the genome. The database contains various information and tools for transcriptome sequence, functional annotation, conserved domain(s), transcription factor families, molecular markers (microsatellites and single nucleotide polymorphisms), Comprehensive gene expression and comparative genomics with other legumes. The database is a freely available resource, which provides user scientists/breeders a portal to search, browse and query the data to facilitate functional and applied genomics research in chickpea and other legumes.
+The current release of database provides transcriptome sequence from cultivated (Cicer arietinum desi (ICC4958) and kabuli (ICCV2)) and wild (Cicer reticulatum, PI489777) chickpea genotypes.</ns0:description>
+                    <ns0:repositoryContact>mjainanid@gmail.com</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">201 Basic Biological and Medical Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">202 Plant Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20207 Plant Genetics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                <ns0:missionStatementURL>http://www.nipgr.res.in/ctdb.html</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Archived data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>Arapidopsis</ns0:keyword>
+                    <ns0:keyword>chickpea transcriptome</ns0:keyword>
+                    <ns0:keyword>cicer arietinum</ns0:keyword>
+                    <ns0:keyword>cicer reticulatum</ns0:keyword>
+                    <ns0:keyword>compound microsatellite</ns0:keyword>
+                    <ns0:keyword>desi chickpea</ns0:keyword>
+                    <ns0:keyword>flower development</ns0:keyword>
+                    <ns0:keyword>kabuli chickpea</ns0:keyword>
+                    <ns0:keyword>legumes</ns0:keyword>
+                    <ns0:keyword>polymorphic microsatellite</ns0:keyword>
+                    <ns0:keyword>wild chickpea</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Government of India, Ministry of Science &amp; Technology, Department of Biotechnology</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">DBT</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>IND</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.dbtindia.nic.in/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Institute of Plant Genome Research</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NIPGR</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>IND</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.nipgr.res.in/home/home.php</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://www.nipgr.res.in/misc/contact_us.php</ns0:institutionContact>
+                            </ns0:institution>
+                        <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Public Domain</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www.nipgr.res.in/ctdb.html</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>institutional membership</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>http://www.nipgr.res.in/ctdb.html</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                <ns0:remarks>Chickpea Transcriptome Database is covered by Thomson Reuters Data Citation Index.</ns0:remarks>
+        <ns0:entryDate>2016-02-25</ns0:entryDate>
+        <ns0:lastUpdate>2021-08-24</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

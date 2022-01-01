@@ -1,0 +1,126 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011029</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Barrow Area Information Database</ns0:repositoryName>
+                    <ns0:additionalName language="eng">BAID</ns0:additionalName>
+                <ns0:repositoryURL>http://barrowmapped.org/</ns0:repositoryURL>
+                <ns0:description language="eng">The Barrow area on the North Slope of Alaska is one of the most intensely sampled locations in the Arctic with research sites dating back to the 1940s. The Barrow Area Information Database (BAID) is a resource for learning about the types of data collection activities in the region. The BAID team collaborates with scientists and the local community to compile and share this information via online web mapping applications.</ns0:description>
+                    <ns0:repositoryContact>http://barrowmapped.org/#section-contact</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2019-11-29">12.000 research plots</ns0:size>
+        <ns0:startDate>2000</ns0:startDate>
+        <ns0:endDate>2010-01-31</ns0:endDate>
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL>https://data.eol.ucar.edu/dataset/106.ARCSS400</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>Barrow (Alaska)</ns0:keyword>
+                    <ns0:keyword>North Slope (Alaska)</ns0:keyword>
+                    <ns0:keyword>geospatial data</ns0:keyword>
+                    <ns0:keyword>satellity imagery</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Barrow Arctic Science Consortium</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">BASC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.arcus.org/arctic-info/archive/18254</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>basc@nuvuk.net</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Science Foundation</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NSF</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.nsf.gov/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>RRID:SCR_012938</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_inv_1005118</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate>2005</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate>2009</ns0:responsibilityEndDate>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">The University of Texas at El Paso, Department of Biological Sciences</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">UTEP, Department of Biology</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.utep.edu/science/biology/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>aaguirre3@miners.utep.edu</ns0:institutionContact>
+                                    <ns0:institutionContact>ctweedie@utep.edu</ns0:institutionContact>
+                                    <ns0:institutionContact>nunatech@usa.net</ns0:institutionContact>
+                                    <ns0:institutionContact>rpcody@utep.edu</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">UNAVCO</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">University NAVSTAR Consortium</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.unavco.org/projects/project-support/polar/polar.html</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.unavco.org/contact/contact.html</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Terms of use</ns0:policyName>
+                <ns0:policyURL>https://www.ucar.edu/terms-of-use</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>other</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.ucar.edu/notification-copyright-infringement-digital-millenium-copyright-act</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.ucar.edu/terms-of-use</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>open</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>other</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                    <ns0:api apiType="FTP">https://data.eol.ucar.edu/dataset/106.ARCSS400</ns0:api>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>no</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">FGDC/CSDGM - Federal Geographic Data Committee Content Standard for Digital Geospatial Metadata</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/fgdccsdgm-federal-geographic-data-committee-content-standard-digital-ge</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks>Data sets unique to BAID are available via Barrow Area Information Database (BAID) Geospatial Data Sets at the Earth Observing Lab at:  https://data.eol.ucar.edu/dataset/106.ARCSS400.
+Metadata that meets the standards of the Federal Geographic Data Committee (FGDC) is available (or under development) for many data layers in BAID-IMS. Data that is considered unrestricted can be downloaded at the Arctic System Science (ARCSS) Data Coordination Center (ADCC) at the National Snow and Ice Data Center (NSIDC) located at University of Colorado in Boulder, USA.
+In 2003, BASC's Digital Subcommittee saw an opportunity to visual the BAID database with Internet Map Server (IMS) technology and commonly requested base maps.  The BAID-IMS prototype was soon released. 
+Allison Graves Gaylord. 2016. Barrow Area Information Database (BAID) Geospatial Data Sets, Barrow, AK, USA. Arctic Data Center: https://arcticdata.io/catalog/#view/doi:10.5065/D6VT1Q75
+Archived pages see: http://archive.is/search/?q=*www.baidims.org
+
+The development of these applications has been discontinued: BAID IMS, BAID in Google Earth
+BAID Research Sites (formats available include OGC WMS, WFS and Geoservices RES): http://arcticgeoservices.org/arcgis/rest/services/public/BAID_Research_Sites/MapServer</ns0:remarks>
+        <ns0:entryDate>2014-07-09</ns0:entryDate>
+        <ns0:lastUpdate>2019-11-29</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

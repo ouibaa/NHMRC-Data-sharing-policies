@@ -1,0 +1,108 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100013209</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">ELRA Catalogue of Language Resources</ns0:repositoryName>
+                    <ns0:additionalName language="eng">ELRA Catalogue</ns0:additionalName>
+                    <ns0:additionalName language="eng">European Language Resources Association Catalogue of Language Resources</ns0:additionalName>
+                <ns0:repositoryURL>http://catalog.elra.info</ns0:repositoryURL>
+                <ns0:description language="eng">An increasing number of Language Resources (LT) in the various fields of Human Language Technology (HLT) are distributed on behalf of ELRA via its operational body ELDA, thanks to the contribution of various players of the HLT community. Our aim is to provide Language Resources, by means of this repository, so as to prevent researchers and developers from investing efforts to rebuild resources which already exist as well as help them identify and access those resources.</ns0:description>
+                    <ns0:repositoryContact>contact@elda.org</ns0:repositoryContact>
+                    <ns0:repositoryContact>http://catalog.elra.info/en-us/accounts/contact</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                    <ns0:type>institutional</ns0:type>
+                <ns0:size updated="2020-01-17">1.140 language resources</ns0:size>
+        <ns0:startDate>1995-02</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">104 Linguistics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11 Humanities</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">4 Engineering Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">409 Computer Science</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">40904 Artificial Intelligence, Image and Language Processing</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">44 Computer Science, Electrical and System Engineering</ns0:subject>
+                <ns0:missionStatementURL>http://www.elra.info/en/about/association/elra-statutes</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Audiovisual data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Databases</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>corpora</ns0:keyword>
+                    <ns0:keyword>human language technology</ns0:keyword>
+                    <ns0:keyword>language resource</ns0:keyword>
+                    <ns0:keyword>lexicon</ns0:keyword>
+                    <ns0:keyword>linguistic data</ns0:keyword>
+                    <ns0:keyword>speech</ns0:keyword>
+                    <ns0:keyword>text</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">European Language Resources Association</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">ELRA</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>EEC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.elra.info/en/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>VIAF:48869642</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Evaluations and Language resources Distribution Agency</ns0:institutionName>
+                                <ns0:institutionCountry>EEC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.elda.org/en/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:05d4jgp54</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                        <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>feeRequired</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www.elra.info/media/filer_public/2015/04/13/enduser_150325.pdf</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www.elra.info/media/filer_public/2015/04/13/evaluation_150325.pdf</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www.elra.info/media/filer_public/2016/09/02/var_160830.pdf</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>institutional membership</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>Promote Resources Info</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>http://catalog.elra.info/en-us/promote-resources-info/</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                            <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning>yes</ns0:versioning>
+                    <ns0:api apiType="OAI-PMH">http://catalog.elra.info/api/catalogue/</ns0:api>
+                            <ns0:pidSystem>other</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                    <ns0:aidSystem>none</ns0:aidSystem>
+                <ns0:enhancedPublication>no</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">Dublin Core</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks>The catalogue can be viewed as an OLAC repository: http://www.language-archives.org/archive/catalogue.elra.info Other resources identified, but not available through ELRA, can be viewed in the Universal Catalogue: http://universal.elra.info/</ns0:remarks>
+        <ns0:entryDate>2020-01-16</ns0:entryDate>
+        <ns0:lastUpdate>2020-01-22</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

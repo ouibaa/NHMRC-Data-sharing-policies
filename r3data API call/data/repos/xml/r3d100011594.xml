@@ -1,0 +1,168 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011594</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">The Monarch Initiative</ns0:repositoryName>
+                    <ns0:additionalName language="eng">Monarch</ns0:additionalName>
+                    <ns0:additionalName language="eng">Monarch Initiative</ns0:additionalName>
+                <ns0:repositoryURL>https://monarchinitiative.org/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>OMICS_14548</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:SCR_001373</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:nlx_152525</ns0:repositoryIdentifier>
+                <ns0:description language="eng">As with most biomedical databases, the first step is to identify relevant data from the research community. The Monarch Initiative is focused primarily on phenotype-related resources. We bring in data associated with those phenotypes so that our users can begin to make connections among other biological entities of interest. We import data from a variety of data sources. With many resources integrated into a single database, we can join across the various data sources to produce integrated views. We have started with the big players including ClinVar and OMIM, but are equally interested in boutique databases. You can learn more about the sources of data that populate our system from our data sources page https://monarchinitiative.org/about/sources.</ns0:description>
+                    <ns0:repositoryContact>info@monarchinitiative.org</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2009</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">201 Basic Biological and Medical Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20105 General Genetics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20108 Anatomy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                <ns0:missionStatementURL>https://monarchinitiative.org/page/about#goals</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>abnormalities in flies</ns0:keyword>
+                    <ns0:keyword>abnormalities in mouse</ns0:keyword>
+                    <ns0:keyword>abnormalities in zebrafish</ns0:keyword>
+                    <ns0:keyword>anatomy</ns0:keyword>
+                    <ns0:keyword>disease</ns0:keyword>
+                    <ns0:keyword>drug</ns0:keyword>
+                    <ns0:keyword>gene expression</ns0:keyword>
+                    <ns0:keyword>genetics</ns0:keyword>
+                    <ns0:keyword>genotype</ns0:keyword>
+                    <ns0:keyword>human gene function</ns0:keyword>
+                    <ns0:keyword>mutation</ns0:keyword>
+                    <ns0:keyword>orthology</ns0:keyword>
+                    <ns0:keyword>pathways</ns0:keyword>
+                    <ns0:keyword>phenotypes</ns0:keyword>
+                    <ns0:keyword>strain</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="deu">Charit&#233; Universit&#228;tsmedizin Berlin</ns0:institutionName>
+                                <ns0:institutionCountry>DEU</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.charite.de/charite/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.charite.de/ihre_ansprechpartner_an_der_charite/</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">European Molecular Biology Laboratory, European Bioinformatics Institute</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">EMBL-EBI</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>EEC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.ebi.ac.uk/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.ebi.ac.uk/support/</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Garvan Institute of Medical Research</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Garvan</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>AUS</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.garvan.org.au/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.garvan.org.au/contact</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Jackson Laboratory</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">The Jackson Laboratory</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.jax.org/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate>2015</ns0:responsibilityStartDate>
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Lawrence Berkeley National Lab</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Berkeley Lab</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">Lawrence Berkeley National Laboratory</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.lbl.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Institutes of Health</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NIH</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.nih.gov</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.nih.gov/about-nih/contact-us</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Oregon Health &amp; Science University</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">OHSU</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.ohsu.edu/xd/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.ohsu.edu/xd/about/contact-us/</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Queen Mary University of London</ns0:institutionName>
+                                <ns0:institutionCountry>GBR</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.qmul.ac.uk/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.qmul.ac.uk/contact/</ns0:institutionContact>
+                            </ns0:institution>
+                        <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/licenses/by-sa/3.0/legalcode</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/licenses/by/3.0/us/legalcode</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>Public Domain</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://monarchinitiative.org/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                <ns0:versioning>yes</ns0:versioning>
+                    <ns0:api apiType="other">https://api.monarchinitiative.org/api/</ns0:api>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                    <ns0:aidSystem>none</ns0:aidSystem>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                                    <ns0:syndication syndicationType="ATOM">https://monarch-initiative.blogspot.com/feeds/posts/default</ns0:syndication>
+                    <ns0:syndication syndicationType="RSS">https://monarch-initiative.blogspot.com/feeds/posts/default?alt=rss</ns0:syndication>
+                <ns0:remarks>We import data from a variety of data sources in formats including databases, spreadsheets, delimited text files, XML, JSON, and Web APIs, on a monthly schedule, which is placed into a Postgres database (hosted by the NIF).
+Collaborations and Partners see:  https://monarchinitiative.org/page/about#partner-text
+The Monarch interface, data, ontologies, and API are rapidly evolving. All of our repositories are on GitHub at https://github.com/monarch-initiative.</ns0:remarks>
+        <ns0:entryDate>2015-06-01</ns0:entryDate>
+        <ns0:lastUpdate>2020-01-29</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

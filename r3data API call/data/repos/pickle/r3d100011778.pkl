@@ -1,0 +1,152 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100011778</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Solar and Heliospheric Observatory</ns0:repositoryName>
+                    <ns0:additionalName language="eng">SOHO</ns0:additionalName>
+                <ns0:repositoryURL>https://sohowww.nascom.nasa.gov/</ns0:repositoryURL>
+                <ns0:description language="eng">SOHO, the Solar &amp; Heliospheric Observatory, is a project of international collaboration between ESA and NASA to study the Sun from its deep core to the outer corona and the solar wind.
+
+SOHO was launched on December 2, 1995. The SOHO spacecraft was built in Europe by an industry team led by prime contractor Matra Marconi Space (now EADS Astrium) under overall management by ESA. The twelve instruments on board SOHO were provided by European and American scientists.</ns0:description>
+                    <ns0:repositoryContact>drsoho@esa.nascom.nasa.gov</ns0:repositoryContact>
+                    <ns0:repositoryContact>https://sohowww.nascom.nasa.gov/about/local_info.html</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>1995-12-02</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">311 Astrophysics and Astronomy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">32 Physics</ns0:subject>
+                <ns0:missionStatementURL>https://sohowww.nascom.nasa.gov/about/docs/SOHO_Fact_Sheet.pdf</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Audiovisual data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Software applications</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>CDS</ns0:keyword>
+                    <ns0:keyword>CELIAS</ns0:keyword>
+                    <ns0:keyword>EIT</ns0:keyword>
+                    <ns0:keyword>ERNE</ns0:keyword>
+                    <ns0:keyword>GOLF</ns0:keyword>
+                    <ns0:keyword>LASCO</ns0:keyword>
+                    <ns0:keyword>MDI</ns0:keyword>
+                    <ns0:keyword>SUMER</ns0:keyword>
+                    <ns0:keyword>SWAN</ns0:keyword>
+                    <ns0:keyword>UVCS</ns0:keyword>
+                    <ns0:keyword>VIRGO</ns0:keyword>
+                    <ns0:keyword>helioseismology</ns0:keyword>
+                    <ns0:keyword>interior of the sun</ns0:keyword>
+                    <ns0:keyword>ionized gas</ns0:keyword>
+                    <ns0:keyword>satellite</ns0:keyword>
+                    <ns0:keyword>solar wind</ns0:keyword>
+                    <ns0:keyword>space science</ns0:keyword>
+                    <ns0:keyword>spacecraft</ns0:keyword>
+                    <ns0:keyword>sun corona</ns0:keyword>
+                    <ns0:keyword>sun-earth interaction</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">European Space Agency</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">ESA</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>EEC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.esa.int/ESA</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://sci.esa.int/services/31008-contact-us/</ns0:institutionContact>
+                                    <ns0:institutionContact>http://www.esa.int/ESA/Connect_with_us</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">European Space Agency, European Space Astronomy Centre</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">ESAC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>EEC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.esa.int/About_Us/ESAC</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://ssa.esac.esa.int/ssa/aio/html/contact.shtml</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">NASA's Goddard Space Flight Center</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Goddard Space Flight Center</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.nasa.gov/goddard</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.nasa.gov/content/contact-goddard</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Aeronautics and Space Administration</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NASA</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.nasa.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.nasa.gov/about/contact/index.html</ns0:institutionContact>
+                                    <ns0:institutionContact>https://www.nasa.gov/mission_pages/soho/index.html</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>NASA Web Privacy Policy and Important Notices</ns0:policyName>
+                <ns0:policyURL>https://www.nasa.gov/about/highlights/HP_Privacy.html</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>NATIONAL SPACE POLICY of the UNITED STATES  of  AMERICA</ns0:policyName>
+                <ns0:policyURL>https://www.space.commerce.gov/policy/national-space-policy/</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>SOHO fact sheet</ns0:policyName>
+                <ns0:policyURL>https://sohowww.nascom.nasa.gov/about/docs/SOHO_Fact_Sheet.pdf</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Terms and Conditions</ns0:policyName>
+                <ns0:policyURL>http://www.esa.int/Services/Terms_and_conditions</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www.esa.int/Services/Terms_and_conditions</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://science.nasa.gov/earth-science/earth-science-data/data-information-policy/data-rights-related-issues/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>Copyrights</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://soho.nascom.nasa.gov/data/summary/copyright.html</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://science.nasa.gov/earth-science/earth-science-data/data-information-policy/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                    <ns0:api apiType="other">https://api.nasa.gov/</ns0:api>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://soho.nascom.nasa.gov/data/summary/copyright.html</ns0:citationGuidelineURL>
+                    <ns0:aidSystem>none</ns0:aidSystem>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks />
+        <ns0:entryDate>2016-03-21</ns0:entryDate>
+        <ns0:lastUpdate>2021-10-08</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

@@ -1,0 +1,115 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010580</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">International GNSS Service</ns0:repositoryName>
+                    <ns0:additionalName language="eng">IGS</ns0:additionalName>
+                    <ns0:additionalName language="eng">International GPS Service</ns0:additionalName>
+                <ns0:repositoryURL>https://igs.org/</ns0:repositoryURL>
+                <ns0:description language="eng">The IGS global system of satellite tracking stations, Data Centers, and Analysis Centers puts high-quality GPS data and data products on line in near real time to meet the objectives of a wide range of scientific and engineering applications and studies.
+The IGS collects, archives, and distributes GPS observation data sets of sufficient accuracy to satisfy the objectives of a wide range of applications and experimentation. These data sets are used by the IGS to generate the data products mentioned above which are made available to interested users through the Internet. In particular, the accuracies of IGS products are sufficient for the improvement and extension of the International Terrestrial Reference Frame (ITRF), the monitoring of solid Earth deformations, the monitoring of Earth rotation and variations in the liquid Earth (sea level, ice-sheets, etc.), for scientific satellite orbit determinations, ionosphere monitoring, and recovery of precipitable water vapor measurements.</ns0:description>
+                    <ns0:repositoryContact>CB@igs.org</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>1994</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">315 Geophysics and Geodesy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31502 Geodesy, Photogrammetry, Remote Sensing, Geoinformatics, Cartogaphy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">34 Geosciences (including Geography)</ns0:subject>
+                <ns0:missionStatementURL>https://www.igs.org/about</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Archived data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">other</ns0:contentType>
+                            <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>GLONASS</ns0:keyword>
+                    <ns0:keyword>GPS</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">California Institute of Technology, Jet Propulsion Laboratory</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">JPL</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.jpl.nasa.gov/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:027k65916</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://www.jpl.nasa.gov/contact_JPL.php</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">IGS Central Bureau Information System</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">CBIS</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://igs.org/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://kb.igs.org/hc/en-us/requests/new</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">International Association of Geodesy, Global Geodetic Observing System</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">IAG GGOS</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>AAA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://ggos.org/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://ggos.org/contact/</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Aeronautics and Space Administration</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NASA</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.nasa.gov/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:027ka1x80</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>IGS Site Guidelines</ns0:policyName>
+                <ns0:policyURL>http://www.igs.org/network/guidelines/guidelines.html</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Policy for the Establishment of IGS Working Groups, Pilot Projects, and New Operational Products</ns0:policyName>
+                <ns0:policyURL>https://kb.igs.org/hc/en-us/articles/201984446-Policy-for-the-Establishment-of-IGS-Working-Groups-Pilot-Projects-and-New-Operational-Products</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www.igs.org/article/official-igs-citation-updated</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                    <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                    <ns0:api apiType="FTP">ftp://gssc.esa.int/</ns0:api>
+                    <ns0:api apiType="FTP">ftp://igs.gnsswhu.cn/</ns0:api>
+                    <ns0:api apiType="FTP">ftp://nfs.kasi.re.kr/</ns0:api>
+                    <ns0:api apiType="FTP">ftp://igs.ensg.ign.fr/</ns0:api>
+                    <ns0:api apiType="FTP">ftp://garner.ucsd.edu/pub/products/</ns0:api>
+                    <ns0:api apiType="FTP">ftp://igs.ensg.ign.fr/pub/igs/products/</ns0:api>
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://igs.org/official-citation/</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks>The IGS is a Network member of ICSU World Data System - WDS .
+IGS Product Access has been moved to CDDIS and other Global Data Centers in 2017 . See FTP accesses</ns0:remarks>
+        <ns0:entryDate>2013-01-06</ns0:entryDate>
+        <ns0:lastUpdate>2021-10-04</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

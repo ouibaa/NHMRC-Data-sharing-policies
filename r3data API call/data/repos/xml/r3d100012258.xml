@@ -1,0 +1,131 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012258</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Spanish CLARIN K-Centre</ns0:repositoryName>
+                    <ns0:additionalName language="eng">Centro-K CLARIN</ns0:additionalName>
+                    <ns0:additionalName language="eng">Spanish CLARIN Knowledge Centre</ns0:additionalName>
+                <ns0:repositoryURL>http://www.clarin-es-lab.org/index-es.html</ns0:repositoryURL>
+                <ns0:description language="eng">Competence Centre IULA-UPF-CC CLARIN manages, disseminates and facilitates this catalogue, which provides access to reference information on the use of language technology projects and studies in different disciplines, especially with regard to Humanities and Social Sciences.
+The Catalog relates information that is organized by &#193;reas, (disciplines and research topics), Projects (of research that use or have used language technologies), Tasks (that make the tools), Tools (of language technology), Documentation (articles regarding the tools and how they are used) and resources such as Corpora (collections of annotated texts) and Lexica (collections of words for different uses).</ns0:description>
+                    <ns0:repositoryContact>iulatrl@upf.edu</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>cat</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>spa</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">104 Linguistics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11 Humanities</ns0:subject>
+                <ns0:missionStatementURL />
+                    <ns0:contentType contentTypeScheme="parse">Archived data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Audiovisual data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Databases</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Software applications</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>Spanish language</ns0:keyword>
+                    <ns0:keyword>corpora</ns0:keyword>
+                    <ns0:keyword>lexica</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">CLARIN-ERIC</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">Common Language Resources and Technology Infrastructure - European Research Infrastructure Consortium</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>EEC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.clarin.eu/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://clarin.eu/contact</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="cat">Generalitat de Catalunya, Departament d'Economia i Coneixement</ns0:institutionName>
+                                <ns0:institutionCountry>ESP</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://web.gencat.cat/ca/temes/economia/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="spa">IULA - UPF - Centro de competencias CLARIN</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="spa">IULA-UPF-CC-CLARIN</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="spa">Universitat Pompeu Fabra, Institut Universitari de Ling&#252;&#237;stica Aplicada, Centro de competencias CLARIN</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>ESP</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://services.iula.upf.edu/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>santiago.bel@upf.edu</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Universitat Pompeu Fabra, Department of Humanities</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">UPF HDLab</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="spa">Universitat Pompeu Fabra, Departament d'Humanitas</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>ESP</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.upf.edu/huma/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>humanitats@upf.edu</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="spa">Universitat Pompeu Fabra, Institut Universitari de Ling&#252;&#237;stica Aplicada, grup de Tecnologies dels Recursos Ling&#252;&#237;stics</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="spa">upf iula gruptrl</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>ESP</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.iula.upf.edu/trl/rpresca.htm</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>CLARIN Centre K certificate</ns0:policyName>
+                <ns0:policyURL>https://www.clarin.eu/sites/default/files/K-Certificate-EBNNB_0.pdf</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org/licenses/by/4.0/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://opensource.org/licenses/gpl-3.0.html</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://www.gnu.org/copyleft/fdl.html</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>institutional membership</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                                <ns0:versioning />
+                    <ns0:api apiType="OAI-PMH">https://vlo.clarin.eu/data/IULA_UPF_OAI_Archive.html</ns0:api>
+                    <ns0:api apiType="OAI-PMH">https://vlo.clarin.eu/data/IULA_UPF_Centre_de_Competencia_CLARIN.html</ns0:api>
+                    <ns0:api apiType="OAI-PMH">http://ws02.iula.upf.edu/corpus_data/oai-iula/oai.pl</ns0:api>
+                    <ns0:api apiType="SOAP">http://lod.iula.upf.edu/resources/SOAP</ns0:api>
+                            <ns0:pidSystem>hdl</ns0:pidSystem>
+                <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                    <ns0:certificate>other</ns0:certificate>
+                                <ns0:remarks>Distributed CLARIN K Centre consisting of CLARIN Competence Center IULA-UPF and HDLab@UPF-Department of Humanities (Barcelona), UNED &#8211; LINHD: Laboratorio de innovaci&#243;n en Humanidades Digitales (Madrid), and UPV &#8211; Grupo IXA (San Sebasti&#225;n).</ns0:remarks>
+        <ns0:entryDate>2016-11-28</ns0:entryDate>
+        <ns0:lastUpdate>2017-03-09</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

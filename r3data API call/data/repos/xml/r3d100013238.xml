@@ -1,0 +1,109 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100013238</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Bioconductor</ns0:repositoryName>
+                    <ns0:additionalName language="eng">Open Source Software For Bioinformatics</ns0:additionalName>
+                <ns0:repositoryURL>https://www.bioconductor.org/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.81ettx</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>OMICS_01759</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:SCR_006442</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:nif-0000-10445</ns0:repositoryIdentifier>
+                <ns0:description language="eng">Bioconductor provides tools for the analysis and comprehension of high-throughput genomic data. Bioconductor uses the R statistical programming language, and is open source and open development. It has two releases each year, and an active user community. Bioconductor is also available as an AMI (Amazon Machine Image) and a series of Docker images.</ns0:description>
+                    <ns0:repositoryContact>https://support.bioconductor.org/</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2020-05-13">1.905 software packages; 961 annotation data packages; 392 experiment data packages;  27 workflow packages</ns0:size>
+        <ns0:startDate>2001</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">201 Basic Biological and Medical Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20105 General Genetics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20107 Bioinformatics and Theoretical Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                <ns0:missionStatementURL>https://www.bioconductor.org/about/</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Archived data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Source code</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>DNA microarray</ns0:keyword>
+                    <ns0:keyword>SNP</ns0:keyword>
+                    <ns0:keyword>flow</ns0:keyword>
+                    <ns0:keyword>research software</ns0:keyword>
+                    <ns0:keyword>sequence</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">National Cancer Institute</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NCI</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.cancer.gov/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:040gcmg81</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:SCR_011403</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_inv_1005082</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">National Human Genome Research Institute Home</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">NHGRI</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.genome.gov/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>OMICS_01554</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>ROR:00baak391</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:SCR_003205</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:SCR_006475</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:SCR_011416</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_143900</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_inv_1005098</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">Roswell Park Cancer Institute</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">RPCI</ns0:institutionAdditionalName>
+                                    <ns0:institutionAdditionalName language="eng">Roswell Park Cancer Center</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.roswellpark.org/</ns0:institutionURL>
+                                    <ns0:institutionIdentifier>ROR:0499dwk57</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:SCR_004471</ns0:institutionIdentifier>
+                                    <ns0:institutionIdentifier>RRID:nlx_143749</ns0:institutionIdentifier>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Package Submission</ns0:policyName>
+                <ns0:policyURL>http://bioconductor.org/developers/package-submission/</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://bioconductor.org/about/</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>open</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                <ns0:versioning>yes</ns0:versioning>
+                    <ns0:api apiType="other">https://support.bioconductor.org/info/api/</ns0:api>
+                        <ns0:citationGuidelineURL />
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">Repository-Developed Metadata Schemas</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/repository-developed-metadata-schemas</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                        <ns0:remarks>Mirrors: https://www.bioconductor.org/about/mirrors/
+bioconductor is covered by Clarivate Data Citation Index.</ns0:remarks>
+        <ns0:entryDate>2020-02-19</ns0:entryDate>
+        <ns0:lastUpdate>2021-06-15</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

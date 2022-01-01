@@ -1,0 +1,117 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012348</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eus">ANPERSANA</ns0:repositoryName>
+                    <ns0:additionalName language="fra">biblioth&#232;que num&#233;rique</ns0:additionalName>
+                <ns0:repositoryURL>https://anpersana.iker.univ-pau.fr</ns0:repositoryURL>
+                <ns0:description language="eng">ANPERSANA is the digital library of IKER (UMR 5478), a research centre specialized in Basque language and texts. The online library platform receives and disseminates primary sources of data issued from research in Basque language and culture. As of today, two corpora of documents have been published. The first one, is a collection of private letters written in an 18th century variety of Basque, documented in and transcribed to modern standard Basque. The discovery of the collection, named Le Dauphin, has enabled the emerging of new questions about the history and sociology of writing in the domain of minority languages, not only in France, but also among the whole Atlantic Arc. The second of the two corpora is a selection of sound recordings about monodic chant in the Basque Country. The documents were collected as part of a PhD thesis research work that took place between 2003 and 2012. It's a total of 50 hours of interviews with francophone and bascophone cultural representatives carried out at either their workplace of the informers or in public areas. ANPERSANA is bundled with an advanced search engine. The documents have been indexed and geo-localized on an interactive map. The platform is engaged with open access and all the resources can be uploaded freely under the different Creative Commons (CC) licenses.</ns0:description>
+                    <ns0:repositoryContact>https://anpersana.iker.univ-pau.fr/contact</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>2003</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eus</ns0:repositoryLanguage>
+                    <ns0:repositoryLanguage>fra</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">1 Humanities and Social Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">103 Fine Arts, Music, Theatre and Media Studies</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">10302 Musicology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">104 Linguistics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">10403 Typology, Non-European Languages, Historical Linguistics</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">11 Humanities</ns0:subject>
+                <ns0:missionStatementURL>https://anpersana.iker.univ-pau.fr/about</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Audiovisual data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Plain text</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Standard office documents</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>Basque culture</ns0:keyword>
+                    <ns0:keyword>Basque language</ns0:keyword>
+                    <ns0:keyword>history of the Basque Country</ns0:keyword>
+                    <ns0:keyword>letter</ns0:keyword>
+                    <ns0:keyword>music</ns0:keyword>
+                    <ns0:keyword>oral narrative</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="fra">Centre de recherche sur la langue et les textes basques CNRS IKER</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="fra">IKER UMR 5478</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>FRA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.iker.cnrs.fr/?lang=fr</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="fra">European Commission, Horizon 2020</ns0:institutionName>
+                                <ns0:institutionCountry>EEC</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.horizon2020.gouv.fr/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="fra">Universit&#233; de Pau et des Pays de l'Adour</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="fra">UPPA</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>FRA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.univ-pau.fr/en/home.html</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>&#192; propos</ns0:policyName>
+                <ns0:policyURL>https://anpersana.iker.univ-pau.fr/about</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                    <ns0:databaseLicense>
+                <ns0:databaseLicenseName>other</ns0:databaseLicenseName>
+                <ns0:databaseLicenseURL>https://anpersana.iker.univ-pau.fr/about</ns0:databaseLicenseURL>
+            </ns0:databaseLicense>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>other</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>CC</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://creativecommons.org</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                    <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>https://anpersana.iker.univ-pau.fr/about</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>restricted</ns0:dataUploadType>
+                                    <ns0:dataUploadRestriction>institutional membership</ns0:dataUploadRestriction>
+                                    <ns0:dataUploadRestriction>other</ns0:dataUploadRestriction>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>Creative Commons</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>https://creativecommons.org</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                            <ns0:software>
+                <ns0:softwareName>MySQL</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                            <ns0:pidSystem>none</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://anpersana.iker.univ-pau.fr/items/show/93</ns0:citationGuidelineURL>
+                    <ns0:aidSystem>none</ns0:aidSystem>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>unknown</ns0:qualityManagement>
+                            <ns0:metadataStandard>
+                <ns0:metadataStandardName metadataStandardScheme="DCC">Dublin Core</ns0:metadataStandardName>
+                <ns0:metadataStandardURL>http://www.dcc.ac.uk/resources/metadata-standards/dublin-core</ns0:metadataStandardURL>
+            </ns0:metadataStandard>
+                            <ns0:syndication syndicationType="ATOM">https://anpersana.iker.univ-pau.fr/items/browse?page=2&amp;output=atom</ns0:syndication>
+                    <ns0:syndication syndicationType="RSS">https://anpersana.iker.univ-pau.fr/items/browse?page=2&amp;output=rss2</ns0:syndication>
+                <ns0:remarks />
+        <ns0:entryDate>2017-04-12</ns0:entryDate>
+        <ns0:lastUpdate>2021-06-16</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

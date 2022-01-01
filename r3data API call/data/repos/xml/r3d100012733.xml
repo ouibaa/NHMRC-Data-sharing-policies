@@ -1,0 +1,81 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100012733</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">The Yeast Metabolome Database</ns0:repositoryName>
+                    <ns0:additionalName language="eng">YMDB</ns0:additionalName>
+                <ns0:repositoryURL>http://www.ymdb.ca/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>FAIRsharing_doi:10.25504/FAIRsharing.tawpg2</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>OMICS_04807</ns0:repositoryIdentifier>
+                    <ns0:repositoryIdentifier>RRID:SCR_005890</ns0:repositoryIdentifier>
+                <ns0:description language="eng">The Yeast Metabolome Database (YMDB) is a manually curated database of small molecule metabolites found in or produced by Saccharomyces cerevisiae (also known as Baker&#8217;s yeast and Brewer&#8217;s yeast). This database covers metabolites described in textbooks, scientific journals, metabolic reconstructions and other electronic databases.</ns0:description>
+                    <ns0:repositoryContact>@WishartLab (Twitter)</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="2019-05-15">16.042 small molecule metabolites with 909 associated enzymes and 149 associated transporters</ns0:size>
+        <ns0:startDate />
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">2 Life Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">201 Basic Biological and Medical Research</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">20101 Biochemistry</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">21 Biology</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">305 Biological Chemistry and Food Chemistry</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">31 Chemistry</ns0:subject>
+                <ns0:missionStatementURL>http://www.ymdb.ca/about</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Databases</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured text</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                            <ns0:keyword>S. cerevisiae</ns0:keyword>
+                    <ns0:keyword>Saccharomyces cerevisiae</ns0:keyword>
+                    <ns0:keyword>baker's yeast</ns0:keyword>
+                    <ns0:keyword>brewer's yeast</ns0:keyword>
+                    <ns0:keyword>enzyme</ns0:keyword>
+                    <ns0:keyword>protein</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">The Metabolomics Innovation Centre</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">TMIC</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.metabolomicscentre.ca/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>info@metabolomicscentre.ca</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">University of Alberta, Wishart Research Group</ns0:institutionName>
+                                <ns0:institutionCountry>CAN</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.wishartlab.com/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>http://feedback.wishartlab.com/</ns0:institutionContact>
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>Terms of Use</ns0:policyName>
+                <ns0:policyURL>http://www.ymdb.ca/about</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>other</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www.ymdb.ca/downloads</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                                <ns0:versioning>yes</ns0:versioning>
+                        <ns0:citationGuidelineURL>http://www.ymdb.ca/about</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>yes</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                                <ns0:remarks />
+        <ns0:entryDate>2018-07-04</ns0:entryDate>
+        <ns0:lastUpdate>2020-12-21</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>

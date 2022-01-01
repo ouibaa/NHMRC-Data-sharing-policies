@@ -1,0 +1,141 @@
+<ns0:re3data xmlns:ns0="http://www.re3data.org/schema/2-2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.re3data.org/schema/2-2 http://schema.re3data.org/2-2/re3dataV2-2.xsd">
+    <ns0:repository>
+        <ns0:re3data.orgIdentifier>r3d100010376</ns0:re3data.orgIdentifier>
+        <ns0:repositoryName language="eng">Land Processes Distributed Active Archive Center</ns0:repositoryName>
+                    <ns0:additionalName language="eng">LP DAAC</ns0:additionalName>
+                <ns0:repositoryURL>https://lpdaac.usgs.gov/</ns0:repositoryURL>
+                    <ns0:repositoryIdentifier>biodbcore-001522</ns0:repositoryIdentifier>
+                <ns0:description language="eng">The Land Processes Distributed Active Archive Center (LP DAAC) is a component of NASAs Earth Observing System (EOS) Data and Information System (EOSDIS). LP DAAC processes, archives, and distributes land data and products derived from the EOS sensors. Located just outside Sioux Falls, South Dakota, the LP DAAC handles data from three EOS instruments aboard two operational satellite platforms: ASTER and MODIS from Terra, and MODIS from Aqua. ASTER data are received, processed, distributed, and archived while MODIS land products are received, distributed, and archived.</ns0:description>
+                    <ns0:repositoryContact>https://lpdaac.usgs.gov/user_services/contact_us</ns0:repositoryContact>
+                    <ns0:repositoryContact>lpdaac@usgs.gov</ns0:repositoryContact>
+                            <ns0:type>disciplinary</ns0:type>
+                <ns0:size updated="" />
+        <ns0:startDate>1996-08-19</ns0:startDate>
+        <ns0:endDate />
+                    <ns0:repositoryLanguage>eng</ns0:repositoryLanguage>
+                            <ns0:subject subjectScheme="DFG">3 Natural Sciences</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">311 Astrophysics and Astronomy</ns0:subject>
+                    <ns0:subject subjectScheme="DFG">32 Physics</ns0:subject>
+                <ns0:missionStatementURL>https://lpdaac.usgs.gov/user_services/contact_us</ns0:missionStatementURL>
+                    <ns0:contentType contentTypeScheme="parse">Images</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Raw data</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Scientific and statistical data formats</ns0:contentType>
+                    <ns0:contentType contentTypeScheme="parse">Structured graphics</ns0:contentType>
+                            <ns0:providerType>dataProvider</ns0:providerType>
+                    <ns0:providerType>serviceProvider</ns0:providerType>
+                            <ns0:keyword>ASTER</ns0:keyword>
+                    <ns0:keyword>EOS</ns0:keyword>
+                    <ns0:keyword>MEaSUREs</ns0:keyword>
+                    <ns0:keyword>MODIS</ns0:keyword>
+                    <ns0:keyword>satellite images</ns0:keyword>
+                            <ns0:institution>
+                <ns0:institutionName language="eng">Earth Observing System and Information System</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">EOSDIS</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://earthdata.nasa.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">NASA</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">National Aeronautics and Space Administration</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                    <ns0:responsibilityType>technical</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.nasa.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">U.S. Department of the Interior</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">DOI</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>https://www.doi.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">U.S. Geological Survey</ns0:institutionName>
+                                    <ns0:institutionAdditionalName language="eng">USGS</ns0:institutionAdditionalName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>general</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.usgs.gov</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                                    <ns0:institutionContact>https://lpdaac.usgs.gov/user_services/contact_us</ns0:institutionContact>
+                            </ns0:institution>
+                    <ns0:institution>
+                <ns0:institutionName language="eng">USA.gov</ns0:institutionName>
+                                <ns0:institutionCountry>USA</ns0:institutionCountry>
+                                    <ns0:responsibilityType>funding</ns0:responsibilityType>
+                                <ns0:institutionType>non-profit</ns0:institutionType>
+                <ns0:institutionURL>http://www.usa.gov/</ns0:institutionURL>
+                                <ns0:responsibilityStartDate />
+                <ns0:responsibilityEndDate />
+                            </ns0:institution>
+                            <ns0:policy>
+                <ns0:policyName>ASTER policies</ns0:policyName>
+                <ns0:policyURL>https://lpdaac.usgs.gov/dataset_discovery/aster/aster_policies</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>Information Policies and Instructions</ns0:policyName>
+                <ns0:policyURL>http://www.usgs.gov/laws/info_policies.html</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>MEaSUREs policies</ns0:policyName>
+                <ns0:policyURL>https://lpdaac.usgs.gov/dataset_discovery/measures/measures_policies</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>MODIS policies</ns0:policyName>
+                <ns0:policyURL>https://lpdaac.usgs.gov/dataset_discovery/modis/modis_policies</ns0:policyURL>
+            </ns0:policy>
+                    <ns0:policy>
+                <ns0:policyName>community policies</ns0:policyName>
+                <ns0:policyURL>https://lpdaac.usgs.gov/dataset_discovery/community/community_policies</ns0:policyURL>
+            </ns0:policy>
+                <ns0:databaseAccess>
+            <ns0:databaseAccessType>open</ns0:databaseAccessType>
+                    </ns0:databaseAccess>
+                            <ns0:dataAccess>
+                <ns0:dataAccessType>open</ns0:dataAccessType>
+                            </ns0:dataAccess>
+                    <ns0:dataAccess>
+                <ns0:dataAccessType>restricted</ns0:dataAccessType>
+                                    <ns0:dataAccessRestriction>registration</ns0:dataAccessRestriction>
+                            </ns0:dataAccess>
+                            <ns0:dataLicense>
+                <ns0:dataLicenseName>Public Domain</ns0:dataLicenseName>
+                <ns0:dataLicenseURL>http://www.usgs.gov/laws/info_policies.html</ns0:dataLicenseURL>
+            </ns0:dataLicense>
+                            <ns0:dataUpload>
+                <ns0:dataUploadType>closed</ns0:dataUploadType>
+                            </ns0:dataUpload>
+                            <ns0:dataUploadLicense>
+                <ns0:dataUploadLicenseName>ASTER Data Acquisition Requests</ns0:dataUploadLicenseName>
+                <ns0:dataUploadLicenseURL>https://lpdaac.usgs.gov/data_access/aster_tasking</ns0:dataUploadLicenseURL>
+            </ns0:dataUploadLicense>
+                            <ns0:software>
+                <ns0:softwareName>unknown</ns0:softwareName>
+            </ns0:software>
+                <ns0:versioning />
+                    <ns0:api apiType="OpenDAP">https://opendap.cr.usgs.gov/opendap/hyrax/</ns0:api>
+                            <ns0:pidSystem>DOI</ns0:pidSystem>
+                <ns0:citationGuidelineURL>https://lpdaac.usgs.gov/citing_our_data</ns0:citationGuidelineURL>
+                <ns0:enhancedPublication>unknown</ns0:enhancedPublication>
+        <ns0:qualityManagement>yes</ns0:qualityManagement>
+                    <ns0:certificate>WDS</ns0:certificate>
+                                    <ns0:syndication syndicationType="RSS">https://lpdaac.usgs.gov/news_feed</ns0:syndication>
+                <ns0:remarks>LP DAAC is a regular member of ICSU World Data System. The LP DAAC is one of the Earth Observing System Data and Information System (EOSDIS) Distributed Active Archive Centers (DAACs), part of the ESDIS project. - See more at: https://lpdaac.usgs.gov/citing_our_data#sthash.FWMhhNP9.dpuf
+Tools that are primarily designed to search the LP DAAC data holdings and provide access directly to data (https://lpdaac.usgs.gov/tools/data_access): AppEEARS, Data Pool, Earthdata Search,  GDEx, GloVis,  Japan Space Systems Earth Remote Sensing Division, Mercury, MRTWeb, Reverb, Simple Subset Wizard, TerraLook, USGS EarthExplorer. 
+List of all tools: https://lpdaac.usgs.gov/tools</ns0:remarks>
+        <ns0:entryDate>2013-02-26</ns0:entryDate>
+        <ns0:lastUpdate>2021-11-16</ns0:lastUpdate>
+    </ns0:repository>
+</ns0:re3data>
