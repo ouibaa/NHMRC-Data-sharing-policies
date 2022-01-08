@@ -146,9 +146,13 @@ def extractRepoData(repolist, xmlLoc, saveLoc):
             dL = dLN + " (" + dLURL + ")"
             dataLicenses += dL + " "
         repoDict["Data_Licenses"] = dataLicenses
-        # for dataUpload in repo.findall("re3:dataUpload", NS):
-        #     # data upload type
-        #     # data upload restriction
+        for dataUpload in repo.findall("re3:dataUpload", NS):
+            # data upload type
+            dUT = find(dataUpload, 'dataUploadType')
+            repoDict["Data_Upload_Type"] = dUT
+            # data upload restriction
+            dUR = find(dataUpload, 'dataUploadRestriction')
+            repoDict["Data_Upload_Restriction"] = dUR
         # for metadataStandard in repo.findall("re3:metadataStandard", NS):
         #     # metadata Standard Name
         #     # metadata Standard URL
